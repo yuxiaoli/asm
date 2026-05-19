@@ -32,35 +32,18 @@ jobs:
           node-version: 22
           cache: npm
 
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Refresh skill index
-        run: npm run preindex
-
-      - name: Refresh repo-derived bundles
-        run: npm run refresh:repo-bundles
-
-      - name: Build website artifact (verify)
-        run: npm run build:website
-
-      - name: Detect changes
-        id: changes
-        run: |
-          if [ -n "$(git status --porcelain data/skill-index data/skill-index-resources.json data/bundles)" ]; then
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          fi
+      - name: Run weekly content refresh script
+        id: refresh
+        run: bash scripts/weekly-content-refresh.sh
 
       - name: Configure git identity
-        if: steps.changes.outputs.changed == 'true'
+        if: steps.refresh.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Create pull request with refreshed content
-        if: steps.changes.outputs.changed == 'true'
+        if: steps.refresh.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@67ccf781d68cd99b580ae25a5c18a1cc84ffff1f # v7.0.6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -82,5 +65,5 @@ jobs:
             content-refresh
 
       - name: No changes detected
-        if: steps.changes.outputs.changed != 'true'
+        if: steps.refresh.outputs.changed != 'true'
         run: echo "No content changes detected this week."
