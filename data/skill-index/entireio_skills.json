@@ -2,9 +2,146 @@
   "repoUrl": "https://github.com/entireio/skills.git",
   "owner": "entireio",
   "repo": "skills",
-  "updatedAt": "2026-05-09T08:11:13.670Z",
-  "skillCount": 5,
+  "updatedAt": "2026-09-07T07:44:52.341Z",
+  "skillCount": 12,
   "skills": [
+    {
+      "name": "address-findings",
+      "description": "Address the review findings posted on an Entire trail: fetch the trail's open findings, fix the code, and resolve them on the trail. Use when the user gives a trail URL or number and asks to address, fix, or resolve its findings or review comments. Not for local diff review — that is the `review` skill.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "installUrl": "github:entireio/skills:skills/address-findings",
+      "relPath": "skills/address-findings",
+      "verified": true,
+      "tokenCount": 2099,
+      "evalSummary": {
+        "overallScore": 70,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 6,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-09-07T07:44:52.323Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 70,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 6,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.323Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.1.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.323Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
     {
       "name": "explain",
       "description": "Explains the intent behind source code by finding original session transcripts. Use explain with a function, file, or line of code to understand why it exists.",
@@ -16,9 +153,9 @@
       "installUrl": "github:entireio/skills:skills/explain",
       "relPath": "skills/explain",
       "verified": true,
-      "tokenCount": 724,
+      "tokenCount": 726,
       "evalSummary": {
-        "overallScore": 66,
+        "overallScore": 69,
         "grade": "C",
         "categories": [
           {
@@ -48,7 +185,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 7,
+            "score": 9,
             "max": 10
           },
           {
@@ -64,7 +201,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-05-09T08:11:13.663Z",
+        "evaluatedAt": "2026-09-07T07:44:52.324Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -73,7 +210,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 66,
+          "overallScore": 69,
           "grade": "C",
           "categories": [
             {
@@ -103,7 +240,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 7,
+              "score": 9,
               "max": 10
             },
             {
@@ -119,7 +256,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.663Z",
+          "evaluatedAt": "2026-09-07T07:44:52.324Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -137,25 +274,25 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.663Z",
+          "evaluatedAt": "2026-09-07T07:44:52.324Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "name": "search",
-      "description": "Use when the user wants to find prior work, checkpoints, or agent conversations by topic, repo, branch, author, or recent time window",
+      "name": "recall",
+      "description": "Use when the user describes a task and wants to know whether something similar has been done before, then turn the closest prior session into a task playbook. Triggers on phrases like \\\"have we done this before\\\", \\\"recall how we did X\\\", \\\"find similar work\\\", \\\"any precedent for\\\", \\\"has anyone solved\\\", \\\"is there a template for\\\", and \\\"how did we do this last time\\\"",
       "version": "0.0.0",
       "license": "",
       "creator": "",
       "compatibility": "",
       "allowedTools": [],
-      "installUrl": "github:entireio/skills:skills/search",
-      "relPath": "skills/search",
+      "installUrl": "github:entireio/skills:skills/recall",
+      "relPath": "skills/recall",
       "verified": true,
-      "tokenCount": 815,
+      "tokenCount": 1946,
       "evalSummary": {
-        "overallScore": 66,
+        "overallScore": 69,
         "grade": "C",
         "categories": [
           {
@@ -167,19 +304,19 @@
           {
             "id": "description",
             "name": "Description quality",
-            "score": 7,
+            "score": 3,
             "max": 10
           },
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 7,
+            "score": 9,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 7,
+            "score": 9,
             "max": 10
           },
           {
@@ -191,7 +328,7 @@
           {
             "id": "testability",
             "name": "Testability",
-            "score": 1,
+            "score": 3,
             "max": 10
           },
           {
@@ -201,7 +338,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-05-09T08:11:13.664Z",
+        "evaluatedAt": "2026-09-07T07:44:52.325Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -210,7 +347,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 66,
+          "overallScore": 69,
           "grade": "C",
           "categories": [
             {
@@ -222,19 +359,19 @@
             {
               "id": "description",
               "name": "Description quality",
-              "score": 7,
+              "score": 3,
               "max": 10
             },
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 7,
+              "score": 9,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 7,
+              "score": 9,
               "max": 10
             },
             {
@@ -246,7 +383,7 @@
             {
               "id": "testability",
               "name": "Testability",
-              "score": 1,
+              "score": 3,
               "max": 10
             },
             {
@@ -256,7 +393,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.664Z",
+          "evaluatedAt": "2026-09-07T07:44:52.325Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -264,35 +401,35 @@
           "providerVersion": "1.1.0",
           "schemaVersion": 1,
           "passed": false,
-          "overallScore": 77,
+          "overallScore": 69,
           "grade": "C",
           "categories": [
             {
               "id": "validation",
               "name": "Deterministic validation",
-              "score": 10,
+              "score": 9,
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.664Z",
+          "evaluatedAt": "2026-09-07T07:44:52.325Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "name": "session-handoff",
-      "description": "Use when the user wants to continue work from one agent in another agent, inspect recent sessions, or summarize a saved session or checkpoint for handoff",
+      "name": "replay",
+      "description": "Use when the user wants to step through a feature's checkpoints chronologically, pausing at each step to ask questions. Triggers on phrases like \\\"replay <feature>\\\", \\\"walk me through how X was built\\\", \\\"show me the journey of\\\", \\\"step me through how Y was implemented\\\", and \\\"replay the last week\\\"",
       "version": "0.0.0",
       "license": "",
       "creator": "",
       "compatibility": "",
       "allowedTools": [],
-      "installUrl": "github:entireio/skills:skills/session-handoff",
-      "relPath": "skills/session-handoff",
+      "installUrl": "github:entireio/skills:skills/replay",
+      "relPath": "skills/replay",
       "verified": true,
-      "tokenCount": 1927,
+      "tokenCount": 2068,
       "evalSummary": {
-        "overallScore": 70,
+        "overallScore": 71,
         "grade": "C",
         "categories": [
           {
@@ -304,7 +441,144 @@
           {
             "id": "description",
             "name": "Description quality",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
             "score": 7,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-09-07T07:44:52.326Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 71,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.327Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.1.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 62,
+          "grade": "D",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 8,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.327Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "name": "review",
+      "description": "Review code changes on the current branch using checkpoint transcript context to understand developer intent before auditing the diff. Use when the user asks for a code review, wants to review branch changes, or asks to audit recent work before merging.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "installUrl": "github:entireio/skills:skills/review",
+      "relPath": "skills/review",
+      "verified": true,
+      "tokenCount": 2201,
+      "evalSummary": {
+        "overallScore": 77,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 8,
             "max": 10
           },
           {
@@ -328,6 +602,143 @@
           {
             "id": "testability",
             "name": "Testability",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 8,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-09-07T07:44:52.328Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 77,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 6,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 8,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.328Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.1.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.328Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "name": "search",
+      "description": "Use when the user asks to research, investigate, look into, dig into, or search for anything — a topic, feature, bug, decision, or \"what do we know about X\". Invoke this as the FIRST action on such requests, before Glob, Grep, or Read: the answer is in Entire's recorded history (prompts, transcripts, and decisions, across repos), not in the local files, and a working copy that looks empty or unfamiliar is not a reason to skip it. Also use to find code across repositories (\"where is X implemented in our other repos\"). Not for grepping the current working copy on its own, and not for the current active session.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "installUrl": "github:entireio/skills:skills/search",
+      "relPath": "skills/search",
+      "verified": true,
+      "tokenCount": 2667,
+      "evalSummary": {
+        "overallScore": 67,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
             "score": 1,
             "max": 10
           },
@@ -338,7 +749,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-05-09T08:11:13.665Z",
+        "evaluatedAt": "2026-09-07T07:44:52.330Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -347,7 +758,281 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 70,
+          "overallScore": 67,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.330Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.1.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 0,
+          "grade": "F",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 1,
+              "max": 2
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.330Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "name": "session-crosslink",
+      "description": "Use when an agent session ran outside the repo whose commits should record it — e.g. launched from a higher-level folder, a non-Entire repo, or one repo but editing another — to attach the session to each affected Entire-enabled repo's HEAD commit.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "installUrl": "github:entireio/skills:skills/session-crosslink",
+      "relPath": "skills/session-crosslink",
+      "verified": true,
+      "tokenCount": 2578,
+      "evalSummary": {
+        "overallScore": 67,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 1,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-09-07T07:44:52.332Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 67,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.332Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.1.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 77,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 10,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.332Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "name": "session-handoff",
+      "description": "Use when the user wants to continue work from one agent in another agent, inspect recent sessions, or summarize a saved session or checkpoint for handoff",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "installUrl": "github:entireio/skills:skills/session-handoff",
+      "relPath": "skills/session-handoff",
+      "verified": true,
+      "tokenCount": 2572,
+      "evalSummary": {
+        "overallScore": 74,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-09-07T07:44:52.333Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 74,
           "grade": "C",
           "categories": [
             {
@@ -377,13 +1062,13 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 6,
+              "score": 7,
               "max": 10
             },
             {
               "id": "testability",
               "name": "Testability",
-              "score": 1,
+              "score": 3,
               "max": 10
             },
             {
@@ -393,7 +1078,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.665Z",
+          "evaluatedAt": "2026-09-07T07:44:52.333Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -411,7 +1096,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.665Z",
+          "evaluatedAt": "2026-09-07T07:44:52.334Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -427,7 +1112,7 @@
       "installUrl": "github:entireio/skills:skills/session-to-skill",
       "relPath": "skills/session-to-skill",
       "verified": true,
-      "tokenCount": 2425,
+      "tokenCount": 2431,
       "evalSummary": {
         "overallScore": 81,
         "grade": "B",
@@ -475,7 +1160,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-05-09T08:11:13.667Z",
+        "evaluatedAt": "2026-09-07T07:44:52.335Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -530,7 +1215,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.667Z",
+          "evaluatedAt": "2026-09-07T07:44:52.335Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -548,14 +1233,288 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.667Z",
+          "evaluatedAt": "2026-09-07T07:44:52.335Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "name": "teach",
+      "description": "Use when a developer wants a topic-focused guided lesson built from canonical checkpoints, not a whole-repo overview. Triggers on phrases like \\\"teach me <topic>\\\", \\\"teach me how this repo handles\\\", \\\"how does <topic> work in this repo\\\", \\\"give me a lesson on\\\", \\\"school me on\\\", and \\\"I need to learn about\\\"",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "installUrl": "github:entireio/skills:skills/teach",
+      "relPath": "skills/teach",
+      "verified": true,
+      "tokenCount": 2098,
+      "evalSummary": {
+        "overallScore": 69,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 1,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-09-07T07:44:52.337Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.337Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.1.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 62,
+          "grade": "D",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 8,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.337Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "name": "using-entire",
+      "description": "Use as the FIRST action on any research, investigation, or codebase-understanding request — \"research X\", \"investigate X\", \"look into X\", \"dig into X\", \"search X\", \"explore X\", \"understand X\", \"why is this like this\" — before Glob, Grep, or Read. Recorded intent lives in Entire checkpoints on the server, not in local files, so an empty or unfamiliar working copy is not a reason to skip it. Routes to the right Entire sub-skill (search, recall, explain, what-happened, replay, teach, review, session-handoff).",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "installUrl": "github:entireio/skills:skills/using-entire",
+      "relPath": "skills/using-entire",
+      "verified": true,
+      "tokenCount": 2272,
+      "evalSummary": {
+        "overallScore": 61,
+        "grade": "D",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 4,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 1,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-09-07T07:44:52.338Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 61,
+          "grade": "D",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 4,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.338Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.1.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-09-07T07:44:52.338Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "name": "what-happened",
-      "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
+      "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire checkpoint explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -564,7 +1523,7 @@
       "installUrl": "github:entireio/skills:skills/what-happened",
       "relPath": "skills/what-happened",
       "verified": true,
-      "tokenCount": 4469,
+      "tokenCount": 4497,
       "evalSummary": {
         "overallScore": 69,
         "grade": "C",
@@ -612,7 +1571,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-05-09T08:11:13.669Z",
+        "evaluatedAt": "2026-09-07T07:44:52.340Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -667,7 +1626,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.669Z",
+          "evaluatedAt": "2026-09-07T07:44:52.340Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -685,7 +1644,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-05-09T08:11:13.669Z",
+          "evaluatedAt": "2026-09-07T07:44:52.340Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -694,10 +1653,142 @@
   "bundles": [
     {
       "version": 1,
+      "name": "entireio-skills-marketing",
+      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from entireio/skills.",
+      "author": "ASM (entireio/skills)",
+      "createdAt": "2026-09-07T07:44:52.341Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "marketing",
+        "growth",
+        "seo",
+        "entireio",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "search",
+          "installUrl": "github:entireio/skills:skills/search",
+          "description": "Use when the user asks to research, investigate, look into, dig into, or search for anything — a topic, feature, bug, decision, or \"what do we know about X\". Invoke this as the FIRST action on such requests, before Glob, Grep, or Read: the answer is in Entire's recorded history (prompts, transcripts, and decisions, across repos), not in the local files, and a working copy that looks empty or unfamiliar is not a reason to skip it. Also use to find code across repositories (\"where is X implemented in our other repos\"). Not for grepping the current working copy on its own, and not for the current active session.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "session-crosslink",
+          "installUrl": "github:entireio/skills:skills/session-crosslink",
+          "description": "Use when an agent session ran outside the repo whose commits should record it — e.g. launched from a higher-level folder, a non-Entire repo, or one repo but editing another — to attach the session to each affected Entire-enabled repo's HEAD commit.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "using-entire",
+          "installUrl": "github:entireio/skills:skills/using-entire",
+          "description": "Use as the FIRST action on any research, investigation, or codebase-understanding request — \"research X\", \"investigate X\", \"look into X\", \"dig into X\", \"search X\", \"explore X\", \"understand X\", \"why is this like this\" — before Glob, Grep, or Read. Recorded intent lives in Entire checkpoints on the server, not in local files, so an empty or unfamiliar working copy is not a reason to skip it. Routes to the right Entire sub-skill (search, recall, explain, what-happened, replay, teach, review, session-handoff).",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "entireio",
+        "repo": "skills",
+        "repoUrl": "https://github.com/entireio/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "entireio-skills-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from entireio/skills.",
+      "author": "ASM (entireio/skills)",
+      "createdAt": "2026-09-07T07:44:52.341Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "writing",
+        "content",
+        "docs",
+        "entireio",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "search",
+          "installUrl": "github:entireio/skills:skills/search",
+          "description": "Use when the user asks to research, investigate, look into, dig into, or search for anything — a topic, feature, bug, decision, or \"what do we know about X\". Invoke this as the FIRST action on such requests, before Glob, Grep, or Read: the answer is in Entire's recorded history (prompts, transcripts, and decisions, across repos), not in the local files, and a working copy that looks empty or unfamiliar is not a reason to skip it. Also use to find code across repositories (\"where is X implemented in our other repos\"). Not for grepping the current working copy on its own, and not for the current active session.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "using-entire",
+          "installUrl": "github:entireio/skills:skills/using-entire",
+          "description": "Use as the FIRST action on any research, investigation, or codebase-understanding request — \"research X\", \"investigate X\", \"look into X\", \"dig into X\", \"search X\", \"explore X\", \"understand X\", \"why is this like this\" — before Glob, Grep, or Read. Recorded intent lives in Entire checkpoints on the server, not in local files, so an empty or unfamiliar working copy is not a reason to skip it. Routes to the right Entire sub-skill (search, recall, explain, what-happened, replay, teach, review, session-handoff).",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "entireio",
+        "repo": "skills",
+        "repoUrl": "https://github.com/entireio/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "entireio-skills-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from entireio/skills.",
+      "author": "ASM (entireio/skills)",
+      "createdAt": "2026-09-07T07:44:52.341Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "entireio",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "address-findings",
+          "installUrl": "github:entireio/skills:skills/address-findings",
+          "description": "Address the review findings posted on an Entire trail: fetch the trail's open findings, fix the code, and resolve them on the trail. Use when the user gives a trail URL or number and asks to address, fix, or resolve its findings or review comments. Not for local diff review — that is the `review` skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "review",
+          "installUrl": "github:entireio/skills:skills/review",
+          "description": "Review code changes on the current branch using checkpoint transcript context to understand developer intent before auditing the diff. Use when the user asks for a code review, wants to review branch changes, or asks to audit recent work before merging.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "search",
+          "installUrl": "github:entireio/skills:skills/search",
+          "description": "Use when the user asks to research, investigate, look into, dig into, or search for anything — a topic, feature, bug, decision, or \"what do we know about X\". Invoke this as the FIRST action on such requests, before Glob, Grep, or Read: the answer is in Entire's recorded history (prompts, transcripts, and decisions, across repos), not in the local files, and a working copy that looks empty or unfamiliar is not a reason to skip it. Also use to find code across repositories (\"where is X implemented in our other repos\"). Not for grepping the current working copy on its own, and not for the current active session.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "session-handoff",
+          "installUrl": "github:entireio/skills:skills/session-handoff",
+          "description": "Use when the user wants to continue work from one agent in another agent, inspect recent sessions, or summarize a saved session or checkpoint for handoff",
+          "version": "0.0.0"
+        },
+        {
+          "name": "using-entire",
+          "installUrl": "github:entireio/skills:skills/using-entire",
+          "description": "Use as the FIRST action on any research, investigation, or codebase-understanding request — \"research X\", \"investigate X\", \"look into X\", \"dig into X\", \"search X\", \"explore X\", \"understand X\", \"why is this like this\" — before Glob, Grep, or Read. Recorded intent lives in Entire checkpoints on the server, not in local files, so an empty or unfamiliar working copy is not a reason to skip it. Routes to the right Entire sub-skill (search, recall, explain, what-happened, replay, teach, review, session-handoff).",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "entireio",
+        "repo": "skills",
+        "repoUrl": "https://github.com/entireio/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
       "name": "entireio-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-05-09T08:11:13.670Z",
+      "createdAt": "2026-09-07T07:44:52.341Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -709,15 +1800,75 @@
       ],
       "skills": [
         {
+          "name": "address-findings",
+          "installUrl": "github:entireio/skills:skills/address-findings",
+          "description": "Address the review findings posted on an Entire trail: fetch the trail's open findings, fix the code, and resolve them on the trail. Use when the user gives a trail URL or number and asks to address, fix, or resolve its findings or review comments. Not for local diff review — that is the `review` skill.",
+          "version": "0.0.0"
+        },
+        {
           "name": "explain",
           "installUrl": "github:entireio/skills:skills/explain",
           "description": "Explains the intent behind source code by finding original session transcripts. Use explain with a function, file, or line of code to understand why it exists.",
           "version": "0.0.0"
         },
         {
+          "name": "review",
+          "installUrl": "github:entireio/skills:skills/review",
+          "description": "Review code changes on the current branch using checkpoint transcript context to understand developer intent before auditing the diff. Use when the user asks for a code review, wants to review branch changes, or asks to audit recent work before merging.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "search",
+          "installUrl": "github:entireio/skills:skills/search",
+          "description": "Use when the user asks to research, investigate, look into, dig into, or search for anything — a topic, feature, bug, decision, or \"what do we know about X\". Invoke this as the FIRST action on such requests, before Glob, Grep, or Read: the answer is in Entire's recorded history (prompts, transcripts, and decisions, across repos), not in the local files, and a working copy that looks empty or unfamiliar is not a reason to skip it. Also use to find code across repositories (\"where is X implemented in our other repos\"). Not for grepping the current working copy on its own, and not for the current active session.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "using-entire",
+          "installUrl": "github:entireio/skills:skills/using-entire",
+          "description": "Use as the FIRST action on any research, investigation, or codebase-understanding request — \"research X\", \"investigate X\", \"look into X\", \"dig into X\", \"search X\", \"explore X\", \"understand X\", \"why is this like this\" — before Glob, Grep, or Read. Recorded intent lives in Entire checkpoints on the server, not in local files, so an empty or unfamiliar working copy is not a reason to skip it. Routes to the right Entire sub-skill (search, recall, explain, what-happened, replay, teach, review, session-handoff).",
+          "version": "0.0.0"
+        },
+        {
           "name": "what-happened",
           "installUrl": "github:entireio/skills:skills/what-happened",
-          "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
+          "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire checkpoint explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "entireio",
+        "repo": "skills",
+        "repoUrl": "https://github.com/entireio/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "entireio-skills-frontend-design",
+      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from entireio/skills.",
+      "author": "ASM (entireio/skills)",
+      "createdAt": "2026-09-07T07:44:52.341Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "frontend",
+        "design",
+        "ui",
+        "entireio",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "replay",
+          "installUrl": "github:entireio/skills:skills/replay",
+          "description": "Use when the user wants to step through a feature's checkpoints chronologically, pausing at each step to ask questions. Triggers on phrases like \\\"replay <feature>\\\", \\\"walk me through how X was built\\\", \\\"show me the journey of\\\", \\\"step me through how Y was implemented\\\", and \\\"replay the last week\\\"",
+          "version": "0.0.0"
+        },
+        {
+          "name": "teach",
+          "installUrl": "github:entireio/skills:skills/teach",
+          "description": "Use when a developer wants a topic-focused guided lesson built from canonical checkpoints, not a whole-repo overview. Triggers on phrases like \\\"teach me <topic>\\\", \\\"teach me how this repo handles\\\", \\\"how does <topic> work in this repo\\\", \\\"give me a lesson on\\\", \\\"school me on\\\", and \\\"I need to learn about\\\"",
           "version": "0.0.0"
         }
       ],
@@ -733,7 +1884,7 @@
       "name": "entireio-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-05-09T08:11:13.670Z",
+      "createdAt": "2026-09-07T07:44:52.341Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -745,6 +1896,12 @@
       ],
       "skills": [
         {
+          "name": "search",
+          "installUrl": "github:entireio/skills:skills/search",
+          "description": "Use when the user asks to research, investigate, look into, dig into, or search for anything — a topic, feature, bug, decision, or \"what do we know about X\". Invoke this as the FIRST action on such requests, before Glob, Grep, or Read: the answer is in Entire's recorded history (prompts, transcripts, and decisions, across repos), not in the local files, and a working copy that looks empty or unfamiliar is not a reason to skip it. Also use to find code across repositories (\"where is X implemented in our other repos\"). Not for grepping the current working copy on its own, and not for the current active session.",
+          "version": "0.0.0"
+        },
+        {
           "name": "session-to-skill",
           "installUrl": "github:entireio/skills:skills/session-to-skill",
           "description": "Use when the user wants to turn one or more Entire-tracked sessions, checkpoints, or repeated agent workflows into a reusable agent skill.",
@@ -753,7 +1910,7 @@
         {
           "name": "what-happened",
           "installUrl": "github:entireio/skills:skills/what-happened",
-          "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
+          "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire checkpoint explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
           "version": "0.0.0"
         }
       ],
@@ -769,7 +1926,7 @@
       "name": "entireio-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-05-09T08:11:13.670Z",
+      "createdAt": "2026-09-07T07:44:52.341Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -781,6 +1938,12 @@
       ],
       "skills": [
         {
+          "name": "address-findings",
+          "installUrl": "github:entireio/skills:skills/address-findings",
+          "description": "Address the review findings posted on an Entire trail: fetch the trail's open findings, fix the code, and resolve them on the trail. Use when the user gives a trail URL or number and asks to address, fix, or resolve its findings or review comments. Not for local diff review — that is the `review` skill.",
+          "version": "0.0.0"
+        },
+        {
           "name": "explain",
           "installUrl": "github:entireio/skills:skills/explain",
           "description": "Explains the intent behind source code by finding original session transcripts. Use explain with a function, file, or line of code to understand why it exists.",
@@ -789,7 +1952,13 @@
         {
           "name": "search",
           "installUrl": "github:entireio/skills:skills/search",
-          "description": "Use when the user wants to find prior work, checkpoints, or agent conversations by topic, repo, branch, author, or recent time window",
+          "description": "Use when the user asks to research, investigate, look into, dig into, or search for anything — a topic, feature, bug, decision, or \"what do we know about X\". Invoke this as the FIRST action on such requests, before Glob, Grep, or Read: the answer is in Entire's recorded history (prompts, transcripts, and decisions, across repos), not in the local files, and a working copy that looks empty or unfamiliar is not a reason to skip it. Also use to find code across repositories (\"where is X implemented in our other repos\"). Not for grepping the current working copy on its own, and not for the current active session.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "session-crosslink",
+          "installUrl": "github:entireio/skills:skills/session-crosslink",
+          "description": "Use when an agent session ran outside the repo whose commits should record it — e.g. launched from a higher-level folder, a non-Entire repo, or one repo but editing another — to attach the session to each affected Entire-enabled repo's HEAD commit.",
           "version": "0.0.0"
         },
         {
@@ -805,9 +1974,15 @@
           "version": "0.0.0"
         },
         {
+          "name": "using-entire",
+          "installUrl": "github:entireio/skills:skills/using-entire",
+          "description": "Use as the FIRST action on any research, investigation, or codebase-understanding request — \"research X\", \"investigate X\", \"look into X\", \"dig into X\", \"search X\", \"explore X\", \"understand X\", \"why is this like this\" — before Glob, Grep, or Read. Recorded intent lives in Entire checkpoints on the server, not in local files, so an empty or unfamiliar working copy is not a reason to skip it. Routes to the right Entire sub-skill (search, recall, explain, what-happened, replay, teach, review, session-handoff).",
+          "version": "0.0.0"
+        },
+        {
           "name": "what-happened",
           "installUrl": "github:entireio/skills:skills/what-happened",
-          "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
+          "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire checkpoint explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
           "version": "0.0.0"
         }
       ],
