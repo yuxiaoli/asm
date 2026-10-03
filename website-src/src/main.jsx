@@ -19,7 +19,7 @@ createRoot(rootEl).render(
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
     navigator.serviceWorker
-      .register("/service-worker.js")
+      .register(`${import.meta.env.BASE_URL}service-worker.js`)
       .then((reg) => console.log("SW registered", reg.scope))
       .catch((err) => console.error("SW registration failed", err));
   });
