@@ -1,0 +1,86 @@
+name: Weekly Content Refresh
+
+on:
+  schedule:
+    # Every Monday at 03:00 UTC
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: weekly-content-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout develop
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5.0.1
+        with:
+          ref: develop
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh skill index
+        run: npm run preindex
+
+      - name: Refresh repo-derived bundles
+        run: npm run refresh:repo-bundles
+
+      - name: Build website artifact (verify)
+        run: npm run build:website
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain data/skill-index data/skill-index-resources.json data/bundles)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configure git identity
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Create pull request with refreshed content
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@67ccf781d68cd99b580ae25a5c18a1cc84ffff1f # v7.0.6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: develop
+          branch: chore/weekly-content-refresh
+          delete-branch: true
+          commit-message: "chore(content): weekly refresh of skill index and bundles"
+          title: "chore(content): weekly refresh of skill index and bundles"
+          body: |
+            Automated weekly refresh of website content.
+
+            - Re-ran `npm run preindex` to pull the latest upstream skills.
+            - Re-ran `npm run refresh:repo-bundles` to regenerate bundle metadata.
+            - Verified the catalog builds with `npm run build:website`.
+
+            Merging this PR into `develop` will trigger the Pages deploy workflow.
+          labels: |
+            automated
+            content-refresh
+
+      - name: No changes detected
+        if: steps.changes.outputs.changed != 'true'
+        run: echo "No content changes detected this week."
