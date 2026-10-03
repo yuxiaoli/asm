@@ -2,7 +2,7 @@ name: Deploy Skill Catalog
 
 on:
   push:
-    branches: [develop, main]
+    branches: [develop]
     paths:
       - "data/skill-index/**"
       - "data/skill-index-resources.json"
