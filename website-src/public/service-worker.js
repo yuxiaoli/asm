@@ -14,11 +14,13 @@
  *     would pin visitors to an old build until a hard reload.
  *   - Cross-origin and non-GET requests pass through untouched.
  *
- * Bump CACHE_NAME when the strategy changes; `activate` deletes every other
- * cache, which evicts responses stored under an older strategy.
+ * Bump CACHE_NAME when the strategy changes; `activate` deletes older caches for this scope, which evicts responses stored under an older strategy.
  */
-const CACHE_NAME = "asm-catalog-v2";
-const DATA_FILES = ["/skills.min.json", "/search.idx.json"];
+const CACHE_PREFIX = `asm-catalog:${self.registration.scope}:`;
+const CACHE_NAME = `${CACHE_PREFIX}v3`;
+const DATA_FILES = ["skills.min.json", "search.idx.json"].map(
+  (file) => new URL(file, self.registration.scope).href,
+);
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -35,7 +37,7 @@ self.addEventListener("activate", (event) => {
       .keys()
       .then((names) =>
         Promise.all(
-          names.filter((n) => n !== CACHE_NAME).map((n) => caches.delete(n)),
+          names.filter((n) => n.startsWith(CACHE_PREFIX) && n !== CACHE_NAME).map((n) => caches.delete(n)),
         ),
       )
       .then(() => self.clients.claim()),
