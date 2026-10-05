@@ -2,7 +2,7 @@
   "repoUrl": "https://github.com/badlogic/pi-skills.git",
   "owner": "badlogic",
   "repo": "pi-skills",
-  "updatedAt": "2026-09-30T20:49:55.661Z",
+  "updatedAt": "2026-10-05T09:53:17.357Z",
   "skillCount": 8,
   "skills": [
     {
@@ -86,7 +86,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-05T09:53:17.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +159,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +177,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -263,7 +263,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-05T09:53:17.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +336,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,7 +354,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -440,7 +440,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-05T09:53:17.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +513,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,7 +531,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -617,7 +617,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-05T09:53:17.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +690,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,7 +708,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -794,7 +794,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-05T09:53:17.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +867,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,7 +885,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -971,7 +971,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-05T09:53:17.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1044,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,7 +1062,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1148,7 +1148,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-05T09:53:17.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1221,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,7 +1239,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1325,7 +1325,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-05T09:53:17.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1398,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,7 +1416,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-05T09:53:17.303Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1425,42 +1425,30 @@
   "bundles": [
     {
       "version": 1,
-      "name": "badlogic-pi-skills-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from badlogic/pi-skills.",
+      "name": "badlogic-pi-skills-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from badlogic/pi-skills.",
       "author": "ASM (badlogic/pi-skills)",
-      "createdAt": "2026-09-30T20:49:55.661Z",
+      "createdAt": "2026-10-05T09:53:17.357Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "writing",
+        "content",
+        "docs",
         "badlogic",
         "pi-skills"
       ],
       "skills": [
         {
-          "name": "browser-tools",
-          "installUrl": "github:badlogic/pi-skills:browser-tools",
-          "description": "Interactive browser automation via Chrome DevTools Protocol. Use when you need to interact with web pages, test frontends, or when user interaction with a visible browser is required.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gccli",
-          "installUrl": "github:badlogic/pi-skills:gccli",
-          "description": "Google Calendar CLI for listing calendars, viewing/creating/updating events, and checking availability.",
+          "name": "brave-search",
+          "installUrl": "github:badlogic/pi-skills:brave-search",
+          "description": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
           "version": "0.0.0"
         },
         {
           "name": "gmcli",
           "installUrl": "github:badlogic/pi-skills:gmcli",
           "description": "Gmail CLI for searching emails, reading threads, sending messages, managing drafts, and handling labels/attachments.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "youtube-transcript",
-          "installUrl": "github:badlogic/pi-skills:youtube-transcript",
-          "description": "Fetch transcripts from YouTube videos for summarization and analysis.",
           "version": "0.0.0"
         }
       ],
@@ -1476,7 +1464,7 @@
       "name": "badlogic-pi-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from badlogic/pi-skills.",
       "author": "ASM (badlogic/pi-skills)",
-      "createdAt": "2026-09-30T20:49:55.661Z",
+      "createdAt": "2026-10-05T09:53:17.357Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1536,7 +1524,7 @@
       "name": "badlogic-pi-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from badlogic/pi-skills.",
       "author": "ASM (badlogic/pi-skills)",
-      "createdAt": "2026-09-30T20:49:55.661Z",
+      "createdAt": "2026-10-05T09:53:17.357Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1569,30 +1557,42 @@
     },
     {
       "version": 1,
-      "name": "badlogic-pi-skills-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from badlogic/pi-skills.",
+      "name": "badlogic-pi-skills-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from badlogic/pi-skills.",
       "author": "ASM (badlogic/pi-skills)",
-      "createdAt": "2026-09-30T20:49:55.661Z",
+      "createdAt": "2026-10-05T09:53:17.357Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "writing",
-        "content",
-        "docs",
+        "data",
+        "ai",
+        "agents",
         "badlogic",
         "pi-skills"
       ],
       "skills": [
         {
-          "name": "brave-search",
-          "installUrl": "github:badlogic/pi-skills:brave-search",
-          "description": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
+          "name": "browser-tools",
+          "installUrl": "github:badlogic/pi-skills:browser-tools",
+          "description": "Interactive browser automation via Chrome DevTools Protocol. Use when you need to interact with web pages, test frontends, or when user interaction with a visible browser is required.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gccli",
+          "installUrl": "github:badlogic/pi-skills:gccli",
+          "description": "Google Calendar CLI for listing calendars, viewing/creating/updating events, and checking availability.",
           "version": "0.0.0"
         },
         {
           "name": "gmcli",
           "installUrl": "github:badlogic/pi-skills:gmcli",
           "description": "Gmail CLI for searching emails, reading threads, sending messages, managing drafts, and handling labels/attachments.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "youtube-transcript",
+          "installUrl": "github:badlogic/pi-skills:youtube-transcript",
+          "description": "Fetch transcripts from YouTube videos for summarization and analysis.",
           "version": "0.0.0"
         }
       ],

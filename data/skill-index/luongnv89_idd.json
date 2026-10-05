@@ -2,7 +2,7 @@
   "repoUrl": "https://github.com/luongnv89/idd.git",
   "owner": "luongnv89",
   "repo": "idd",
-  "updatedAt": "2026-09-30T20:47:57.726Z",
+  "updatedAt": "2026-10-05T09:51:45.802Z",
   "skillCount": 7,
   "skills": [
     {
@@ -20,7 +20,7 @@
       "installUrl": "github:luongnv89/idd:skills/auto-pilot",
       "relPath": "skills/auto-pilot",
       "verified": true,
-      "tokenCount": 10289,
+      "tokenCount": 10397,
       "evalSummary": {
         "overallScore": 90,
         "grade": "A",
@@ -86,7 +86,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:57.185Z",
+        "evaluatedAt": "2026-10-05T09:51:45.138Z",
         "evaluatedVersion": "2.7.0"
       },
       "evalSummaries": {
@@ -159,7 +159,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.186Z",
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
           "evaluatedVersion": "2.7.0"
         },
         "skill-best-practice": {
@@ -177,7 +177,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.186Z",
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
           "evaluatedVersion": "2.7.0"
         }
       }
@@ -197,7 +197,7 @@
       "installUrl": "github:luongnv89/idd:skills/init-gitissue",
       "relPath": "skills/init-gitissue",
       "verified": true,
-      "tokenCount": 5823,
+      "tokenCount": 5875,
       "evalSummary": {
         "overallScore": 93,
         "grade": "A",
@@ -263,7 +263,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:57.186Z",
+        "evaluatedAt": "2026-10-05T09:51:45.138Z",
         "evaluatedVersion": "0.3.7"
       },
       "evalSummaries": {
@@ -336,7 +336,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.186Z",
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
           "evaluatedVersion": "0.3.7"
         },
         "skill-best-practice": {
@@ -354,7 +354,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.186Z",
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
           "evaluatedVersion": "0.3.7"
         }
       }
@@ -362,7 +362,7 @@
     {
       "name": "issue-analysis",
       "description": "Analyze one GitHub issue for root cause, complexity, and risk into .gitissue/analysis-N.json. Use when you need to analyze or scope issue #N. Don't use for creating issues (/issue-creator), triaging (/issue-triage), or resolving (/issue-resolver).",
-      "version": "0.6.0",
+      "version": "0.7.0",
       "license": "MIT",
       "creator": "",
       "compatibility": "Requires git and GitHub CLI (gh) with authentication. View mode (`/issue-analysis N view`) needs only local file access — no gh required.",
@@ -374,9 +374,9 @@
       "installUrl": "github:luongnv89/idd:skills/issue-analysis",
       "relPath": "skills/issue-analysis",
       "verified": true,
-      "tokenCount": 6007,
+      "tokenCount": 6008,
       "evalSummary": {
-        "overallScore": 93,
+        "overallScore": 98,
         "grade": "A",
         "categories": [
           {
@@ -418,7 +418,7 @@
           {
             "id": "license",
             "name": "License verification",
-            "score": 5,
+            "score": 10,
             "max": 10
           },
           {
@@ -440,8 +440,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:57.186Z",
-        "evaluatedVersion": "0.6.0"
+        "evaluatedAt": "2026-10-05T09:51:45.139Z",
+        "evaluatedVersion": "0.7.0"
       },
       "evalSummaries": {
         "quality": {
@@ -449,7 +449,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 93,
+          "overallScore": 98,
           "grade": "A",
           "categories": [
             {
@@ -491,7 +491,7 @@
             {
               "id": "license",
               "name": "License verification",
-              "score": 5,
+              "score": 10,
               "max": 10
             },
             {
@@ -513,8 +513,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.189Z",
-          "evaluatedVersion": "0.6.0"
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
+          "evaluatedVersion": "0.7.0"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -531,15 +531,15 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.189Z",
-          "evaluatedVersion": "0.6.0"
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
+          "evaluatedVersion": "0.7.0"
         }
       }
     },
     {
       "name": "issue-creator",
       "description": "Create structured GitHub issues from text, screenshots, or lists, with acceptance criteria and preserved reporter context. Use for filing bugs/features, batch creation, or template cleanup. Don't use for resolving, triaging, or deep issue analysis.",
-      "version": "0.9.0",
+      "version": "0.10.0",
       "license": "MIT",
       "creator": "",
       "compatibility": "Requires git and GitHub CLI (gh) with authentication. Run `gh auth status` to verify.",
@@ -551,9 +551,9 @@
       "installUrl": "github:luongnv89/idd:skills/issue-creator",
       "relPath": "skills/issue-creator",
       "verified": true,
-      "tokenCount": 6155,
+      "tokenCount": 6046,
       "evalSummary": {
-        "overallScore": 90,
+        "overallScore": 98,
         "grade": "A",
         "categories": [
           {
@@ -571,13 +571,13 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 9,
+            "score": 10,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 6,
+            "score": 8,
             "max": 10
           },
           {
@@ -595,7 +595,7 @@
           {
             "id": "license",
             "name": "License verification",
-            "score": 5,
+            "score": 10,
             "max": 10
           },
           {
@@ -617,8 +617,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:57.186Z",
-        "evaluatedVersion": "0.9.0"
+        "evaluatedAt": "2026-10-05T09:51:45.139Z",
+        "evaluatedVersion": "0.10.0"
       },
       "evalSummaries": {
         "quality": {
@@ -626,8 +626,8 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 88,
-          "grade": "B",
+          "overallScore": 96,
+          "grade": "A",
           "categories": [
             {
               "id": "structure",
@@ -644,13 +644,13 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 9,
+              "score": 10,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 6,
+              "score": 8,
               "max": 10
             },
             {
@@ -668,7 +668,7 @@
             {
               "id": "license",
               "name": "License verification",
-              "score": 5,
+              "score": 10,
               "max": 10
             },
             {
@@ -690,8 +690,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.190Z",
-          "evaluatedVersion": "0.9.0"
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
+          "evaluatedVersion": "0.10.0"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -708,8 +708,8 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.190Z",
-          "evaluatedVersion": "0.9.0"
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
+          "evaluatedVersion": "0.10.0"
         }
       }
     },
@@ -728,7 +728,7 @@
       "installUrl": "github:luongnv89/idd:skills/issue-pr-review",
       "relPath": "skills/issue-pr-review",
       "verified": true,
-      "tokenCount": 9694,
+      "tokenCount": 9818,
       "evalSummary": {
         "overallScore": 90,
         "grade": "A",
@@ -794,7 +794,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:57.191Z",
+        "evaluatedAt": "2026-10-05T09:51:45.139Z",
         "evaluatedVersion": "2.7.0"
       },
       "evalSummaries": {
@@ -867,7 +867,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.191Z",
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
           "evaluatedVersion": "2.7.0"
         },
         "skill-best-practice": {
@@ -885,7 +885,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.191Z",
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
           "evaluatedVersion": "2.7.0"
         }
       }
@@ -971,7 +971,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:57.191Z",
+        "evaluatedAt": "2026-10-05T09:51:45.139Z",
         "evaluatedVersion": "0.19.0"
       },
       "evalSummaries": {
@@ -1044,7 +1044,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.191Z",
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
           "evaluatedVersion": "0.19.0"
         },
         "skill-best-practice": {
@@ -1062,7 +1062,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.191Z",
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
           "evaluatedVersion": "0.19.0"
         }
       }
@@ -1070,7 +1070,7 @@
     {
       "name": "issue-triage",
       "description": "Scan open GitHub issues for dependencies, priority, parallel work, and staleness. Use to prioritize the backlog or pick what to do next. Don't use for one-issue analysis (/issue-analysis), resolving (/issue-resolver), or creating (/issue-creator).",
-      "version": "0.6.0",
+      "version": "0.7.0",
       "license": "MIT",
       "creator": "",
       "compatibility": "Requires git and GitHub CLI (gh) with authentication. Default mode (cached view) needs only local file access — no gh required.",
@@ -1082,9 +1082,9 @@
       "installUrl": "github:luongnv89/idd:skills/issue-triage",
       "relPath": "skills/issue-triage",
       "verified": true,
-      "tokenCount": 6332,
+      "tokenCount": 6287,
       "evalSummary": {
-        "overallScore": 90,
+        "overallScore": 95,
         "grade": "A",
         "categories": [
           {
@@ -1126,7 +1126,7 @@
           {
             "id": "license",
             "name": "License verification",
-            "score": 5,
+            "score": 10,
             "max": 10
           },
           {
@@ -1148,8 +1148,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:57.191Z",
-        "evaluatedVersion": "0.6.0"
+        "evaluatedAt": "2026-10-05T09:51:45.140Z",
+        "evaluatedVersion": "0.7.0"
       },
       "evalSummaries": {
         "quality": {
@@ -1157,7 +1157,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 90,
+          "overallScore": 95,
           "grade": "A",
           "categories": [
             {
@@ -1199,7 +1199,7 @@
             {
               "id": "license",
               "name": "License verification",
-              "score": 5,
+              "score": 10,
               "max": 10
             },
             {
@@ -1221,8 +1221,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.191Z",
-          "evaluatedVersion": "0.6.0"
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
+          "evaluatedVersion": "0.7.0"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -1239,8 +1239,8 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:57.191Z",
-          "evaluatedVersion": "0.6.0"
+          "evaluatedAt": "2026-10-05T09:51:45.140Z",
+          "evaluatedVersion": "0.7.0"
         }
       }
     }
@@ -1248,16 +1248,16 @@
   "bundles": [
     {
       "version": 1,
-      "name": "luongnv89-idd-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/idd.",
+      "name": "luongnv89-idd-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/idd.",
       "author": "ASM (luongnv89/idd)",
-      "createdAt": "2026-09-30T20:47:57.726Z",
+      "createdAt": "2026-10-05T09:51:45.802Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "research",
+        "academic",
+        "analysis",
         "luongnv89",
         "idd"
       ],
@@ -1269,22 +1269,16 @@
           "version": "2.7.0"
         },
         {
-          "name": "init-gitissue",
-          "installUrl": "github:luongnv89/idd:skills/init-gitissue",
-          "description": "Generate a .gitissue.yml by auto-detecting a repo's stack, test runner, and size. Use to init, setup, or configure gitissue, or set up IDD. Don't use for editing an existing .gitissue.yml, creating issues (use /issue-creator), or plain git/npm init.",
-          "version": "0.3.7"
-        },
-        {
           "name": "issue-analysis",
           "installUrl": "github:luongnv89/idd:skills/issue-analysis",
           "description": "Analyze one GitHub issue for root cause, complexity, and risk into .gitissue/analysis-N.json. Use when you need to analyze or scope issue #N. Don't use for creating issues (/issue-creator), triaging (/issue-triage), or resolving (/issue-resolver).",
-          "version": "0.6.0"
+          "version": "0.7.0"
         },
         {
           "name": "issue-creator",
           "installUrl": "github:luongnv89/idd:skills/issue-creator",
           "description": "Create structured GitHub issues from text, screenshots, or lists, with acceptance criteria and preserved reporter context. Use for filing bugs/features, batch creation, or template cleanup. Don't use for resolving, triaging, or deep issue analysis.",
-          "version": "0.9.0"
+          "version": "0.10.0"
         },
         {
           "name": "issue-pr-review",
@@ -1302,49 +1296,7 @@
           "name": "issue-triage",
           "installUrl": "github:luongnv89/idd:skills/issue-triage",
           "description": "Scan open GitHub issues for dependencies, priority, parallel work, and staleness. Use to prioritize the backlog or pick what to do next. Don't use for one-issue analysis (/issue-analysis), resolving (/issue-resolver), or creating (/issue-creator).",
-          "version": "0.6.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "luongnv89",
-        "repo": "idd",
-        "repoUrl": "https://github.com/luongnv89/idd.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "luongnv89-idd-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from luongnv89/idd.",
-      "author": "ASM (luongnv89/idd)",
-      "createdAt": "2026-09-30T20:47:57.726Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "luongnv89",
-        "idd"
-      ],
-      "skills": [
-        {
-          "name": "issue-pr-review",
-          "installUrl": "github:luongnv89/idd:skills/issue-pr-review",
-          "description": "Review a PR end-to-end with CI checks, fix cycles, and optional auto-merge. Use for PR review, cleanup, or readiness checks. Don't use for creating PRs, raw issue analysis, or non-PR code review.",
-          "version": "2.7.0"
-        },
-        {
-          "name": "issue-resolver",
-          "installUrl": "github:luongnv89/idd:skills/issue-resolver",
-          "description": "Create an atomic PR closing a GitHub issue end-to-end via a 6-step pipeline. Use to resolve, fix, or implement issue #N. Don't use for analysis without fixing (/issue-analysis), reviewing a PR (/issue-pr-review), or bulk backlog work (/auto-pilot).",
-          "version": "0.19.0"
-        },
-        {
-          "name": "issue-triage",
-          "installUrl": "github:luongnv89/idd:skills/issue-triage",
-          "description": "Scan open GitHub issues for dependencies, priority, parallel work, and staleness. Use to prioritize the backlog or pick what to do next. Don't use for one-issue analysis (/issue-analysis), resolving (/issue-resolver), or creating (/issue-creator).",
-          "version": "0.6.0"
+          "version": "0.7.0"
         }
       ],
       "sourceRepo": {
@@ -1359,7 +1311,7 @@
       "name": "luongnv89-idd-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from luongnv89/idd.",
       "author": "ASM (luongnv89/idd)",
-      "createdAt": "2026-09-30T20:47:57.726Z",
+      "createdAt": "2026-10-05T09:51:45.802Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1404,16 +1356,58 @@
     },
     {
       "version": 1,
-      "name": "luongnv89-idd-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/idd.",
+      "name": "luongnv89-idd-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from luongnv89/idd.",
       "author": "ASM (luongnv89/idd)",
-      "createdAt": "2026-09-30T20:47:57.726Z",
+      "createdAt": "2026-10-05T09:51:45.802Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "research",
-        "academic",
-        "analysis",
+        "devops",
+        "infra",
+        "automation",
+        "luongnv89",
+        "idd"
+      ],
+      "skills": [
+        {
+          "name": "issue-pr-review",
+          "installUrl": "github:luongnv89/idd:skills/issue-pr-review",
+          "description": "Review a PR end-to-end with CI checks, fix cycles, and optional auto-merge. Use for PR review, cleanup, or readiness checks. Don't use for creating PRs, raw issue analysis, or non-PR code review.",
+          "version": "2.7.0"
+        },
+        {
+          "name": "issue-resolver",
+          "installUrl": "github:luongnv89/idd:skills/issue-resolver",
+          "description": "Create an atomic PR closing a GitHub issue end-to-end via a 6-step pipeline. Use to resolve, fix, or implement issue #N. Don't use for analysis without fixing (/issue-analysis), reviewing a PR (/issue-pr-review), or bulk backlog work (/auto-pilot).",
+          "version": "0.19.0"
+        },
+        {
+          "name": "issue-triage",
+          "installUrl": "github:luongnv89/idd:skills/issue-triage",
+          "description": "Scan open GitHub issues for dependencies, priority, parallel work, and staleness. Use to prioritize the backlog or pick what to do next. Don't use for one-issue analysis (/issue-analysis), resolving (/issue-resolver), or creating (/issue-creator).",
+          "version": "0.7.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "luongnv89",
+        "repo": "idd",
+        "repoUrl": "https://github.com/luongnv89/idd.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "luongnv89-idd-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/idd.",
+      "author": "ASM (luongnv89/idd)",
+      "createdAt": "2026-10-05T09:51:45.802Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
         "luongnv89",
         "idd"
       ],
@@ -1425,16 +1419,22 @@
           "version": "2.7.0"
         },
         {
+          "name": "init-gitissue",
+          "installUrl": "github:luongnv89/idd:skills/init-gitissue",
+          "description": "Generate a .gitissue.yml by auto-detecting a repo's stack, test runner, and size. Use to init, setup, or configure gitissue, or set up IDD. Don't use for editing an existing .gitissue.yml, creating issues (use /issue-creator), or plain git/npm init.",
+          "version": "0.3.7"
+        },
+        {
           "name": "issue-analysis",
           "installUrl": "github:luongnv89/idd:skills/issue-analysis",
           "description": "Analyze one GitHub issue for root cause, complexity, and risk into .gitissue/analysis-N.json. Use when you need to analyze or scope issue #N. Don't use for creating issues (/issue-creator), triaging (/issue-triage), or resolving (/issue-resolver).",
-          "version": "0.6.0"
+          "version": "0.7.0"
         },
         {
           "name": "issue-creator",
           "installUrl": "github:luongnv89/idd:skills/issue-creator",
           "description": "Create structured GitHub issues from text, screenshots, or lists, with acceptance criteria and preserved reporter context. Use for filing bugs/features, batch creation, or template cleanup. Don't use for resolving, triaging, or deep issue analysis.",
-          "version": "0.9.0"
+          "version": "0.10.0"
         },
         {
           "name": "issue-pr-review",
@@ -1452,7 +1452,7 @@
           "name": "issue-triage",
           "installUrl": "github:luongnv89/idd:skills/issue-triage",
           "description": "Scan open GitHub issues for dependencies, priority, parallel work, and staleness. Use to prioritize the backlog or pick what to do next. Don't use for one-issue analysis (/issue-analysis), resolving (/issue-resolver), or creating (/issue-creator).",
-          "version": "0.6.0"
+          "version": "0.7.0"
         }
       ],
       "sourceRepo": {

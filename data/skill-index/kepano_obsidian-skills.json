@@ -2,7 +2,7 @@
   "repoUrl": "https://github.com/kepano/obsidian-skills.git",
   "owner": "kepano",
   "repo": "obsidian-skills",
-  "updatedAt": "2026-09-30T20:48:34.941Z",
+  "updatedAt": "2026-10-05T09:52:06.668Z",
   "skillCount": 6,
   "skills": [
     {
@@ -86,7 +86,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:34.934Z",
+        "evaluatedAt": "2026-10-05T09:52:06.659Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +159,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.934Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +177,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.934Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -263,7 +263,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:34.934Z",
+        "evaluatedAt": "2026-10-05T09:52:06.659Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +336,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.935Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,7 +354,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.935Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -440,7 +440,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:34.934Z",
+        "evaluatedAt": "2026-10-05T09:52:06.659Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +513,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.935Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,7 +531,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.935Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -617,7 +617,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:34.934Z",
+        "evaluatedAt": "2026-10-05T09:52:06.659Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +690,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.935Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,7 +708,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.935Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -794,7 +794,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:34.936Z",
+        "evaluatedAt": "2026-10-05T09:52:06.659Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +867,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.936Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,7 +885,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.936Z",
+          "evaluatedAt": "2026-10-05T09:52:06.659Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -971,7 +971,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:34.935Z",
+        "evaluatedAt": "2026-10-05T09:52:06.659Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1044,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.935Z",
+          "evaluatedAt": "2026-10-05T09:52:06.660Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,7 +1062,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:34.935Z",
+          "evaluatedAt": "2026-10-05T09:52:06.660Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1071,46 +1071,10 @@
   "bundles": [
     {
       "version": 1,
-      "name": "kepano-obsidian-skills-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from kepano/obsidian-skills.",
-      "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-09-30T20:48:34.941Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "data",
-        "ai",
-        "agents",
-        "kepano",
-        "obsidian-skills"
-      ],
-      "skills": [
-        {
-          "name": "knap",
-          "installUrl": "github:kepano/obsidian-skills:skills/knap",
-          "description": "Render Markdown from templates and structured data using Knap CLI. Use when the user asks to apply a Knap template, turn JSON or CSV data into notes, batch-generate Markdown files, or format Defuddle output into a note.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "obsidian-bases",
-          "installUrl": "github:kepano/obsidian-skills:skills/obsidian-bases",
-          "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "kepano",
-        "repo": "obsidian-skills",
-        "repoUrl": "https://github.com/kepano/obsidian-skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "kepano-obsidian-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from kepano/obsidian-skills.",
       "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-09-30T20:48:34.941Z",
+      "createdAt": "2026-10-05T09:52:06.668Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1152,7 +1116,7 @@
       "name": "kepano-obsidian-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from kepano/obsidian-skills.",
       "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-09-30T20:48:34.941Z",
+      "createdAt": "2026-10-05T09:52:06.668Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1179,6 +1143,42 @@
           "name": "obsidian-cli",
           "installUrl": "github:kepano/obsidian-skills:skills/obsidian-cli",
           "description": "Interact with Obsidian vaults using the Obsidian CLI to read, create, search, and manage notes, tasks, properties, and more. Also supports plugin and theme development with commands to reload plugins, run JavaScript, capture errors, take screenshots, and inspect the DOM. Use when the user asks to interact with their Obsidian vault, manage notes, search vault content, perform vault operations from the command line, or develop and debug Obsidian plugins and themes.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "kepano",
+        "repo": "obsidian-skills",
+        "repoUrl": "https://github.com/kepano/obsidian-skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "kepano-obsidian-skills-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from kepano/obsidian-skills.",
+      "author": "ASM (kepano/obsidian-skills)",
+      "createdAt": "2026-10-05T09:52:06.668Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
+        "kepano",
+        "obsidian-skills"
+      ],
+      "skills": [
+        {
+          "name": "knap",
+          "installUrl": "github:kepano/obsidian-skills:skills/knap",
+          "description": "Render Markdown from templates and structured data using Knap CLI. Use when the user asks to apply a Knap template, turn JSON or CSV data into notes, batch-generate Markdown files, or format Defuddle output into a note.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "obsidian-bases",
+          "installUrl": "github:kepano/obsidian-skills:skills/obsidian-bases",
+          "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
           "version": "0.0.0"
         }
       ],

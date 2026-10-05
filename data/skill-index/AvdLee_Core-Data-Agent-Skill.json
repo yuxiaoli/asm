@@ -2,7 +2,7 @@
   "repoUrl": "https://github.com/AvdLee/Core-Data-Agent-Skill.git",
   "owner": "AvdLee",
   "repo": "Core-Data-Agent-Skill",
-  "updatedAt": "2026-09-30T20:48:09.869Z",
+  "updatedAt": "2026-10-05T09:51:50.530Z",
   "skillCount": 1,
   "skills": [
     {
@@ -86,7 +86,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:09.864Z",
+        "evaluatedAt": "2026-10-05T09:51:50.522Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +159,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:09.864Z",
+          "evaluatedAt": "2026-10-05T09:51:50.523Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,11 +177,10 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:09.864Z",
+          "evaluatedAt": "2026-10-05T09:51:50.523Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }
