@@ -10,8 +10,11 @@
  *   - Network-first for JSON data files (always fetch fresh, fall back to cache)
  *   - Cache-first for static assets (HTML, CSS, JS)
  */
-const CACHE_NAME = "asm-catalog-v1";
-const DATA_FILES = ["/skills.min.json", "/search.idx.json"];
+const CACHE_PREFIX = `asm-catalog:${self.registration.scope}:`;
+const CACHE_NAME = `${CACHE_PREFIX}v2`;
+const DATA_FILES = ["skills.min.json", "search.idx.json"].map(
+  (file) => new URL(file, self.registration.scope).href,
+);
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -26,7 +29,9 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys().then((names) => {
       return Promise.all(
-        names.filter((n) => n !== CACHE_NAME).map((n) => caches.delete(n)),
+        names
+          .filter((n) => n.startsWith(CACHE_PREFIX) && n !== CACHE_NAME)
+          .map((n) => caches.delete(n)),
       );
     }),
   );
@@ -36,16 +41,19 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const { url } = event.request;
 
-  // JSON data files — network-first with cache fallback
-  if (DATA_FILES.some((path) => url.includes(path))) {
+  // Refresh HTML on navigation so an installed worker never pins an old deploy.
+  // Catalog JSON is network-first as well, with an offline cache fallback.
+  if (event.request.mode === "navigate" || DATA_FILES.includes(url)) {
     event.respondWith(
       fetch(event.request)
         .then((response) => {
           // Clone response to cache and return
-          const clone = response.clone();
-          caches
-            .open(CACHE_NAME)
-            .then((cache) => cache.put(event.request, clone));
+          if (response.ok) {
+            const clone = response.clone();
+            caches
+              .open(CACHE_NAME)
+              .then((cache) => cache.put(event.request, clone));
+          }
           return response;
         })
         .catch(() => caches.match(event.request)),

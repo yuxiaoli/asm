@@ -2,7 +2,7 @@
   "repoUrl": "https://github.com/openai/skills.git",
   "owner": "openai",
   "repo": "skills",
-  "updatedAt": "2026-09-30T20:50:28.567Z",
+  "updatedAt": "2026-10-05T09:53:34.913Z",
   "skillCount": 43,
   "skills": [
     {
@@ -86,7 +86,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.774Z",
+        "evaluatedAt": "2026-10-05T09:53:33.928Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +159,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +177,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -263,7 +263,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.774Z",
+        "evaluatedAt": "2026-10-05T09:53:33.928Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +336,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,7 +354,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -440,7 +440,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.774Z",
+        "evaluatedAt": "2026-10-05T09:53:33.929Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +513,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,7 +531,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -617,7 +617,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.775Z",
+        "evaluatedAt": "2026-10-05T09:53:33.929Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +690,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,7 +708,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -794,7 +794,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.775Z",
+        "evaluatedAt": "2026-10-05T09:53:33.929Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +867,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,7 +885,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -971,7 +971,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.775Z",
+        "evaluatedAt": "2026-10-05T09:53:33.929Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1044,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,7 +1062,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1148,7 +1148,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.775Z",
+        "evaluatedAt": "2026-10-05T09:53:33.929Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1221,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,7 +1239,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1325,7 +1325,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.775Z",
+        "evaluatedAt": "2026-10-05T09:53:33.929Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1398,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,7 +1416,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.775Z",
+          "evaluatedAt": "2026-10-05T09:53:33.929Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1502,7 +1502,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.788Z",
+        "evaluatedAt": "2026-10-05T09:53:33.959Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1575,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.789Z",
+          "evaluatedAt": "2026-10-05T09:53:33.960Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,7 +1593,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.789Z",
+          "evaluatedAt": "2026-10-05T09:53:33.960Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1679,7 +1679,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.791Z",
+        "evaluatedAt": "2026-10-05T09:53:33.965Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1752,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.791Z",
+          "evaluatedAt": "2026-10-05T09:53:33.965Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,7 +1770,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.791Z",
+          "evaluatedAt": "2026-10-05T09:53:33.965Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1856,7 +1856,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.795Z",
+        "evaluatedAt": "2026-10-05T09:53:33.974Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1929,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.795Z",
+          "evaluatedAt": "2026-10-05T09:53:33.975Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,7 +1947,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.795Z",
+          "evaluatedAt": "2026-10-05T09:53:33.975Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2033,7 +2033,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.799Z",
+        "evaluatedAt": "2026-10-05T09:53:33.975Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2106,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.800Z",
+          "evaluatedAt": "2026-10-05T09:53:33.975Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,7 +2124,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.800Z",
+          "evaluatedAt": "2026-10-05T09:53:33.975Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2210,7 +2210,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.800Z",
+        "evaluatedAt": "2026-10-05T09:53:33.986Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2283,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.800Z",
+          "evaluatedAt": "2026-10-05T09:53:33.986Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,7 +2301,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.800Z",
+          "evaluatedAt": "2026-10-05T09:53:33.986Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2387,7 +2387,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.801Z",
+        "evaluatedAt": "2026-10-05T09:53:33.986Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2460,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.802Z",
+          "evaluatedAt": "2026-10-05T09:53:33.986Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,7 +2478,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.802Z",
+          "evaluatedAt": "2026-10-05T09:53:33.986Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2564,7 +2564,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.808Z",
+        "evaluatedAt": "2026-10-05T09:53:33.988Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2637,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.808Z",
+          "evaluatedAt": "2026-10-05T09:53:33.988Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,7 +2655,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.808Z",
+          "evaluatedAt": "2026-10-05T09:53:33.988Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2741,7 +2741,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.812Z",
+        "evaluatedAt": "2026-10-05T09:53:33.995Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2814,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.813Z",
+          "evaluatedAt": "2026-10-05T09:53:33.997Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,7 +2832,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.813Z",
+          "evaluatedAt": "2026-10-05T09:53:33.997Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2918,7 +2918,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.813Z",
+        "evaluatedAt": "2026-10-05T09:53:33.998Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +2991,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.813Z",
+          "evaluatedAt": "2026-10-05T09:53:33.998Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3009,7 +3009,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.813Z",
+          "evaluatedAt": "2026-10-05T09:53:33.998Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3095,7 +3095,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.840Z",
+        "evaluatedAt": "2026-10-05T09:53:34.019Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3168,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.840Z",
+          "evaluatedAt": "2026-10-05T09:53:34.020Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3186,7 +3186,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.840Z",
+          "evaluatedAt": "2026-10-05T09:53:34.020Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3272,7 +3272,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.843Z",
+        "evaluatedAt": "2026-10-05T09:53:34.052Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3345,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.843Z",
+          "evaluatedAt": "2026-10-05T09:53:34.052Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3363,7 +3363,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.843Z",
+          "evaluatedAt": "2026-10-05T09:53:34.052Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3449,7 +3449,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.851Z",
+        "evaluatedAt": "2026-10-05T09:53:34.072Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3522,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.851Z",
+          "evaluatedAt": "2026-10-05T09:53:34.073Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3540,7 +3540,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.851Z",
+          "evaluatedAt": "2026-10-05T09:53:34.073Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3626,7 +3626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.853Z",
+        "evaluatedAt": "2026-10-05T09:53:34.111Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3699,7 +3699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.853Z",
+          "evaluatedAt": "2026-10-05T09:53:34.111Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3717,7 +3717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.853Z",
+          "evaluatedAt": "2026-10-05T09:53:34.111Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3803,7 +3803,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.858Z",
+        "evaluatedAt": "2026-10-05T09:53:34.118Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3876,7 +3876,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.858Z",
+          "evaluatedAt": "2026-10-05T09:53:34.119Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3894,7 +3894,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.858Z",
+          "evaluatedAt": "2026-10-05T09:53:34.119Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3980,7 +3980,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.863Z",
+        "evaluatedAt": "2026-10-05T09:53:34.125Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4053,7 +4053,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.863Z",
+          "evaluatedAt": "2026-10-05T09:53:34.127Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4071,7 +4071,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.863Z",
+          "evaluatedAt": "2026-10-05T09:53:34.126Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4157,7 +4157,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.870Z",
+        "evaluatedAt": "2026-10-05T09:53:34.127Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4230,7 +4230,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.870Z",
+          "evaluatedAt": "2026-10-05T09:53:34.127Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4248,7 +4248,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.870Z",
+          "evaluatedAt": "2026-10-05T09:53:34.127Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4334,7 +4334,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.873Z",
+        "evaluatedAt": "2026-10-05T09:53:34.148Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4407,7 +4407,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.874Z",
+          "evaluatedAt": "2026-10-05T09:53:34.149Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4425,7 +4425,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.874Z",
+          "evaluatedAt": "2026-10-05T09:53:34.149Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4511,7 +4511,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.878Z",
+        "evaluatedAt": "2026-10-05T09:53:34.158Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4584,7 +4584,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.878Z",
+          "evaluatedAt": "2026-10-05T09:53:34.158Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4602,7 +4602,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.878Z",
+          "evaluatedAt": "2026-10-05T09:53:34.158Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4688,7 +4688,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.879Z",
+        "evaluatedAt": "2026-10-05T09:53:34.182Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4761,7 +4761,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.881Z",
+          "evaluatedAt": "2026-10-05T09:53:34.182Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4779,7 +4779,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.881Z",
+          "evaluatedAt": "2026-10-05T09:53:34.182Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4865,7 +4865,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.885Z",
+        "evaluatedAt": "2026-10-05T09:53:34.191Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4938,7 +4938,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.885Z",
+          "evaluatedAt": "2026-10-05T09:53:34.195Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4956,7 +4956,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.885Z",
+          "evaluatedAt": "2026-10-05T09:53:34.195Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5042,7 +5042,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.889Z",
+        "evaluatedAt": "2026-10-05T09:53:34.195Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5115,7 +5115,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.889Z",
+          "evaluatedAt": "2026-10-05T09:53:34.195Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5133,7 +5133,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.889Z",
+          "evaluatedAt": "2026-10-05T09:53:34.195Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5219,7 +5219,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.895Z",
+        "evaluatedAt": "2026-10-05T09:53:34.213Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5292,7 +5292,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.895Z",
+          "evaluatedAt": "2026-10-05T09:53:34.213Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5310,7 +5310,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.895Z",
+          "evaluatedAt": "2026-10-05T09:53:34.213Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5396,7 +5396,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.897Z",
+        "evaluatedAt": "2026-10-05T09:53:34.216Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5469,7 +5469,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.897Z",
+          "evaluatedAt": "2026-10-05T09:53:34.216Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5487,7 +5487,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.897Z",
+          "evaluatedAt": "2026-10-05T09:53:34.216Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5573,7 +5573,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.898Z",
+        "evaluatedAt": "2026-10-05T09:53:34.244Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5646,7 +5646,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.898Z",
+          "evaluatedAt": "2026-10-05T09:53:34.246Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5664,7 +5664,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.898Z",
+          "evaluatedAt": "2026-10-05T09:53:34.246Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5750,7 +5750,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.905Z",
+        "evaluatedAt": "2026-10-05T09:53:34.261Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5823,7 +5823,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.906Z",
+          "evaluatedAt": "2026-10-05T09:53:34.262Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5841,7 +5841,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.906Z",
+          "evaluatedAt": "2026-10-05T09:53:34.262Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5927,7 +5927,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.917Z",
+        "evaluatedAt": "2026-10-05T09:53:34.288Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6000,7 +6000,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.917Z",
+          "evaluatedAt": "2026-10-05T09:53:34.292Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6018,7 +6018,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.917Z",
+          "evaluatedAt": "2026-10-05T09:53:34.292Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6104,7 +6104,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.928Z",
+        "evaluatedAt": "2026-10-05T09:53:34.308Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6177,7 +6177,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.928Z",
+          "evaluatedAt": "2026-10-05T09:53:34.309Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6195,7 +6195,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.928Z",
+          "evaluatedAt": "2026-10-05T09:53:34.309Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6281,7 +6281,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.930Z",
+        "evaluatedAt": "2026-10-05T09:53:34.410Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6354,7 +6354,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.930Z",
+          "evaluatedAt": "2026-10-05T09:53:34.411Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6372,7 +6372,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.930Z",
+          "evaluatedAt": "2026-10-05T09:53:34.411Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6458,7 +6458,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.935Z",
+        "evaluatedAt": "2026-10-05T09:53:34.422Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6531,7 +6531,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.935Z",
+          "evaluatedAt": "2026-10-05T09:53:34.422Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6549,7 +6549,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.935Z",
+          "evaluatedAt": "2026-10-05T09:53:34.422Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6635,7 +6635,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.935Z",
+        "evaluatedAt": "2026-10-05T09:53:34.424Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6708,7 +6708,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.935Z",
+          "evaluatedAt": "2026-10-05T09:53:34.424Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6726,7 +6726,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.936Z",
+          "evaluatedAt": "2026-10-05T09:53:34.424Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6812,7 +6812,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.952Z",
+        "evaluatedAt": "2026-10-05T09:53:34.439Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6885,7 +6885,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.952Z",
+          "evaluatedAt": "2026-10-05T09:53:34.446Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6903,7 +6903,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.952Z",
+          "evaluatedAt": "2026-10-05T09:53:34.446Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6989,7 +6989,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:27.998Z",
+        "evaluatedAt": "2026-10-05T09:53:34.467Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -7062,7 +7062,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.998Z",
+          "evaluatedAt": "2026-10-05T09:53:34.473Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -7080,7 +7080,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:27.998Z",
+          "evaluatedAt": "2026-10-05T09:53:34.474Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -7166,7 +7166,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:28.012Z",
+        "evaluatedAt": "2026-10-05T09:53:34.532Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -7239,7 +7239,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:28.012Z",
+          "evaluatedAt": "2026-10-05T09:53:34.532Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -7257,7 +7257,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:28.012Z",
+          "evaluatedAt": "2026-10-05T09:53:34.532Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -7343,7 +7343,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:28.033Z",
+        "evaluatedAt": "2026-10-05T09:53:34.593Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -7416,7 +7416,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:28.033Z",
+          "evaluatedAt": "2026-10-05T09:53:34.593Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -7434,7 +7434,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:28.033Z",
+          "evaluatedAt": "2026-10-05T09:53:34.593Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -7520,7 +7520,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:28.041Z",
+        "evaluatedAt": "2026-10-05T09:53:34.622Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -7593,7 +7593,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:28.041Z",
+          "evaluatedAt": "2026-10-05T09:53:34.622Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -7611,7 +7611,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:28.041Z",
+          "evaluatedAt": "2026-10-05T09:53:34.622Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -7620,10 +7620,850 @@
   "bundles": [
     {
       "version": 1,
+      "name": "openai-skills-marketing",
+      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from openai/skills.",
+      "author": "ASM (openai/skills)",
+      "createdAt": "2026-10-05T09:53:34.913Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "marketing",
+        "growth",
+        "seo",
+        "openai",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "hatch-pet",
+          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
+          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "imagegen",
+          "installUrl": "github:openai/skills:skills/.system/imagegen",
+          "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "notion-research-documentation",
+          "installUrl": "github:openai/skills:skills/.curated/notion-research-documentation",
+          "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "winui-app",
+          "installUrl": "github:openai/skills:skills/.curated/winui-app",
+          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "openai",
+        "repo": "skills",
+        "repoUrl": "https://github.com/openai/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "openai-skills-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from openai/skills.",
+      "author": "ASM (openai/skills)",
+      "createdAt": "2026-10-05T09:53:34.913Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "writing",
+        "content",
+        "docs",
+        "openai",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "chatgpt-apps",
+          "installUrl": "github:openai/skills:skills/.curated/chatgpt-apps",
+          "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cli-creator",
+          "installUrl": "github:openai/skills:skills/.curated/cli-creator",
+          "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line tool that can run from any repo, expose composable read/write commands, return stable JSON, manage auth, and pair with a companion skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-code-connect-components",
+          "installUrl": "github:openai/skills:skills/.curated/figma-code-connect-components",
+          "description": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\", \"connect this component to code\", \"map this component\", \"link component to code\", \"create code connect mapping\", or wants to establish mappings between Figma designs and code implementations. For canvas writes via `use_figma`, use `figma-use`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-generate-design",
+          "installUrl": "github:openai/skills:skills/.curated/figma-generate-design",
+          "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-implement-design",
+          "installUrl": "github:openai/skills:skills/.curated/figma-implement-design",
+          "description": "Translates Figma designs into production-ready application code with 1:1 visual fidelity. Use when implementing UI code from Figma files, when user mentions \"implement design\", \"generate code\", \"implement component\", provides Figma URLs, or asks to build components matching Figma specs. For Figma canvas writes via `use_figma`, use `figma-use`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-use",
+          "installUrl": "github:openai/skills:skills/.curated/figma-use",
+          "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug failures. Trigger whenever the user wants to perform a write action or a unique read action that requires JavaScript execution in the Figma file context — e.g. create/edit/delete nodes, set up variables or tokens, build components and variants, modify auto-layout or fills, bind variables to properties, or inspect file structure programmatically.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gh-fix-ci",
+          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
+          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "notion-meeting-intelligence",
+          "installUrl": "github:openai/skills:skills/.curated/notion-meeting-intelligence",
+          "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "notion-research-documentation",
+          "installUrl": "github:openai/skills:skills/.curated/notion-research-documentation",
+          "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "openai-docs",
+          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
+          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-threat-model",
+          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
+          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "openai",
+        "repo": "skills",
+        "repoUrl": "https://github.com/openai/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "openai-skills-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from openai/skills.",
+      "author": "ASM (openai/skills)",
+      "createdAt": "2026-10-05T09:53:34.913Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "openai",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "aspnet-core",
+          "installUrl": "github:openai/skills:skills/.curated/aspnet-core",
+          "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gh-address-comments",
+          "installUrl": "github:openai/skills:skills/.curated/gh-address-comments",
+          "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gh-fix-ci",
+          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
+          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "netlify-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/netlify-deploy",
+          "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "notion-meeting-intelligence",
+          "installUrl": "github:openai/skills:skills/.curated/notion-meeting-intelligence",
+          "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "notion-research-documentation",
+          "installUrl": "github:openai/skills:skills/.curated/notion-research-documentation",
+          "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "openai-docs",
+          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
+          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "pdf",
+          "installUrl": "github:openai/skills:skills/.curated/pdf",
+          "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplumber`, and `pypdf` for generation and extraction.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-best-practices",
+          "installUrl": "github:openai/skills:skills/.curated/security-best-practices",
+          "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-ownership-map",
+          "installUrl": "github:openai/skills:skills/.curated/security-ownership-map",
+          "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-threat-model",
+          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
+          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "sentry",
+          "installUrl": "github:openai/skills:skills/.curated/sentry",
+          "description": "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry CLI; perform read-only queries using the `sentry` command.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "vercel-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/vercel-deploy",
+          "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "winui-app",
+          "installUrl": "github:openai/skills:skills/.curated/winui-app",
+          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "openai",
+        "repo": "skills",
+        "repoUrl": "https://github.com/openai/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "openai-skills-engineering",
+      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from openai/skills.",
+      "author": "ASM (openai/skills)",
+      "createdAt": "2026-10-05T09:53:34.913Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "engineering",
+        "coding",
+        "testing",
+        "openai",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "aspnet-core",
+          "installUrl": "github:openai/skills:skills/.curated/aspnet-core",
+          "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "chatgpt-apps",
+          "installUrl": "github:openai/skills:skills/.curated/chatgpt-apps",
+          "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cli-creator",
+          "installUrl": "github:openai/skills:skills/.curated/cli-creator",
+          "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line tool that can run from any repo, expose composable read/write commands, return stable JSON, manage auth, and pair with a companion skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma",
+          "installUrl": "github:openai/skills:skills/.curated/figma",
+          "description": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Trigger when a task involves Figma URLs, node IDs, design-to-code implementation, or Figma MCP setup and troubleshooting.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-code-connect-components",
+          "installUrl": "github:openai/skills:skills/.curated/figma-code-connect-components",
+          "description": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\", \"connect this component to code\", \"map this component\", \"link component to code\", \"create code connect mapping\", or wants to establish mappings between Figma designs and code implementations. For canvas writes via `use_figma`, use `figma-use`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-create-design-system-rules",
+          "installUrl": "github:openai/skills:skills/.curated/figma-create-design-system-rules",
+          "description": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelines\", or wants to establish project-specific conventions for Figma-to-code workflows. Requires Figma MCP server connection.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-generate-design",
+          "installUrl": "github:openai/skills:skills/.curated/figma-generate-design",
+          "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-generate-library",
+          "installUrl": "github:openai/skills:skills/.curated/figma-generate-library",
+          "description": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, set up theming (light/dark modes), document foundations, or reconcile gaps between code and Figma. This skill teaches WHAT to build and in WHAT ORDER — it complements the `figma-use` skill which teaches HOW to call the Plugin API. Both skills should be loaded together.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-implement-design",
+          "installUrl": "github:openai/skills:skills/.curated/figma-implement-design",
+          "description": "Translates Figma designs into production-ready application code with 1:1 visual fidelity. Use when implementing UI code from Figma files, when user mentions \"implement design\", \"generate code\", \"implement component\", provides Figma URLs, or asks to build components matching Figma specs. For Figma canvas writes via `use_figma`, use `figma-use`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-use",
+          "installUrl": "github:openai/skills:skills/.curated/figma-use",
+          "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug failures. Trigger whenever the user wants to perform a write action or a unique read action that requires JavaScript execution in the Figma file context — e.g. create/edit/delete nodes, set up variables or tokens, build components and variants, modify auto-layout or fills, bind variables to properties, or inspect file structure programmatically.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gh-address-comments",
+          "installUrl": "github:openai/skills:skills/.curated/gh-address-comments",
+          "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gh-fix-ci",
+          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
+          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hatch-pet",
+          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
+          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "imagegen",
+          "installUrl": "github:openai/skills:skills/.system/imagegen",
+          "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "migrate-to-codex",
+          "installUrl": "github:openai/skills:skills/.curated/migrate-to-codex",
+          "description": "Migrate supported instruction files, skills, agents, and MCP config into Codex project and global files.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "netlify-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/netlify-deploy",
+          "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "notion-meeting-intelligence",
+          "installUrl": "github:openai/skills:skills/.curated/notion-meeting-intelligence",
+          "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "openai-docs",
+          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
+          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "pdf",
+          "installUrl": "github:openai/skills:skills/.curated/pdf",
+          "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplumber`, and `pypdf` for generation and extraction.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "playwright",
+          "installUrl": "github:openai/skills:skills/.curated/playwright",
+          "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrapper script.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "playwright-interactive",
+          "installUrl": "github:openai/skills:skills/.curated/playwright-interactive",
+          "description": "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "plugin-creator",
+          "installUrl": "github:openai/skills:skills/.system/plugin-creator",
+          "description": "Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, and baseline placeholders you can edit before publishing or testing. Use when Codex needs to create a new local plugin, add optional plugin structure, or generate or update repo-root `.agents/plugins/marketplace.json` entries for plugin ordering and availability metadata.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "render-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/render-deploy",
+          "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their application on Render's cloud platform.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-best-practices",
+          "installUrl": "github:openai/skills:skills/.curated/security-best-practices",
+          "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-ownership-map",
+          "installUrl": "github:openai/skills:skills/.curated/security-ownership-map",
+          "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-threat-model",
+          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
+          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "sentry",
+          "installUrl": "github:openai/skills:skills/.curated/sentry",
+          "description": "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry CLI; perform read-only queries using the `sentry` command.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "skill-creator",
+          "installUrl": "github:openai/skills:skills/.system/skill-creator",
+          "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "skill-installer",
+          "installUrl": "github:openai/skills:skills/.system/skill-installer",
+          "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
+          "version": "0.0.0"
+        },
+        {
+          "name": "speech",
+          "installUrl": "github:openai/skills:skills/.curated/speech",
+          "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.py`) with built-in voices and require `OPENAI_API_KEY` for live calls. Custom voice creation is out of scope.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "vercel-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/vercel-deploy",
+          "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "winui-app",
+          "installUrl": "github:openai/skills:skills/.curated/winui-app",
+          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "yeet",
+          "installUrl": "github:openai/skills:skills/.curated/yeet",
+          "description": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`).",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "openai",
+        "repo": "skills",
+        "repoUrl": "https://github.com/openai/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "openai-skills-frontend-design",
+      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from openai/skills.",
+      "author": "ASM (openai/skills)",
+      "createdAt": "2026-10-05T09:53:34.913Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "frontend",
+        "design",
+        "ui",
+        "openai",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "aspnet-core",
+          "installUrl": "github:openai/skills:skills/.curated/aspnet-core",
+          "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "chatgpt-apps",
+          "installUrl": "github:openai/skills:skills/.curated/chatgpt-apps",
+          "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cli-creator",
+          "installUrl": "github:openai/skills:skills/.curated/cli-creator",
+          "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line tool that can run from any repo, expose composable read/write commands, return stable JSON, manage auth, and pair with a companion skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma",
+          "installUrl": "github:openai/skills:skills/.curated/figma",
+          "description": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Trigger when a task involves Figma URLs, node IDs, design-to-code implementation, or Figma MCP setup and troubleshooting.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-code-connect-components",
+          "installUrl": "github:openai/skills:skills/.curated/figma-code-connect-components",
+          "description": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\", \"connect this component to code\", \"map this component\", \"link component to code\", \"create code connect mapping\", or wants to establish mappings between Figma designs and code implementations. For canvas writes via `use_figma`, use `figma-use`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-create-design-system-rules",
+          "installUrl": "github:openai/skills:skills/.curated/figma-create-design-system-rules",
+          "description": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelines\", or wants to establish project-specific conventions for Figma-to-code workflows. Requires Figma MCP server connection.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-create-new-file",
+          "installUrl": "github:openai/skills:skills/.curated/figma-create-new-file",
+          "description": "Create a new blank Figma file. Use when the user wants to create a new Figma design or FigJam file, or when you need a new file before calling use_figma. Handles plan resolution via whoami if needed. Usage — /figma-create-new-file [editorType] [fileName] (e.g. /figma-create-new-file figjam My Whiteboard)",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-generate-design",
+          "installUrl": "github:openai/skills:skills/.curated/figma-generate-design",
+          "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-generate-library",
+          "installUrl": "github:openai/skills:skills/.curated/figma-generate-library",
+          "description": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, set up theming (light/dark modes), document foundations, or reconcile gaps between code and Figma. This skill teaches WHAT to build and in WHAT ORDER — it complements the `figma-use` skill which teaches HOW to call the Plugin API. Both skills should be loaded together.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-implement-design",
+          "installUrl": "github:openai/skills:skills/.curated/figma-implement-design",
+          "description": "Translates Figma designs into production-ready application code with 1:1 visual fidelity. Use when implementing UI code from Figma files, when user mentions \"implement design\", \"generate code\", \"implement component\", provides Figma URLs, or asks to build components matching Figma specs. For Figma canvas writes via `use_figma`, use `figma-use`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-use",
+          "installUrl": "github:openai/skills:skills/.curated/figma-use",
+          "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug failures. Trigger whenever the user wants to perform a write action or a unique read action that requires JavaScript execution in the Figma file context — e.g. create/edit/delete nodes, set up variables or tokens, build components and variants, modify auto-layout or fills, bind variables to properties, or inspect file structure programmatically.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gh-fix-ci",
+          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
+          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hatch-pet",
+          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
+          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "imagegen",
+          "installUrl": "github:openai/skills:skills/.system/imagegen",
+          "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "openai-docs",
+          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
+          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "pdf",
+          "installUrl": "github:openai/skills:skills/.curated/pdf",
+          "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplumber`, and `pypdf` for generation and extraction.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "playwright",
+          "installUrl": "github:openai/skills:skills/.curated/playwright",
+          "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrapper script.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "playwright-interactive",
+          "installUrl": "github:openai/skills:skills/.curated/playwright-interactive",
+          "description": "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "plugin-creator",
+          "installUrl": "github:openai/skills:skills/.system/plugin-creator",
+          "description": "Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, and baseline placeholders you can edit before publishing or testing. Use when Codex needs to create a new local plugin, add optional plugin structure, or generate or update repo-root `.agents/plugins/marketplace.json` entries for plugin ordering and availability metadata.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-best-practices",
+          "installUrl": "github:openai/skills:skills/.curated/security-best-practices",
+          "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-ownership-map",
+          "installUrl": "github:openai/skills:skills/.curated/security-ownership-map",
+          "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-threat-model",
+          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
+          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "skill-creator",
+          "installUrl": "github:openai/skills:skills/.system/skill-creator",
+          "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "speech",
+          "installUrl": "github:openai/skills:skills/.curated/speech",
+          "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.py`) with built-in voices and require `OPENAI_API_KEY` for live calls. Custom voice creation is out of scope.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "winui-app",
+          "installUrl": "github:openai/skills:skills/.curated/winui-app",
+          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "openai",
+        "repo": "skills",
+        "repoUrl": "https://github.com/openai/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "openai-skills-game",
+      "description": "Game development, gameplay systems, game UI, 3D assets, and Three.js skills. Derived from openai/skills.",
+      "author": "ASM (openai/skills)",
+      "createdAt": "2026-10-05T09:53:34.913Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "game",
+        "gamedev",
+        "threejs",
+        "openai",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "hatch-pet",
+          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
+          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "imagegen",
+          "installUrl": "github:openai/skills:skills/.system/imagegen",
+          "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "openai",
+        "repo": "skills",
+        "repoUrl": "https://github.com/openai/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "openai-skills-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from openai/skills.",
+      "author": "ASM (openai/skills)",
+      "createdAt": "2026-10-05T09:53:34.913Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "devops",
+        "infra",
+        "automation",
+        "openai",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "aspnet-core",
+          "installUrl": "github:openai/skills:skills/.curated/aspnet-core",
+          "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "chatgpt-apps",
+          "installUrl": "github:openai/skills:skills/.curated/chatgpt-apps",
+          "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cloudflare-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/cloudflare-deploy",
+          "description": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the user asks to deploy, host, publish, or set up a project on Cloudflare.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "define-goal",
+          "installUrl": "github:openai/skills:skills/.curated/define-goal",
+          "description": "Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, create a goal, set an objective, clarify success criteria, or turn a fuzzy intention into a quantitative outcome. Use this skill for goal creation and goal refinement only; it does not manage durable snapshots, decision logs, or long-running execution artifacts.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-create-design-system-rules",
+          "installUrl": "github:openai/skills:skills/.curated/figma-create-design-system-rules",
+          "description": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelines\", or wants to establish project-specific conventions for Figma-to-code workflows. Requires Figma MCP server connection.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-generate-design",
+          "installUrl": "github:openai/skills:skills/.curated/figma-generate-design",
+          "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma-generate-library",
+          "installUrl": "github:openai/skills:skills/.curated/figma-generate-library",
+          "description": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, set up theming (light/dark modes), document foundations, or reconcile gaps between code and Figma. This skill teaches WHAT to build and in WHAT ORDER — it complements the `figma-use` skill which teaches HOW to call the Plugin API. Both skills should be loaded together.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gh-fix-ci",
+          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
+          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hatch-pet",
+          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
+          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "linear",
+          "installUrl": "github:openai/skills:skills/.curated/linear",
+          "description": "Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "netlify-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/netlify-deploy",
+          "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "notion-knowledge-capture",
+          "installUrl": "github:openai/skills:skills/.curated/notion-knowledge-capture",
+          "description": "Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki entries, how-tos, decisions, or FAQs with proper linking.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "notion-research-documentation",
+          "installUrl": "github:openai/skills:skills/.curated/notion-research-documentation",
+          "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "openai-docs",
+          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
+          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "render-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/render-deploy",
+          "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their application on Render's cloud platform.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "screenshot",
+          "installUrl": "github:openai/skills:skills/.curated/screenshot",
+          "description": "Use when the user explicitly asks for a desktop or system screenshot (full screen, specific app or window, or a pixel region), or when tool-specific capture capabilities are unavailable and an OS-level capture is needed.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-best-practices",
+          "installUrl": "github:openai/skills:skills/.curated/security-best-practices",
+          "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-ownership-map",
+          "installUrl": "github:openai/skills:skills/.curated/security-ownership-map",
+          "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "security-threat-model",
+          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
+          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "skill-creator",
+          "installUrl": "github:openai/skills:skills/.system/skill-creator",
+          "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "vercel-deploy",
+          "installUrl": "github:openai/skills:skills/.curated/vercel-deploy",
+          "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "winui-app",
+          "installUrl": "github:openai/skills:skills/.curated/winui-app",
+          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "yeet",
+          "installUrl": "github:openai/skills:skills/.curated/yeet",
+          "description": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`).",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "openai",
+        "repo": "skills",
+        "repoUrl": "https://github.com/openai/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
       "name": "openai-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from openai/skills.",
       "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
+      "createdAt": "2026-10-05T09:53:34.913Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7902,652 +8742,10 @@
     },
     {
       "version": 1,
-      "name": "openai-skills-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from openai/skills.",
-      "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "openai",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "aspnet-core",
-          "installUrl": "github:openai/skills:skills/.curated/aspnet-core",
-          "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "chatgpt-apps",
-          "installUrl": "github:openai/skills:skills/.curated/chatgpt-apps",
-          "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cloudflare-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/cloudflare-deploy",
-          "description": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the user asks to deploy, host, publish, or set up a project on Cloudflare.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "define-goal",
-          "installUrl": "github:openai/skills:skills/.curated/define-goal",
-          "description": "Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, create a goal, set an objective, clarify success criteria, or turn a fuzzy intention into a quantitative outcome. Use this skill for goal creation and goal refinement only; it does not manage durable snapshots, decision logs, or long-running execution artifacts.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-create-design-system-rules",
-          "installUrl": "github:openai/skills:skills/.curated/figma-create-design-system-rules",
-          "description": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelines\", or wants to establish project-specific conventions for Figma-to-code workflows. Requires Figma MCP server connection.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-generate-design",
-          "installUrl": "github:openai/skills:skills/.curated/figma-generate-design",
-          "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-generate-library",
-          "installUrl": "github:openai/skills:skills/.curated/figma-generate-library",
-          "description": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, set up theming (light/dark modes), document foundations, or reconcile gaps between code and Figma. This skill teaches WHAT to build and in WHAT ORDER — it complements the `figma-use` skill which teaches HOW to call the Plugin API. Both skills should be loaded together.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gh-fix-ci",
-          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
-          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hatch-pet",
-          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
-          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "linear",
-          "installUrl": "github:openai/skills:skills/.curated/linear",
-          "description": "Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "netlify-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/netlify-deploy",
-          "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "notion-knowledge-capture",
-          "installUrl": "github:openai/skills:skills/.curated/notion-knowledge-capture",
-          "description": "Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki entries, how-tos, decisions, or FAQs with proper linking.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "notion-research-documentation",
-          "installUrl": "github:openai/skills:skills/.curated/notion-research-documentation",
-          "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "openai-docs",
-          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
-          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "render-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/render-deploy",
-          "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their application on Render's cloud platform.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "screenshot",
-          "installUrl": "github:openai/skills:skills/.curated/screenshot",
-          "description": "Use when the user explicitly asks for a desktop or system screenshot (full screen, specific app or window, or a pixel region), or when tool-specific capture capabilities are unavailable and an OS-level capture is needed.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-best-practices",
-          "installUrl": "github:openai/skills:skills/.curated/security-best-practices",
-          "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-ownership-map",
-          "installUrl": "github:openai/skills:skills/.curated/security-ownership-map",
-          "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-threat-model",
-          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
-          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "skill-creator",
-          "installUrl": "github:openai/skills:skills/.system/skill-creator",
-          "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "vercel-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/vercel-deploy",
-          "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "winui-app",
-          "installUrl": "github:openai/skills:skills/.curated/winui-app",
-          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "yeet",
-          "installUrl": "github:openai/skills:skills/.curated/yeet",
-          "description": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`).",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "openai",
-        "repo": "skills",
-        "repoUrl": "https://github.com/openai/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "openai-skills-engineering",
-      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from openai/skills.",
-      "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "engineering",
-        "coding",
-        "testing",
-        "openai",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "aspnet-core",
-          "installUrl": "github:openai/skills:skills/.curated/aspnet-core",
-          "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "chatgpt-apps",
-          "installUrl": "github:openai/skills:skills/.curated/chatgpt-apps",
-          "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cli-creator",
-          "installUrl": "github:openai/skills:skills/.curated/cli-creator",
-          "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line tool that can run from any repo, expose composable read/write commands, return stable JSON, manage auth, and pair with a companion skill.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma",
-          "installUrl": "github:openai/skills:skills/.curated/figma",
-          "description": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Trigger when a task involves Figma URLs, node IDs, design-to-code implementation, or Figma MCP setup and troubleshooting.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-code-connect-components",
-          "installUrl": "github:openai/skills:skills/.curated/figma-code-connect-components",
-          "description": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\", \"connect this component to code\", \"map this component\", \"link component to code\", \"create code connect mapping\", or wants to establish mappings between Figma designs and code implementations. For canvas writes via `use_figma`, use `figma-use`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-create-design-system-rules",
-          "installUrl": "github:openai/skills:skills/.curated/figma-create-design-system-rules",
-          "description": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelines\", or wants to establish project-specific conventions for Figma-to-code workflows. Requires Figma MCP server connection.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-generate-design",
-          "installUrl": "github:openai/skills:skills/.curated/figma-generate-design",
-          "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-generate-library",
-          "installUrl": "github:openai/skills:skills/.curated/figma-generate-library",
-          "description": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, set up theming (light/dark modes), document foundations, or reconcile gaps between code and Figma. This skill teaches WHAT to build and in WHAT ORDER — it complements the `figma-use` skill which teaches HOW to call the Plugin API. Both skills should be loaded together.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-implement-design",
-          "installUrl": "github:openai/skills:skills/.curated/figma-implement-design",
-          "description": "Translates Figma designs into production-ready application code with 1:1 visual fidelity. Use when implementing UI code from Figma files, when user mentions \"implement design\", \"generate code\", \"implement component\", provides Figma URLs, or asks to build components matching Figma specs. For Figma canvas writes via `use_figma`, use `figma-use`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-use",
-          "installUrl": "github:openai/skills:skills/.curated/figma-use",
-          "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug failures. Trigger whenever the user wants to perform a write action or a unique read action that requires JavaScript execution in the Figma file context — e.g. create/edit/delete nodes, set up variables or tokens, build components and variants, modify auto-layout or fills, bind variables to properties, or inspect file structure programmatically.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gh-address-comments",
-          "installUrl": "github:openai/skills:skills/.curated/gh-address-comments",
-          "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gh-fix-ci",
-          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
-          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hatch-pet",
-          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
-          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "imagegen",
-          "installUrl": "github:openai/skills:skills/.system/imagegen",
-          "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "migrate-to-codex",
-          "installUrl": "github:openai/skills:skills/.curated/migrate-to-codex",
-          "description": "Migrate supported instruction files, skills, agents, and MCP config into Codex project and global files.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "netlify-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/netlify-deploy",
-          "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "notion-meeting-intelligence",
-          "installUrl": "github:openai/skills:skills/.curated/notion-meeting-intelligence",
-          "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "openai-docs",
-          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
-          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "pdf",
-          "installUrl": "github:openai/skills:skills/.curated/pdf",
-          "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplumber`, and `pypdf` for generation and extraction.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "playwright",
-          "installUrl": "github:openai/skills:skills/.curated/playwright",
-          "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrapper script.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "playwright-interactive",
-          "installUrl": "github:openai/skills:skills/.curated/playwright-interactive",
-          "description": "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "plugin-creator",
-          "installUrl": "github:openai/skills:skills/.system/plugin-creator",
-          "description": "Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, and baseline placeholders you can edit before publishing or testing. Use when Codex needs to create a new local plugin, add optional plugin structure, or generate or update repo-root `.agents/plugins/marketplace.json` entries for plugin ordering and availability metadata.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "render-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/render-deploy",
-          "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their application on Render's cloud platform.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-best-practices",
-          "installUrl": "github:openai/skills:skills/.curated/security-best-practices",
-          "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-ownership-map",
-          "installUrl": "github:openai/skills:skills/.curated/security-ownership-map",
-          "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-threat-model",
-          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
-          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "sentry",
-          "installUrl": "github:openai/skills:skills/.curated/sentry",
-          "description": "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry CLI; perform read-only queries using the `sentry` command.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "skill-creator",
-          "installUrl": "github:openai/skills:skills/.system/skill-creator",
-          "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "skill-installer",
-          "installUrl": "github:openai/skills:skills/.system/skill-installer",
-          "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
-          "version": "0.0.0"
-        },
-        {
-          "name": "speech",
-          "installUrl": "github:openai/skills:skills/.curated/speech",
-          "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.py`) with built-in voices and require `OPENAI_API_KEY` for live calls. Custom voice creation is out of scope.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "vercel-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/vercel-deploy",
-          "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "winui-app",
-          "installUrl": "github:openai/skills:skills/.curated/winui-app",
-          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "yeet",
-          "installUrl": "github:openai/skills:skills/.curated/yeet",
-          "description": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`).",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "openai",
-        "repo": "skills",
-        "repoUrl": "https://github.com/openai/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "openai-skills-frontend-design",
-      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from openai/skills.",
-      "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "frontend",
-        "design",
-        "ui",
-        "openai",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "aspnet-core",
-          "installUrl": "github:openai/skills:skills/.curated/aspnet-core",
-          "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "chatgpt-apps",
-          "installUrl": "github:openai/skills:skills/.curated/chatgpt-apps",
-          "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cli-creator",
-          "installUrl": "github:openai/skills:skills/.curated/cli-creator",
-          "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line tool that can run from any repo, expose composable read/write commands, return stable JSON, manage auth, and pair with a companion skill.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma",
-          "installUrl": "github:openai/skills:skills/.curated/figma",
-          "description": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Trigger when a task involves Figma URLs, node IDs, design-to-code implementation, or Figma MCP setup and troubleshooting.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-code-connect-components",
-          "installUrl": "github:openai/skills:skills/.curated/figma-code-connect-components",
-          "description": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\", \"connect this component to code\", \"map this component\", \"link component to code\", \"create code connect mapping\", or wants to establish mappings between Figma designs and code implementations. For canvas writes via `use_figma`, use `figma-use`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-create-design-system-rules",
-          "installUrl": "github:openai/skills:skills/.curated/figma-create-design-system-rules",
-          "description": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelines\", or wants to establish project-specific conventions for Figma-to-code workflows. Requires Figma MCP server connection.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-create-new-file",
-          "installUrl": "github:openai/skills:skills/.curated/figma-create-new-file",
-          "description": "Create a new blank Figma file. Use when the user wants to create a new Figma design or FigJam file, or when you need a new file before calling use_figma. Handles plan resolution via whoami if needed. Usage — /figma-create-new-file [editorType] [fileName] (e.g. /figma-create-new-file figjam My Whiteboard)",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-generate-design",
-          "installUrl": "github:openai/skills:skills/.curated/figma-generate-design",
-          "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-generate-library",
-          "installUrl": "github:openai/skills:skills/.curated/figma-generate-library",
-          "description": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, set up theming (light/dark modes), document foundations, or reconcile gaps between code and Figma. This skill teaches WHAT to build and in WHAT ORDER — it complements the `figma-use` skill which teaches HOW to call the Plugin API. Both skills should be loaded together.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-implement-design",
-          "installUrl": "github:openai/skills:skills/.curated/figma-implement-design",
-          "description": "Translates Figma designs into production-ready application code with 1:1 visual fidelity. Use when implementing UI code from Figma files, when user mentions \"implement design\", \"generate code\", \"implement component\", provides Figma URLs, or asks to build components matching Figma specs. For Figma canvas writes via `use_figma`, use `figma-use`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-use",
-          "installUrl": "github:openai/skills:skills/.curated/figma-use",
-          "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug failures. Trigger whenever the user wants to perform a write action or a unique read action that requires JavaScript execution in the Figma file context — e.g. create/edit/delete nodes, set up variables or tokens, build components and variants, modify auto-layout or fills, bind variables to properties, or inspect file structure programmatically.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gh-fix-ci",
-          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
-          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hatch-pet",
-          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
-          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "imagegen",
-          "installUrl": "github:openai/skills:skills/.system/imagegen",
-          "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "openai-docs",
-          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
-          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "pdf",
-          "installUrl": "github:openai/skills:skills/.curated/pdf",
-          "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplumber`, and `pypdf` for generation and extraction.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "playwright",
-          "installUrl": "github:openai/skills:skills/.curated/playwright",
-          "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrapper script.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "playwright-interactive",
-          "installUrl": "github:openai/skills:skills/.curated/playwright-interactive",
-          "description": "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "plugin-creator",
-          "installUrl": "github:openai/skills:skills/.system/plugin-creator",
-          "description": "Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, and baseline placeholders you can edit before publishing or testing. Use when Codex needs to create a new local plugin, add optional plugin structure, or generate or update repo-root `.agents/plugins/marketplace.json` entries for plugin ordering and availability metadata.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-best-practices",
-          "installUrl": "github:openai/skills:skills/.curated/security-best-practices",
-          "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-ownership-map",
-          "installUrl": "github:openai/skills:skills/.curated/security-ownership-map",
-          "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-threat-model",
-          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
-          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "skill-creator",
-          "installUrl": "github:openai/skills:skills/.system/skill-creator",
-          "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "speech",
-          "installUrl": "github:openai/skills:skills/.curated/speech",
-          "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.py`) with built-in voices and require `OPENAI_API_KEY` for live calls. Custom voice creation is out of scope.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "winui-app",
-          "installUrl": "github:openai/skills:skills/.curated/winui-app",
-          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "openai",
-        "repo": "skills",
-        "repoUrl": "https://github.com/openai/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "openai-skills-game",
-      "description": "Game development, gameplay systems, game UI, 3D assets, and Three.js skills. Derived from openai/skills.",
-      "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "game",
-        "gamedev",
-        "threejs",
-        "openai",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "hatch-pet",
-          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
-          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "imagegen",
-          "installUrl": "github:openai/skills:skills/.system/imagegen",
-          "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "openai",
-        "repo": "skills",
-        "repoUrl": "https://github.com/openai/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "openai-skills-marketing",
-      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from openai/skills.",
-      "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "marketing",
-        "growth",
-        "seo",
-        "openai",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "hatch-pet",
-          "installUrl": "github:openai/skills:skills/.curated/hatch-pet",
-          "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "imagegen",
-          "installUrl": "github:openai/skills:skills/.system/imagegen",
-          "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "notion-research-documentation",
-          "installUrl": "github:openai/skills:skills/.curated/notion-research-documentation",
-          "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "winui-app",
-          "installUrl": "github:openai/skills:skills/.curated/winui-app",
-          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "openai",
-        "repo": "skills",
-        "repoUrl": "https://github.com/openai/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "openai-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from openai/skills.",
       "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
+      "createdAt": "2026-10-05T09:53:34.913Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8604,204 +8802,6 @@
           "name": "winui-app",
           "installUrl": "github:openai/skills:skills/.curated/winui-app",
           "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "openai",
-        "repo": "skills",
-        "repoUrl": "https://github.com/openai/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "openai-skills-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from openai/skills.",
-      "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "research",
-        "academic",
-        "analysis",
-        "openai",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "aspnet-core",
-          "installUrl": "github:openai/skills:skills/.curated/aspnet-core",
-          "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gh-address-comments",
-          "installUrl": "github:openai/skills:skills/.curated/gh-address-comments",
-          "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gh-fix-ci",
-          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
-          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "netlify-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/netlify-deploy",
-          "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "notion-meeting-intelligence",
-          "installUrl": "github:openai/skills:skills/.curated/notion-meeting-intelligence",
-          "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "notion-research-documentation",
-          "installUrl": "github:openai/skills:skills/.curated/notion-research-documentation",
-          "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "openai-docs",
-          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
-          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "pdf",
-          "installUrl": "github:openai/skills:skills/.curated/pdf",
-          "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplumber`, and `pypdf` for generation and extraction.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-best-practices",
-          "installUrl": "github:openai/skills:skills/.curated/security-best-practices",
-          "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-ownership-map",
-          "installUrl": "github:openai/skills:skills/.curated/security-ownership-map",
-          "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-threat-model",
-          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
-          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "sentry",
-          "installUrl": "github:openai/skills:skills/.curated/sentry",
-          "description": "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry CLI; perform read-only queries using the `sentry` command.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "vercel-deploy",
-          "installUrl": "github:openai/skills:skills/.curated/vercel-deploy",
-          "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "winui-app",
-          "installUrl": "github:openai/skills:skills/.curated/winui-app",
-          "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityToolkit components. Use when creating a brand new app, preparing a machine for WinUI, reviewing, refactoring, planning, troubleshooting, environment-checking, or setting up WinUI 3 XAML, controls, navigation, windowing, theming, accessibility, responsiveness, performance, deployment, or related Windows app design and development work.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "openai",
-        "repo": "skills",
-        "repoUrl": "https://github.com/openai/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "openai-skills-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from openai/skills.",
-      "author": "ASM (openai/skills)",
-      "createdAt": "2026-09-30T20:50:28.567Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "writing",
-        "content",
-        "docs",
-        "openai",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "chatgpt-apps",
-          "installUrl": "github:openai/skills:skills/.curated/chatgpt-apps",
-          "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cli-creator",
-          "installUrl": "github:openai/skills:skills/.curated/cli-creator",
-          "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line tool that can run from any repo, expose composable read/write commands, return stable JSON, manage auth, and pair with a companion skill.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-code-connect-components",
-          "installUrl": "github:openai/skills:skills/.curated/figma-code-connect-components",
-          "description": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\", \"connect this component to code\", \"map this component\", \"link component to code\", \"create code connect mapping\", or wants to establish mappings between Figma designs and code implementations. For canvas writes via `use_figma`, use `figma-use`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-generate-design",
-          "installUrl": "github:openai/skills:skills/.curated/figma-generate-design",
-          "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-implement-design",
-          "installUrl": "github:openai/skills:skills/.curated/figma-implement-design",
-          "description": "Translates Figma designs into production-ready application code with 1:1 visual fidelity. Use when implementing UI code from Figma files, when user mentions \"implement design\", \"generate code\", \"implement component\", provides Figma URLs, or asks to build components matching Figma specs. For Figma canvas writes via `use_figma`, use `figma-use`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma-use",
-          "installUrl": "github:openai/skills:skills/.curated/figma-use",
-          "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug failures. Trigger whenever the user wants to perform a write action or a unique read action that requires JavaScript execution in the Figma file context — e.g. create/edit/delete nodes, set up variables or tokens, build components and variants, modify auto-layout or fills, bind variables to properties, or inspect file structure programmatically.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gh-fix-ci",
-          "installUrl": "github:openai/skills:skills/.curated/gh-fix-ci",
-          "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "notion-meeting-intelligence",
-          "installUrl": "github:openai/skills:skills/.curated/notion-meeting-intelligence",
-          "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "notion-research-documentation",
-          "installUrl": "github:openai/skills:skills/.curated/notion-research-documentation",
-          "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "openai-docs",
-          "installUrl": "github:openai/skills:skills/.curated/openai-docs",
-          "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; use OpenAI docs MCP tools for non-Codex docs questions, use the Codex manual helper first for broad Codex self-knowledge, and restrict fallback browsing to official OpenAI domains.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "security-threat-model",
-          "installUrl": "github:openai/skills:skills/.curated/security-threat-model",
-          "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
           "version": "0.0.0"
         }
       ],

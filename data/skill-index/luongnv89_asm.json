@@ -2,7 +2,7 @@
   "repoUrl": "https://github.com/luongnv89/asm.git",
   "owner": "luongnv89",
   "repo": "asm",
-  "updatedAt": "2026-09-30T20:47:04.852Z",
+  "updatedAt": "2026-10-05T09:50:54.621Z",
   "skillCount": 11,
   "skills": [
     {
@@ -86,7 +86,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.793Z",
+        "evaluatedAt": "2026-10-05T09:50:53.804Z",
         "evaluatedVersion": "1.2.1"
       },
       "evalSummaries": {
@@ -159,7 +159,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.793Z",
+          "evaluatedAt": "2026-10-05T09:50:53.809Z",
           "evaluatedVersion": "1.2.1"
         },
         "skill-best-practice": {
@@ -177,7 +177,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.793Z",
+          "evaluatedAt": "2026-10-05T09:50:53.809Z",
           "evaluatedVersion": "1.2.1"
         }
       }
@@ -190,7 +190,10 @@
       "creator": "",
       "compatibility": "Claude Code",
       "allowedTools": [],
-      "tags": ["test", "demo"],
+      "tags": [
+        "test",
+        "demo"
+      ],
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
@@ -263,7 +266,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.788Z",
+        "evaluatedAt": "2026-10-05T09:50:53.790Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -336,7 +339,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.789Z",
+          "evaluatedAt": "2026-10-05T09:50:53.793Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -354,7 +357,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.789Z",
+          "evaluatedAt": "2026-10-05T09:50:53.794Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -440,7 +443,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.787Z",
+        "evaluatedAt": "2026-10-05T09:50:53.790Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +516,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.789Z",
+          "evaluatedAt": "2026-10-05T09:50:53.794Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,7 +534,7 @@
               "max": 1
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.789Z",
+          "evaluatedAt": "2026-10-05T09:50:53.794Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -543,7 +546,14 @@
       "license": "MIT",
       "creator": "",
       "compatibility": "Claude Code",
-      "allowedTools": ["Bash", "Read", "Write", "Edit", "Grep", "Glob"],
+      "allowedTools": [
+        "Bash",
+        "Read",
+        "Write",
+        "Edit",
+        "Grep",
+        "Glob"
+      ],
       "tags": [],
       "dependencies": [],
       "modelInvocable": true,
@@ -617,7 +627,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.805Z",
+        "evaluatedAt": "2026-10-05T09:50:53.830Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -690,7 +700,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.806Z",
+          "evaluatedAt": "2026-10-05T09:50:53.830Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -708,27 +718,36 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.806Z",
+          "evaluatedAt": "2026-10-05T09:50:53.830Z",
           "evaluatedVersion": "1.1.0"
         }
       }
     },
     {
       "name": "skill-auto-improver",
-      "description": "Improve an external, legacy, or drifted SKILL.md to the skill-creator standard — hard validation gates plus an advisory predictability audit. Don't use for authoring from scratch (skill-creator output is already standard), bulk eval, or prose edits.",
-      "version": "2.2.0",
+      "description": "Audit and improve an existing skill's instructions, review outputs, and evaluation criteria. Use when fixing a skill or applying the skill-creator standard. Don't use for authoring from scratch, bulk evaluation, or standalone prose edits.",
+      "version": "2.4.0",
       "license": "MIT",
       "creator": "",
       "compatibility": "Claude Code; requires `asm` on PATH and Python 3 for skill-creator's quick_validate.py",
-      "allowedTools": ["Bash", "Read", "Write", "Edit", "Grep", "Glob"],
+      "allowedTools": [
+        "Bash",
+        "Read",
+        "Write",
+        "Edit",
+        "Grep",
+        "Glob"
+      ],
       "tags": [],
-      "dependencies": ["skill-creator"],
+      "dependencies": [
+        "skill-creator"
+      ],
       "modelInvocable": true,
       "userInvocable": true,
       "installUrl": "github:luongnv89/asm:skills/skill-auto-improver",
       "relPath": "skills/skill-auto-improver",
       "verified": true,
-      "tokenCount": 5965,
+      "tokenCount": 5949,
       "evalSummary": {
         "overallScore": 92,
         "grade": "A",
@@ -794,8 +813,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.816Z",
-        "evaluatedVersion": "2.2.0"
+        "evaluatedAt": "2026-10-05T09:50:53.859Z",
+        "evaluatedVersion": "2.4.0"
       },
       "evalSummaries": {
         "quality": {
@@ -867,8 +886,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.816Z",
-          "evaluatedVersion": "2.2.0"
+          "evaluatedAt": "2026-10-05T09:50:53.859Z",
+          "evaluatedVersion": "2.4.0"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -885,15 +904,15 @@
               "max": 16
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.816Z",
-          "evaluatedVersion": "2.2.0"
+          "evaluatedAt": "2026-10-05T09:50:53.859Z",
+          "evaluatedVersion": "2.4.0"
         }
       }
     },
     {
       "name": "skill-creator",
       "description": "Create, improve, evaluate, benchmark skills. Use when authoring a new skill, updating an existing one, running evals, or optimizing a skill's description for triggering. Don't use for invoking skills, writing prose, or scaffolding Python projects.",
-      "version": "1.17.0",
+      "version": "1.18.0",
       "license": "MIT",
       "creator": "",
       "compatibility": "",
@@ -905,7 +924,7 @@
       "installUrl": "github:luongnv89/asm:skills/skill-creator",
       "relPath": "skills/skill-creator",
       "verified": true,
-      "tokenCount": 6458,
+      "tokenCount": 6697,
       "evalSummary": {
         "overallScore": 96,
         "grade": "A",
@@ -971,8 +990,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:04.330Z",
-        "evaluatedVersion": "1.17.0"
+        "evaluatedAt": "2026-10-05T09:50:54.229Z",
+        "evaluatedVersion": "1.18.0"
       },
       "evalSummaries": {
         "quality": {
@@ -1044,8 +1063,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:04.330Z",
-          "evaluatedVersion": "1.17.0"
+          "evaluatedAt": "2026-10-05T09:50:54.230Z",
+          "evaluatedVersion": "1.18.0"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -1062,8 +1081,8 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:04.330Z",
-          "evaluatedVersion": "1.17.0"
+          "evaluatedAt": "2026-10-05T09:50:54.230Z",
+          "evaluatedVersion": "1.18.0"
         }
       }
     },
@@ -1157,7 +1176,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.799Z",
+        "evaluatedAt": "2026-10-05T09:50:53.821Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -1230,7 +1249,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.800Z",
+          "evaluatedAt": "2026-10-05T09:50:53.821Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -1248,7 +1267,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.800Z",
+          "evaluatedAt": "2026-10-05T09:50:53.821Z",
           "evaluatedVersion": "2.0.0"
         }
       }
@@ -1260,7 +1279,14 @@
       "license": "MIT",
       "creator": "",
       "compatibility": "Claude Code; requires `asm` and `git` on PATH",
-      "allowedTools": ["Bash", "Read", "Write", "Edit", "Grep", "Glob"],
+      "allowedTools": [
+        "Bash",
+        "Read",
+        "Write",
+        "Edit",
+        "Grep",
+        "Glob"
+      ],
       "tags": [],
       "dependencies": [],
       "modelInvocable": true,
@@ -1334,7 +1360,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.799Z",
+        "evaluatedAt": "2026-10-05T09:50:53.821Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1407,7 +1433,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.800Z",
+          "evaluatedAt": "2026-10-05T09:50:53.821Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1425,7 +1451,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.800Z",
+          "evaluatedAt": "2026-10-05T09:50:53.822Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1437,7 +1463,14 @@
       "license": "MIT",
       "creator": "",
       "compatibility": "Claude Code; Python 3; skill-creator's quick_validate.py",
-      "allowedTools": ["Bash", "Read", "Write", "Edit", "Grep", "Glob"],
+      "allowedTools": [
+        "Bash",
+        "Read",
+        "Write",
+        "Edit",
+        "Grep",
+        "Glob"
+      ],
       "tags": [],
       "dependencies": [],
       "modelInvocable": true,
@@ -1511,7 +1544,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.954Z",
+        "evaluatedAt": "2026-10-05T09:50:53.956Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1584,7 +1617,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.954Z",
+          "evaluatedAt": "2026-10-05T09:50:53.956Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1602,7 +1635,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.954Z",
+          "evaluatedAt": "2026-10-05T09:50:53.956Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1614,7 +1647,14 @@
       "license": "MIT",
       "creator": "",
       "compatibility": "Claude Code",
-      "allowedTools": ["Bash", "Read", "Write", "Edit", "Grep", "Glob"],
+      "allowedTools": [
+        "Bash",
+        "Read",
+        "Write",
+        "Edit",
+        "Grep",
+        "Glob"
+      ],
       "tags": [],
       "dependencies": [],
       "modelInvocable": true,
@@ -1688,7 +1728,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.810Z",
+        "evaluatedAt": "2026-10-05T09:50:53.844Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1761,7 +1801,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.811Z",
+          "evaluatedAt": "2026-10-05T09:50:53.845Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1779,7 +1819,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.811Z",
+          "evaluatedAt": "2026-10-05T09:50:53.845Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1791,7 +1831,10 @@
       "license": "MIT",
       "creator": "",
       "compatibility": "Claude Code",
-      "allowedTools": ["Read", "Grep"],
+      "allowedTools": [
+        "Read",
+        "Grep"
+      ],
       "tags": [],
       "dependencies": [],
       "modelInvocable": true,
@@ -1865,7 +1908,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:47:03.812Z",
+        "evaluatedAt": "2026-10-05T09:50:53.847Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1938,7 +1981,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.812Z",
+          "evaluatedAt": "2026-10-05T09:50:53.852Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1956,7 +1999,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:47:03.812Z",
+          "evaluatedAt": "2026-10-05T09:50:53.852Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1965,25 +2008,25 @@
   "bundles": [
     {
       "version": 1,
-      "name": "luongnv89-asm-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/asm.",
+      "name": "luongnv89-asm-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-09-30T20:47:04.852Z",
+      "createdAt": "2026-10-05T09:50:54.621Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "writing",
+        "content",
+        "docs",
         "luongnv89",
         "asm"
       ],
       "skills": [
         {
-          "name": "find-me-skills",
-          "installUrl": "github:luongnv89/asm:skills/find-me-skills",
-          "description": "Find Agent Skills for a goal the user cannot name yet, then export an installable bundle. Use when they ask which skills fit a project. Don't use for installing named skills, authoring skills, or catalog maintenance.",
-          "version": "1.2.1"
+          "name": "skill-creator",
+          "installUrl": "github:luongnv89/asm:skills/skill-creator",
+          "description": "Create, improve, evaluate, benchmark skills. Use when authoring a new skill, updating an existing one, running evals, or optimizing a skill's description for triggering. Don't use for invoking skills, writing prose, or scaffolding Python projects.",
+          "version": "1.18.0"
         },
         {
           "name": "skill-install-improved",
@@ -2001,10 +2044,58 @@
     },
     {
       "version": 1,
+      "name": "luongnv89-asm-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/asm.",
+      "author": "ASM (luongnv89/asm)",
+      "createdAt": "2026-10-05T09:50:54.621Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "luongnv89",
+        "asm"
+      ],
+      "skills": [
+        {
+          "name": "skill-auto-improver",
+          "installUrl": "github:luongnv89/asm:skills/skill-auto-improver",
+          "description": "Audit and improve an existing skill's instructions, review outputs, and evaluation criteria. Use when fixing a skill or applying the skill-creator standard. Don't use for authoring from scratch, bulk evaluation, or standalone prose edits.",
+          "version": "2.4.0"
+        },
+        {
+          "name": "skill-creator",
+          "installUrl": "github:luongnv89/asm:skills/skill-creator",
+          "description": "Create, improve, evaluate, benchmark skills. Use when authoring a new skill, updating an existing one, running evals, or optimizing a skill's description for triggering. Don't use for invoking skills, writing prose, or scaffolding Python projects.",
+          "version": "1.18.0"
+        },
+        {
+          "name": "skill-shortener",
+          "installUrl": "github:luongnv89/asm:skills/skill-shortener",
+          "description": "Refactor a too-long SKILL.md by progressive disclosure: measure token cost, classify every section KEEP/CUT/MOVE, shorten the body into references/ and scripts/, verify nothing was lost. Don't use for authoring new skills, eval retrofits, or prose.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "well-formed",
+          "installUrl": "github:luongnv89/asm:tests/fixtures/skills/well-formed",
+          "description": "Review pull request diffs for code smells, style issues, and safety problems before merging.",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "luongnv89",
+        "repo": "asm",
+        "repoUrl": "https://github.com/luongnv89/asm.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
       "name": "luongnv89-asm-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-09-30T20:47:04.852Z",
+      "createdAt": "2026-10-05T09:50:54.621Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2027,10 +2118,16 @@
           "version": "0.0.0"
         },
         {
+          "name": "skill-auto-improver",
+          "installUrl": "github:luongnv89/asm:skills/skill-auto-improver",
+          "description": "Audit and improve an existing skill's instructions, review outputs, and evaluation criteria. Use when fixing a skill or applying the skill-creator standard. Don't use for authoring from scratch, bulk evaluation, or standalone prose edits.",
+          "version": "2.4.0"
+        },
+        {
           "name": "skill-creator",
           "installUrl": "github:luongnv89/asm:skills/skill-creator",
           "description": "Create, improve, evaluate, benchmark skills. Use when authoring a new skill, updating an existing one, running evals, or optimizing a skill's description for triggering. Don't use for invoking skills, writing prose, or scaffolding Python projects.",
-          "version": "1.17.0"
+          "version": "1.18.0"
         },
         {
           "name": "skill-index-updater",
@@ -2060,67 +2157,25 @@
     },
     {
       "version": 1,
-      "name": "luongnv89-asm-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/asm.",
+      "name": "luongnv89-asm-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-09-30T20:47:04.852Z",
+      "createdAt": "2026-10-05T09:50:54.621Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "research",
-        "academic",
-        "analysis",
+        "data",
+        "ai",
+        "agents",
         "luongnv89",
         "asm"
       ],
       "skills": [
         {
-          "name": "skill-creator",
-          "installUrl": "github:luongnv89/asm:skills/skill-creator",
-          "description": "Create, improve, evaluate, benchmark skills. Use when authoring a new skill, updating an existing one, running evals, or optimizing a skill's description for triggering. Don't use for invoking skills, writing prose, or scaffolding Python projects.",
-          "version": "1.17.0"
-        },
-        {
-          "name": "skill-shortener",
-          "installUrl": "github:luongnv89/asm:skills/skill-shortener",
-          "description": "Refactor a too-long SKILL.md by progressive disclosure: measure token cost, classify every section KEEP/CUT/MOVE, shorten the body into references/ and scripts/, verify nothing was lost. Don't use for authoring new skills, eval retrofits, or prose.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "well-formed",
-          "installUrl": "github:luongnv89/asm:tests/fixtures/skills/well-formed",
-          "description": "Review pull request diffs for code smells, style issues, and safety problems before merging.",
-          "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "luongnv89",
-        "repo": "asm",
-        "repoUrl": "https://github.com/luongnv89/asm.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "luongnv89-asm-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from luongnv89/asm.",
-      "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-09-30T20:47:04.852Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "writing",
-        "content",
-        "docs",
-        "luongnv89",
-        "asm"
-      ],
-      "skills": [
-        {
-          "name": "skill-creator",
-          "installUrl": "github:luongnv89/asm:skills/skill-creator",
-          "description": "Create, improve, evaluate, benchmark skills. Use when authoring a new skill, updating an existing one, running evals, or optimizing a skill's description for triggering. Don't use for invoking skills, writing prose, or scaffolding Python projects.",
-          "version": "1.17.0"
+          "name": "find-me-skills",
+          "installUrl": "github:luongnv89/asm:skills/find-me-skills",
+          "description": "Find Agent Skills for a goal the user cannot name yet, then export an installable bundle. Use when they ask which skills fit a project. Don't use for installing named skills, authoring skills, or catalog maintenance.",
+          "version": "1.2.1"
         },
         {
           "name": "skill-install-improved",
