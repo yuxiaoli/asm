@@ -23,6 +23,12 @@ export default function Footer() {
           npm i -g agent-skill-manager
         </code>
         <CopyButton text="npm i -g agent-skill-manager" size="sm" />
+        <a className="text-[var(--brand)] hover:underline" href="#/api">
+          API &amp; ChatGPT
+        </a>
+        <a className="text-[var(--brand)] hover:underline" href="rss.xml">
+          RSS
+        </a>
         {generatedAt && (
           <span className="ml-auto">Catalog generated {generatedAt}</span>
         )}

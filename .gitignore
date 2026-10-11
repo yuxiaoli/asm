@@ -33,6 +33,13 @@ website/catalog.json
 website/bundles.json
 website/skills.min.json
 website/search.idx.json
+website/api-snapshot.json
+website/feed-state.json
+website/rss.xml
+website/registry-links.json
+.wrangler/
+.dev.vars
+.dev.vars.*
 website/skills/
 website/assets/favicon.svg
 website/assets/logo-mark.svg

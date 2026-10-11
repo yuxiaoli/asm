@@ -8,6 +8,7 @@ import LandingPage from "./pages/LandingPage.jsx";
 import CatalogPage from "./pages/CatalogPage.jsx";
 import BundlesPage from "./pages/BundlesPage.jsx";
 import DocsPage from "./pages/DocsPage.jsx";
+import ApiDocsPage from "./pages/ApiDocsPage.jsx";
 import ChangelogPage from "./pages/ChangelogPage.jsx";
 import StatsPage from "./pages/StatsPage.jsx";
 import ProfilePage from "./pages/ProfilePage.jsx";
@@ -60,6 +61,7 @@ export default function App() {
               <Route path="/bundles" element={<BundlesPage />} />
               <Route path="/bundles/:name" element={<BundlesPage />} />
               <Route path="/docs" element={<DocsPage />} />
+              <Route path="/api" element={<ApiDocsPage />} />
               <Route path="/changelog" element={<ChangelogPage />} />
               <Route path="/stats" element={<StatsPage />} />
               <Route path="/profile/:owner" element={<ProfilePage />} />
