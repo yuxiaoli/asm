@@ -57,19 +57,17 @@ if (mode === "prepare") {
   const pages = await github("pages");
   const site = String(pages.html_url).replace(/\/?$/, "/");
   const previous = await publishedState(site);
-  const deployments = await github(
-    "deployments?environment=github-pages&per_page=100",
+  // deploy-pages marks its deployment successful before our public checks run.
+  // Only a completed successful production workflow commits the RSS baseline.
+  const releases = await github(
+    "actions/workflows/deploy-website.yml/runs?branch=develop&status=success&per_page=100",
   );
-  let latest: { sha: string } | undefined;
-  for (const deployment of deployments) {
-    const statuses = await github(
-      `deployments/${deployment.id}/statuses?per_page=1`,
-    );
-    if (statuses[0]?.state === "success") {
-      latest = deployment;
-      break;
-    }
-  }
+  const completed = releases.workflow_runs.find(
+    (run: { event: string }) => run.event !== "pull_request",
+  );
+  const latest: { sha: string } | undefined = completed
+    ? { sha: completed.head_sha }
+    : undefined;
   let isDescendant = true;
   let featureAlreadyPublished = false;
   if (latest) {

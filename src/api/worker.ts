@@ -100,7 +100,11 @@ export function createWorker(
         "PROVENANCE_MISSING",
         "This legacy entry needs re-indexing before content can be read",
       );
-    const path = [...skill.relPath.split(/[\\/]/).filter(Boolean), "SKILL.md"]
+    const path = (
+      skill.sourcePath
+        ? skill.sourcePath.split("/")
+        : [...skill.relPath.split(/[\\/]/).filter(Boolean), "SKILL.md"]
+    )
       .map(encodeURIComponent)
       .join("/");
     const sourceUrl = `https://raw.githubusercontent.com/${skill.owner}/${skill.repo}/${skill.sourceCommit}/${path}`;

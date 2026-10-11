@@ -276,6 +276,7 @@ interface SkillEvalSummary {
 
 interface IndexedSkill {
   contentHash?: string;
+  sourcePath?: string;
   dependencies?: string[];
   name: string;
   description: string;
@@ -309,6 +310,7 @@ interface CatalogSkill {
   indexedAt: string;
   sourceCommit?: string;
   contentHash?: string;
+  sourcePath?: string;
   dependencies?: string[];
   id: string;
   name: string;
@@ -447,7 +449,11 @@ for (const file of files) {
     // Build SKILL.md URL from installUrl (format: github:owner/repo:relPath)
     const relPath = skill.relPath || "";
     const sourceRef = repoIndex.sourceCommit || "main";
-    const sourcePath = [...relPath.split("/").filter(Boolean), "SKILL.md"]
+    const sourcePath = (
+      skill.sourcePath
+        ? skill.sourcePath.split("/")
+        : [...relPath.split("/").filter(Boolean), "SKILL.md"]
+    )
       .map(encodeURIComponent)
       .join("/");
     const skillUrl = `https://github.com/${repoIndex.owner}/${repoIndex.repo}/blob/${sourceRef}/${sourcePath}`;
@@ -457,6 +463,7 @@ for (const file of files) {
       indexedAt: repoIndex.updatedAt,
       sourceCommit: repoIndex.sourceCommit,
       contentHash: skill.contentHash,
+      sourcePath: skill.sourcePath,
       dependencies: skill.dependencies,
       id,
       name: skill.name,

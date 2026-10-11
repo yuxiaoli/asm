@@ -27,6 +27,7 @@ export const FIELDS = [
   "dependencies",
   "sourceCommit",
   "contentHash",
+  "sourcePath",
   "indexedAt",
   "tokenCount",
   "stars",

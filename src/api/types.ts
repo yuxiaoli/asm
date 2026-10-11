@@ -18,6 +18,7 @@ export interface ApiSkill {
   skillUrl: string;
   sourceCommit?: string;
   contentHash?: string;
+  sourcePath?: string;
   indexedAt: string;
   tokenCount?: number;
   stars?: number;
@@ -211,7 +212,12 @@ export function validateSnapshot(value: unknown): asserts value is ApiSnapshot {
       typeof s.verified !== "boolean" ||
       (s.sourceCommit !== undefined &&
         !/^[a-f0-9]{40}$/i.test(s.sourceCommit)) ||
-      (s.contentHash !== undefined && !/^[a-f0-9]{64}$/.test(s.contentHash))
+      (s.contentHash !== undefined && !/^[a-f0-9]{64}$/.test(s.contentHash)) ||
+      (s.sourcePath !== undefined &&
+        (typeof s.sourcePath !== "string" ||
+          !s.sourcePath ||
+          s.sourcePath.startsWith("/") ||
+          s.sourcePath.split(/[\\/]/).some((p) => p === ".." || p === ".")))
     )
       throw new Error("Invalid or duplicate registry skill");
     ids.add(s.id);
