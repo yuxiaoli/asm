@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "fe5266f76d846222c73b080ce39fd803dd705198",
   "repoUrl": "https://github.com/entireio/skills.git",
   "owner": "entireio",
   "repo": "skills",
-  "updatedAt": "2026-10-18T22:13:14.373Z",
+  "updatedAt": "2026-10-11T05:06:32.855Z",
   "skillCount": 12,
   "skills": [
     {
+      "contentHash": "089ed318f4902b865392f72ebdd5d9f168c270e1d3a7994df3037ec6f9709468",
+      "sourcePath": "skills/address-findings/SKILL.md",
       "name": "address-findings",
       "description": "Address the review findings posted on an Entire trail: fetch the trail's open findings, fix the code, and resolve them on the trail. Use when the user gives a trail URL or number and asks to address, fix, or resolve its findings or review comments. Not for local diff review — that is the `review` skill.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.339Z",
+        "evaluatedAt": "2026-10-11T05:06:32.810Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.811Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.811Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "38133e1d3bb63135a43662ad7d1580c7003df1f2e8022e688fc8f843c8ddcd76",
+      "sourcePath": "skills/explain/SKILL.md",
       "name": "explain",
       "description": "Explains the intent behind source code by finding original session transcripts. Use explain with a function, file, or line of code to understand why it exists.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.339Z",
+        "evaluatedAt": "2026-10-11T05:06:32.809Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9c789166b629668e8f33b2dcafbd1b1e4fb3d98419e0c536135b35675dd2a640",
+      "sourcePath": "skills/recall/SKILL.md",
       "name": "recall",
       "description": "Use when the user describes a task and wants to know whether something similar has been done before, then turn the closest prior session into a task playbook. Triggers on phrases like \\\"have we done this before\\\", \\\"recall how we did X\\\", \\\"find similar work\\\", \\\"any precedent for\\\", \\\"has anyone solved\\\", \\\"is there a template for\\\", and \\\"how did we do this last time\\\"",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.339Z",
+        "evaluatedAt": "2026-10-11T05:06:32.809Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4289cb302c3c67d36e18e21c8b9812a410580a08ed944cedaec54a9fe9523b88",
+      "sourcePath": "skills/replay/SKILL.md",
       "name": "replay",
       "description": "Use when the user wants to step through a feature's checkpoints chronologically, pausing at each step to ask questions. Triggers on phrases like \\\"replay <feature>\\\", \\\"walk me through how X was built\\\", \\\"show me the journey of\\\", \\\"step me through how Y was implemented\\\", and \\\"replay the last week\\\"",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.339Z",
+        "evaluatedAt": "2026-10-11T05:06:32.809Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "481c497242db42ebb90ed64ebe1f8ae228b5d3d15498bf106750d4ff6558260c",
+      "sourcePath": "skills/review/SKILL.md",
       "name": "review",
       "description": "Review code changes on the current branch using checkpoint transcript context to understand developer intent before auditing the diff. Use when the user asks for a code review, wants to review branch changes, or asks to audit recent work before merging.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.339Z",
+        "evaluatedAt": "2026-10-11T05:06:32.808Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4b5791ddbdd3c6c09b546d9d82b967519235ea31ffdbbc54d58f0b161397ef96",
+      "sourcePath": "skills/search/SKILL.md",
       "name": "search",
       "description": "Use when the user asks to research, investigate, look into, dig into, or search for anything — a topic, feature, bug, decision, or \"what do we know about X\". Invoke this as the FIRST action on such requests, before Glob, Grep, or Read: the answer is in Entire's recorded history (prompts, transcripts, and decisions, across repos), not in the local files, and a working copy that looks empty or unfamiliar is not a reason to skip it. Also use to find code across repositories (\"where is X implemented in our other repos\"). Not for grepping the current working copy on its own, and not for the current active session.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.339Z",
+        "evaluatedAt": "2026-10-11T05:06:32.811Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.811Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 2
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.811Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9a9668ff9d3af9e403825e301da9ca1a2222f9250e25b5ca7ee742ab8d49d4ca",
+      "sourcePath": "skills/session-crosslink/SKILL.md",
       "name": "session-crosslink",
       "description": "Use when an agent session ran outside the repo whose commits should record it — e.g. launched from a higher-level folder, a non-Entire repo, or one repo but editing another — to attach the session to each affected Entire-enabled repo's HEAD commit.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.339Z",
+        "evaluatedAt": "2026-10-11T05:06:32.808Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.810Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "833023d663181eace674fb5a64f5008a3c940ac50de4087d75ee6df8d7ae0e0d",
+      "sourcePath": "skills/session-handoff/SKILL.md",
       "name": "session-handoff",
       "description": "Use when the user wants to continue work from one agent in another agent, inspect recent sessions, or summarize a saved session or checkpoint for handoff",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.340Z",
+        "evaluatedAt": "2026-10-11T05:06:32.810Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.811Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.340Z",
+          "evaluatedAt": "2026-10-11T05:06:32.811Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3373821cae2f5dae57aaf0f264e8f332b25d579b332d8c920c8e3b688ba88db2",
+      "sourcePath": "skills/session-to-skill/SKILL.md",
       "name": "session-to-skill",
       "description": "Use when the user wants to turn one or more Entire-tracked sessions, checkpoints, or repeated agent workflows into a reusable agent skill.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.363Z",
+        "evaluatedAt": "2026-10-11T05:06:32.848Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.364Z",
+          "evaluatedAt": "2026-10-11T05:06:32.849Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.364Z",
+          "evaluatedAt": "2026-10-11T05:06:32.849Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "06900961cf06c9f6d7ac2b0ed6bb83a218eecf0029e7e973d66ac175009364ad",
+      "sourcePath": "skills/teach/SKILL.md",
       "name": "teach",
       "description": "Use when a developer wants a topic-focused guided lesson built from canonical checkpoints, not a whole-repo overview. Triggers on phrases like \\\"teach me <topic>\\\", \\\"teach me how this repo handles\\\", \\\"how does <topic> work in this repo\\\", \\\"give me a lesson on\\\", \\\"school me on\\\", and \\\"I need to learn about\\\"",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.363Z",
+        "evaluatedAt": "2026-10-11T05:06:32.849Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.364Z",
+          "evaluatedAt": "2026-10-11T05:06:32.850Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.364Z",
+          "evaluatedAt": "2026-10-11T05:06:32.850Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "97089b6cf325a244b109459ba33b8d29f6d5a3a6819a93f8dae9080e97fd0500",
+      "sourcePath": "skills/using-entire/SKILL.md",
       "name": "using-entire",
       "description": "Use as the FIRST action on any research, investigation, or codebase-understanding request — \"research X\", \"investigate X\", \"look into X\", \"dig into X\", \"search X\", \"explore X\", \"understand X\", \"why is this like this\" — before Glob, Grep, or Read. Recorded intent lives in Entire checkpoints on the server, not in local files, so an empty or unfamiliar working copy is not a reason to skip it. Routes to the right Entire sub-skill (search, recall, explain, what-happened, replay, teach, review, session-handoff).",
       "version": "0.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.363Z",
+        "evaluatedAt": "2026-10-11T05:06:32.849Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.364Z",
+          "evaluatedAt": "2026-10-11T05:06:32.850Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.364Z",
+          "evaluatedAt": "2026-10-11T05:06:32.850Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c4f21d0ddcb9a766e481e50e3de6cf52634eaeef8f6631bbc432984b840498dc",
+      "sourcePath": "skills/what-happened/SKILL.md",
       "name": "what-happened",
       "description": "Explain why code looks the way it does by tracing the latest change for a file range or pasted snippet through `git blame` and deduplicated `entire checkpoint explain` lookups. Use when the user asks what happened, says \"tell me why\" about a code block, is confused about a section of code, asks \"wtf is going on\", \"why is this like this\", \"why was this changed\", or wants provenance for a specific file block.",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:14.364Z",
+        "evaluatedAt": "2026-10-11T05:06:32.850Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.364Z",
+          "evaluatedAt": "2026-10-11T05:06:32.850Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:14.364Z",
+          "evaluatedAt": "2026-10-11T05:06:32.850Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2136,7 +2161,7 @@
       "name": "entireio-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-18T22:13:14.373Z",
+      "createdAt": "2026-10-11T05:06:32.855Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2208,7 +2233,7 @@
       "name": "entireio-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-18T22:13:14.373Z",
+      "createdAt": "2026-10-11T05:06:32.855Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2250,7 +2275,7 @@
       "name": "entireio-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-18T22:13:14.373Z",
+      "createdAt": "2026-10-11T05:06:32.855Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2310,7 +2335,7 @@
       "name": "entireio-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-18T22:13:14.373Z",
+      "createdAt": "2026-10-11T05:06:32.855Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2346,7 +2371,7 @@
       "name": "entireio-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-18T22:13:14.373Z",
+      "createdAt": "2026-10-11T05:06:32.855Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2388,7 +2413,7 @@
       "name": "entireio-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-18T22:13:14.373Z",
+      "createdAt": "2026-10-11T05:06:32.855Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2442,7 +2467,7 @@
       "name": "entireio-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-18T22:13:14.373Z",
+      "createdAt": "2026-10-11T05:06:32.855Z",
       "tags": [
         "repo-derived",
         "inferred",

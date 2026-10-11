@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "798e9b1a2bcac164d4f0c781908199e754f0bab6",
   "repoUrl": "https://github.com/AvdLee/Swift-Testing-Agent-Skill.git",
   "owner": "AvdLee",
   "repo": "Swift-Testing-Agent-Skill",
-  "updatedAt": "2026-10-18T22:10:11.290Z",
+  "updatedAt": "2026-10-11T05:04:22.547Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "d039eb55cfbaa379d308ff42c1e459dea355edb869ec0a4d6f488759d2156aec",
+      "sourcePath": "swift-testing-expert/SKILL.md",
       "name": "swift-testing-expert",
       "description": "Expert guidance for Swift Testing: test structure, #expect/#require macros, traits and tags, parameterized tests, test plans, parallel execution, async waiting patterns, and XCTest migration. Use when writing new Swift tests, modernizing XCTest suites, debugging flaky tests, or improving test quality and maintainability in Apple-platform or Swift server projects.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:11.282Z",
+        "evaluatedAt": "2026-10-11T05:04:22.543Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:11.282Z",
+          "evaluatedAt": "2026-10-11T05:04:22.543Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:11.282Z",
+          "evaluatedAt": "2026-10-11T05:04:22.543Z",
           "evaluatedVersion": "0.0.0"
         }
       }

@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "6c08c49fc6c51b8f768bf8c53c041bc06a160765",
   "repoUrl": "https://github.com/warpdotdev/oz-skills.git",
   "owner": "warpdotdev",
   "repo": "oz-skills",
-  "updatedAt": "2026-10-18T22:13:13.480Z",
+  "updatedAt": "2026-10-11T05:06:32.028Z",
   "skillCount": 15,
   "skills": [
     {
+      "contentHash": "befbf8616b0d188a9f6887697af2c15a54e35f43ec45f4f74475e2cfe735c999",
+      "sourcePath": ".agents/skills/analysis-artifacts/SKILL.md",
       "name": "analysis-artifacts",
       "description": "Generate reproducible analysis artifacts — SQL queries, Python visualizations, and summary tables — as you work through a BigQuery data analysis. Use when asked to conduct a deep dive, exploratory analysis, or investigation that goes beyond a simple data lookup.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.142Z",
+        "evaluatedAt": "2026-10-11T05:06:31.761Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3b9410bf0e07faa8ea669131fe308c8b362b22dd623902fe5cc85524ba372bfb",
+      "sourcePath": ".agents/skills/ci-fix/SKILL.md",
       "name": "ci-fix",
       "description": "Diagnose and fix GitHub Actions CI failures. Inspects workflow runs and logs, identifies root causes, implements minimal fixes, and pushes to a fix branch. Use when CI is failing, red, broken, or needs diagnosis.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.142Z",
+        "evaluatedAt": "2026-10-11T05:06:31.762Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.763Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.763Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4d08f8d30e00078a46d476ec79614d892eec43b768c32331f37a835c147b1d7f",
+      "sourcePath": ".agents/skills/create-pull-request/SKILL.md",
       "name": "create-pull-request",
       "description": "Create a GitHub pull request following project conventions. Use when the user asks to create a PR, submit changes for review, or open a pull request. Handles commit analysis, branch management, and PR creation using the gh CLI tool.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.143Z",
+        "evaluatedAt": "2026-10-11T05:06:31.761Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "5559c90e1b05d6208df411a6955883939245ae2e3494808f8d03f5351b92863a",
+      "sourcePath": ".agents/skills/dbt-model-index/SKILL.md",
       "name": "dbt-model-index",
       "description": "Provide a lookup index of dbt models (BigQuery tables) to guide query writing against a data warehouse. Use when you need to query, analyze, or look up data in a dbt-powered data warehouse, or when resolving a vague data question into the right BigQuery tables to query.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.143Z",
+        "evaluatedAt": "2026-10-11T05:06:31.761Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f904a622557c9663576978de31b1bf07c73cf2080805345e9b677bd7c68267d7",
+      "sourcePath": ".agents/skills/docs-update/SKILL.md",
       "name": "docs-update",
       "description": "Update user-facing documentation when code changes. Use when asked to update docs, review docs, handle documentation changes, run scheduled documentation tasks, or analyze recent commits for documentation needs.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.143Z",
+        "evaluatedAt": "2026-10-11T05:06:31.761Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e4289faf56f8b8a956089968bef40cdfdee7385f46fd10d9df10d9d0f0cb57b9",
+      "sourcePath": ".agents/skills/github-bug-report-triage/SKILL.md",
       "name": "github-bug-report-triage",
       "description": "Triage GitHub bug reports for actionability. Use when evaluating whether a bug issue has sufficient detail and identifying missing information from the reporter.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.143Z",
+        "evaluatedAt": "2026-10-11T05:06:31.761Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.762Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "27ba2736754a697db2470c5d4fafe484980cb90f5da43f4be7bbc994bac5576f",
+      "sourcePath": ".agents/skills/github-issue-dedupe/SKILL.md",
       "name": "github-issue-dedupe",
       "description": "Detect duplicate GitHub issues using semantic search and keyword matching. Use when asked to find duplicates, check for similar issues, or set up automated duplicate detection.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.143Z",
+        "evaluatedAt": "2026-10-11T05:06:31.763Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.143Z",
+          "evaluatedAt": "2026-10-11T05:06:31.763Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.144Z",
+          "evaluatedAt": "2026-10-11T05:06:31.763Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b1bba0c20cb16a0d5b583793dab0b89bc9197b602eb8b1fcacb7ad8d290cc297",
+      "sourcePath": ".agents/skills/mcp-builder/SKILL.md",
       "name": "mcp-builder",
       "description": "Build high-quality MCP (Model Context Protocol) servers that let LLMs interact with external services through well-designed tools. Use when creating MCP servers to integrate APIs or services in Python (FastMCP) or Node/TypeScript (MCP SDK).",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.143Z",
+        "evaluatedAt": "2026-10-11T05:06:31.763Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.144Z",
+          "evaluatedAt": "2026-10-11T05:06:31.763Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.144Z",
+          "evaluatedAt": "2026-10-11T05:06:31.763Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6092009de0c5fb2a0080d0854a17739fa72183e27326fd1ee5ed7c2789522454",
+      "sourcePath": ".agents/skills/scheduler/SKILL.md",
       "name": "scheduler",
       "description": "Schedule on-device reminders and local actions only. Use this skill to set personal reminders or run lightweight, local tasks at a specific time or interval (e.g., notifications, local scripts), on the user's computer or with platforms like Slack. Do NOT use for scheduling cloud agents, background agentic jobs, or Oz-managed workflows.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.166Z",
+        "evaluatedAt": "2026-10-11T05:06:31.804Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.805Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.805Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6e157f9dfc2edcaa465df672b9b5468392a769cfd0a5b187eb137fa365c56e44",
+      "sourcePath": ".agents/skills/seo-aeo-audit/SKILL.md",
       "name": "seo-aeo-audit",
       "description": "Optimize for search engine visibility, ranking, and AI citations. Use when asked to improve SEO, optimize for search, fix meta tags, add structured data, or improve AEO and AI visibility.",
       "version": "2.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.166Z",
+        "evaluatedAt": "2026-10-11T05:06:31.804Z",
         "evaluatedVersion": "2.0"
       },
       "evalSummaries": {
@@ -1688,7 +1709,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 82,
+          "overallScore": 84,
           "grade": "B",
           "categories": [
             {
@@ -1748,11 +1769,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 8,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.804Z",
           "evaluatedVersion": "2.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.804Z",
           "evaluatedVersion": "2.0"
         }
       }
     },
     {
+      "contentHash": "d340bcc39d819e54d246338efc1cfa5b95003424710d00da6ac46f46a748ad4b",
+      "sourcePath": ".agents/skills/slack-qa-investigate/SKILL.md",
       "name": "slack-qa-investigate",
       "description": "Investigate and answer repository questions in read-only mode. Use when asked for research-backed answers that require codebase and documentation investigation without making file changes.",
       "version": "0.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.166Z",
+        "evaluatedAt": "2026-10-11T05:06:31.804Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.804Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.804Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9d4f641373b56ad5d2e33c5be639bc200b2ffbc1b9a6cc2ddcf027dff5e89077",
+      "sourcePath": ".agents/skills/terraform-style-check/SKILL.md",
       "name": "terraform-style-check",
       "description": "Generate Terraform HCL code following HashiCorp's official style conventions and best practices. Use when writing, reviewing, or generating Terraform configurations.",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.166Z",
+        "evaluatedAt": "2026-10-11T05:06:31.804Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.804Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.804Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9a95e62e3ac31bd85faaa75beac543d9749de9095f954854cc47bb5a737001a5",
+      "sourcePath": ".agents/skills/web-accessibility-audit/SKILL.md",
       "name": "web-accessibility-audit",
       "description": "Audit web applications for WCAG accessibility compliance. Use when asked to run accessibility checks, identify common violations, and provide remediation guidance.",
       "version": "0.0.0",
@@ -2216,7 +2243,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.166Z",
+        "evaluatedAt": "2026-10-11T05:06:31.806Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2225,7 +2252,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 81,
+          "overallScore": 82,
           "grade": "B",
           "categories": [
             {
@@ -2285,11 +2312,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 9,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.813Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2307,12 +2334,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.167Z",
+          "evaluatedAt": "2026-10-11T05:06:31.813Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "2c82ff8d7c141ceabbf54110ad00a513e48d53926c09be3334664e18549fcc76",
+      "sourcePath": ".agents/skills/web-performance-audit/SKILL.md",
       "name": "web-performance-audit",
       "description": "Audit web performance using Chrome DevTools MCP. Use when asked to audit, profile, debug, or optimize page load performance, Lighthouse scores, or site speed.",
       "version": "0.0.0",
@@ -2393,7 +2422,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.171Z",
+        "evaluatedAt": "2026-10-11T05:06:31.822Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2466,7 +2495,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.173Z",
+          "evaluatedAt": "2026-10-11T05:06:31.825Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2484,12 +2513,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.173Z",
+          "evaluatedAt": "2026-10-11T05:06:31.825Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "81ed0233cfc1f6b4a4aaa0abb5dec102dbd923175bea4bad2704379f212020af",
+      "sourcePath": ".agents/skills/webapp-testing/SKILL.md",
       "name": "webapp-testing",
       "description": "Test local web applications with Playwright. Use when asked to verify frontend functionality, debug UI behavior, capture browser screenshots, or inspect browser logs.",
       "version": "0.0.0",
@@ -2570,7 +2601,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:13.188Z",
+        "evaluatedAt": "2026-10-11T05:06:31.826Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2643,7 +2674,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.188Z",
+          "evaluatedAt": "2026-10-11T05:06:31.827Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2661,7 +2692,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:13.188Z",
+          "evaluatedAt": "2026-10-11T05:06:31.827Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2673,7 +2704,7 @@
       "name": "warpdotdev-oz-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from warpdotdev/oz-skills.",
       "author": "ASM (warpdotdev/oz-skills)",
-      "createdAt": "2026-10-18T22:13:13.480Z",
+      "createdAt": "2026-10-11T05:06:32.028Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2787,7 +2818,7 @@
       "name": "warpdotdev-oz-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from warpdotdev/oz-skills.",
       "author": "ASM (warpdotdev/oz-skills)",
-      "createdAt": "2026-10-18T22:13:13.480Z",
+      "createdAt": "2026-10-11T05:06:32.028Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2853,7 +2884,7 @@
       "name": "warpdotdev-oz-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from warpdotdev/oz-skills.",
       "author": "ASM (warpdotdev/oz-skills)",
-      "createdAt": "2026-10-18T22:13:13.480Z",
+      "createdAt": "2026-10-11T05:06:32.028Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2925,7 +2956,7 @@
       "name": "warpdotdev-oz-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from warpdotdev/oz-skills.",
       "author": "ASM (warpdotdev/oz-skills)",
-      "createdAt": "2026-10-18T22:13:13.480Z",
+      "createdAt": "2026-10-11T05:06:32.028Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2985,7 +3016,7 @@
       "name": "warpdotdev-oz-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from warpdotdev/oz-skills.",
       "author": "ASM (warpdotdev/oz-skills)",
-      "createdAt": "2026-10-18T22:13:13.480Z",
+      "createdAt": "2026-10-11T05:06:32.028Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3051,7 +3082,7 @@
       "name": "warpdotdev-oz-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from warpdotdev/oz-skills.",
       "author": "ASM (warpdotdev/oz-skills)",
-      "createdAt": "2026-10-18T22:13:13.480Z",
+      "createdAt": "2026-10-11T05:06:32.028Z",
       "tags": [
         "repo-derived",
         "inferred",

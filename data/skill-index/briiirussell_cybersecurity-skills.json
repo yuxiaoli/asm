@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "c9ade0349f8ecd5c9c68a82a05d2b6012c5fa1d7",
   "repoUrl": "https://github.com/briiirussell/cybersecurity-skills.git",
   "owner": "briiirussell",
   "repo": "cybersecurity-skills",
-  "updatedAt": "2026-10-18T22:13:16.746Z",
+  "updatedAt": "2026-10-11T05:06:34.605Z",
   "skillCount": 29,
   "skills": [
     {
+      "contentHash": "189207335d4d8d802515b8105798fc04d7eac0f26d43e90c52493347e692497c",
+      "sourcePath": "skills/ai-risk-management/SKILL.md",
       "name": "ai-risk-management",
       "description": "Apply the NIST AI Risk Management Framework (AI RMF 1.0) and adjacent guidance to AI / ML systems — model lifecycle governance, fairness and bias evaluation, robustness, transparency, accountability, third-party model risk, monitoring for drift, and AI incident response. Broader than prompt-injection (which is the security slice). Use when the user mentions 'AI risk,' 'AI governance,' 'NIST AI RMF,' 'AI compliance,' 'ML governance,' 'model risk management,' 'AI fairness,' 'AI bias,' 'algorithmic accountability,' 'AI Bill of Rights,' 'EU AI Act,' 'AI transparency,' 'model card,' 'AI red team,' 'AI safety,' 'responsible AI,' 'model drift,' 'concept drift,' 'AI monitoring,' 'AI incident,' or needs to assess or govern an AI / ML system.",
       "version": "0.0.0",
@@ -93,7 +96,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.583Z",
+        "evaluatedAt": "2026-10-11T05:06:34.405Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -166,7 +169,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.584Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -184,12 +187,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.584Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "eb2b68fd76c6c7d53f510134e0188f12ff4e5af85f71069e86e4fecf330484ff",
+      "sourcePath": "skills/api-audit/SKILL.md",
       "name": "api-audit",
       "description": "Audit REST, GraphQL, and RPC APIs against the OWASP API Security Top 10 (2023). Use when the user mentions 'API security,' 'API audit,' 'BOLA,' 'broken object level authorization,' 'BFLA,' 'function-level authorization,' 'mass assignment,' 'API rate limiting,' 'GraphQL security,' 'REST security,' 'API authentication,' 'API authorization,' 'excessive data exposure,' or needs to review API endpoints for security weaknesses.",
       "version": "0.0.0",
@@ -276,7 +281,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.583Z",
+        "evaluatedAt": "2026-10-11T05:06:34.402Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -349,7 +354,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.584Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -367,12 +372,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "2591026e01ebb119aad013b79d8cd27ba868e2415afc94b1083135a50c1a4122",
+      "sourcePath": "skills/breach-patterns/SKILL.md",
       "name": "breach-patterns",
       "description": "Learn from public breach disclosures — extract the audit question each one implies and check your own stack. Capital One IMDS abuse, LastPass vault exfiltration, Okta Lapsus$, Snowflake credential reuse, MOVEit, SolarWinds, Equifax, Target POS, Codecov, Uber, Twilio — what would you check now if your boss said 'could that happen to us?' Use when the user mentions 'breach analysis,' 'lessons learned,' 'security postmortem,' 'breach patterns,' 'breach lessons,' 'has this happened to us,' 'apply breach lessons,' 'preempt breaches,' 'security retrospective,' 'real-world security incidents,' or wants to harden against known attacker playbooks.",
       "version": "0.0.0",
@@ -460,7 +467,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.584Z",
+        "evaluatedAt": "2026-10-11T05:06:34.402Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -533,7 +540,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -551,12 +558,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a640051194df11758e9a6e8ae17b508bd3d1d288bf0fc2deb8f74849320e450c",
+      "sourcePath": "skills/cloud-audit/SKILL.md",
       "name": "cloud-audit",
       "description": "Audit cloud infrastructure (AWS, GCP, Azure) for misconfigurations, excessive permissions, and security gaps. Use when the user mentions 'cloud security,' 'cloud audit,' 'AWS security,' 'GCP security,' 'Azure security,' 'IAM audit,' 'S3 bucket,' 'cloud misconfiguration,' 'cloud hardening,' or needs to review cloud infrastructure security.",
       "version": "0.0.0",
@@ -644,7 +653,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.584Z",
+        "evaluatedAt": "2026-10-11T05:06:34.402Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -717,7 +726,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -735,12 +744,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9f24eeca771dc045038fec4db18d9f3a2df8cfeae87b641158d63c644b6d6e41",
+      "sourcePath": "skills/container-audit/SKILL.md",
       "name": "container-audit",
       "description": "Audit container images, Dockerfiles, and Kubernetes manifests for misconfigurations, excessive privileges, exposed secrets, and runtime risks. Use when the user mentions 'container security,' 'Docker security,' 'Dockerfile audit,' 'Kubernetes security,' 'K8s security,' 'pod security,' 'container hardening,' 'kubectl audit,' 'image scanning,' 'distroless,' 'rootless containers,' 'pod security policy,' 'pod security standards,' 'PSS,' 'network policy,' 'OPA Gatekeeper,' 'Kyverno,' 'runtime security,' or needs to review container or orchestration security.",
       "version": "0.0.0",
@@ -828,7 +839,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.584Z",
+        "evaluatedAt": "2026-10-11T05:06:34.402Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -901,7 +912,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -919,12 +930,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "bfb68044e4e3d36cd83e7044438927ab9b9fbd05b635a73300c3a02fc7adc524",
+      "sourcePath": "skills/crypto-audit/SKILL.md",
       "name": "crypto-audit",
       "description": "Audit cryptography implementation — algorithm choice, key sizes, KDF parameters, IV/nonce handling, signature verification, randomness, TLS configuration, and key rotation. Deeper than owasp-audit A02. Use when the user mentions 'crypto review,' 'cryptography audit,' 'encryption review,' 'KDF,' 'PBKDF2,' 'Argon2,' 'bcrypt cost,' 'IV reuse,' 'nonce reuse,' 'AES mode,' 'AES-GCM,' 'AES-ECB,' 'signature verification,' 'TLS configuration,' 'cipher suites,' 'key rotation,' 'libsodium,' 'BoringSSL,' or 'is this crypto right.'",
       "version": "0.0.0",
@@ -1011,7 +1024,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.584Z",
+        "evaluatedAt": "2026-10-11T05:06:34.402Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1084,7 +1097,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1102,12 +1115,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4ffe2fec6a4c4351d8b2a0e7698844e7a200bd7446dc169872197fe0541695aa",
+      "sourcePath": "skills/csf-mapping/SKILL.md",
       "name": "csf-mapping",
       "description": "Map your security posture against the NIST Cybersecurity Framework 2.0 (Govern, Identify, Protect, Detect, Respond, Recover). Produce a gap analysis, current/target tier assessment, and roadmap in the governance language that boards, auditors, and CISOs actually use. Use when the user mentions 'NIST CSF,' 'CSF 2.0,' 'cybersecurity framework,' 'security posture,' 'governance mapping,' 'CSF gap analysis,' 'CSF tiers,' 'cybersecurity maturity,' 'security roadmap,' 'CISO report,' 'board reporting,' 'security program,' or needs to translate technical findings into governance language.",
       "version": "0.0.0",
@@ -1194,7 +1209,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.584Z",
+        "evaluatedAt": "2026-10-11T05:06:34.405Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1267,7 +1282,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1285,12 +1300,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "2c8c23feba0f170cc5cd50002eecedfe7b429a5f19df8e36c6617ea5f4e34408",
+      "sourcePath": "skills/dependency-audit/SKILL.md",
       "name": "dependency-audit",
       "description": "Audit project dependencies, frameworks, languages, and dev tools for known vulnerabilities, CVEs, and security anti-patterns. Use when the user mentions 'dependency audit,' 'npm audit,' 'CVE,' 'vulnerable packages,' 'supply chain security,' 'outdated dependencies,' 'known vulnerabilities,' 'security advisory,' 'package security,' 'framework vulnerability,' 'is this package safe,' or needs to check whether their stack has known security issues.",
       "version": "0.0.0",
@@ -1378,7 +1395,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.584Z",
+        "evaluatedAt": "2026-10-11T05:06:34.405Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1451,7 +1468,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1469,12 +1486,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.585Z",
+          "evaluatedAt": "2026-10-11T05:06:34.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "988e32bda0af636e544162e4ef9028e36b73d3807ba3d498f988919d3e45a0da",
+      "sourcePath": "skills/disk-forensics/SKILL.md",
       "name": "disk-forensics",
       "description": "Analyze disk images, file systems, and memory captures for digital evidence recovery in forensic investigations and CTF challenges. Use when the user mentions 'disk forensics,' 'forensic analysis,' 'disk image,' 'file carving,' 'deleted files,' 'evidence recovery,' 'timeline analysis,' 'memory forensics,' 'volatility,' 'autopsy,' 'sleuthkit,' 'plaso,' 'log2timeline,' 'artifact analysis,' 'chain of custody,' or needs to examine a forensic image.",
       "version": "0.0.0",
@@ -1561,7 +1580,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.638Z",
+        "evaluatedAt": "2026-10-11T05:06:34.475Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1634,7 +1653,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.476Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1652,12 +1671,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.476Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "91252dc77cf65851953b49d450929f76aa66a50863bd7bea4883ef3ae3d15bcd",
+      "sourcePath": "skills/finding-triage/SKILL.md",
       "name": "finding-triage",
       "description": "Triage a single security finding — from a scanner, audit, advisory, or report — to a defensible disposition with a mitigation plan, false-positive justification, or accepted-risk writeup. Use when the user mentions 'triage this finding,' 'is this a real vulnerability,' 'mitigation plan,' 'false positive,' 'accept this risk,' 'compensating controls,' 'risk justification,' 'security ticket,' 'CVSS this,' 'should we fix this,' 'disposition,' 'sign off on,' or has a single security finding and needs to decide what to do.",
       "version": "0.0.0",
@@ -1744,7 +1765,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.638Z",
+        "evaluatedAt": "2026-10-11T05:06:34.471Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1817,7 +1838,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.475Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1835,12 +1856,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.475Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "328b90de3803aaeb15f2fa3b24d541ba315d7454f7f673f856d3e3d44f04167a",
+      "sourcePath": "skills/hipaa-audit/SKILL.md",
       "name": "hipaa-audit",
       "description": "Audit applications and infrastructure handling Protected Health Information against HIPAA — Security Rule (administrative, physical, technical safeguards), Privacy Rule, Breach Notification Rule, plus HITECH. Covers ePHI scoping, the 18 HIPAA identifiers, Business Associate Agreement (BAA) chain-of-liability, minimum-necessary standard, and breach notification timing. Use when the user mentions 'HIPAA,' 'HIPAA Security Rule,' 'HIPAA Privacy Rule,' 'PHI,' 'ePHI,' 'protected health information,' 'BAA,' 'business associate agreement,' 'covered entity,' 'business associate,' 'minimum necessary,' 'HIPAA breach,' 'HITECH,' 'healthcare compliance,' 'medical data,' 'patient data,' or audits any system that creates, receives, maintains, or transmits PHI.",
       "version": "0.0.0",
@@ -1928,7 +1951,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.638Z",
+        "evaluatedAt": "2026-10-11T05:06:34.471Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2001,7 +2024,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.475Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2019,12 +2042,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.475Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "73b49edd474a124a7b4e79760055ec215ba9ff7f8f016d0600c990dc48ab3738",
+      "sourcePath": "skills/iam-audit/SKILL.md",
       "name": "iam-audit",
       "description": "Audit, design, and migrate Identity and Access Management — cloud provider IAM (AWS, GCP, Azure), identity providers (Okta, Entra ID / Azure AD, Auth0, Google Workspace), application authorization (RBAC, ABAC, ReBAC), and federated identity. Use when the user mentions 'IAM,' 'identity,' 'access management,' 'least privilege,' 'role design,' 'SSO,' 'SAML,' 'OIDC,' 'OAuth,' 'JIT access,' 'just-in-time access,' 'break-glass,' 'service accounts,' 'RBAC,' 'ABAC,' 'privilege creep,' 'role explosion,' 'identity governance,' 'IAM strategy,' 'identity migration,' 'Okta,' 'Entra ID,' 'Azure AD,' 'Auth0,' 'Cognito,' or needs identity consultant-level guidance.",
       "version": "0.0.0",
@@ -2112,7 +2137,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.642Z",
+        "evaluatedAt": "2026-10-11T05:06:34.471Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2185,7 +2210,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.475Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2203,12 +2228,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.475Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b9fa472100490c8315dca4e9c599bdfd9270903710ad1aae2ca7c1079213cd18",
+      "sourcePath": "skills/incident-triage/SKILL.md",
       "name": "incident-triage",
       "description": "Guide rapid triage and initial response to security incidents following NIST SP 800-61 methodology. Use when the user mentions 'incident response,' 'security incident,' 'triage,' 'we've been hacked,' 'breach,' 'compromised,' 'malware detected,' 'suspicious activity,' 'IOC,' 'indicators of compromise,' or needs help handling a security event.",
       "version": "0.0.0",
@@ -2296,7 +2323,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.642Z",
+        "evaluatedAt": "2026-10-11T05:06:34.471Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2369,7 +2396,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.475Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2387,12 +2414,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.475Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "cffb95c324f14159c60266b58dd77c78ad14b4eee95b533ce07872da6fb9215e",
+      "sourcePath": "skills/mobile-audit/SKILL.md",
       "name": "mobile-audit",
       "description": "Audit iOS and Android mobile applications against OWASP MASVS / MASTG — insecure storage, weak crypto, certificate pinning, deeplinks, IPC, jailbreak/root detection, reverse-engineering resistance. Use when the user mentions 'mobile security,' 'iOS security,' 'Android security,' 'mobile audit,' 'mobile pentest,' 'MASVS,' 'MASTG,' 'certificate pinning,' 'jailbreak detection,' 'root detection,' 'deeplink,' 'URL scheme,' 'app transport security,' 'keychain,' 'keystore,' 'mobile reverse engineering,' or has a mobile app to review.",
       "version": "0.0.0",
@@ -2480,7 +2509,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.644Z",
+        "evaluatedAt": "2026-10-11T05:06:34.476Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2553,7 +2582,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.476Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2571,12 +2600,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.476Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e66fbe28f47b073f37463364dd9bada0ac83e3797c67cbc6881522b960c6088f",
+      "sourcePath": "skills/osint-recon/SKILL.md",
       "name": "osint-recon",
       "description": "Gather and correlate open source intelligence from public sources for authorized investigations, threat intelligence, and attack surface assessment. Use when the user mentions 'OSINT,' 'open source intelligence,' 'digital footprint,' 'public records,' 'threat intelligence,' 'investigate a domain,' or needs to research a target using publicly available data.",
       "version": "0.0.0",
@@ -2663,7 +2694,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.644Z",
+        "evaluatedAt": "2026-10-11T05:06:34.475Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2736,7 +2767,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.476Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2754,12 +2785,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.476Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0acac3a6ee263306a22e0e7e63011ffc717a60631f2354b29e7610091620daeb",
+      "sourcePath": "skills/owasp-audit/SKILL.md",
       "name": "owasp-audit",
       "description": "Audit application source code against the OWASP Top 10 (2021) vulnerability categories — broken access control, cryptographic failures, injection, insecure design, security misconfiguration, vulnerable components, authentication failures, data integrity, logging failures, SSRF. Use when the user mentions 'OWASP,' 'OWASP Top 10,' 'security audit,' 'security review,' 'secure code review,' 'code security review,' 'vulnerability audit,' 'find vulnerabilities,' 'appsec review,' 'application security audit,' 'check for security issues,' 'broken access control,' 'IDOR,' 'SQL injection,' 'XSS,' 'SSRF,' or wants to check their codebase for common security weaknesses.",
       "version": "0.0.0",
@@ -2846,7 +2879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.644Z",
+        "evaluatedAt": "2026-10-11T05:06:34.475Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2919,7 +2952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.644Z",
+          "evaluatedAt": "2026-10-11T05:06:34.476Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2937,12 +2970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.645Z",
+          "evaluatedAt": "2026-10-11T05:06:34.476Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "defd12a55c8af74139134fc9b8bf4d283aa16672fea8d1d7a1206d01c269dd3a",
+      "sourcePath": "skills/pci-audit/SKILL.md",
       "name": "pci-audit",
       "description": "Audit applications and infrastructure handling payment card data against PCI DSS v4.0. Heavy emphasis on scope determination (the single most-leveraged variable) plus the engineering-relevant requirements — Req 3 (storage of CHD), Req 4 (transmission), Req 6 (secure SDLC), Req 7-8 (access), Req 10 (logging), Req 11 (testing), Req 12 (program). Use when the user mentions 'PCI,' 'PCI DSS,' 'PCI DSS 4.0,' 'payment card,' 'cardholder data,' 'CHD,' 'PAN,' 'PCI scope,' 'PCI compliance,' 'SAQ,' 'AoC,' 'attestation of compliance,' 'tokenization,' 'P2PE,' 'network segmentation for PCI,' or audits any system that stores, processes, or transmits payment card data.",
       "version": "0.0.0",
@@ -3030,7 +3065,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.700Z",
+        "evaluatedAt": "2026-10-11T05:06:34.544Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3103,7 +3138,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.548Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3121,12 +3156,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.548Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "fc8ccf813609f6064106aeb4da39a5f4da265fdca92e59a19b1b11eba0951aad",
+      "sourcePath": "skills/privacy-engineering/SKILL.md",
       "name": "privacy-engineering",
       "description": "Implement and audit privacy controls in product and infrastructure — GDPR, CCPA / CPRA, LGPD, PIPEDA. Covers data minimization, lawful basis, consent management, data subject access requests (DSARs — access, deletion, portability), data processing agreements, DPIA / TIA, breach notification timing, data classification, and the technical implementation of 'right to be forgotten' across backups, caches, analytics, and third parties. Use when the user mentions 'GDPR,' 'CCPA,' 'CPRA,' 'data privacy,' 'privacy engineering,' 'data subject access request,' 'DSAR,' 'right to deletion,' 'right to be forgotten,' 'data portability,' 'consent management,' 'cookie consent,' 'data minimization,' 'DPIA,' 'data protection impact assessment,' 'breach notification,' 'BAA,' 'DPA,' 'data processing agreement,' 'sub-processor,' 'cross-border data transfer,' 'SCCs,' or needs to implement or review privacy controls.",
       "version": "0.0.0",
@@ -3214,7 +3251,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.700Z",
+        "evaluatedAt": "2026-10-11T05:06:34.542Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3287,7 +3324,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.545Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3305,12 +3342,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.545Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1e121641868742e63cf7ecb14a7631b46af7fe917bc676b1f79e18bbf218f4a0",
+      "sourcePath": "skills/prompt-injection/SKILL.md",
       "name": "prompt-injection",
       "description": "Audit applications for AI prompt injection, agent security, and LLM permission boundary vulnerabilities. Use when the user mentions 'prompt injection,' 'LLM security,' 'AI security,' 'jailbreak,' 'indirect prompt injection,' 'prompt leaking,' 'AI red team,' 'LLM vulnerabilities,' 'AI input validation,' 'system prompt extraction,' 'agent security,' 'MCP security,' 'AI permissions,' 'AI privilege escalation,' or needs to secure any application with AI features, AI agents, or LLM integrations.",
       "version": "0.0.0",
@@ -3398,7 +3437,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.700Z",
+        "evaluatedAt": "2026-10-11T05:06:34.542Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3471,7 +3510,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.545Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3489,12 +3528,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.545Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "380c788913c7787bc5b2ea4d01d523e778bda31a97dc77b92537102f4a479216",
+      "sourcePath": "skills/recon/SKILL.md",
       "name": "recon",
       "description": "Perform structured reconnaissance and attack surface enumeration for authorized penetration tests, CTF challenges, and bug bounty programs. Use when the user mentions 'recon,' 'reconnaissance,' 'enumerate,' 'attack surface,' 'subdomain enumeration,' 'port scan,' 'fingerprint,' 'asset discovery,' or needs to map a target's external footprint.",
       "version": "0.0.0",
@@ -3581,7 +3622,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.700Z",
+        "evaluatedAt": "2026-10-11T05:06:34.548Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3654,7 +3695,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.548Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3672,12 +3713,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.548Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e445bbe904290a254129a6a19578a0eff21163cb034ad3228d1a47f5cc7e08a3",
+      "sourcePath": "skills/red-team-engagement/SKILL.md",
       "name": "red-team-engagement",
       "description": "Plan, scope, and execute an authorized red-team engagement — distinct from a penetration test. Covers engagement methodology, assumed-breach scenarios, ATT&CK emulation plans, rules of engagement, deconfliction with the blue team, post-engagement debriefs, and the program-level work that makes red teams actually improve defenses. Use when the user mentions 'red team,' 'red team engagement,' 'red teaming,' 'adversary emulation,' 'ATT&CK emulation,' 'assumed breach,' 'purple team exercise,' 'tabletop with technical execution,' 'red team scope,' 'rules of engagement,' 'red team RoE,' 'deconfliction,' 'red team debrief,' or wants to design or run a red-team engagement against systems with authorization.",
       "version": "0.0.0",
@@ -3765,7 +3808,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.701Z",
+        "evaluatedAt": "2026-10-11T05:06:34.545Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3838,7 +3881,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.548Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3856,12 +3899,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.548Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c2f2a6103c319bb43bcdcca6561d353895ddc626143808018ecde77dc5fd7a3a",
+      "sourcePath": "skills/secrets-audit/SKILL.md",
       "name": "secrets-audit",
       "description": "Find leaked secrets in source code, Git history, build artifacts, and infrastructure — and audit the secrets-management posture preventing future leaks. Use when the user mentions 'secrets audit,' 'secret scanning,' 'leaked credentials,' 'API key in code,' 'gitleaks,' 'trufflehog,' 'git history scan,' 'secrets management,' 'vault audit,' 'rotation policy,' 'AWS Secrets Manager,' 'HashiCorp Vault,' 'Doppler,' '1Password Secrets Automation,' 'sealed-secrets,' 'External Secrets Operator,' or needs to find or prevent credential exposure.",
       "version": "0.0.0",
@@ -3949,7 +3994,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.701Z",
+        "evaluatedAt": "2026-10-11T05:06:34.548Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4022,7 +4067,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.549Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4040,12 +4085,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.549Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "80f27a3153602831e0ab083b46a844f2e3735c6422663515eeb13701833ea9fb",
+      "sourcePath": "skills/security-comms/SKILL.md",
       "name": "security-comms",
       "description": "Translate technical security work into the language of non-security audiences — board, executives, engineering, customer success, customers, legal, procurement, sales. Covers incident communication, post-mortem narrative, audit-findings-for-stakeholders, risk justification, security spend justification, and customer-facing breach disclosure. Use when the user mentions 'security comms,' 'communicate this finding,' 'explain to my boss,' 'board update,' 'executive summary,' 'incident communication,' 'breach notification,' 'customer disclosure,' 'security memo,' 'post-mortem narrative,' 'risk justification,' 'why this matters to the business,' 'translate this finding,' 'stakeholder update,' or has technical security work that needs to land with a non-security audience.",
       "version": "0.0.0",
@@ -4130,7 +4177,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.701Z",
+        "evaluatedAt": "2026-10-11T05:06:34.548Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4203,7 +4250,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.549Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4221,12 +4268,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.549Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "db2e3fccf07debfa488165b8ddd936e91a42857920d0b29e74ab1e0794e25e5e",
+      "sourcePath": "skills/siem-detection/SKILL.md",
       "name": "siem-detection",
       "description": "Engineer and audit SIEM detection rules — log source coverage, Sigma / KQL / SPL / Elastic query authoring, MITRE ATT&CK mapping, false-positive tuning, and detection-as-code workflows. Use when the user mentions 'SIEM,' 'detection engineering,' 'detection rules,' 'Sigma,' 'KQL,' 'SPL,' 'Splunk,' 'Sentinel,' 'Elastic,' 'Wazuh,' 'Chronicle,' 'detection-as-code,' 'MITRE ATT&CK mapping,' 'log coverage,' 'alert tuning,' 'use case development,' or needs help building or improving security detections.",
       "version": "0.0.0",
@@ -4314,7 +4363,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.701Z",
+        "evaluatedAt": "2026-10-11T05:06:34.548Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4387,7 +4436,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.548Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4405,12 +4454,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.701Z",
+          "evaluatedAt": "2026-10-11T05:06:34.549Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "58f392cd88344e4e54fd5a4f68bd0c02b8ac7662ab9f3560dbb76a4967e3d031",
+      "sourcePath": "skills/soc-operations/SKILL.md",
       "name": "soc-operations",
       "description": "Build, run, and improve a Security Operations Center — alert prioritization, runbook authoring, escalation criteria, on-call structure, alert tuning workflow, MTTD / MTTR / fidelity KPIs, analyst tiering, and shift handoffs. Use when the user mentions 'SOC,' 'security operations,' 'SOC analyst,' 'alert triage workflow,' 'runbook,' 'escalation,' 'on-call,' 'SOC tiering,' 'tier 1 / tier 2,' 'MTTD,' 'MTTR,' 'alert fatigue,' 'alert tuning,' 'shift handoff,' 'SOAR,' or wants to design or improve a security operations team.",
       "version": "0.0.0",
@@ -4497,7 +4548,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.733Z",
+        "evaluatedAt": "2026-10-11T05:06:34.594Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4570,7 +4621,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.596Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4588,12 +4639,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.596Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "cdb5396626f0ddf7d9af1618b76d3ddd87557514ec59d26884ae740ac2e9462b",
+      "sourcePath": "skills/threat-hunting/SKILL.md",
       "name": "threat-hunting",
       "description": "Conduct proactive, hypothesis-driven threat hunts — search SIEM / EDR / logs for adversaries who haven't tripped an alert yet. ATT&CK-driven, hypothesis-based methodology. Use when the user mentions 'threat hunting,' 'proactive hunt,' 'TaHiTI,' 'PEAK framework,' 'MITRE ATT&CK hunt,' 'hypothesis-driven hunt,' 'hunt hypothesis,' 'living off the land,' 'LOLBins,' 'beaconing,' 'lateral movement detection,' 'data staging,' 'persistence hunting,' or wants to find threats that have evaded existing detections.",
       "version": "0.0.0",
@@ -4681,7 +4734,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.734Z",
+        "evaluatedAt": "2026-10-11T05:06:34.595Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4754,7 +4807,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.597Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4772,12 +4825,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.597Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b0d403f72fc67b8f5562bdec90b5d89959f11ae1fa67807271a88769a7ccde09",
+      "sourcePath": "skills/threat-modeling/SKILL.md",
       "name": "threat-modeling",
       "description": "Run a structured threat-modeling session for a new feature, system, or architecture — STRIDE, attack trees, data flow diagrams, abuse cases. Use when the user mentions 'threat model,' 'threat modeling,' 'STRIDE,' 'attack tree,' 'abuse case,' 'data flow diagram,' 'DFD,' 'security architecture review,' 'security review,' 'design review,' 'pre-implementation security,' 'shift left,' 'what could go wrong,' or needs strategic security thinking before code is written.",
       "version": "0.0.0",
@@ -4864,7 +4919,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.734Z",
+        "evaluatedAt": "2026-10-11T05:06:34.594Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4937,7 +4992,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.596Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4955,12 +5010,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.596Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f3a1a6f9cc4a6808796823e58069b90180581281a3e0502960ae2bbb6bd30e3d",
+      "sourcePath": "skills/vuln-research/SKILL.md",
       "name": "vuln-research",
       "description": "Research a specific CVE or vulnerability disclosure end-to-end — what version is affected, is your code reachable, is there a public PoC, is there a patch, what's the exposure window, what's the mitigation if you can't patch immediately. Use when the user mentions 'CVE,' 'vulnerability research,' 'is this CVE relevant,' 'zero-day,' 'CISA KEV,' 'GitHub Security Advisory,' 'reachability analysis,' 'patch analysis,' 'exploit availability,' 'EPSS,' 'CVSS,' or 'should we drop everything and patch this.'",
       "version": "0.0.0",
@@ -5048,7 +5105,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.734Z",
+        "evaluatedAt": "2026-10-11T05:06:34.597Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5121,7 +5178,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.597Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5139,12 +5196,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.597Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0fed0b8fc79b996ef400af02770bd90cba1337523c73b0e7af909701d4c6134e",
+      "sourcePath": "skills/web-pentest/SKILL.md",
       "name": "web-pentest",
       "description": "Perform black-box / grey-box web application penetration testing on an authorized target — auth bypass, IDOR, session handling, business-logic flaws, parameter tampering, Burp Suite / OWASP ZAP workflows. Use when the user mentions 'web pentest,' 'web application penetration test,' 'pentesting,' 'bug bounty,' 'Burp Suite,' 'ZAP,' 'OWASP testing,' 'authentication testing,' 'session testing,' 'authorization testing,' 'business logic testing,' 'web vulnerability testing,' or has explicit authorization to test a live web application.",
       "version": "0.0.0",
@@ -5231,7 +5290,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:16.734Z",
+        "evaluatedAt": "2026-10-11T05:06:34.597Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5304,7 +5363,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.597Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5322,7 +5381,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:16.734Z",
+          "evaluatedAt": "2026-10-11T05:06:34.597Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5334,7 +5393,7 @@
       "name": "briiirussell-cybersecurity-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from briiirussell/cybersecurity-skills.",
       "author": "ASM (briiirussell/cybersecurity-skills)",
-      "createdAt": "2026-10-18T22:13:16.746Z",
+      "createdAt": "2026-10-11T05:06:34.605Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5484,7 +5543,7 @@
       "name": "briiirussell-cybersecurity-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from briiirussell/cybersecurity-skills.",
       "author": "ASM (briiirussell/cybersecurity-skills)",
-      "createdAt": "2026-10-18T22:13:16.746Z",
+      "createdAt": "2026-10-11T05:06:34.605Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5628,7 +5687,7 @@
       "name": "briiirussell-cybersecurity-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from briiirussell/cybersecurity-skills.",
       "author": "ASM (briiirussell/cybersecurity-skills)",
-      "createdAt": "2026-10-18T22:13:16.746Z",
+      "createdAt": "2026-10-11T05:06:34.605Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5760,7 +5819,7 @@
       "name": "briiirussell-cybersecurity-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from briiirussell/cybersecurity-skills.",
       "author": "ASM (briiirussell/cybersecurity-skills)",
-      "createdAt": "2026-10-18T22:13:16.746Z",
+      "createdAt": "2026-10-11T05:06:34.605Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5862,7 +5921,7 @@
       "name": "briiirussell-cybersecurity-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from briiirussell/cybersecurity-skills.",
       "author": "ASM (briiirussell/cybersecurity-skills)",
-      "createdAt": "2026-10-18T22:13:16.746Z",
+      "createdAt": "2026-10-11T05:06:34.605Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5904,7 +5963,7 @@
       "name": "briiirussell-cybersecurity-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from briiirussell/cybersecurity-skills.",
       "author": "ASM (briiirussell/cybersecurity-skills)",
-      "createdAt": "2026-10-18T22:13:16.746Z",
+      "createdAt": "2026-10-11T05:06:34.605Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5958,7 +6017,7 @@
       "name": "briiirussell-cybersecurity-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from briiirussell/cybersecurity-skills.",
       "author": "ASM (briiirussell/cybersecurity-skills)",
-      "createdAt": "2026-10-18T22:13:16.746Z",
+      "createdAt": "2026-10-11T05:06:34.605Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6066,7 +6125,7 @@
       "name": "briiirussell-cybersecurity-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from briiirussell/cybersecurity-skills.",
       "author": "ASM (briiirussell/cybersecurity-skills)",
-      "createdAt": "2026-10-18T22:13:16.746Z",
+      "createdAt": "2026-10-11T05:06:34.605Z",
       "tags": [
         "repo-derived",
         "inferred",

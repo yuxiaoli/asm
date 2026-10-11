@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "b1631b37e4215469effa90bba8336de59cd9e3ac",
   "repoUrl": "https://github.com/charlie947/answer-first.git",
   "owner": "charlie947",
   "repo": "answer-first",
-  "updatedAt": "2026-10-18T22:13:53.196Z",
+  "updatedAt": "2026-10-11T05:07:02.091Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "c02ded903736f16c39457d01816a9cd1f4d664bd76d9822e18642cd129cf0f5d",
+      "sourcePath": "skills/answer-first/SKILL.md",
       "name": "answer-first",
       "description": "Shape every answer so the action comes first. Use when the user asks for output that is short, skimmable, action-led or \"no waffle\", and apply it for the whole conversation once invoked, not just one reply. Triggers on \"answer first\", \"no preamble\", \"no waffle\", \"keep it short\", \"just tell me what to do\", \"cut the fluff\", \"ADHD mode\", or any request to stop burying the answer in paragraph four.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:53.191Z",
+        "evaluatedAt": "2026-10-11T05:07:02.090Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:53.191Z",
+          "evaluatedAt": "2026-10-11T05:07:02.090Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:53.191Z",
+          "evaluatedAt": "2026-10-11T05:07:02.090Z",
           "evaluatedVersion": "0.0.0"
         }
       }

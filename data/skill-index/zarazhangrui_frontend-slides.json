@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "9906a34d640d2111f724544cbc50f7f130569ae1",
   "repoUrl": "https://github.com/zarazhangrui/frontend-slides.git",
   "owner": "zarazhangrui",
   "repo": "frontend-slides",
-  "updatedAt": "2026-10-18T22:13:39.176Z",
+  "updatedAt": "2026-10-11T05:06:55.381Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "832994fe1dfcce2aa7ceca9a1b7b708eca94becef242713999855f4e946cf4d5",
+      "sourcePath": "SKILL.md",
       "name": "frontend-slides",
       "description": "Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover their aesthetic through visual exploration rather than abstract choices.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:38.831Z",
+        "evaluatedAt": "2026-10-11T05:06:54.844Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -95,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 67,
+          "overallScore": 71,
           "grade": "C",
           "categories": [
             {
@@ -155,11 +158,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 6,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:38.831Z",
+          "evaluatedAt": "2026-10-11T05:06:54.844Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:38.831Z",
+          "evaluatedAt": "2026-10-11T05:06:54.844Z",
           "evaluatedVersion": "0.0.0"
         }
       }

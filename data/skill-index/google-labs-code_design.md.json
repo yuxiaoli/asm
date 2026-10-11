@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "9bf8eae67128b6cc55ad9bf86665767deb4c11cd",
   "repoUrl": "https://github.com/google-labs-code/design.md.git",
   "owner": "google-labs-code",
   "repo": "design.md",
-  "updatedAt": "2026-10-18T22:13:40.021Z",
+  "updatedAt": "2026-10-11T05:06:55.971Z",
   "skillCount": 4,
   "skills": [
     {
+      "contentHash": "2020ed49b5987c281a2e1ccd8f3ae2b6d189091c2928aed81e5b96f4254af14f",
+      "sourcePath": ".agents/skills/agent-dx-cli-scale/SKILL.md",
       "name": "agent-dx-cli-scale",
       "description": "A scoring scale for evaluating how well a CLI is designed for AI agents, based on the \"Rewrite Your CLI for AI Agents\" principles.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:40.011Z",
+        "evaluatedAt": "2026-10-11T05:06:55.966Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:40.011Z",
+          "evaluatedAt": "2026-10-11T05:06:55.966Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:40.011Z",
+          "evaluatedAt": "2026-10-11T05:06:55.966Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4e27370b39769827cfda349efc3039921c60973b31f8885cc3bceab5196672e7",
+      "sourcePath": ".agents/skills/ink/SKILL.md",
       "name": "ink",
       "description": "Ink terminal renderer for json-render that turns JSON specs into interactive terminal UIs. Use when working with @json-render/ink, building terminal UIs from JSON, creating terminal component catalogs, or rendering AI-generated specs in the terminal.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:40.011Z",
+        "evaluatedAt": "2026-10-11T05:06:55.966Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:40.011Z",
+          "evaluatedAt": "2026-10-11T05:06:55.967Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:40.011Z",
+          "evaluatedAt": "2026-10-11T05:06:55.967Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "8df7a9e382da15eae3b20cff914c4dc92f6d3ec8f3aaf6d14001d8bbb1831c92",
+      "sourcePath": ".agents/skills/tdd/SKILL.md",
       "name": "tdd-red-green-refactor",
       "description": "Enforces a disciplined Red-Green-Refactor (TDD) workflow in TypeScript/Node.js.  Use this whenever creating new features, fixing bugs, or migrating logic to ensure  high-quality, verifiable implementations.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:40.011Z",
+        "evaluatedAt": "2026-10-11T05:06:55.966Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:40.011Z",
+          "evaluatedAt": "2026-10-11T05:06:55.966Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:40.011Z",
+          "evaluatedAt": "2026-10-11T05:06:55.966Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f97ead50cc4aadd5436cf2e203702a3bd8a494b3605a3b7c6cbddf2d43757141",
+      "sourcePath": ".agents/skills/typed-service-contracts/SKILL.md",
       "name": "typed-service-contracts",
       "description": "Architecture standard for building robust, type-safe TypeScript services using the \"Spec and Handler\" pattern. Use when building CLIs, libraries, or complex business logic.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:40.011Z",
+        "evaluatedAt": "2026-10-11T05:06:55.967Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:40.011Z",
+          "evaluatedAt": "2026-10-11T05:06:55.967Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:40.011Z",
+          "evaluatedAt": "2026-10-11T05:06:55.967Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -720,7 +729,7 @@
       "name": "google-labs-code-design.md-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from google-labs-code/design.md.",
       "author": "ASM (google-labs-code/design.md)",
-      "createdAt": "2026-10-18T22:13:40.021Z",
+      "createdAt": "2026-10-11T05:06:55.971Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -768,7 +777,7 @@
       "name": "google-labs-code-design.md-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from google-labs-code/design.md.",
       "author": "ASM (google-labs-code/design.md)",
-      "createdAt": "2026-10-18T22:13:40.021Z",
+      "createdAt": "2026-10-11T05:06:55.971Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -804,7 +813,7 @@
       "name": "google-labs-code-design.md-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from google-labs-code/design.md.",
       "author": "ASM (google-labs-code/design.md)",
-      "createdAt": "2026-10-18T22:13:40.021Z",
+      "createdAt": "2026-10-11T05:06:55.971Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -852,7 +861,7 @@
       "name": "google-labs-code-design.md-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from google-labs-code/design.md.",
       "author": "ASM (google-labs-code/design.md)",
-      "createdAt": "2026-10-18T22:13:40.021Z",
+      "createdAt": "2026-10-11T05:06:55.971Z",
       "tags": [
         "repo-derived",
         "inferred",

@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "8bca7c4417b59b47fca851183a8d47a4565bad0c",
   "repoUrl": "https://github.com/heygen-com/hyperframes.git",
   "owner": "heygen-com",
   "repo": "hyperframes",
-  "updatedAt": "2026-10-18T22:13:02.593Z",
+  "updatedAt": "2026-10-11T05:06:24.777Z",
   "skillCount": 34,
   "skills": [
     {
+      "contentHash": "10d0920d89adca86e11f30137d31b4236ce37913b0a00004c2b0305fd9923783",
+      "sourcePath": "registry/blocks/canopy-part-title/SKILL.md",
       "name": "canopy-part-title",
       "description": "Leaves sweep through the frame and part to reveal the headline. HyperFrames block, 1920×1080, 12s, 11 variables.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.394Z",
+        "evaluatedAt": "2026-10-11T05:06:23.618Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.398Z",
+          "evaluatedAt": "2026-10-11T05:06:23.620Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.398Z",
+          "evaluatedAt": "2026-10-11T05:06:23.620Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "dde58d4fcad6b244c2b0295636758a61c44d015ffa59e982e56eee3c60b4c66b",
+      "sourcePath": ".claude/skills/captions-overlay/SKILL.md",
       "name": "captions-overlay",
       "description": "Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, when deciding whether a phrase should be dropped, ride the verbatim rail, or be promoted to a scarce embedded climax, when laying out a composition that will carry captions (do NOT reserve a keep-out band), or when centering a composition on the true frame center under captions. Quotes the rail+embed model from embedded-captions and constraint #13 (captions overlay, keep-out band retired) from the product-launch-video scene agent. Applies ON TOP of embedded-captions.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.398Z",
+        "evaluatedAt": "2026-10-11T05:06:23.613Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.398Z",
+          "evaluatedAt": "2026-10-11T05:06:23.618Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.618Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "5f8ca7a413e53616727408d34dcee770bda6cabe37cfe24034e2b49e041c2121",
+      "sourcePath": ".claude/skills/changelog-video/SKILL.md",
       "name": "changelog-video",
       "description": "Turn a weekly changelog .md into a finished branded changelog video (square 1080, ~45-60s, Annie VO, animated brand background, mock-UI visualizations, lowkey captions). Use when the user provides a changelog/digest markdown and wants the weekly video, or says \"changelog video\". Self-contained — fonts, background, lexicon, and scripts ship in this skill.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.398Z",
+        "evaluatedAt": "2026-10-11T05:06:23.613Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.618Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.618Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "00cc6766b45b55cd92b33c30097bcc6cdff2235de1b6295c2be105162322dafc",
+      "sourcePath": "registry/blocks/code-slice-hero/SKILL.md",
       "name": "code-slice-hero",
       "description": "A tiled headline surface flips cell by cell under a sweeping depth field to reveal the rear headline. HyperFrames block, 1920×1080, 8s, 18 variables.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.398Z",
+        "evaluatedAt": "2026-10-11T05:06:23.613Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.618Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.618Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "01f82f43969ff0ab219017956b789da93a9adec991d4fa3ae675b503a2da6c04",
+      "sourcePath": "registry/blocks/cuboid-carousel/SKILL.md",
       "name": "cuboid-carousel",
       "description": "A chain of bevelled cuboids rides a travelling wave as a content carousel. HyperFrames block, 1920×1080, 6.666666666666667s, 40 variables.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.398Z",
+        "evaluatedAt": "2026-10-11T05:06:23.620Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.622Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.622Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c97df202caea16949a54afdcbc7007c60063028f73bb56ffeaec630ccb0d5145",
+      "sourcePath": ".claude/skills/cut-the-curve/SKILL.md",
       "name": "cut-the-curve",
       "description": "The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curve, waterfall cut, rack-focus blur-cut) plus the two in-scene techniques — waterfall ENTRY (staggered arrival cascades for title cards / segment openers) and the nudge curve (slow-fast-slow three-phase group slides). Covers partial-travel (~12% of frame) velocity matching via mirrored power4 eases, the Z scale-sign rule, size-scaled blur (10px text / 18-20px full-frame), word-by-word staggered cuts, cascade pacing by element weight, and the 10/65/25 slide ratio. Read before authoring any transition, text-beat handoff, kinetic text entry, or group reposition. [depth, zoom, inverse-zoom, scale-sign, mirrored-zoom, rack-focus, pacing, velocity, cut-the-curve, waterfall, stagger, cascade, kinetic-text, title-card, segment-opener, nudge, slide, easing, group-motion, z-depth, motion-graphics, cinematic, transition, blur, directional-continuity]",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.398Z",
+        "evaluatedAt": "2026-10-11T05:06:23.618Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.620Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.620Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "983a4e61310d05c4a5c5a4fff2262c24ef1929478831e3afb76b0ab584b09bce",
+      "sourcePath": "skills/embedded-captions/SKILL.md",
       "name": "embedded-captions",
       "description": "Add captions or subtitles to an existing single-subject talking-head video without editing the footage. Use for plain verbatim captions, cinematic captions embedded behind the subject, VFX captions, “炸/特效/酷炫字幕,” or a named identity from the 35-style catalog. Route by visual identity, not by backend engine. The quiet `anchor` rail is the default; embed every word only when the user explicitly wants a fully cinematic treatment. The workflow runs locally end to end, including transcription and subject matting; split multi-shot footage before applying it.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.398Z",
+        "evaluatedAt": "2026-10-11T05:06:23.618Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1157,7 +1172,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 69,
+          "overallScore": 71,
           "grade": "C",
           "categories": [
             {
@@ -1217,11 +1232,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 7,
+              "score": 9,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.620Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.621Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9ef73dceaa014b2bfc1b1e1107963af376cf29d701f59250ce2b4862d59c6763",
+      "sourcePath": "skills/faceless-explainer/SKILL.md",
       "name": "faceless-explainer",
       "description": "Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there is no site or footage to capture, so the visuals are invented per scene (typography, abstract graphics, diagrams, data-viz). Use for topic explainers, concept breakdowns, how-tos, listicles. Not a video built from a website (/product-launch-video — promo or tour). Unclear → /hyperframes.",
       "version": "0.0.0",
@@ -1259,7 +1276,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/faceless-explainer",
       "relPath": "skills/faceless-explainer",
       "verified": true,
-      "tokenCount": 9861,
+      "tokenCount": 9801,
       "evalSummary": {
         "overallScore": 69,
         "grade": "C",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.398Z",
+        "evaluatedAt": "2026-10-11T05:06:23.621Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.622Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.399Z",
+          "evaluatedAt": "2026-10-11T05:06:23.622Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7de64558985ceec0afcaaaebb432a44b6188d640825cffa5929809d94765d1c3",
+      "sourcePath": "skills/figma/SKILL.md",
       "name": "figma",
       "description": "Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, storyboard sections → reconstructed motion (frames read as states, not slides) (REST/CLI), connector-assisted motion when available, and shaders from a connector or native export. Use when the user pastes a figma.com link or asks to bring a Figma design, frame, logo, brand, or animation into a video/composition.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.431Z",
+        "evaluatedAt": "2026-10-11T05:06:23.648Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.432Z",
+          "evaluatedAt": "2026-10-11T05:06:23.649Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.432Z",
+          "evaluatedAt": "2026-10-11T05:06:23.649Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e579e7f870a9be0a88a6a9916aa2076d3e771d53b48d5004da3111711355c6e6",
+      "sourcePath": "registry/blocks/frost-sequence-camera-orbit/SKILL.md",
       "name": "frost-sequence-camera-orbit",
       "description": "An orbiting camera follows an ice logo as it breaks apart, reforms into two text moments, and fades. HyperFrames block, 1920×1080, 22.5s, 216 variables.",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.445Z",
+        "evaluatedAt": "2026-10-11T05:06:23.676Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.446Z",
+          "evaluatedAt": "2026-10-11T05:06:23.681Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.446Z",
+          "evaluatedAt": "2026-10-11T05:06:23.681Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6e0aad276db66d31791bdb19abdd12f3650ce03b7f7329d1c2d2c9176d87214c",
+      "sourcePath": "skills/general-video/SKILL.md",
       "name": "general-video",
       "description": "Author or edit a custom HyperFrames composition when no specialized workflow fits, or when BRIEF.md sets flow: companion. Use for longer or multi-scene pieces, brand and sizzle reels, montages, static loops, static title cards, footage remixes, and freeform builds. Use motion-graphics instead for a short unnarrated motion-first unit, including an animated title. Route fresh creation through hyperframes before using this skill.",
       "version": "0.0.0",
@@ -1790,7 +1813,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/general-video",
       "relPath": "skills/general-video",
       "verified": true,
-      "tokenCount": 7907,
+      "tokenCount": 7669,
       "evalSummary": {
         "overallScore": 68,
         "grade": "C",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.461Z",
+        "evaluatedAt": "2026-10-11T05:06:23.684Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.465Z",
+          "evaluatedAt": "2026-10-11T05:06:23.685Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.465Z",
+          "evaluatedAt": "2026-10-11T05:06:23.685Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7c4c3c98a4f9cd5a4c50af3752c972aa1e46bfaf4c271c9181539ba305b8d365",
+      "sourcePath": "registry/blocks/glass-shard-title/SKILL.md",
       "name": "glass-shard-title",
       "description": "Glass shards fly in through fog and tile themselves into the headline. HyperFrames block, 1920×1080, 12.16s, 19 variables.",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.474Z",
+        "evaluatedAt": "2026-10-11T05:06:23.704Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.476Z",
+          "evaluatedAt": "2026-10-11T05:06:23.705Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.476Z",
+          "evaluatedAt": "2026-10-11T05:06:23.705Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a277e9e46b3b5b8619639a353a4af3f46f8ae4f2e622ba802d5af730d135f410",
+      "sourcePath": "skills/hyperframes/SKILL.md",
       "name": "hyperframes",
       "description": "Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition. Also use it to inspect, diagnose, validate, preview, publish, or batch-render an existing HyperFrames project. Inputs may be a website URL, GitHub PR, Figma design or URL, text or brief, existing footage, or music. It resumes project state, captures intent when applicable, selects and installs the owning workflow, and routes domain capabilities. HyperFrames is the default output framework unless the user explicitly chooses another framework for the deliverable or asks only to record a browser session.",
       "version": "0.0.0",
@@ -2144,7 +2171,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/hyperframes",
       "relPath": "skills/hyperframes",
       "verified": true,
-      "tokenCount": 8870,
+      "tokenCount": 8862,
       "evalSummary": {
         "overallScore": 66,
         "grade": "C",
@@ -2210,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.517Z",
+        "evaluatedAt": "2026-10-11T05:06:23.738Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.517Z",
+          "evaluatedAt": "2026-10-11T05:06:23.739Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.517Z",
+          "evaluatedAt": "2026-10-11T05:06:23.739Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b35f1f8eff68e9ff480a5d5d343a1bf5a40ebb7d0d9be20b0b980cfdb36047f3",
+      "sourcePath": "skills/hyperframes-animation/SKILL.md",
       "name": "hyperframes-animation",
       "description": "All animation knowledge for HyperFrames — atomic motion rules, multi-phase scene blueprints, scene transitions, broader motion-design techniques, AND the seven runtime adapters (GSAP default, plus Lottie, Three.js, Anime.js, CSS keyframes, Web Animations API, TypeGPU). Use for any motion or animation task: pick 2-4 rules and compose, or load a blueprint, or look up runtime-specific API (e.g. GSAP eases / Lottie player / Three.js mixer). Also covers auditing an existing composition's choreography (animation map) and 24 named text-animation effects. HyperFrames-native: single paused timeline, seek-safe, deterministic.",
       "version": "0.0.0",
@@ -2387,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.568Z",
+        "evaluatedAt": "2026-10-11T05:06:23.790Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.569Z",
+          "evaluatedAt": "2026-10-11T05:06:23.790Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.570Z",
+          "evaluatedAt": "2026-10-11T05:06:23.790Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "959fdea508f89e77c8e4b000c85c086ea073b826fb07103bbfb936a32dfa29a9",
+      "sourcePath": "skills/hyperframes-audio/SKILL.md",
       "name": "hyperframes-audio",
       "description": "Use when audio already placed in a HyperFrames composition needs to be mixed: fade-in/fade-out, crossfade, track gain or volume, volume automation, ducking, a music bed that fights a voiceover (voiceover carve), effects on a track (EQ, compressor, limiter, gate, saturation, delay, reverb, chorus, phaser, bitcrush), automation envelopes drawn on a track's volume or any effect parameter, or one submix bus carrying a chain, a fader and an automation clock for several tracks at once (`<hf-audio-group>`). Don't use for sourcing or generating audio — finding BGM, SFX, or making a voiceover is `/media-use`. Don't use for clip timing or track layout, which is `/hyperframes-core`.",
       "version": "0.0.0",
@@ -2498,7 +2529,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-audio",
       "relPath": "skills/hyperframes-audio",
       "verified": true,
-      "tokenCount": 8688,
+      "tokenCount": 8492,
       "evalSummary": {
         "overallScore": 62,
         "grade": "D",
@@ -2564,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.567Z",
+        "evaluatedAt": "2026-10-11T05:06:23.790Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.568Z",
+          "evaluatedAt": "2026-10-11T05:06:23.791Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.568Z",
+          "evaluatedAt": "2026-10-11T05:06:23.791Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0026e6402ee0b9bfd8cb85bb3b96e3fecb496947a9a588e950abb54e238af92d",
+      "sourcePath": "skills/hyperframes-cli/SKILL.md",
       "name": "hyperframes-cli",
       "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
       "version": "0.0.0",
@@ -2675,7 +2708,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
       "relPath": "skills/hyperframes-cli",
       "verified": true,
-      "tokenCount": 8213,
+      "tokenCount": 7787,
       "evalSummary": {
         "overallScore": 70,
         "grade": "C",
@@ -2741,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.587Z",
+        "evaluatedAt": "2026-10-11T05:06:23.818Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.589Z",
+          "evaluatedAt": "2026-10-11T05:06:23.820Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,12 +2865,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.589Z",
+          "evaluatedAt": "2026-10-11T05:06:23.820Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "18ac7784765cc29af5a4d88f2a63a15deaf5395985009af188b5e3718edcfe3d",
+      "sourcePath": "skills/hyperframes-core/SKILL.md",
       "name": "hyperframes-core",
       "description": "The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timing attributes, `class=\"clip\"`, tracks, sub-compositions, variables, framework-owned media playback, deterministic-render rules, and validation. Read before writing composition HTML.",
       "version": "0.0.0",
@@ -2852,7 +2887,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-core",
       "relPath": "skills/hyperframes-core",
       "verified": true,
-      "tokenCount": 4160,
+      "tokenCount": 4075,
       "evalSummary": {
         "overallScore": 69,
         "grade": "C",
@@ -2918,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.587Z",
+        "evaluatedAt": "2026-10-11T05:06:23.820Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.589Z",
+          "evaluatedAt": "2026-10-11T05:06:23.821Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3009,12 +3044,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.589Z",
+          "evaluatedAt": "2026-10-11T05:06:23.821Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9da7b7ac84c8d884b54125887ecca1a645a38337013082b96af2fdc0259c945a",
+      "sourcePath": "skills/hyperframes-creative/SKILL.md",
       "name": "hyperframes-creative",
       "description": "Non-animation creative direction for HyperFrames videos. Use for design spec (frame.md / design.md) handling, palettes, typography, narration, beat planning, audio-reactive visuals, composition patterns, and brand / style decisions. For atomic motion patterns and scene blueprints, use `hyperframes-animation`.",
       "version": "0.0.0",
@@ -3095,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.665Z",
+        "evaluatedAt": "2026-10-11T05:06:23.877Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.665Z",
+          "evaluatedAt": "2026-10-11T05:06:23.878Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3186,12 +3223,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.665Z",
+          "evaluatedAt": "2026-10-11T05:06:23.878Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d6484e8367ed522f2a89af9ec30ae3cd86ae243b5a23c5ab00a7a682e3d1a791",
+      "sourcePath": "skills/hyperframes-keyframes/SKILL.md",
       "name": "hyperframes-keyframes",
       "description": "Use when a HyperFrames composition needs a punch-in, punch-out, zoom, reframe, Ken Burns treatment, camera move, visual match/whip handoff, or other seek-safe 2D/3D keyframes; also for GSAP, CSS keyframes, Anime.js, WAAPI, FLIP, paths, masks, SVG morph/draw, text trails, 3D depth, or `hyperframes keyframes` diagnostics. Don't use for broad scene strategy, brand design, media sourcing, captions, or general video planning.",
       "version": "0.0.0",
@@ -3272,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.675Z",
+        "evaluatedAt": "2026-10-11T05:06:23.891Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.676Z",
+          "evaluatedAt": "2026-10-11T05:06:23.891Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3363,12 +3402,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.676Z",
+          "evaluatedAt": "2026-10-11T05:06:23.891Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f1925b202cabd125b509658b11db593b55340b1926ecb056fc31aa4233a2b4f6",
+      "sourcePath": "skills/hyperframes-registry/SKILL.md",
       "name": "hyperframes-registry",
       "description": "Search, install, and wire registry blocks and components into HyperFrames compositions. Use BEFORE hand-building any named visual — whenever a brief, a user, or a storyboard names a look, effect, treatment, or transition such as CRT scanlines, glitch, chromatic aberration, film grain, a shimmer sweep, a chart, a code or terminal window, a map, or a confetti burst — because roughly 400 hosted items already cover many of them and the search ranks all of them with nothing installed, no project, and no account. Also use when running hyperframes add or hyperframes catalog, installing one item or every block matching a tag, wiring an installed item into index.html, or working with hyperframes.json. Covers discovery, install locations, block sub-composition wiring, component snippet merging, and authoring a new block or component to contribute upstream (idea → scaffold → validate → PR).",
       "version": "0.0.0",
@@ -3449,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.706Z",
+        "evaluatedAt": "2026-10-11T05:06:23.940Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.716Z",
+          "evaluatedAt": "2026-10-11T05:06:23.940Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3540,12 +3581,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.716Z",
+          "evaluatedAt": "2026-10-11T05:06:23.940Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7449da3952155e40e7d76fc29d4415b4030ab6f7f3ff9c3b94fa1b159cad46c4",
+      "sourcePath": "skills/hyperframes-studio/SKILL.md",
       "name": "hyperframes-studio",
       "description": "Use when working with a person on a HyperFrames project in Studio: first, whether their message asks for a change at all (questions, loose ideas and \"don't change anything\" get an answer and a plan, not an edit); for a new film, the plan, storyboard and build order that the HyperFrames launch films follow; and how the timeline should be laid out so it reads well (one caption track, one element kind per track, every scene a sub-composition) and where captions and key content may sit (safe zones). Don't use for how to perform an individual edit (split, trim, retime, volume, copy, swap): that is `creator-editing-recipes.md` in `/hyperframes-core`.",
       "version": "0.0.0",
@@ -3560,7 +3603,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-studio",
       "relPath": "skills/hyperframes-studio",
       "verified": true,
-      "tokenCount": 5543,
+      "tokenCount": 5890,
       "evalSummary": {
         "overallScore": 57,
         "grade": "D",
@@ -3626,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.722Z",
+        "evaluatedAt": "2026-10-11T05:06:23.940Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3699,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.725Z",
+          "evaluatedAt": "2026-10-11T05:06:23.942Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3717,14 +3760,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.725Z",
+          "evaluatedAt": "2026-10-11T05:06:23.942Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0f08ff6b493a46e0505dcc9c0c607e517e0eb70e7dc2b7b5c1f51b4f27bb6181",
+      "sourcePath": "skills/media-use/SKILL.md",
       "name": "media-use",
-      "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm` needs the heygen CLI, while `--type sfx` needs no account (Openverse, then a bundled library). When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
+      "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm|sfx` needs the heygen CLI. When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -3737,7 +3782,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/media-use",
       "relPath": "skills/media-use",
       "verified": true,
-      "tokenCount": 3542,
+      "tokenCount": 3488,
       "evalSummary": {
         "overallScore": 65,
         "grade": "C",
@@ -3803,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.722Z",
+        "evaluatedAt": "2026-10-11T05:06:23.942Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3876,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.725Z",
+          "evaluatedAt": "2026-10-11T05:06:23.943Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3894,12 +3939,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.725Z",
+          "evaluatedAt": "2026-10-11T05:06:23.943Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d4d20aa33a57784154ffe55b83424037842269e59cc1e821c1b18bd541877142",
+      "sourcePath": ".claude/skills/motion-doctrine/SKILL.md",
       "name": "motion-doctrine",
       "description": "GATEWAY — load FIRST before composing any HyperFrames animation or video. The high-level motion law that makes a multi-scene video feel like ONE continuous camera move instead of a stack of independently-animated slides. Covers the vector law (how you exit determines how you enter, incl. the Z scale-sign rule), the film's current, carrier elements, causal motion, the Seam Gate (build-gate enforcement), the ban on idle wobble (motion must PERFORM, not breathe), stillness-before-climax, and the sustained-motion routes. Routes to the low-level technique skills (cut-the-curve — the full catalog incl. waterfall entry + nudge curve, oversized-cursor, seam-craft). These rules SUPERSEDE generic / upstream motion guidance. [continuity, direction, vector, momentum, seam, transition, ease, performance, idle-motion, narrative-motion, film-grammar]",
       "version": "0.0.0",
@@ -3980,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.763Z",
+        "evaluatedAt": "2026-10-11T05:06:23.964Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4053,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.764Z",
+          "evaluatedAt": "2026-10-11T05:06:23.966Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4071,12 +4118,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.764Z",
+          "evaluatedAt": "2026-10-11T05:06:23.966Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "df1879ec7971ecfca42654c2027e38f3868d168fa20d5dcadf14288ad07c0567",
+      "sourcePath": "skills/motion-graphics/SKILL.md",
       "name": "motion-graphics",
       "description": "A short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, chart/data-viz hit, logo sting / brand lockup, lower-third / callout / social overlay, animated map (highlight regions, connect places, zoom to a location), animated tweet / news-article / headline, webpage / UI animation (scroll, cursor, callouts), or fusing a real image's geometry into a chart. Usually under 10s (up to ~30s), no narration or live-action subject; renders to MP4 or transparent overlay. Longer / narrated / multi-scene → /general-video. Unclear → /hyperframes.",
       "version": "0.0.0",
@@ -4091,7 +4140,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/motion-graphics",
       "relPath": "skills/motion-graphics",
       "verified": true,
-      "tokenCount": 5582,
+      "tokenCount": 5610,
       "evalSummary": {
         "overallScore": 69,
         "grade": "C",
@@ -4157,7 +4206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.798Z",
+        "evaluatedAt": "2026-10-11T05:06:24.007Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4230,7 +4279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.799Z",
+          "evaluatedAt": "2026-10-11T05:06:24.008Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4248,12 +4297,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.799Z",
+          "evaluatedAt": "2026-10-11T05:06:24.008Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b5e6cdfdf5c8b30de18541d96c63038d3754134e1f0fef17284bcc87f02cf259",
+      "sourcePath": "skills/music-to-video/SKILL.md",
       "name": "music-to-video",
       "description": "Turn a music track (an audio file, a video to pull audio from, or a track generated from a mood brief) into a beat-synced video — lyric video, slideshow, or kinetic promo. The music drives all pacing; any user-supplied images/videos are cut onto the same beat grid, and a complete video needs zero assets. Narrated pieces → the input-matched workflow (see /hyperframes). Unclear → /hyperframes.",
       "version": "0.0.0",
@@ -4268,7 +4319,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/music-to-video",
       "relPath": "skills/music-to-video",
       "verified": true,
-      "tokenCount": 5707,
+      "tokenCount": 5715,
       "evalSummary": {
         "overallScore": 67,
         "grade": "C",
@@ -4334,7 +4385,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.844Z",
+        "evaluatedAt": "2026-10-11T05:06:24.039Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4407,7 +4458,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.846Z",
+          "evaluatedAt": "2026-10-11T05:06:24.040Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4425,12 +4476,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.846Z",
+          "evaluatedAt": "2026-10-11T05:06:24.040Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "78af47b211816633837a76cd0951ecc83fbaba50ab7f5615d9795cc17ea08a24",
+      "sourcePath": "registry/blocks/orbit-card/SKILL.md",
       "name": "orbit-card",
       "description": "A single feature card orbits a dot sphere on approved Blender camera motion. HyperFrames block, 1920×1080, 10s, 4 variables.",
       "version": "0.0.0",
@@ -4511,7 +4564,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:01.943Z",
+        "evaluatedAt": "2026-10-11T05:06:24.119Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4584,7 +4637,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.947Z",
+          "evaluatedAt": "2026-10-11T05:06:24.120Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4602,12 +4655,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:01.947Z",
+          "evaluatedAt": "2026-10-11T05:06:24.120Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a176b1f251c37908a3a4dc88c76fb389b100a33447b7d2743e4c9acc08a252fe",
+      "sourcePath": ".claude/skills/oversized-cursor/SKILL.md",
       "name": "oversized-cursor",
       "description": "House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene involves cursors or a pointer-led action, when kicking off a UI scene, when igniting a morph/transition/typing run with a click, or when a scene reads as static, dead, or stale and needs a cheap high-yield source of motion to carry the viewer's eye and segment them out of the stale state. Covers cursor size/look (incl. brand-motif cursors), the off-screen entry law, tip-targeting and the click tap, click-ignites-the-next-beat, and exit / cross-scene handoff.",
       "version": "0.0.0",
@@ -4688,7 +4743,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:02.130Z",
+        "evaluatedAt": "2026-10-11T05:06:24.247Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4761,7 +4816,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.131Z",
+          "evaluatedAt": "2026-10-11T05:06:24.247Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4779,12 +4834,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.131Z",
+          "evaluatedAt": "2026-10-11T05:06:24.247Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f9ecb92efad41c6fb6ae82a8406e07af8e8e56272ef616986bed28a2c78a360a",
+      "sourcePath": "skills/pr-to-video/SKILL.md",
       "name": "pr-to-video",
       "description": "Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-out repo) into a code-change explainer video — changelog, feature reveal, fix, or refactor walkthrough built from the diff, commits, and files: the input is a code change, not a website. Not a product promo (/product-launch-video) or a no-PR topic explainer (/faceless-explainer). Unclear → /hyperframes.",
       "version": "0.0.0",
@@ -4799,7 +4856,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/pr-to-video",
       "relPath": "skills/pr-to-video",
       "verified": true,
-      "tokenCount": 10526,
+      "tokenCount": 10466,
       "evalSummary": {
         "overallScore": 67,
         "grade": "C",
@@ -4865,7 +4922,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:02.161Z",
+        "evaluatedAt": "2026-10-11T05:06:24.285Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4938,7 +4995,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.162Z",
+          "evaluatedAt": "2026-10-11T05:06:24.285Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4956,12 +5013,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.162Z",
+          "evaluatedAt": "2026-10-11T05:06:24.285Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3b19932280bb12dcdc4b774cd49cb86b66b3340b54eecfd791915bb153d10b31",
+      "sourcePath": "skills/product-launch-video/SKILL.md",
       "name": "product-launch-video",
       "description": "Turn a product or marketing URL, pasted script, or brief into a product launch / promo video — SaaS promos, feature reveals, product demos, app and company launches. Use when the user wants to market, launch, promote, or reveal a product; the default for any commercial URL. Site tours / showcases of a website route here too — the brief carries the show-it-as-is intent. Unclear → /hyperframes.",
       "version": "0.0.0",
@@ -4976,7 +5035,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/product-launch-video",
       "relPath": "skills/product-launch-video",
       "verified": true,
-      "tokenCount": 11207,
+      "tokenCount": 10697,
       "evalSummary": {
         "overallScore": 68,
         "grade": "C",
@@ -5042,7 +5101,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:02.235Z",
+        "evaluatedAt": "2026-10-11T05:06:24.323Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5115,7 +5174,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.236Z",
+          "evaluatedAt": "2026-10-11T05:06:24.324Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5133,12 +5192,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.236Z",
+          "evaluatedAt": "2026-10-11T05:06:24.324Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "883495113b6130e7ee48724bc00705cd28966197ef0bc2d8543a2ff2d6776187",
+      "sourcePath": "skills/remotion-to-hyperframes/SKILL.md",
       "name": "remotion-to-hyperframes",
       "description": "Port an existing Remotion (React) composition''s source to HyperFrames HTML. Use ONLY on an explicit ask to port/convert/migrate/translate a Remotion source — one-way, Remotion-only. A passing Remotion mention, reference-only code, or \"make something like my Remotion video\" is a fresh build (/general-video). Unclear → /hyperframes.",
       "version": "0.0.0",
@@ -5219,7 +5280,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:02.272Z",
+        "evaluatedAt": "2026-10-11T05:06:24.370Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5228,7 +5289,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 69,
+          "overallScore": 75,
           "grade": "C",
           "categories": [
             {
@@ -5288,11 +5349,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 4,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.273Z",
+          "evaluatedAt": "2026-10-11T05:06:24.371Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5310,12 +5371,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.273Z",
+          "evaluatedAt": "2026-10-11T05:06:24.371Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c5aa27c6d6c088fa0bec2941692927975dcd382bc568f6f0ba8518e049e092fe",
+      "sourcePath": ".claude/skills/seam-craft/SKILL.md",
       "name": "seam-craft",
       "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark films), when reasoning about why a transition opacity dip shows through, or when verifying the render-side mechanics of how overlapping scene wrappers blend. Covers the opaque stage-ground (#root background) white-flash guard and how the injector overlaps wrappers, holds final frames, ping-pongs tracks, and stamps lint-clean template code onto the master timeline. Does NOT contain the per-transition catalog — see the transition registry for individual transition entries.",
       "version": "0.0.0",
@@ -5396,7 +5459,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:02.277Z",
+        "evaluatedAt": "2026-10-11T05:06:24.371Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5469,7 +5532,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.279Z",
+          "evaluatedAt": "2026-10-11T05:06:24.371Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5487,12 +5550,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.279Z",
+          "evaluatedAt": "2026-10-11T05:06:24.372Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a17b9d27ec3a3256bda717cf4796b8b8bd1d6770fbd4dbf5cd2f7f59662ac11e",
+      "sourcePath": "skills/slideshow/SKILL.md",
       "name": "slideshow",
       "description": "Author a HyperFrames slideshow — a presentation, pitch deck, or interactive deck with discrete slides, fragment reveals, branching, hotspot navigation, and built-in presenter mode with speaker notes; also converts an existing page into a deck. Output is a navigable deck, not a rendered MP4. If the user didn't explicitly ask for a slideshow, confirm before authoring. Unclear → /hyperframes.",
       "version": "0.0.0",
@@ -5573,7 +5638,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:02.311Z",
+        "evaluatedAt": "2026-10-11T05:06:24.408Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5646,7 +5711,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.311Z",
+          "evaluatedAt": "2026-10-11T05:06:24.409Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5664,12 +5729,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.311Z",
+          "evaluatedAt": "2026-10-11T05:06:24.409Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d1c5138cb05ce27f123f414aa2ef1404098d08eb8f056fe95f3425b917bc61ff",
+      "sourcePath": "skills/talking-head-recut/SKILL.md",
       "name": "talking-head-recut",
       "description": "Package an existing talking-head / interview / podcast video with timed, designed GRAPHIC OVERLAY cards — kinetic titles, lower-thirds, data callouts, quotes, side panels, picture-in-picture — synced to the transcript, on a 16:9 / 9:16 / 4:5 canvas of your choice; the clip plays untouched underneath. Trigger on \"graphic overlays\", \"on-screen graphics\", \"package / dress up my video\". Not plain subtitles (/embedded-captions). Unclear → /hyperframes.",
       "version": "0.0.0",
@@ -5750,7 +5817,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:02.328Z",
+        "evaluatedAt": "2026-10-11T05:06:24.447Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5823,7 +5890,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.329Z",
+          "evaluatedAt": "2026-10-11T05:06:24.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5841,12 +5908,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.329Z",
+          "evaluatedAt": "2026-10-11T05:06:24.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "553d548c2316b24994e47cd2edbf61cccf2a206b5620017fc3df81cad260afa5",
+      "sourcePath": "registry/blocks/wireframe-portal-title/SKILL.md",
       "name": "wireframe-portal-title",
       "description": "A wireframe portal bursts open, the title comes through, then its letters swap into a second phrase. HyperFrames block, 1920×1080, 8s, 9 variables.",
       "version": "0.0.0",
@@ -5927,7 +5996,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:02.347Z",
+        "evaluatedAt": "2026-10-11T05:06:24.472Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6000,7 +6069,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.348Z",
+          "evaluatedAt": "2026-10-11T05:06:24.473Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6018,7 +6087,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:02.348Z",
+          "evaluatedAt": "2026-10-11T05:06:24.473Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6030,7 +6099,7 @@
       "name": "heygen-com-hyperframes-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-18T22:13:02.593Z",
+      "createdAt": "2026-10-11T05:06:24.777Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6128,7 +6197,7 @@
         {
           "name": "media-use",
           "installUrl": "github:heygen-com/hyperframes:skills/media-use",
-          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm` needs the heygen CLI, while `--type sfx` needs no account (Openverse, then a bundled library). When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
+          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm|sfx` needs the heygen CLI. When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
           "version": "0.0.0"
         },
         {
@@ -6180,7 +6249,7 @@
       "name": "heygen-com-hyperframes-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-18T22:13:02.593Z",
+      "createdAt": "2026-10-11T05:06:24.777Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6260,7 +6329,7 @@
         {
           "name": "media-use",
           "installUrl": "github:heygen-com/hyperframes:skills/media-use",
-          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm` needs the heygen CLI, while `--type sfx` needs no account (Openverse, then a bundled library). When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
+          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm|sfx` needs the heygen CLI. When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
           "version": "0.0.0"
         },
         {
@@ -6312,7 +6381,7 @@
       "name": "heygen-com-hyperframes-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-18T22:13:02.593Z",
+      "createdAt": "2026-10-11T05:06:24.777Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6398,7 +6467,7 @@
         {
           "name": "media-use",
           "installUrl": "github:heygen-com/hyperframes:skills/media-use",
-          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm` needs the heygen CLI, while `--type sfx` needs no account (Openverse, then a bundled library). When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
+          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm|sfx` needs the heygen CLI. When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
           "version": "0.0.0"
         },
         {
@@ -6450,7 +6519,7 @@
       "name": "heygen-com-hyperframes-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-18T22:13:02.593Z",
+      "createdAt": "2026-10-11T05:06:24.777Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6560,7 +6629,7 @@
         {
           "name": "media-use",
           "installUrl": "github:heygen-com/hyperframes:skills/media-use",
-          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm` needs the heygen CLI, while `--type sfx` needs no account (Openverse, then a bundled library). When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
+          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm|sfx` needs the heygen CLI. When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
           "version": "0.0.0"
         },
         {
@@ -6624,7 +6693,7 @@
       "name": "heygen-com-hyperframes-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-18T22:13:02.593Z",
+      "createdAt": "2026-10-11T05:06:24.777Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6680,7 +6749,7 @@
         {
           "name": "media-use",
           "installUrl": "github:heygen-com/hyperframes:skills/media-use",
-          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm` needs the heygen CLI, while `--type sfx` needs no account (Openverse, then a bundled library). When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
+          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm|sfx` needs the heygen CLI. When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
           "version": "0.0.0"
         },
         {
@@ -6720,7 +6789,7 @@
       "name": "heygen-com-hyperframes-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-18T22:13:02.593Z",
+      "createdAt": "2026-10-11T05:06:24.777Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6786,7 +6855,7 @@
       "name": "heygen-com-hyperframes-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-18T22:13:02.593Z",
+      "createdAt": "2026-10-11T05:06:24.777Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6828,7 +6897,7 @@
       "name": "heygen-com-hyperframes-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-18T22:13:02.593Z",
+      "createdAt": "2026-10-11T05:06:24.777Z",
       "tags": [
         "repo-derived",
         "inferred",

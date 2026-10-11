@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "65a39f393687675ce170e6094757de20370365b9",
   "repoUrl": "https://github.com/typesafe-ai/skills.git",
   "owner": "typesafe-ai",
   "repo": "skills",
-  "updatedAt": "2026-10-18T22:14:20.937Z",
+  "updatedAt": "2026-10-11T05:07:14.792Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "71ea90d7906c6554c4f4c460ef7361b2d26f59116ccdae986dc6d997b9389f52",
+      "sourcePath": "skills/typesafe-ai/SKILL.md",
       "name": "typesafe-ai",
       "description": "Build AI-powered software with TypeSafe: small units of AI intelligence you can use like programming primitives. Its System One models, including Jev, turn natural language and application state into typed judgments and probabilities that code can combine. Use when a feature needs programmable common sense, when brainstorming what AI could make possible in an app, or when an LLM prompt-and-parse step could become a structured decision. Applications include routing, ranking, extraction, verification, and interactive experiences; these are starting points, not the limits. Read live docs and cookbooks to find useful patterns and discover new combinations.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:14:20.933Z",
+        "evaluatedAt": "2026-10-11T05:07:14.790Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:14:20.934Z",
+          "evaluatedAt": "2026-10-11T05:07:14.790Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:14:20.934Z",
+          "evaluatedAt": "2026-10-11T05:07:14.790Z",
           "evaluatedVersion": "0.0.0"
         }
       }

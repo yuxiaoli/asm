@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "3ccff5338ea700537839b21900aa5358a0402c98",
   "repoUrl": "https://github.com/kepano/obsidian-skills.git",
   "owner": "kepano",
   "repo": "obsidian-skills",
-  "updatedAt": "2026-10-18T22:10:41.821Z",
+  "updatedAt": "2026-10-11T05:04:49.909Z",
   "skillCount": 6,
   "skills": [
     {
+      "contentHash": "8669cdcc9f7b4679a49753d2d7f8ee4d90c3119305d866d6c439aa1cbacb83f3",
+      "sourcePath": "skills/defuddle/SKILL.md",
       "name": "defuddle",
       "description": "Extract clean Markdown from HTML pages with Defuddle CLI.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:41.805Z",
+        "evaluatedAt": "2026-10-11T05:04:49.900Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.805Z",
+          "evaluatedAt": "2026-10-11T05:04:49.901Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.901Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "97d1ae0728955c4203922753d5656890e5e4dd371b8306ea11884f9b510f1b85",
+      "sourcePath": "skills/json-canvas/SKILL.md",
       "name": "json-canvas",
       "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:41.805Z",
+        "evaluatedAt": "2026-10-11T05:04:49.900Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.900Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.900Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ef5666573358cd7d18e04195f3e7c473b88d3e3140c41ab59bbee01c81e9989f",
+      "sourcePath": "skills/knap/SKILL.md",
       "name": "knap",
       "description": "Render Markdown from templates and structured data using Knap CLI. Use when the user asks to apply a Knap template, turn JSON or CSV data into notes, batch-generate Markdown files, or format Defuddle output into a note.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:41.805Z",
+        "evaluatedAt": "2026-10-11T05:04:49.899Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.900Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.900Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c0037f20926c7d8591cdd040365e4c0e4c0c4146386a506f28f241faee9a27d9",
+      "sourcePath": "skills/obsidian-bases/SKILL.md",
       "name": "obsidian-bases",
       "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:41.805Z",
+        "evaluatedAt": "2026-10-11T05:04:49.899Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.900Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.900Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b54257cdc0e5d04488b35b0c797bfe427b24359f0848d3c73924dcacf8da6358",
+      "sourcePath": "skills/obsidian-cli/SKILL.md",
       "name": "obsidian-cli",
       "description": "Interact with Obsidian vaults using the Obsidian CLI to read, create, search, and manage notes, tasks, properties, and more. Also supports plugin and theme development with commands to reload plugins, run JavaScript, capture errors, take screenshots, and inspect the DOM. Use when the user asks to interact with their Obsidian vault, manage notes, search vault content, perform vault operations from the command line, or develop and debug Obsidian plugins and themes.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:41.805Z",
+        "evaluatedAt": "2026-10-11T05:04:49.901Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.901Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.901Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7ad72e1f0a9081ed325e76b6402ad5de50a00e63e2341fd403a92f147234a007",
+      "sourcePath": "skills/obsidian-markdown/SKILL.md",
       "name": "obsidian-markdown",
       "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:41.805Z",
+        "evaluatedAt": "2026-10-11T05:04:49.901Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.901Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:41.806Z",
+          "evaluatedAt": "2026-10-11T05:04:49.901Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1074,7 +1087,7 @@
       "name": "kepano-obsidian-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from kepano/obsidian-skills.",
       "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-10-18T22:10:41.821Z",
+      "createdAt": "2026-10-11T05:04:49.909Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1110,7 +1123,7 @@
       "name": "kepano-obsidian-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from kepano/obsidian-skills.",
       "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-10-18T22:10:41.821Z",
+      "createdAt": "2026-10-11T05:04:49.909Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1152,7 +1165,7 @@
       "name": "kepano-obsidian-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from kepano/obsidian-skills.",
       "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-10-18T22:10:41.821Z",
+      "createdAt": "2026-10-11T05:04:49.909Z",
       "tags": [
         "repo-derived",
         "inferred",

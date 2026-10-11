@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "f2e15c43112ddda9b80f53822185a21b6ad3b099",
   "repoUrl": "https://github.com/romainsimon/paperasse.git",
   "owner": "romainsimon",
   "repo": "paperasse",
-  "updatedAt": "2026-10-18T22:13:15.739Z",
+  "updatedAt": "2026-10-11T05:06:33.778Z",
   "skillCount": 6,
   "skills": [
     {
+      "contentHash": "fdffea765afa0b2c8eeb1184525a0adb3c4c2e309634bd277060737bc090d8fc",
+      "sourcePath": "commissaire-aux-comptes/SKILL.md",
       "name": "commissaire-aux-comptes",
       "description": "Commissaire aux comptes IA pour l'audit des comptes annuels d'entreprises françaises. Applique la démarche NEP en 7 phases : prise de connaissance, contrôle du FEC, vérification du bilan, du compte de résultat, de la balance, de la liasse fiscale, et contrôles transversaux. Émet une opinion motivée sur la fiabilité des comptes avec rapport structuré. Triggers: audit, commissaire aux comptes, CAC, certification, comptes annuels, validation comptes, révision comptable, statutory audit",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:15.170Z",
+        "evaluatedAt": "2026-10-11T05:06:33.510Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b2b6dcd71c0351bb438ae1200e9a18e406083ec799bd42491db1310df9c83019",
+      "sourcePath": "comptable/SKILL.md",
       "name": "comptable",
       "description": "Comptabilité, fiscalité et facturation pour entreprises françaises. Gère écritures PCG, déclarations TVA, IS/IR, clôture annuelle, liasse fiscale (2033/2065), FEC, états financiers, et chaîne facturation (mentions obligatoires, numérotation, Factur-X/UBL/CII, plateformes agréées PDP/PA, e-reporting, réforme 2026, PEPPOL). Utiliser dès qu'une question porte sur comptabilité française, TVA, impôts, bilan, compte de résultat, amortissement, PCA, clôture, facture, avoir, devis, acompte, facturation électronique, ou e-invoicing.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:15.171Z",
+        "evaluatedAt": "2026-10-11T05:06:33.507Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "840952a3fdad57b66a78d120568aef9dfe64f6ac63c77a4fedd04da31e1b8758",
+      "sourcePath": "controleur-fiscal/SKILL.md",
       "name": "controleur-fiscal",
       "description": "Inspecteur des finances publiques IA. Simule un contrôle fiscal DGFIP complet sur les comptes d'une entreprise française (SASU, EURL, SAS, SARL). Analyse le FEC, la liasse fiscale, les charges déduites, le compte courant d'associé, la TVA, l'IS selon 8 axes de vérification. Identifie les chefs de redressement potentiels avec montants, base légale et niveaux de risque. Triggers: contrôle fiscal, redressement, vérification comptabilité, DGFIP, FEC, déductibilité, audit fiscal, tax audit",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:15.171Z",
+        "evaluatedAt": "2026-10-11T05:06:33.507Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "fda6551bc27a04eaa50402be0c83ec9dce7f29ae683812270c411319b0215040",
+      "sourcePath": "fiscaliste/SKILL.md",
       "name": "fiscaliste",
       "description": "Fiscaliste IA pour la fiscalité personnelle des particuliers français : optimisation et déclaration de l'impôt sur le revenu, IFI, revenus du capital, revenus fonciers, equity salarial, crypto-actifs et PER. Couvre le calcul de l'IR (barème, quotient familial, décote, PAS, CEHR, revenus exceptionnels), la déclaration 2042 et annexes, les revenus du capital (PFU vs barème, PEA, assurance-vie, dividendes, plus-values), les revenus fonciers (micro/réel, déficit, LMNP, SCI IR), l'equity startup (RSU, BSPCE, stock-options, PEE/PERCO), la fiscalité crypto (PAMC, 2086), l'IFI et les déductions (PER, pension alimentaire). Triggers: impôt sur le revenu, IR, 2042, quotient familial, décote, PAS, PFU, flat tax, PEA, assurance-vie, LMNP, revenus fonciers, déficit foncier, SCI IR, RSU, BSPCE, stock-options, PEE/PERCO, crypto, 2086, IFI, PER, plafond PER, niche fiscale, optimisation fiscale, simulation IR, TMI. Hors scope : succession/donation (notaire), IS/SASU/arbitrage dividende-salaire/SCI IS (comptable).",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:15.171Z",
+        "evaluatedAt": "2026-10-11T05:06:33.510Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "29a0b63b416a05e4aa86036ecd290788621700170135dd15a27ca28549e7fe15",
+      "sourcePath": "notaire/SKILL.md",
       "name": "notaire",
       "description": "Notaire IA pour le droit immobilier, les successions, les donations, le droit de la famille et le droit des sociétés en France. Copilote juridique pour la préparation d'actes, le conseil patrimonial, les calculs de frais et la vérification de conformité. Couvre le calcul des frais de notaire (DMTO, émoluments, débours, CSI), la plus-value immobilière, les droits de succession et donation, le démembrement, les contrats de mariage, les PACS, les SCI, et la rédaction de projets d'actes (compromis, statuts, testaments). Triggers: notaire, frais de notaire, acte de vente, compromis, succession, donation, héritage, testament, PACS, contrat de mariage, SCI, plus-value immobilière, droits de mutation, DMTO, usufruit, nue-propriété, partage successoral, réserve héréditaire, viager, donation-partage, diagnostics immobilier, droit de préemption, acte notarié, droit immobilier",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:15.171Z",
+        "evaluatedAt": "2026-10-11T05:06:33.510Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d0591028bd6ee8bd29505a08cab49ae10407047ba4282393e762919c9e5b976e",
+      "sourcePath": "syndic/SKILL.md",
       "name": "syndic",
       "description": "Gère un parc de copropriétés en France avec vue portfolio consolidée. Couvre administration, comptabilité (décret 2005, plan comptable copro, 5 annexes), assemblées générales (convocation, PV, notification), appels de fonds, travaux, fournisseurs, recouvrement d'impayés et transition de syndic. Maîtrise les majorités (art. 24, 25, 25-1, 26), le fonds de travaux (art. 14-2), le privilège immobilier (art. 19-2) et l'immatriculation RNC. Intégration Qonto pour le rapprochement bancaire. Utilisé pour toute question liée à la copropriété, au syndic bénévole ou coopératif, aux charges, tantièmes, AG, ou au droit de la copropriété (loi 1965, ALUR, ELAN).",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:15.171Z",
+        "evaluatedAt": "2026-10-11T05:06:33.510Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:15.171Z",
+          "evaluatedAt": "2026-10-11T05:06:33.510Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1074,7 +1087,7 @@
       "name": "romainsimon-paperasse-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-18T22:13:15.739Z",
+      "createdAt": "2026-10-11T05:06:33.778Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1134,7 +1147,7 @@
       "name": "romainsimon-paperasse-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-18T22:13:15.739Z",
+      "createdAt": "2026-10-11T05:06:33.778Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1182,7 +1195,7 @@
       "name": "romainsimon-paperasse-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-18T22:13:15.739Z",
+      "createdAt": "2026-10-11T05:06:33.778Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1218,7 +1231,7 @@
       "name": "romainsimon-paperasse-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-18T22:13:15.739Z",
+      "createdAt": "2026-10-11T05:06:33.778Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1272,7 +1285,7 @@
       "name": "romainsimon-paperasse-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-18T22:13:15.739Z",
+      "createdAt": "2026-10-11T05:06:33.778Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1308,7 +1321,7 @@
       "name": "romainsimon-paperasse-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-18T22:13:15.739Z",
+      "createdAt": "2026-10-11T05:06:33.778Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1368,7 +1381,7 @@
       "name": "romainsimon-paperasse-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-18T22:13:15.739Z",
+      "createdAt": "2026-10-11T05:06:33.778Z",
       "tags": [
         "repo-derived",
         "inferred",

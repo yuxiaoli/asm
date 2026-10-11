@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "8b75d86b7cbbd04bc32786cf491241adcb66d79e",
   "repoUrl": "https://github.com/ParthJadhav/app-store-screenshots.git",
   "owner": "ParthJadhav",
   "repo": "app-store-screenshots",
-  "updatedAt": "2026-10-18T22:13:21.227Z",
+  "updatedAt": "2026-10-11T05:06:38.431Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "ae6e31d7423aafbb1002e02ffb53f44d564b7ad85e4013eaa8ff4c7b0ef0af31",
+      "sourcePath": "skills/app-store-screenshots/SKILL.md",
       "name": "app-store-screenshots",
       "description": "Use when building App Store or Google Play screenshot pages, generating exportable marketing screenshots for iOS, macOS, and/or Android apps, or scaffolding a screenshot editor with Next.js. Triggers on app store, mac app store, play store, screenshots, marketing assets, html-to-image, phone mockup, mac mockup, android screenshots, feature graphic.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:21.129Z",
+        "evaluatedAt": "2026-10-11T05:06:38.367Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -95,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 62,
+          "overallScore": 60,
           "grade": "D",
           "categories": [
             {
@@ -155,11 +158,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 9,
+              "score": 7,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:21.129Z",
+          "evaluatedAt": "2026-10-11T05:06:38.367Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:21.129Z",
+          "evaluatedAt": "2026-10-11T05:06:38.368Z",
           "evaluatedVersion": "0.0.0"
         }
       }

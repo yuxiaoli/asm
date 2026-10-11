@@ -1,14 +1,17 @@
 {
+  "sourceCommit": "267d50f7fcbab8a6457a93ad6ca15cbc199f633c",
   "repoUrl": "https://github.com/mvanhorn/last30days-skill.git",
   "owner": "mvanhorn",
   "repo": "last30days-skill",
-  "updatedAt": "2026-10-18T22:10:41.184Z",
+  "updatedAt": "2026-10-11T05:04:49.415Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "a83e65f9e445a05ef6606a528789bd2c20fccd259f80aacfe2fc2be2d0231abc",
+      "sourcePath": "skills/last30days/SKILL.md",
       "name": "last30days",
       "description": "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web. Includes a doctor health check to diagnose broken or missing sources.",
-      "version": "3.28.0",
+      "version": "3.27.2",
       "license": "MIT",
       "creator": "",
       "compatibility": "",
@@ -26,7 +29,7 @@
       "installUrl": "github:mvanhorn/last30days-skill:skills/last30days",
       "relPath": "skills/last30days",
       "verified": true,
-      "tokenCount": 8899,
+      "tokenCount": 8881,
       "evalSummary": {
         "overallScore": 76,
         "grade": "C",
@@ -92,8 +95,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:34.082Z",
-        "evaluatedVersion": "3.28.0"
+        "evaluatedAt": "2026-10-11T05:04:44.204Z",
+        "evaluatedVersion": "3.27.2"
       },
       "evalSummaries": {
         "quality": {
@@ -101,7 +104,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 69,
+          "overallScore": 74,
           "grade": "C",
           "categories": [
             {
@@ -161,12 +164,12 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 5,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:34.082Z",
-          "evaluatedVersion": "3.28.0"
+          "evaluatedAt": "2026-10-11T05:04:44.204Z",
+          "evaluatedVersion": "3.27.2"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -183,8 +186,8 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:34.082Z",
-          "evaluatedVersion": "3.28.0"
+          "evaluatedAt": "2026-10-11T05:04:44.204Z",
+          "evaluatedVersion": "3.27.2"
         }
       }
     }

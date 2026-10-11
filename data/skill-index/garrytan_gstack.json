@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "5d647455f21e6a9a1db0eeec415fbe40b0491eae",
   "repoUrl": "https://github.com/garrytan/gstack.git",
   "owner": "garrytan",
   "repo": "gstack",
-  "updatedAt": "2026-10-18T22:10:25.703Z",
+  "updatedAt": "2026-10-11T05:04:38.355Z",
   "skillCount": 64,
   "skills": [
     {
+      "contentHash": "62f83cef9ac668b5b148813ae23b015f8df662a4f9fab194968e1c4a7ea01f86",
+      "sourcePath": "test/fixtures/context-bill/tree-a/alpha/SKILL.md",
       "name": "alpha",
       "description": "Fixture dispatcher with a mode table and forced-read references.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.848Z",
+        "evaluatedAt": "2026-10-11T05:04:31.892Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.851Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.851Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f855753711f781458d99bc6c19bde1bf72701734a66984280d9b13b271448026",
+      "sourcePath": "autoplan/SKILL.md",
       "name": "autoplan",
       "description": "Auto-review pipeline — reads the full CEO, design, eng, and DX review skills from disk and runs them sequentially with auto-decisions using 6 decision principles. (gstack)",
       "version": "1.0.0",
@@ -206,7 +211,7 @@
       "installUrl": "github:garrytan/gstack:autoplan",
       "relPath": "autoplan",
       "verified": true,
-      "tokenCount": 17330,
+      "tokenCount": 17328,
       "evalSummary": {
         "overallScore": 73,
         "grade": "C",
@@ -272,7 +277,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.851Z",
+        "evaluatedAt": "2026-10-11T05:04:31.892Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -345,7 +350,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.851Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -363,12 +368,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "96f5bdabf29d4b5a57d58a5566814b0f94d9967a62d98ddedd5915e553805c0b",
+      "sourcePath": "benchmark/SKILL.md",
       "name": "benchmark",
       "description": "Web performance regression detection. (gstack)",
       "version": "1.0.0",
@@ -389,7 +396,7 @@
       "installUrl": "github:garrytan/gstack:benchmark",
       "relPath": "benchmark",
       "verified": true,
-      "tokenCount": 8859,
+      "tokenCount": 8857,
       "evalSummary": {
         "overallScore": 71,
         "grade": "C",
@@ -455,7 +462,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.851Z",
+        "evaluatedAt": "2026-10-11T05:04:31.892Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -528,7 +535,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -546,12 +553,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "7b19c0be04e04462d7f87ab0b9a58248b3c501ae18b061627063c61af8b9d28d",
+      "sourcePath": "benchmark-models/SKILL.md",
       "name": "benchmark-models",
       "description": "Cross-model benchmark for gstack skills. (gstack)",
       "version": "1.0.0",
@@ -636,7 +645,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.851Z",
+        "evaluatedAt": "2026-10-11T05:04:31.892Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -709,7 +718,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -727,12 +736,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "b7f1b6821ff7d715d9994ae46e521d6128c84544e7f0e3d36b468420aa7a7071",
+      "sourcePath": "test/fixtures/context-bill/tree-a/beta/SKILL.md",
       "name": "beta",
       "description": "Clean fixture tool skill with no forced reads and no mode table.",
       "version": "0.0.0",
@@ -813,7 +824,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.851Z",
+        "evaluatedAt": "2026-10-11T05:04:31.892Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -886,7 +897,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -904,12 +915,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "880282033640fe890dcbbde6bb549525a0a70f9d2fc99dcd951874fc50b32387",
+      "sourcePath": "browse/SKILL.md",
       "name": "browse",
       "description": "Drive a real browser through Aside: open a page, read it, click through a flow, take screenshots, check console errors. (gstack)",
       "version": "2.0.0",
@@ -928,7 +941,7 @@
       "installUrl": "github:garrytan/gstack:browse",
       "relPath": "browse",
       "verified": true,
-      "tokenCount": 9677,
+      "tokenCount": 9632,
       "evalSummary": {
         "overallScore": 74,
         "grade": "C",
@@ -994,7 +1007,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.851Z",
+        "evaluatedAt": "2026-10-11T05:04:31.892Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -1003,7 +1016,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 67,
+          "overallScore": 68,
           "grade": "C",
           "categories": [
             {
@@ -1063,11 +1076,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 9,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -1085,12 +1098,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.896Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     },
     {
+      "contentHash": "b3453284efebc87c7ca1e5c9f130f4435c5bef80d27c86df11ecec5420260ea4",
+      "sourcePath": "canary/SKILL.md",
       "name": "canary",
       "description": "Post-deploy canary monitoring. (gstack)",
       "version": "1.0.0",
@@ -1111,7 +1126,7 @@
       "installUrl": "github:garrytan/gstack:canary",
       "relPath": "canary",
       "verified": true,
-      "tokenCount": 14297,
+      "tokenCount": 14295,
       "evalSummary": {
         "overallScore": 70,
         "grade": "C",
@@ -1177,7 +1192,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.851Z",
+        "evaluatedAt": "2026-10-11T05:04:31.897Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1250,7 +1265,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.897Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1268,12 +1283,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.897Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "8e8e918b4f53ba7ece7373da8f33ed65a669532918068a046d9300e2a2b325fc",
+      "sourcePath": "careful/SKILL.md",
       "name": "careful",
       "description": "Safety guardrails for destructive commands. (gstack)",
       "version": "0.1.0",
@@ -1357,7 +1374,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.851Z",
+        "evaluatedAt": "2026-10-11T05:04:31.896Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -1366,7 +1383,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 57,
+          "overallScore": 51,
           "grade": "D",
           "categories": [
             {
@@ -1426,11 +1443,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 8,
+              "score": 2,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.897Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -1448,12 +1465,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.852Z",
+          "evaluatedAt": "2026-10-11T05:04:31.897Z",
           "evaluatedVersion": "0.1.0"
         }
       }
     },
     {
+      "contentHash": "af287644f4355e16e028b85a937be779cf41592b11d40919b3b2a02f522adbf7",
+      "sourcePath": "codex/SKILL.md",
       "name": "codex",
       "description": "OpenAI Codex CLI wrapper — three modes. (gstack)",
       "version": "1.0.0",
@@ -1475,7 +1494,7 @@
       "installUrl": "github:garrytan/gstack:codex",
       "relPath": "codex",
       "verified": true,
-      "tokenCount": 17054,
+      "tokenCount": 16951,
       "evalSummary": {
         "overallScore": 74,
         "grade": "C",
@@ -1541,7 +1560,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.947Z",
+        "evaluatedAt": "2026-10-11T05:04:31.966Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1614,7 +1633,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.947Z",
+          "evaluatedAt": "2026-10-11T05:04:31.984Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1632,12 +1651,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.947Z",
+          "evaluatedAt": "2026-10-11T05:04:31.984Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "4f63f4a825605614edc87a92036794c4162a282cd11945c079d8a00d45a48ce0",
+      "sourcePath": "context-restore/SKILL.md",
       "name": "context-restore",
       "description": "Restore working context saved earlier by /context-save. (gstack)",
       "version": "1.0.0",
@@ -1724,7 +1745,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.947Z",
+        "evaluatedAt": "2026-10-11T05:04:31.988Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1797,7 +1818,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.948Z",
+          "evaluatedAt": "2026-10-11T05:04:31.989Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1815,12 +1836,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.948Z",
+          "evaluatedAt": "2026-10-11T05:04:31.989Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "39764c8b515d7564192b3ab36fa2ce7a9c72224a16d4e0c05bed0962cd490961",
+      "sourcePath": "context-save/SKILL.md",
       "name": "context-save",
       "description": "Save working context. (gstack)",
       "version": "1.0.0",
@@ -1908,7 +1931,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.947Z",
+        "evaluatedAt": "2026-10-11T05:04:31.988Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1981,7 +2004,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.948Z",
+          "evaluatedAt": "2026-10-11T05:04:31.990Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1999,12 +2022,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.948Z",
+          "evaluatedAt": "2026-10-11T05:04:31.990Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "8a4ca859224606921d4c36b6105404326b693129ecb807331333ef2556c8b5aa",
+      "sourcePath": "cso/SKILL.md",
       "name": "cso",
       "description": "Security audit: supported static findings; qualified profiles add reproduction and repair candidates. (gstack)",
       "version": "3.0.0",
@@ -2024,7 +2049,7 @@
       "installUrl": "github:garrytan/gstack:cso",
       "relPath": "cso",
       "verified": true,
-      "tokenCount": 4612,
+      "tokenCount": 4593,
       "evalSummary": {
         "overallScore": 71,
         "grade": "C",
@@ -2090,7 +2115,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.953Z",
+        "evaluatedAt": "2026-10-11T05:04:31.991Z",
         "evaluatedVersion": "3.0.0"
       },
       "evalSummaries": {
@@ -2163,7 +2188,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.954Z",
+          "evaluatedAt": "2026-10-11T05:04:31.992Z",
           "evaluatedVersion": "3.0.0"
         },
         "skill-best-practice": {
@@ -2181,12 +2206,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.954Z",
+          "evaluatedAt": "2026-10-11T05:04:31.992Z",
           "evaluatedVersion": "3.0.0"
         }
       }
     },
     {
+      "contentHash": "a025925b317a494374f93a4d2143bcae7d4c4f7a0d562559c94fea366c09faa6",
+      "sourcePath": "design-consultation/SKILL.md",
       "name": "design-consultation",
       "description": "Design consultation: understands your product, researches the landscape, proposes a complete design system (aesthetic, typography, color, layout, spacing, motion), and generates font+color preview... (gstack)",
       "version": "1.0.0",
@@ -2210,7 +2237,7 @@
       "installUrl": "github:garrytan/gstack:design-consultation",
       "relPath": "design-consultation",
       "verified": true,
-      "tokenCount": 17296,
+      "tokenCount": 17294,
       "evalSummary": {
         "overallScore": 74,
         "grade": "C",
@@ -2276,7 +2303,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.987Z",
+        "evaluatedAt": "2026-10-11T05:04:32.026Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2349,7 +2376,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.989Z",
+          "evaluatedAt": "2026-10-11T05:04:32.037Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -2367,12 +2394,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.989Z",
+          "evaluatedAt": "2026-10-11T05:04:32.037Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "39c0e9015fdd37a93c5f4e36d27b75c06f9d4a38731ece0ccde44975cf0f47fd",
+      "sourcePath": "design-html/SKILL.md",
       "name": "design-html",
       "description": "Design finalization: generates production-quality Pretext-native HTML/CSS. (gstack)",
       "version": "1.0.0",
@@ -2462,7 +2491,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:20.998Z",
+        "evaluatedAt": "2026-10-11T05:04:32.043Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2535,7 +2564,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.998Z",
+          "evaluatedAt": "2026-10-11T05:04:32.044Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -2553,12 +2582,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:20.998Z",
+          "evaluatedAt": "2026-10-11T05:04:32.044Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "44f47a14dd3f9ab7f7c55dddb005dc8d130e3722d91877288b277c59f4084c44",
+      "sourcePath": "design-review/SKILL.md",
       "name": "design-review",
       "description": "Designer's eye QA: finds visual inconsistency, spacing issues, hierarchy problems, AI slop patterns, and slow interactions — then fixes them. (gstack)",
       "version": "2.0.0",
@@ -2582,7 +2613,7 @@
       "installUrl": "github:garrytan/gstack:design-review",
       "relPath": "design-review",
       "verified": true,
-      "tokenCount": 38425,
+      "tokenCount": 38326,
       "evalSummary": {
         "overallScore": 74,
         "grade": "C",
@@ -2648,7 +2679,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.035Z",
+        "evaluatedAt": "2026-10-11T05:04:32.064Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -2721,7 +2752,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.036Z",
+          "evaluatedAt": "2026-10-11T05:04:32.064Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -2739,12 +2770,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.036Z",
+          "evaluatedAt": "2026-10-11T05:04:32.064Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     },
     {
+      "contentHash": "ce00e580218a7f6b3dbcff99083ac1e178b5b5ab171a42525995fdfcbada6e77",
+      "sourcePath": "design-shotgun/SKILL.md",
       "name": "design-shotgun",
       "description": "Design shotgun: generate multiple AI design variants, open a comparison board, collect structured feedback, and iterate. (gstack)",
       "version": "1.0.0",
@@ -2831,7 +2864,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.036Z",
+        "evaluatedAt": "2026-10-11T05:04:32.110Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2904,7 +2937,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.036Z",
+          "evaluatedAt": "2026-10-11T05:04:32.111Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -2922,12 +2955,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.036Z",
+          "evaluatedAt": "2026-10-11T05:04:32.111Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "facad55a44fb659c827f531aff8e0a1a28b23de109508a32160bf3eb7b1eb346",
+      "sourcePath": "deslop-shared-libs/SKILL.md",
       "name": "deslop-shared-libs",
       "description": "Find worthwhile shared-code extractions in recent work. (gstack)",
       "version": "1.0.0",
@@ -3013,7 +3048,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.088Z",
+        "evaluatedAt": "2026-10-11T05:04:32.114Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3086,7 +3121,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.097Z",
+          "evaluatedAt": "2026-10-11T05:04:32.116Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3104,12 +3139,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.097Z",
+          "evaluatedAt": "2026-10-11T05:04:32.116Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "0860edbdc58f2ba679e335ec2d2f6acb734ef49ce86b2ab4239f37d90bc2d364",
+      "sourcePath": "devex-review/SKILL.md",
       "name": "devex-review",
       "description": "Live developer experience audit. (gstack)",
       "version": "1.0.0",
@@ -3132,7 +3169,7 @@
       "installUrl": "github:garrytan/gstack:devex-review",
       "relPath": "devex-review",
       "verified": true,
-      "tokenCount": 22956,
+      "tokenCount": 21973,
       "evalSummary": {
         "overallScore": 72,
         "grade": "C",
@@ -3198,7 +3235,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.098Z",
+        "evaluatedAt": "2026-10-11T05:04:32.130Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3271,7 +3308,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.099Z",
+          "evaluatedAt": "2026-10-11T05:04:32.131Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3289,12 +3326,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.099Z",
+          "evaluatedAt": "2026-10-11T05:04:32.131Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "1c7856e2fb063a236bca0dd5968e95def4a2ffbf6e0a27a01d02e18704916a64",
+      "sourcePath": "diagram/SKILL.md",
       "name": "diagram",
       "description": "Turn an English description (or mermaid source) into a diagram triplet: the source, an editable .excalidraw file you can open on excalidraw.com, and rendered SVG + PNG. (gstack)",
       "version": "1.0.0",
@@ -3380,7 +3419,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.103Z",
+        "evaluatedAt": "2026-10-11T05:04:32.140Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3453,7 +3492,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.110Z",
+          "evaluatedAt": "2026-10-11T05:04:32.140Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3471,12 +3510,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.110Z",
+          "evaluatedAt": "2026-10-11T05:04:32.140Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "b271ee11185e62bb7bf9f14d9923940b87444f51401e7354576a6a3ac8e25ecc",
+      "sourcePath": "document-generate/SKILL.md",
       "name": "document-generate",
       "description": "Generate missing documentation from scratch for a feature, module, or entire project. (gstack)",
       "version": "1.0.0",
@@ -3565,7 +3606,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.110Z",
+        "evaluatedAt": "2026-10-11T05:04:32.182Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3638,7 +3679,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.112Z",
+          "evaluatedAt": "2026-10-11T05:04:32.193Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3656,12 +3697,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.112Z",
+          "evaluatedAt": "2026-10-11T05:04:32.193Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "9a5ad3132f67ec452a49d2af284bb8b83da31504edccba3dd4c87c216339b81f",
+      "sourcePath": "document-release/SKILL.md",
       "name": "document-release",
       "description": "Release documentation audit. (gstack)",
       "version": "1.0.0",
@@ -3750,7 +3793,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.148Z",
+        "evaluatedAt": "2026-10-11T05:04:32.193Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3823,7 +3866,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.149Z",
+          "evaluatedAt": "2026-10-11T05:04:32.205Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3841,12 +3884,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.149Z",
+          "evaluatedAt": "2026-10-11T05:04:32.205Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "b808e13b97c03880136c06118e57f73bf837919d82fe99d3859b4b6fc29af422",
+      "sourcePath": "eval-plan/SKILL.md",
       "name": "eval-plan",
       "description": "Preregister a paid eval (bars, arms, decoys, stop rules), dry-run it at zero cost, then run a three-item priced pilot whose spend table gates approval. (gstack)",
       "version": "1.0.0",
@@ -3869,7 +3914,7 @@
       "installUrl": "github:garrytan/gstack:eval-plan",
       "relPath": "eval-plan",
       "verified": true,
-      "tokenCount": 10912,
+      "tokenCount": 10109,
       "evalSummary": {
         "overallScore": 74,
         "grade": "C",
@@ -3935,7 +3980,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.169Z",
+        "evaluatedAt": "2026-10-11T05:04:32.206Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4008,7 +4053,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.173Z",
+          "evaluatedAt": "2026-10-11T05:04:32.213Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4026,12 +4071,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.173Z",
+          "evaluatedAt": "2026-10-11T05:04:32.213Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "a77914316a0df19eac7bfe65e38b94e7ecababe0d86161a16c585ea28523c403",
+      "sourcePath": "freeze/SKILL.md",
       "name": "freeze",
       "description": "Restrict file edits to a specific directory for the session. (gstack)",
       "version": "0.1.0",
@@ -4116,7 +4163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.173Z",
+        "evaluatedAt": "2026-10-11T05:04:32.216Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -4189,7 +4236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.174Z",
+          "evaluatedAt": "2026-10-11T05:04:32.223Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -4207,12 +4254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.174Z",
+          "evaluatedAt": "2026-10-11T05:04:32.224Z",
           "evaluatedVersion": "0.1.0"
         }
       }
     },
     {
+      "contentHash": "88bb80ee5e789d9e4bdb1a7f30f13d958514ef6e18f2d805556c5c96c740fb86",
+      "sourcePath": "SKILL.md",
       "name": "gstack",
       "description": "Router for the gstack skill suite. (gstack)",
       "version": "1.2.0",
@@ -4297,7 +4346,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.178Z",
+        "evaluatedAt": "2026-10-11T05:04:32.237Z",
         "evaluatedVersion": "1.2.0"
       },
       "evalSummaries": {
@@ -4370,7 +4419,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.181Z",
+          "evaluatedAt": "2026-10-11T05:04:32.239Z",
           "evaluatedVersion": "1.2.0"
         },
         "skill-best-practice": {
@@ -4388,12 +4437,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.181Z",
+          "evaluatedAt": "2026-10-11T05:04:32.239Z",
           "evaluatedVersion": "1.2.0"
         }
       }
     },
     {
+      "contentHash": "5c4442aec4ffd0673dce28bf966a2825507cdcfaebefccc027572fe0b8b7d6b6",
+      "sourcePath": "openclaw/skills/gstack-openclaw-ceo-review/SKILL.md",
       "name": "gstack-openclaw-ceo-review",
       "description": "Use when asked to review a plan, challenge a proposal, run a CEO review, poke holes in an approach, think bigger about scope, or decide whether to expand or reduce the plan.",
       "version": "0.0.0",
@@ -4474,7 +4525,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.183Z",
+        "evaluatedAt": "2026-10-11T05:04:32.242Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4547,7 +4598,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.184Z",
+          "evaluatedAt": "2026-10-11T05:04:32.244Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4565,12 +4616,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.185Z",
+          "evaluatedAt": "2026-10-11T05:04:32.244Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ab4ef9f9482a1463cdd550333fc76be38ba5e786f901ce2888bee8452d94be20",
+      "sourcePath": "openclaw/skills/gstack-openclaw-investigate/SKILL.md",
       "name": "gstack-openclaw-investigate",
       "description": "Use when asked to debug, fix a bug, investigate an error, or do root cause analysis, and when users report errors, stack traces, unexpected behavior, or say something stopped working.",
       "version": "0.0.0",
@@ -4651,7 +4704,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.184Z",
+        "evaluatedAt": "2026-10-11T05:04:32.274Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4724,7 +4777,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.185Z",
+          "evaluatedAt": "2026-10-11T05:04:32.277Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4742,12 +4795,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.185Z",
+          "evaluatedAt": "2026-10-11T05:04:32.277Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a98c457ce55cc5adca6776710d47c9ff1f0a67771d6f03e5bc56e0fcfb4ad138",
+      "sourcePath": "openclaw/skills/gstack-openclaw-office-hours/SKILL.md",
       "name": "gstack-openclaw-office-hours",
       "description": "Use when asked to brainstorm, evaluate whether an idea is worth building, run office hours, or think through a new product idea or design direction before any code is written.",
       "version": "0.0.0",
@@ -4828,7 +4883,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.224Z",
+        "evaluatedAt": "2026-10-11T05:04:32.296Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4901,7 +4956,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.224Z",
+          "evaluatedAt": "2026-10-11T05:04:32.298Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4919,12 +4974,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.224Z",
+          "evaluatedAt": "2026-10-11T05:04:32.298Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "46425d5caf9220505d4ffeb88e15604895e34b8bacc147f723886051f56593b9",
+      "sourcePath": "openclaw/skills/gstack-openclaw-retro/SKILL.md",
       "name": "gstack-openclaw-retro",
       "description": "Weekly engineering retrospective. Analyzes commit history, work patterns, and code quality metrics with persistent history and trend tracking. Team-aware with per-person contributions, praise, and growth areas. Use when asked for weekly retro, what shipped this week, or engineering retrospective.",
       "version": "0.0.0",
@@ -5005,7 +5062,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.224Z",
+        "evaluatedAt": "2026-10-11T05:04:32.298Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5078,7 +5135,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.225Z",
+          "evaluatedAt": "2026-10-11T05:04:32.308Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5096,12 +5153,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.225Z",
+          "evaluatedAt": "2026-10-11T05:04:32.308Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "10519b684f50d7cf07c7ab48cf384604e69eaf6f6483dcfa4f20f0fab31af994",
+      "sourcePath": "gstack-upgrade/SKILL.md",
       "name": "gstack-upgrade",
       "description": "Upgrade gstack to the latest version.",
       "version": "1.1.0",
@@ -5121,9 +5180,9 @@
       "installUrl": "github:garrytan/gstack:gstack-upgrade",
       "relPath": "gstack-upgrade",
       "verified": true,
-      "tokenCount": 6519,
+      "tokenCount": 5964,
       "evalSummary": {
-        "overallScore": 65,
+        "overallScore": 68,
         "grade": "C",
         "categories": [
           {
@@ -5141,13 +5200,13 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 7,
+            "score": 8,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 5,
+            "score": 7,
             "max": 10
           },
           {
@@ -5187,7 +5246,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.231Z",
+        "evaluatedAt": "2026-10-11T05:04:32.317Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -5196,7 +5255,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 53,
+          "overallScore": 56,
           "grade": "D",
           "categories": [
             {
@@ -5214,13 +5273,13 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 7,
+              "score": 8,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 5,
+              "score": 7,
               "max": 10
             },
             {
@@ -5260,7 +5319,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.232Z",
+          "evaluatedAt": "2026-10-11T05:04:32.326Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -5278,12 +5337,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.232Z",
+          "evaluatedAt": "2026-10-11T05:04:32.326Z",
           "evaluatedVersion": "1.1.0"
         }
       }
     },
     {
+      "contentHash": "d9bd6607fb7c4a299a37dabe987a7c7790b326604311dfd0dcd93343301fcc1b",
+      "sourcePath": "guard/SKILL.md",
       "name": "guard",
       "description": "Full safety mode: destructive command warnings + directory-scoped edits. (gstack)",
       "version": "0.1.0",
@@ -5368,7 +5429,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.232Z",
+        "evaluatedAt": "2026-10-11T05:04:32.340Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -5441,7 +5502,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.233Z",
+          "evaluatedAt": "2026-10-11T05:04:32.341Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -5459,12 +5520,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.233Z",
+          "evaluatedAt": "2026-10-11T05:04:32.341Z",
           "evaluatedVersion": "0.1.0"
         }
       }
     },
     {
+      "contentHash": "1a4e91d00ffdbdd38d2dc2986cf764b6d7d4d9348fdce19f2c60e92fa4a564da",
+      "sourcePath": "browser-skills/hackernews-frontpage/SKILL.md",
       "name": "hackernews-frontpage",
       "description": "Scrape the Hacker News front page (titles, points, comment counts).",
       "version": "1.0.0",
@@ -5545,7 +5608,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.243Z",
+        "evaluatedAt": "2026-10-11T05:04:32.341Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5618,7 +5681,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.251Z",
+          "evaluatedAt": "2026-10-11T05:04:32.351Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -5636,12 +5699,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.251Z",
+          "evaluatedAt": "2026-10-11T05:04:32.351Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "06808ddbfb99abcbc239625b1e8edc7d83f20b65df4b7ca4e4b98d0082c6a367",
+      "sourcePath": "health/SKILL.md",
       "name": "health",
       "description": "Code quality dashboard. (gstack)",
       "version": "1.0.0",
@@ -5730,7 +5795,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.252Z",
+        "evaluatedAt": "2026-10-11T05:04:32.376Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5803,7 +5868,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.254Z",
+          "evaluatedAt": "2026-10-11T05:04:32.386Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -5821,12 +5886,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.255Z",
+          "evaluatedAt": "2026-10-11T05:04:32.386Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "d84173a78160734e138f3946f6124623c06072981ca665afb24442cfcb649c08",
+      "sourcePath": "investigate/SKILL.md",
       "name": "investigate",
       "description": "Systematic debugging with root cause investigation. (gstack)",
       "version": "1.0.0",
@@ -5916,7 +5983,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.291Z",
+        "evaluatedAt": "2026-10-11T05:04:32.386Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5989,7 +6056,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.307Z",
+          "evaluatedAt": "2026-10-11T05:04:32.394Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6007,12 +6074,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.307Z",
+          "evaluatedAt": "2026-10-11T05:04:32.394Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "233ab8f7e777145ae8bfba7e6e6ab9dc82b5d77f62a9f7cb5453219705136ff1",
+      "sourcePath": "ios-clean/SKILL.md",
       "name": "ios-clean",
       "description": "Remove the DebugBridge SPM package and all #if DEBUG wiring from an iOS app. (gstack)",
       "version": "1.0.0",
@@ -6100,7 +6169,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.300Z",
+        "evaluatedAt": "2026-10-11T05:04:32.473Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6173,7 +6242,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.315Z",
+          "evaluatedAt": "2026-10-11T05:04:32.476Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6191,12 +6260,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.315Z",
+          "evaluatedAt": "2026-10-11T05:04:32.476Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "9bca1464bee1194f5f47ce5898b486625235575fcb298498b7267dc41cf1b8ec",
+      "sourcePath": "ios-design-review/SKILL.md",
       "name": "ios-design-review",
       "description": "Visual design audit for iOS apps on real hardware. (gstack)",
       "version": "1.0.0",
@@ -6283,7 +6354,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.362Z",
+        "evaluatedAt": "2026-10-11T05:04:32.516Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6356,7 +6427,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.411Z",
+          "evaluatedAt": "2026-10-11T05:04:32.518Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6374,12 +6445,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.411Z",
+          "evaluatedAt": "2026-10-11T05:04:32.518Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "a8fc06532b2db54fe25b4d3a765663582cd37a07491ac36ccbb381eec8dab959",
+      "sourcePath": "ios-fix/SKILL.md",
       "name": "ios-fix",
       "description": "Autonomous iOS bug fixer. (gstack)",
       "version": "1.0.0",
@@ -6468,7 +6541,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.488Z",
+        "evaluatedAt": "2026-10-11T05:04:32.561Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6541,7 +6614,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.489Z",
+          "evaluatedAt": "2026-10-11T05:04:32.564Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6559,12 +6632,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.489Z",
+          "evaluatedAt": "2026-10-11T05:04:32.564Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "43217fe86a1d1de03667adff1a06b1adc433440b30d186238f41bbae61d30ce3",
+      "sourcePath": "ios-qa/SKILL.md",
       "name": "ios-qa",
       "description": "Live-device iOS QA for SwiftUI apps. (gstack)",
       "version": "1.0.0",
@@ -6653,7 +6728,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.508Z",
+        "evaluatedAt": "2026-10-11T05:04:32.582Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6726,7 +6801,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.508Z",
+          "evaluatedAt": "2026-10-11T05:04:32.584Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6744,12 +6819,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.509Z",
+          "evaluatedAt": "2026-10-11T05:04:32.584Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "13d48c839be5341ee4af605257e3700754a91ed27cde590a9cbe8f3429406d9e",
+      "sourcePath": "ios-sync/SKILL.md",
       "name": "ios-sync",
       "description": "Regenerate the iOS debug bridge against the latest upstream gstack templates. (gstack)",
       "version": "1.0.0",
@@ -6838,7 +6915,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.516Z",
+        "evaluatedAt": "2026-10-11T05:04:32.592Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6911,7 +6988,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.517Z",
+          "evaluatedAt": "2026-10-11T05:04:32.594Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6929,12 +7006,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.517Z",
+          "evaluatedAt": "2026-10-11T05:04:32.594Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "f678014a73b0cc20513a28bbfe0146eb73839103e0c72ee1140f7b7745d01fb7",
+      "sourcePath": "land-and-deploy/SKILL.md",
       "name": "land-and-deploy",
       "description": "Land and deploy workflow. (gstack)",
       "version": "1.0.0",
@@ -6955,7 +7034,7 @@
       "installUrl": "github:garrytan/gstack:land-and-deploy",
       "relPath": "land-and-deploy",
       "verified": true,
-      "tokenCount": 20377,
+      "tokenCount": 20298,
       "evalSummary": {
         "overallScore": 72,
         "grade": "C",
@@ -7021,7 +7100,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.545Z",
+        "evaluatedAt": "2026-10-11T05:04:32.622Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -7094,7 +7173,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.550Z",
+          "evaluatedAt": "2026-10-11T05:04:32.624Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -7112,12 +7191,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.550Z",
+          "evaluatedAt": "2026-10-11T05:04:32.624Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "16a1fb33bf2db896d998250f01a948f07b9273e4d407ab5beb901773993752c0",
+      "sourcePath": "landing-report/SKILL.md",
       "name": "landing-report",
       "description": "Read-only queue dashboard for workspace-aware ship. (gstack)",
       "version": "0.1.0",
@@ -7201,7 +7282,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.551Z",
+        "evaluatedAt": "2026-10-11T05:04:32.654Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -7274,7 +7355,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.551Z",
+          "evaluatedAt": "2026-10-11T05:04:32.655Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -7292,12 +7373,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.551Z",
+          "evaluatedAt": "2026-10-11T05:04:32.655Z",
           "evaluatedVersion": "0.1.0"
         }
       }
     },
     {
+      "contentHash": "7ade420a1ac01f8115d9f5d6c3744358d00a39c4613ea504dea4392cbbdf49d1",
+      "sourcePath": "learn/SKILL.md",
       "name": "learn",
       "description": "Manage project learnings.",
       "version": "1.0.0",
@@ -7386,7 +7469,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.579Z",
+        "evaluatedAt": "2026-10-11T05:04:32.703Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -7459,7 +7542,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.581Z",
+          "evaluatedAt": "2026-10-11T05:04:32.704Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -7477,12 +7560,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.581Z",
+          "evaluatedAt": "2026-10-11T05:04:32.704Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "7d571836b1bf2e8adeabec80392302f63f273fb46b8b56435d9bd90c11c59008",
+      "sourcePath": "make-pdf/SKILL.md",
       "name": "make-pdf",
       "description": "Turn any markdown file into a publication-quality PDF. (gstack)",
       "version": "1.0.0",
@@ -7567,7 +7652,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.605Z",
+        "evaluatedAt": "2026-10-11T05:04:32.703Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -7640,7 +7725,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.616Z",
+          "evaluatedAt": "2026-10-11T05:04:32.704Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -7658,12 +7743,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.616Z",
+          "evaluatedAt": "2026-10-11T05:04:32.704Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "320ca39586f43738412e1b3be6d6e0b2fc8ee8d042584d10ba0fc208ce576a48",
+      "sourcePath": "office-hours/SKILL.md",
       "name": "office-hours",
       "description": "YC Office Hours — two modes. (gstack)",
       "version": "2.0.0",
@@ -7687,7 +7774,7 @@
       "installUrl": "github:garrytan/gstack:office-hours",
       "relPath": "office-hours",
       "verified": true,
-      "tokenCount": 26117,
+      "tokenCount": 26061,
       "evalSummary": {
         "overallScore": 71,
         "grade": "C",
@@ -7753,7 +7840,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.617Z",
+        "evaluatedAt": "2026-10-11T05:04:32.764Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -7826,7 +7913,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.617Z",
+          "evaluatedAt": "2026-10-11T05:04:32.767Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -7844,12 +7931,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.617Z",
+          "evaluatedAt": "2026-10-11T05:04:32.767Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     },
     {
+      "contentHash": "463d8bb939bfdc2c3b239c93ebddf3fd63ab181f0b0fe555a16ff967a4d988c5",
+      "sourcePath": "open-gstack-browser/SKILL.md",
       "name": "open-gstack-browser",
       "description": "Launch GStack Browser — AI-controlled Chromium with the sidebar extension baked in.",
       "version": "0.2.0",
@@ -7934,7 +8023,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.669Z",
+        "evaluatedAt": "2026-10-11T05:04:32.789Z",
         "evaluatedVersion": "0.2.0"
       },
       "evalSummaries": {
@@ -8007,7 +8096,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.670Z",
+          "evaluatedAt": "2026-10-11T05:04:32.791Z",
           "evaluatedVersion": "0.2.0"
         },
         "skill-best-practice": {
@@ -8025,12 +8114,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.670Z",
+          "evaluatedAt": "2026-10-11T05:04:32.791Z",
           "evaluatedVersion": "0.2.0"
         }
       }
     },
     {
+      "contentHash": "318738cd42c038acb7046d758c337511e2e038e96505dd2da47d95a9ad51f922",
+      "sourcePath": "pair-agent/SKILL.md",
       "name": "pair-agent",
       "description": "Pair a remote AI agent with your browser. (gstack)",
       "version": "0.1.0",
@@ -8115,7 +8206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.700Z",
+        "evaluatedAt": "2026-10-11T05:04:32.826Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -8188,7 +8279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.701Z",
+          "evaluatedAt": "2026-10-11T05:04:32.827Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -8206,12 +8297,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.701Z",
+          "evaluatedAt": "2026-10-11T05:04:32.827Z",
           "evaluatedVersion": "0.1.0"
         }
       }
     },
     {
+      "contentHash": "828b4ffa51987e910dab8643746ccd06df359fde9e672883be4bb580abaa469f",
+      "sourcePath": "plan-ceo-review/SKILL.md",
       "name": "plan-ceo-review",
       "description": "CEO/founder-mode plan review. (gstack)",
       "version": "1.0.0",
@@ -8233,7 +8326,7 @@
       "installUrl": "github:garrytan/gstack:plan-ceo-review",
       "relPath": "plan-ceo-review",
       "verified": true,
-      "tokenCount": 22535,
+      "tokenCount": 22523,
       "evalSummary": {
         "overallScore": 69,
         "grade": "C",
@@ -8299,7 +8392,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.728Z",
+        "evaluatedAt": "2026-10-11T05:04:32.874Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -8372,7 +8465,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.738Z",
+          "evaluatedAt": "2026-10-11T05:04:32.878Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -8390,12 +8483,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.738Z",
+          "evaluatedAt": "2026-10-11T05:04:32.878Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "8b2dfcacacadb6a2483a9647b91e3ce7e7a9e916aa7215534feb46a0907cf81f",
+      "sourcePath": "plan-design-review/SKILL.md",
       "name": "plan-design-review",
       "description": "Designer's eye plan review — interactive, like CEO and Eng review. (gstack)",
       "version": "2.0.0",
@@ -8417,7 +8512,7 @@
       "installUrl": "github:garrytan/gstack:plan-design-review",
       "relPath": "plan-design-review",
       "verified": true,
-      "tokenCount": 23781,
+      "tokenCount": 23728,
       "evalSummary": {
         "overallScore": 74,
         "grade": "C",
@@ -8483,7 +8578,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.738Z",
+        "evaluatedAt": "2026-10-11T05:04:32.886Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -8556,7 +8651,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.740Z",
+          "evaluatedAt": "2026-10-11T05:04:32.887Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -8574,12 +8669,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.740Z",
+          "evaluatedAt": "2026-10-11T05:04:32.887Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     },
     {
+      "contentHash": "3b3e94af0beb27ae81883c1d9233240b90d81a0cc80c8b2db82fcd7fc6b8d743",
+      "sourcePath": "plan-devex-review/SKILL.md",
       "name": "plan-devex-review",
       "description": "Interactive developer experience plan review. (gstack)",
       "version": "2.0.0",
@@ -8602,9 +8699,9 @@
       "installUrl": "github:garrytan/gstack:plan-devex-review",
       "relPath": "plan-devex-review",
       "verified": true,
-      "tokenCount": 19279,
+      "tokenCount": 19121,
       "evalSummary": {
-        "overallScore": 72,
+        "overallScore": 71,
         "grade": "C",
         "categories": [
           {
@@ -8628,7 +8725,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 6,
+            "score": 5,
             "max": 10
           },
           {
@@ -8668,7 +8765,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.796Z",
+        "evaluatedAt": "2026-10-11T05:04:32.930Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -8677,7 +8774,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 72,
+          "overallScore": 71,
           "grade": "C",
           "categories": [
             {
@@ -8701,7 +8798,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 6,
+              "score": 5,
               "max": 10
             },
             {
@@ -8741,7 +8838,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.799Z",
+          "evaluatedAt": "2026-10-11T05:04:32.931Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -8759,12 +8856,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.799Z",
+          "evaluatedAt": "2026-10-11T05:04:32.931Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     },
     {
+      "contentHash": "059ceecad429fc2a022e5a2373810b7a975e2e5766d040f9fae0ef5c388a0f37",
+      "sourcePath": "plan-eng-review/SKILL.md",
       "name": "plan-eng-review",
       "description": "Eng manager-mode plan review. (gstack)",
       "version": "1.0.0",
@@ -8787,7 +8886,7 @@
       "installUrl": "github:garrytan/gstack:plan-eng-review",
       "relPath": "plan-eng-review",
       "verified": true,
-      "tokenCount": 14651,
+      "tokenCount": 14449,
       "evalSummary": {
         "overallScore": 72,
         "grade": "C",
@@ -8853,7 +8952,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.807Z",
+        "evaluatedAt": "2026-10-11T05:04:32.991Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -8926,7 +9025,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.816Z",
+          "evaluatedAt": "2026-10-11T05:04:32.993Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -8944,12 +9043,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.816Z",
+          "evaluatedAt": "2026-10-11T05:04:32.993Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "d81e165e9c7efd20b641dd20f343197053fe1eb5ec2d92e95d73bb3b5094a891",
+      "sourcePath": "plan-tune/SKILL.md",
       "name": "plan-tune",
       "description": "Self-tuning question sensitivity + developer psychographic for gstack (v1: observational). (gstack)",
       "version": "1.0.0",
@@ -9038,7 +9139,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.890Z",
+        "evaluatedAt": "2026-10-11T05:04:32.999Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -9111,7 +9212,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.891Z",
+          "evaluatedAt": "2026-10-11T05:04:32.999Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -9129,12 +9230,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.891Z",
+          "evaluatedAt": "2026-10-11T05:04:32.999Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "58fcef2f2e72bc2f5316308713f72b1559fcab941da344e9ce9a78ed74dd00a9",
+      "sourcePath": "qa/SKILL.md",
       "name": "qa",
       "description": "Fix browser/API/CLI/job/worker/webhook bugs. (gstack)",
       "version": "2.0.0",
@@ -9224,7 +9327,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.908Z",
+        "evaluatedAt": "2026-10-11T05:04:33.024Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -9297,7 +9400,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.912Z",
+          "evaluatedAt": "2026-10-11T05:04:33.025Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -9315,12 +9418,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.912Z",
+          "evaluatedAt": "2026-10-11T05:04:33.025Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     },
     {
+      "contentHash": "b1f3c51d9fedaf0fc5320c70c46bf905af1a8606b9acd22f85eb60153c4afe4c",
+      "sourcePath": "qa-only/SKILL.md",
       "name": "qa-only",
       "description": "Report browser/API/CLI/job/worker/webhook bugs. (gstack)",
       "version": "1.0.0",
@@ -9407,7 +9512,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.942Z",
+        "evaluatedAt": "2026-10-11T05:04:33.083Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -9480,7 +9585,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.953Z",
+          "evaluatedAt": "2026-10-11T05:04:33.083Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -9498,12 +9603,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.954Z",
+          "evaluatedAt": "2026-10-11T05:04:33.083Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "fa4e3013ad5cac760169496f6566b738d2c048010b39609518e8a4a5afb50645",
+      "sourcePath": "retro/SKILL.md",
       "name": "retro",
       "description": "Weekly engineering retrospective. (gstack)",
       "version": "2.0.0",
@@ -9590,7 +9697,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.954Z",
+        "evaluatedAt": "2026-10-11T05:04:33.129Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -9663,7 +9770,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.955Z",
+          "evaluatedAt": "2026-10-11T05:04:33.130Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -9681,12 +9788,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.955Z",
+          "evaluatedAt": "2026-10-11T05:04:33.130Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     },
     {
+      "contentHash": "cfaf062132779ceff5d327f89a2b3e7f768dbd5d7eac6065c939006e7c16050b",
+      "sourcePath": "review/SKILL.md",
       "name": "review",
       "description": "Pre-landing PR review. (gstack)",
       "version": "1.0.0",
@@ -9711,7 +9820,7 @@
       "installUrl": "github:garrytan/gstack:review",
       "relPath": "review",
       "verified": true,
-      "tokenCount": 22314,
+      "tokenCount": 22313,
       "evalSummary": {
         "overallScore": 70,
         "grade": "C",
@@ -9777,7 +9886,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:21.968Z",
+        "evaluatedAt": "2026-10-11T05:04:33.194Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -9850,7 +9959,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.977Z",
+          "evaluatedAt": "2026-10-11T05:04:33.194Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -9868,12 +9977,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:21.977Z",
+          "evaluatedAt": "2026-10-11T05:04:33.194Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "5b593acf0ca965cca91af472ab3eb369b7a25d9448fb29434d0fe878e331ad2e",
+      "sourcePath": "scrape/SKILL.md",
       "name": "scrape",
       "description": "Pull data from a web page through the Aside browser — your real, already signed-in sessions. (gstack)",
       "version": "2.0.0",
@@ -9892,7 +10003,7 @@
       "installUrl": "github:garrytan/gstack:scrape",
       "relPath": "scrape",
       "verified": true,
-      "tokenCount": 8097,
+      "tokenCount": 8095,
       "evalSummary": {
         "overallScore": 71,
         "grade": "C",
@@ -9958,7 +10069,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.077Z",
+        "evaluatedAt": "2026-10-11T05:04:33.212Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -10031,7 +10142,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.078Z",
+          "evaluatedAt": "2026-10-11T05:04:33.213Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -10049,12 +10160,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.078Z",
+          "evaluatedAt": "2026-10-11T05:04:33.213Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     },
     {
+      "contentHash": "bf6f1067c2798f7b8b4a66020ed6b9492fd195220e03ab041083dc002e767fd4",
+      "sourcePath": "setup-browser-cookies/SKILL.md",
       "name": "setup-browser-cookies",
       "description": "Import cookies from your real Chromium browser into the headless browse session. (gstack)",
       "version": "1.0.0",
@@ -10139,7 +10252,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.091Z",
+        "evaluatedAt": "2026-10-11T05:04:33.236Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -10212,7 +10325,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.092Z",
+          "evaluatedAt": "2026-10-11T05:04:33.238Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -10230,12 +10343,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.092Z",
+          "evaluatedAt": "2026-10-11T05:04:33.238Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "da7826ad1d230f58517c17762fac43d1778fc38ca08b561622790e9ca0f96c13",
+      "sourcePath": "setup-deploy/SKILL.md",
       "name": "setup-deploy",
       "description": "Configure deployment settings for /land-and-deploy.",
       "version": "1.0.0",
@@ -10258,7 +10373,7 @@
       "installUrl": "github:garrytan/gstack:setup-deploy",
       "relPath": "setup-deploy",
       "verified": true,
-      "tokenCount": 12688,
+      "tokenCount": 12516,
       "evalSummary": {
         "overallScore": 77,
         "grade": "C",
@@ -10324,7 +10439,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.130Z",
+        "evaluatedAt": "2026-10-11T05:04:33.272Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -10397,7 +10512,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.130Z",
+          "evaluatedAt": "2026-10-11T05:04:33.276Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -10415,12 +10530,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.130Z",
+          "evaluatedAt": "2026-10-11T05:04:33.276Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "3673ee0a3026e44d8d1dd7e92665ababf904441b65fd75218062b255d3a50602",
+      "sourcePath": "setup-gbrain/SKILL.md",
       "name": "setup-gbrain",
       "description": "Set up gbrain for this coding agent: install the CLI, initialize a local PGLite or Supabase brain, register MCP, capture per-remote trust policy. (gstack)",
       "version": "1.0.0",
@@ -10443,7 +10560,7 @@
       "installUrl": "github:garrytan/gstack:setup-gbrain",
       "relPath": "setup-gbrain",
       "verified": true,
-      "tokenCount": 16702,
+      "tokenCount": 16636,
       "evalSummary": {
         "overallScore": 80,
         "grade": "B",
@@ -10509,7 +10626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.149Z",
+        "evaluatedAt": "2026-10-11T05:04:33.313Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -10582,7 +10699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.150Z",
+          "evaluatedAt": "2026-10-11T05:04:33.323Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -10600,12 +10717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.150Z",
+          "evaluatedAt": "2026-10-11T05:04:33.323Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "9f7fca6ea20e5e45a66023167567db38f9aa530b746373352c21e5a22f73e220",
+      "sourcePath": "ship/SKILL.md",
       "name": "ship",
       "description": "Ship workflow: detect + merge base branch, run tests, review diff, bump VERSION, update CHANGELOG, commit, push, create PR. (gstack)",
       "version": "1.0.0",
@@ -10630,7 +10749,7 @@
       "installUrl": "github:garrytan/gstack:ship",
       "relPath": "ship",
       "verified": true,
-      "tokenCount": 22669,
+      "tokenCount": 22688,
       "evalSummary": {
         "overallScore": 74,
         "grade": "C",
@@ -10696,7 +10815,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.181Z",
+        "evaluatedAt": "2026-10-11T05:04:33.324Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -10769,7 +10888,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.190Z",
+          "evaluatedAt": "2026-10-11T05:04:33.325Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -10787,12 +10906,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.190Z",
+          "evaluatedAt": "2026-10-11T05:04:33.325Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "002398c5902d505899e3736aeef68249d4b4d124227d88e909616c87fc5dc487",
+      "sourcePath": "skillify/SKILL.md",
       "name": "skillify",
       "description": "Codify the most recent successful /scrape flow into a permanent browser-skill on disk. (gstack)",
       "version": "1.0.0",
@@ -10878,7 +10999,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.207Z",
+        "evaluatedAt": "2026-10-11T05:04:33.384Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -10951,7 +11072,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.208Z",
+          "evaluatedAt": "2026-10-11T05:04:33.386Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -10969,12 +11090,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.218Z",
+          "evaluatedAt": "2026-10-11T05:04:33.389Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "de68080100466d6094feaab5e1674b20705753919b54164b2850416f2d4520cd",
+      "sourcePath": "spec/SKILL.md",
       "name": "spec",
       "description": "Turn vague intent into a precise, executable spec in five phases. (gstack)",
       "version": "0.1.0",
@@ -10995,7 +11118,7 @@
       "installUrl": "github:garrytan/gstack:spec",
       "relPath": "spec",
       "verified": true,
-      "tokenCount": 16795,
+      "tokenCount": 16801,
       "evalSummary": {
         "overallScore": 71,
         "grade": "C",
@@ -11061,7 +11184,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.231Z",
+        "evaluatedAt": "2026-10-11T05:04:33.446Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -11134,7 +11257,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.238Z",
+          "evaluatedAt": "2026-10-11T05:04:33.449Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -11152,12 +11275,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.238Z",
+          "evaluatedAt": "2026-10-11T05:04:33.449Z",
           "evaluatedVersion": "0.1.0"
         }
       }
     },
     {
+      "contentHash": "29d2d862528496d95694c303229a2042a143ace41ac48343e3ececb514ec0013",
+      "sourcePath": "sync-gbrain/SKILL.md",
       "name": "sync-gbrain",
       "description": "Keep gbrain current with this repo's code and refresh agent search guidance in CLAUDE.md. (gstack)",
       "version": "1.0.0",
@@ -11246,7 +11371,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.260Z",
+        "evaluatedAt": "2026-10-11T05:04:33.457Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -11319,7 +11444,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.269Z",
+          "evaluatedAt": "2026-10-11T05:04:33.457Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -11337,12 +11462,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.269Z",
+          "evaluatedAt": "2026-10-11T05:04:33.457Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "8eb6fcd49fe1b64062c386f567ea265461217f9278ce0071e6f3b3df4e8893cd",
+      "sourcePath": "test-audit/SKILL.md",
       "name": "test-audit",
       "description": "Find low-value or duplicate tests and the test-only code they keep alive. (gstack)",
       "version": "1.0.0",
@@ -11365,7 +11492,7 @@
       "installUrl": "github:garrytan/gstack:test-audit",
       "relPath": "test-audit",
       "verified": true,
-      "tokenCount": 10856,
+      "tokenCount": 10834,
       "evalSummary": {
         "overallScore": 77,
         "grade": "C",
@@ -11431,7 +11558,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.293Z",
+        "evaluatedAt": "2026-10-11T05:04:33.514Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -11504,7 +11631,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.293Z",
+          "evaluatedAt": "2026-10-11T05:04:33.521Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -11522,12 +11649,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.293Z",
+          "evaluatedAt": "2026-10-11T05:04:33.521Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "27c34a53b0bed4afe832b62cf8e81bb7285b7ee0b92c6c2cc4debe64fd676e4e",
+      "sourcePath": "unfreeze/SKILL.md",
       "name": "unfreeze",
       "description": "Clear the freeze boundary set by /freeze, allowing edits to all directories again. (gstack)",
       "version": "0.1.0",
@@ -11611,7 +11740,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:22.293Z",
+        "evaluatedAt": "2026-10-11T05:04:33.525Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -11684,7 +11813,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.294Z",
+          "evaluatedAt": "2026-10-11T05:04:33.525Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -11702,7 +11831,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:22.294Z",
+          "evaluatedAt": "2026-10-11T05:04:33.525Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -11714,7 +11843,7 @@
       "name": "garrytan-gstack-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from garrytan/gstack.",
       "author": "ASM (garrytan/gstack)",
-      "createdAt": "2026-10-18T22:10:25.703Z",
+      "createdAt": "2026-10-11T05:04:38.355Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -11846,7 +11975,7 @@
       "name": "garrytan-gstack-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from garrytan/gstack.",
       "author": "ASM (garrytan/gstack)",
-      "createdAt": "2026-10-18T22:10:25.703Z",
+      "createdAt": "2026-10-11T05:04:38.355Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -11936,7 +12065,7 @@
       "name": "garrytan-gstack-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from garrytan/gstack.",
       "author": "ASM (garrytan/gstack)",
-      "createdAt": "2026-10-18T22:10:25.703Z",
+      "createdAt": "2026-10-11T05:04:38.355Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -12140,7 +12269,7 @@
       "name": "garrytan-gstack-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from garrytan/gstack.",
       "author": "ASM (garrytan/gstack)",
-      "createdAt": "2026-10-18T22:10:25.703Z",
+      "createdAt": "2026-10-11T05:04:38.355Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -12242,7 +12371,7 @@
       "name": "garrytan-gstack-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from garrytan/gstack.",
       "author": "ASM (garrytan/gstack)",
-      "createdAt": "2026-10-18T22:10:25.703Z",
+      "createdAt": "2026-10-11T05:04:38.355Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -12278,7 +12407,7 @@
       "name": "garrytan-gstack-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from garrytan/gstack.",
       "author": "ASM (garrytan/gstack)",
-      "createdAt": "2026-10-18T22:10:25.703Z",
+      "createdAt": "2026-10-11T05:04:38.355Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -12326,7 +12455,7 @@
       "name": "garrytan-gstack-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from garrytan/gstack.",
       "author": "ASM (garrytan/gstack)",
-      "createdAt": "2026-10-18T22:10:25.703Z",
+      "createdAt": "2026-10-11T05:04:38.355Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -12434,7 +12563,7 @@
       "name": "garrytan-gstack-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from garrytan/gstack.",
       "author": "ASM (garrytan/gstack)",
-      "createdAt": "2026-10-18T22:10:25.703Z",
+      "createdAt": "2026-10-11T05:04:38.355Z",
       "tags": [
         "repo-derived",
         "inferred",

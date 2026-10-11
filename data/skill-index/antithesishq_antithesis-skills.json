@@ -1,28 +1,31 @@
 {
+  "sourceCommit": "1fd8470d36a9629a75bda4619a5589d679a40d7c",
   "repoUrl": "https://github.com/antithesishq/antithesis-skills.git",
   "owner": "antithesishq",
   "repo": "antithesis-skills",
-  "updatedAt": "2026-10-18T22:13:24.437Z",
-  "skillCount": 13,
+  "updatedAt": "2026-10-11T05:06:41.704Z",
+  "skillCount": 15,
   "skills": [
     {
-      "name": "antithesis-debug",
-      "description": "Run a bash script inside an Antithesis run at a chosen moment with `snouty runs exec`, from the terminal and without a browser. Use it for scripted forensics on a run: process and container inspection, on-disk evidence, gdb attach, and general debugging. Covers command usage, the live-session requirement, common workflows and errors, and how virtual time and perturbation limit what a debugger can see.",
-      "version": "2026-10-15 84b188a",
+      "contentHash": "1ad15f9d01a99babd1871da5682e0ac1c19e6c6b2bcdcf7eb189f622f02ff474",
+      "sourcePath": "antithesis-agent-browser/SKILL.md",
+      "name": "antithesis-agent-browser",
+      "description": "Authenticate `agent-browser` against an Antithesis tenant and read data from Antithesis web pages (triage reports, runs page, logs viewer, causality reports). Only invoke this skill when explicitly requested by another skill or the user. Requires interactive browser authentication and is unsuitable for fully headless workflows.",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
-      "compatibility": "Requires snouty 0.8.0 or newer (https://github.com/antithesishq/snouty), and an Antithesis tenant on release 64.0 or newer.",
+      "compatibility": "agent-browser (https://github.com/vercel-labs/agent-browser) and jq.",
       "allowedTools": [],
       "tags": [],
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:antithesishq/antithesis-skills:antithesis-debug",
-      "relPath": "antithesis-debug",
+      "installUrl": "github:antithesishq/antithesis-skills:antithesis-agent-browser",
+      "relPath": "antithesis-agent-browser",
       "verified": true,
-      "tokenCount": 4907,
+      "tokenCount": 2018,
       "evalSummary": {
-        "overallScore": 76,
+        "overallScore": 71,
         "grade": "C",
         "categories": [
           {
@@ -34,31 +37,31 @@
           {
             "id": "description",
             "name": "Description quality",
-            "score": 6,
+            "score": 5,
             "max": 10
           },
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 10,
+            "score": 9,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 7,
+            "score": 9,
             "max": 10
           },
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 10,
+            "score": 9,
             "max": 10
           },
           {
             "id": "testability",
             "name": "Testability",
-            "score": 5,
+            "score": 1,
             "max": 10
           },
           {
@@ -86,8 +89,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.285Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:40.915Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -95,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 76,
+          "overallScore": 71,
           "grade": "C",
           "categories": [
             {
@@ -107,31 +110,31 @@
             {
               "id": "description",
               "name": "Description quality",
-              "score": 6,
+              "score": 5,
               "max": 10
             },
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 10,
+              "score": 9,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 7,
+              "score": 9,
               "max": 10
             },
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 10,
+              "score": 9,
               "max": 10
             },
             {
               "id": "testability",
               "name": "Testability",
-              "score": 5,
+              "score": 1,
               "max": 10
             },
             {
@@ -159,8 +162,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.286Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.916Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -177,15 +180,196 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.286Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.916Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "5d6c5c4312d6d946e141dbf6d8332efd7b53d0106cc8aad77160c8a62f251ba7",
+      "sourcePath": "antithesis-debug/SKILL.md",
+      "name": "antithesis-debug",
+      "description": "Interactively debug an Antithesis test run in the multiverse debugger (MVD): launch a session from a run, open a debugging-session URL, and inspect container filesystem and runtime state from inside the run.",
+      "version": "2026-09-23 a8fe900",
+      "license": "",
+      "creator": "",
+      "compatibility": "Requires agent-browser v0.23.4+ (https://github.com/vercel-labs/agent-browser).",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:antithesishq/antithesis-skills:antithesis-debug",
+      "relPath": "antithesis-debug",
+      "verified": true,
+      "tokenCount": 3857,
+      "evalSummary": {
+        "overallScore": 68,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 4,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 1,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-11T05:06:40.912Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 66,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 4,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:40.915Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 80,
+          "grade": "B",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 12,
+              "max": 15
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:40.915Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
+        }
+      }
+    },
+    {
+      "contentHash": "4b245a2f6327682c061da757f332f6e70bf9f1fdc97f6c0bd49e0f254f97d176",
+      "sourcePath": "antithesis-documentation/SKILL.md",
       "name": "antithesis-documentation",
       "description": "Use Antithesis documentation efficiently for product, workflow, and integration questions. Prefer the snouty docs CLI when available, and otherwise request markdown versions of documentation pages directly.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "Requires snouty (https://github.com/antithesishq/snouty).",
@@ -197,7 +381,7 @@
       "installUrl": "github:antithesishq/antithesis-skills:antithesis-documentation",
       "relPath": "antithesis-documentation",
       "verified": true,
-      "tokenCount": 1457,
+      "tokenCount": 1436,
       "evalSummary": {
         "overallScore": 73,
         "grade": "C",
@@ -263,8 +447,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.285Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:40.912Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -336,8 +520,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.286Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.915Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -354,15 +538,17 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.915Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "437aecd3992344ccf49fd0288d32c6381fed16f0510fc8012c1f80634930b772",
+      "sourcePath": "antithesis-feature-workload/SKILL.md",
       "name": "antithesis-feature-workload",
       "description": "Design and build an Antithesis workload for a specific feature: analyze the feature, discover its testable properties, build a self-driving workload that runs locally and in Antithesis, and iterate until the feature's behaviors are exercised and its invariants are checked.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "",
@@ -374,7 +560,7 @@
       "installUrl": "github:antithesishq/antithesis-skills:antithesis-feature-workload",
       "relPath": "antithesis-feature-workload",
       "verified": true,
-      "tokenCount": 4455,
+      "tokenCount": 4449,
       "evalSummary": {
         "overallScore": 73,
         "grade": "C",
@@ -440,8 +626,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.285Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:40.912Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -513,8 +699,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.915Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -531,15 +717,17 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.915Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "20fed5d22baf51f49f7a16d31aa8875c83cc65ed6f0e0bd2c3f7912e1736e602",
+      "sourcePath": "antithesis-launch/SKILL.md",
       "name": "antithesis-launch",
       "description": "Launch an Antithesis run with snouty by discovering the harness layout, building the right Docker Compose config, running `snouty validate`, bailing on validation failure, and then submitting `snouty launch` with sane metadata. Use when the user wants to send, submit, or launch an Antithesis run. This skill takes duration in minutes as input.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "Requires Docker Compose v2, a container engine (docker or podman), and snouty (https://github.com/antithesishq/snouty).",
@@ -551,7 +739,7 @@
       "installUrl": "github:antithesishq/antithesis-skills:antithesis-launch",
       "relPath": "antithesis-launch",
       "verified": true,
-      "tokenCount": 1646,
+      "tokenCount": 1603,
       "evalSummary": {
         "overallScore": 67,
         "grade": "C",
@@ -617,8 +805,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.285Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:40.912Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -690,8 +878,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.915Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -708,18 +896,20 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.915Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "60ed0b93db19157a83e8322a2d09915fe4c45f84a91d691782d1da7180078fbf",
+      "sourcePath": "antithesis-mutation-testing/SKILL.md",
       "name": "antithesis-mutation-testing",
       "description": "Validate that an Antithesis property catalog can actually catch bugs. For each safety property, inject one realistic mutant into the SUT, run it, and confirm the targeted property fires. Diagnoses survivors as a bad mutant, bad oracle, bad workload, or bad property, and routes fixes back to antithesis-workload or antithesis-research. Use once the harness is built and a baseline run is green.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
-      "compatibility": "Requires the `docker-compose` binary (Docker Compose v2), which snouty execs directly; `podman compose` is not supported, though podman as the container runtime behind `DOCKER_HOST` is fine. Also requires snouty (https://github.com/antithesishq/snouty), jq, git, and rsync.",
+      "compatibility": "Requires the `docker-compose` binary (Docker Compose v2), which snouty execs directly; `podman compose` is not supported, though podman as the container runtime behind `DOCKER_HOST` is fine. Also requires snouty (https://github.com/antithesishq/snouty), jq, git, and rsync. Crediting collateral damage additionally needs the antithesis-query-logs skill and its authenticated agent-browser; without it, credit only what the counterexample logs can establish.",
       "allowedTools": [],
       "tags": [],
       "dependencies": [],
@@ -728,7 +918,7 @@
       "installUrl": "github:antithesishq/antithesis-skills:antithesis-mutation-testing",
       "relPath": "antithesis-mutation-testing",
       "verified": true,
-      "tokenCount": 7517,
+      "tokenCount": 7518,
       "evalSummary": {
         "overallScore": 70,
         "grade": "C",
@@ -794,8 +984,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.286Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:40.916Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -803,7 +993,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 62,
+          "overallScore": 64,
           "grade": "D",
           "categories": [
             {
@@ -863,12 +1053,12 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 4,
+              "score": 6,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.917Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -885,15 +1075,196 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.917Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "3644704a4acdc7f64baf1a75a82c5d8b7864ab51b5c0458f66246222539736fb",
+      "sourcePath": "antithesis-query-logs/SKILL.md",
+      "name": "antithesis-query-logs",
+      "description": "Search across all timelines in an Antithesis test run to find events, correlate property failures, and answer temporal questions about ordering and causation (e.g., did event A always precede failure B? do failures occur even without a preceding fault?).",
+      "version": "2026-09-23 a8fe900",
+      "license": "",
+      "creator": "",
+      "compatibility": "Requires snouty (https://github.com/antithesishq/snouty) and agent-browser (https://github.com/vercel-labs/agent-browser).",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:antithesishq/antithesis-skills:antithesis-query-logs",
+      "relPath": "antithesis-query-logs",
+      "verified": true,
+      "tokenCount": 2676,
+      "evalSummary": {
+        "overallScore": 76,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-11T05:06:40.916Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 76,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:40.917Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 73,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 11,
+              "max": 15
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:40.917Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
+        }
+      }
+    },
+    {
+      "contentHash": "1ca6a16a555479444082c27003bbfc7247abd06de23d096acc37ad31e3994f5e",
+      "sourcePath": "antithesis-research/SKILL.md",
       "name": "antithesis-research",
       "description": "Analyze a codebase to figure out how it should be tested with Antithesis: map the system, identify failure-prone areas and testable properties, and produce the research artifacts needed for workload and environment planning.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "",
@@ -971,8 +1342,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.286Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:40.915Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -1044,8 +1415,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.917Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -1062,15 +1433,17 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:40.917Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "7ebb9fdc1cb0a90cb647831584c4a34d07f530d2b0dead2c87ce456cce15fa20",
+      "sourcePath": "antithesis-review-inputs/SKILL.md",
       "name": "antithesis-review-inputs",
       "description": "Review a workload's input generation for state space exploration: how well it uses randomness to drive the system under test into diverse regions of behavior.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "",
@@ -1148,8 +1521,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.286Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:41.003Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -1221,8 +1594,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.009Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -1239,15 +1612,17 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.009Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "e31206605a7e8e186994979065cca058659ddd79e77a981d3142c1d6390a69a0",
+      "sourcePath": "antithesis-setup/SKILL.md",
       "name": "antithesis-setup",
       "description": "Scaffold the Antithesis harness with docker-compose: initialize the working directory, write Dockerfiles and docker-compose.yaml with build directives, and prepare to submit your first Antithesis test run. If the desired setup is Kubernetes, defer to the antithesis-setup-k8s skill.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "Requires Docker Compose v2, a container engine (docker or podman), and snouty (https://github.com/antithesishq/snouty).",
@@ -1259,7 +1634,7 @@
       "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup",
       "relPath": "antithesis-setup",
       "verified": true,
-      "tokenCount": 2574,
+      "tokenCount": 2531,
       "evalSummary": {
         "overallScore": 76,
         "grade": "C",
@@ -1325,8 +1700,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.286Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:41.011Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -1398,8 +1773,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.016Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -1416,15 +1791,17 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.287Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.016Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "12ff2b57a4bfd52b26d95ac0dd298b3f310e7c0d97ec32841e7672410fe37f79",
+      "sourcePath": "antithesis-setup-k8s/SKILL.md",
       "name": "antithesis-setup-k8s",
       "description": "Scaffold the Antithesis harness for customers running Kubernetes:  Convert helm charts, kustomize templates, or raw Kubernetes manifests into a minimized set of manifests for Antithesis. Verify the Kubernetes manifests are in the correct shape with snouty validate and a local cluster deploy. Hands it off to antithesis-launch if the user wants to submit a run. At the end, the user is ready to run antithesis-workload to build tests. If the desired setup is docker-compose, defer to the antithesis-setup skill.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "Requires snouty (https://github.com/antithesishq/snouty).",
@@ -1436,7 +1813,7 @@
       "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup-k8s",
       "relPath": "antithesis-setup-k8s",
       "verified": true,
-      "tokenCount": 1848,
+      "tokenCount": 1805,
       "evalSummary": {
         "overallScore": 71,
         "grade": "C",
@@ -1502,8 +1879,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.348Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:41.083Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -1575,8 +1952,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.361Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.084Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -1593,15 +1970,17 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.361Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.084Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "b7c20979bdbbd57dbdcdc79af145ba561b79b8e30a6be509b616f076e2234673",
+      "sourcePath": "antithesis-skills-feedback/SKILL.md",
       "name": "antithesis-skills-feedback",
       "description": "File a bug report or feedback on the Antithesis skills by opening a pre-filled GitHub issue URL (skill name, skill version, agent, short summary). Load when the user wants to report a problem with, or give feedback on, any Antithesis skill. Does not auto-submit — presents the URL for the user to review.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "",
@@ -1679,8 +2058,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.361Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:41.118Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -1752,8 +2131,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.372Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.121Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -1770,15 +2149,17 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.373Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.121Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "db265189b5677fd0eb9bfa9ead19f9f1a25a185bc6ec8add060aba7955c39249",
+      "sourcePath": "antithesis-triage/SKILL.md",
       "name": "antithesis-triage",
-      "description": "Triage Antithesis test reports to understand what happened in a run: look up runs, check status, investigate failed properties (assertions), view metadata, download logs, search events across all timelines, inspect findings, and examine environmental details. Load after a run completes or when investigating a failure.",
-      "version": "2026-10-15 84b188a",
+      "description": "Triage Antithesis test reports to understand what happened in a run: look up runs, check status, investigate failed properties (assertions), view metadata, download logs, inspect findings, and examine environmental details. Load after a run completes or when investigating a failure.",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "Requires snouty (https://github.com/antithesishq/snouty), and jq.",
@@ -1790,9 +2171,9 @@
       "installUrl": "github:antithesishq/antithesis-skills:antithesis-triage",
       "relPath": "antithesis-triage",
       "verified": true,
-      "tokenCount": 3753,
+      "tokenCount": 3623,
       "evalSummary": {
-        "overallScore": 74,
+        "overallScore": 76,
         "grade": "C",
         "categories": [
           {
@@ -1804,7 +2185,7 @@
           {
             "id": "description",
             "name": "Description quality",
-            "score": 5,
+            "score": 7,
             "max": 10
           },
           {
@@ -1856,8 +2237,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.389Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:41.122Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -1865,7 +2246,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 74,
+          "overallScore": 76,
           "grade": "C",
           "categories": [
             {
@@ -1877,7 +2258,7 @@
             {
               "id": "description",
               "name": "Description quality",
-              "score": 5,
+              "score": 7,
               "max": 10
             },
             {
@@ -1929,8 +2310,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.391Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.122Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -1947,15 +2328,17 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.391Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.122Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "6e751a794936656ef984c8853b6e1d2b989aa2a77f8b792cdffad94aa7603178",
+      "sourcePath": "antithesis-workload/SKILL.md",
       "name": "antithesis-workload",
       "description": "Implement Antithesis workloads by turning the property catalog into SDK assertions and test commands, then refine coverage after triage.",
-      "version": "2026-10-15 84b188a",
+      "version": "2026-09-23 a8fe900",
       "license": "",
       "creator": "",
       "compatibility": "Requires snouty (https://github.com/antithesishq/snouty).",
@@ -1967,7 +2350,7 @@
       "installUrl": "github:antithesishq/antithesis-skills:antithesis-workload",
       "relPath": "antithesis-workload",
       "verified": true,
-      "tokenCount": 4396,
+      "tokenCount": 4353,
       "evalSummary": {
         "overallScore": 72,
         "grade": "C",
@@ -2033,8 +2416,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.406Z",
-        "evaluatedVersion": "2026-10-15 84b188a"
+        "evaluatedAt": "2026-10-11T05:06:41.121Z",
+        "evaluatedVersion": "2026-09-23 a8fe900"
       },
       "evalSummaries": {
         "quality": {
@@ -2106,8 +2489,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.407Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.122Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -2124,12 +2507,14 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.407Z",
-          "evaluatedVersion": "2026-10-15 84b188a"
+          "evaluatedAt": "2026-10-11T05:06:41.122Z",
+          "evaluatedVersion": "2026-09-23 a8fe900"
         }
       }
     },
     {
+      "contentHash": "6b0bb123b1d51fec8ecc0edc0b782e48df007cf70d3b6c68ea82f99697b2b328",
+      "sourcePath": ".claude/skills/test-triage/SKILL.md",
       "name": "test:triage",
       "description": "This skill should be used when the user asks to \"test the triage skill\", \"run triage tests\", \"validate antithesis triage\", \"test:triage\", or \"smoke test triage\". Orchestrates end-to-end testing of the antithesis-triage skill by running real triage operations via sub-agents and reviewing the results for bugs, skill compliance issues, and papercuts.",
       "version": "0.0.0",
@@ -2144,7 +2529,7 @@
       "installUrl": "github:antithesishq/antithesis-skills:.claude/skills/test-triage",
       "relPath": ".claude/skills/test-triage",
       "verified": true,
-      "tokenCount": 2761,
+      "tokenCount": 2765,
       "evalSummary": {
         "overallScore": 68,
         "grade": "C",
@@ -2210,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:24.416Z",
+        "evaluatedAt": "2026-10-11T05:06:41.147Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.417Z",
+          "evaluatedAt": "2026-10-11T05:06:41.147Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,7 +2686,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:24.417Z",
+          "evaluatedAt": "2026-10-11T05:06:41.147Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2313,7 +2698,7 @@
       "name": "antithesishq-antithesis-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from antithesishq/antithesis-skills.",
       "author": "ASM (antithesishq/antithesis-skills)",
-      "createdAt": "2026-10-18T22:13:24.437Z",
+      "createdAt": "2026-10-11T05:06:41.704Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2325,40 +2710,52 @@
       ],
       "skills": [
         {
+          "name": "antithesis-agent-browser",
+          "installUrl": "github:antithesishq/antithesis-skills:antithesis-agent-browser",
+          "description": "Authenticate `agent-browser` against an Antithesis tenant and read data from Antithesis web pages (triage reports, runs page, logs viewer, causality reports). Only invoke this skill when explicitly requested by another skill or the user. Requires interactive browser authentication and is unsuitable for fully headless workflows.",
+          "version": "2026-09-23 a8fe900"
+        },
+        {
           "name": "antithesis-debug",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-debug",
-          "description": "Run a bash script inside an Antithesis run at a chosen moment with `snouty runs exec`, from the terminal and without a browser. Use it for scripted forensics on a run: process and container inspection, on-disk evidence, gdb attach, and general debugging. Covers command usage, the live-session requirement, common workflows and errors, and how virtual time and perturbation limit what a debugger can see.",
-          "version": "2026-10-15 84b188a"
+          "description": "Interactively debug an Antithesis test run in the multiverse debugger (MVD): launch a session from a run, open a debugging-session URL, and inspect container filesystem and runtime state from inside the run.",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-documentation",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-documentation",
           "description": "Use Antithesis documentation efficiently for product, workflow, and integration questions. Prefer the snouty docs CLI when available, and otherwise request markdown versions of documentation pages directly.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-launch",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-launch",
           "description": "Launch an Antithesis run with snouty by discovering the harness layout, building the right Docker Compose config, running `snouty validate`, bailing on validation failure, and then submitting `snouty launch` with sane metadata. Use when the user wants to send, submit, or launch an Antithesis run. This skill takes duration in minutes as input.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
+        },
+        {
+          "name": "antithesis-query-logs",
+          "installUrl": "github:antithesishq/antithesis-skills:antithesis-query-logs",
+          "description": "Search across all timelines in an Antithesis test run to find events, correlate property failures, and answer temporal questions about ordering and causation (e.g., did event A always precede failure B? do failures occur even without a preceding fault?).",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-research",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-research",
           "description": "Analyze a codebase to figure out how it should be tested with Antithesis: map the system, identify failure-prone areas and testable properties, and produce the research artifacts needed for workload and environment planning.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-skills-feedback",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-skills-feedback",
           "description": "File a bug report or feedback on the Antithesis skills by opening a pre-filled GitHub issue URL (skill name, skill version, agent, short summary). Load when the user wants to report a problem with, or give feedback on, any Antithesis skill. Does not auto-submit — presents the URL for the user to review.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-triage",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-triage",
-          "description": "Triage Antithesis test reports to understand what happened in a run: look up runs, check status, investigate failed properties (assertions), view metadata, download logs, search events across all timelines, inspect findings, and examine environmental details. Load after a run completes or when investigating a failure.",
-          "version": "2026-10-15 84b188a"
+          "description": "Triage Antithesis test reports to understand what happened in a run: look up runs, check status, investigate failed properties (assertions), view metadata, download logs, inspect findings, and examine environmental details. Load after a run completes or when investigating a failure.",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "test:triage",
@@ -2379,7 +2776,7 @@
       "name": "antithesishq-antithesis-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from antithesishq/antithesis-skills.",
       "author": "ASM (antithesishq/antithesis-skills)",
-      "createdAt": "2026-10-18T22:13:24.437Z",
+      "createdAt": "2026-10-11T05:06:41.704Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2391,40 +2788,40 @@
       ],
       "skills": [
         {
-          "name": "antithesis-debug",
-          "installUrl": "github:antithesishq/antithesis-skills:antithesis-debug",
-          "description": "Run a bash script inside an Antithesis run at a chosen moment with `snouty runs exec`, from the terminal and without a browser. Use it for scripted forensics on a run: process and container inspection, on-disk evidence, gdb attach, and general debugging. Covers command usage, the live-session requirement, common workflows and errors, and how virtual time and perturbation limit what a debugger can see.",
-          "version": "2026-10-15 84b188a"
+          "name": "antithesis-agent-browser",
+          "installUrl": "github:antithesishq/antithesis-skills:antithesis-agent-browser",
+          "description": "Authenticate `agent-browser` against an Antithesis tenant and read data from Antithesis web pages (triage reports, runs page, logs viewer, causality reports). Only invoke this skill when explicitly requested by another skill or the user. Requires interactive browser authentication and is unsuitable for fully headless workflows.",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-documentation",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-documentation",
           "description": "Use Antithesis documentation efficiently for product, workflow, and integration questions. Prefer the snouty docs CLI when available, and otherwise request markdown versions of documentation pages directly.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-feature-workload",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-feature-workload",
           "description": "Design and build an Antithesis workload for a specific feature: analyze the feature, discover its testable properties, build a self-driving workload that runs locally and in Antithesis, and iterate until the feature's behaviors are exercised and its invariants are checked.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-launch",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-launch",
           "description": "Launch an Antithesis run with snouty by discovering the harness layout, building the right Docker Compose config, running `snouty validate`, bailing on validation failure, and then submitting `snouty launch` with sane metadata. Use when the user wants to send, submit, or launch an Antithesis run. This skill takes duration in minutes as input.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup",
           "description": "Scaffold the Antithesis harness with docker-compose: initialize the working directory, write Dockerfiles and docker-compose.yaml with build directives, and prepare to submit your first Antithesis test run. If the desired setup is Kubernetes, defer to the antithesis-setup-k8s skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup-k8s",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup-k8s",
           "description": "Scaffold the Antithesis harness for customers running Kubernetes:  Convert helm charts, kustomize templates, or raw Kubernetes manifests into a minimized set of manifests for Antithesis. Verify the Kubernetes manifests are in the correct shape with snouty validate and a local cluster deploy. Hands it off to antithesis-launch if the user wants to submit a run. At the end, the user is ready to run antithesis-workload to build tests. If the desired setup is docker-compose, defer to the antithesis-setup skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         }
       ],
       "sourceRepo": {
@@ -2439,7 +2836,7 @@
       "name": "antithesishq-antithesis-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from antithesishq/antithesis-skills.",
       "author": "ASM (antithesishq/antithesis-skills)",
-      "createdAt": "2026-10-18T22:13:24.437Z",
+      "createdAt": "2026-10-11T05:06:41.704Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2453,74 +2850,80 @@
         {
           "name": "antithesis-debug",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-debug",
-          "description": "Run a bash script inside an Antithesis run at a chosen moment with `snouty runs exec`, from the terminal and without a browser. Use it for scripted forensics on a run: process and container inspection, on-disk evidence, gdb attach, and general debugging. Covers command usage, the live-session requirement, common workflows and errors, and how virtual time and perturbation limit what a debugger can see.",
-          "version": "2026-10-15 84b188a"
+          "description": "Interactively debug an Antithesis test run in the multiverse debugger (MVD): launch a session from a run, open a debugging-session URL, and inspect container filesystem and runtime state from inside the run.",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-documentation",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-documentation",
           "description": "Use Antithesis documentation efficiently for product, workflow, and integration questions. Prefer the snouty docs CLI when available, and otherwise request markdown versions of documentation pages directly.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-feature-workload",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-feature-workload",
           "description": "Design and build an Antithesis workload for a specific feature: analyze the feature, discover its testable properties, build a self-driving workload that runs locally and in Antithesis, and iterate until the feature's behaviors are exercised and its invariants are checked.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-launch",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-launch",
           "description": "Launch an Antithesis run with snouty by discovering the harness layout, building the right Docker Compose config, running `snouty validate`, bailing on validation failure, and then submitting `snouty launch` with sane metadata. Use when the user wants to send, submit, or launch an Antithesis run. This skill takes duration in minutes as input.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-mutation-testing",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-mutation-testing",
           "description": "Validate that an Antithesis property catalog can actually catch bugs. For each safety property, inject one realistic mutant into the SUT, run it, and confirm the targeted property fires. Diagnoses survivors as a bad mutant, bad oracle, bad workload, or bad property, and routes fixes back to antithesis-workload or antithesis-research. Use once the harness is built and a baseline run is green.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
+        },
+        {
+          "name": "antithesis-query-logs",
+          "installUrl": "github:antithesishq/antithesis-skills:antithesis-query-logs",
+          "description": "Search across all timelines in an Antithesis test run to find events, correlate property failures, and answer temporal questions about ordering and causation (e.g., did event A always precede failure B? do failures occur even without a preceding fault?).",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-research",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-research",
           "description": "Analyze a codebase to figure out how it should be tested with Antithesis: map the system, identify failure-prone areas and testable properties, and produce the research artifacts needed for workload and environment planning.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-review-inputs",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-review-inputs",
           "description": "Review a workload's input generation for state space exploration: how well it uses randomness to drive the system under test into diverse regions of behavior.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup",
           "description": "Scaffold the Antithesis harness with docker-compose: initialize the working directory, write Dockerfiles and docker-compose.yaml with build directives, and prepare to submit your first Antithesis test run. If the desired setup is Kubernetes, defer to the antithesis-setup-k8s skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup-k8s",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup-k8s",
           "description": "Scaffold the Antithesis harness for customers running Kubernetes:  Convert helm charts, kustomize templates, or raw Kubernetes manifests into a minimized set of manifests for Antithesis. Verify the Kubernetes manifests are in the correct shape with snouty validate and a local cluster deploy. Hands it off to antithesis-launch if the user wants to submit a run. At the end, the user is ready to run antithesis-workload to build tests. If the desired setup is docker-compose, defer to the antithesis-setup skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-skills-feedback",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-skills-feedback",
           "description": "File a bug report or feedback on the Antithesis skills by opening a pre-filled GitHub issue URL (skill name, skill version, agent, short summary). Load when the user wants to report a problem with, or give feedback on, any Antithesis skill. Does not auto-submit — presents the URL for the user to review.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-triage",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-triage",
-          "description": "Triage Antithesis test reports to understand what happened in a run: look up runs, check status, investigate failed properties (assertions), view metadata, download logs, search events across all timelines, inspect findings, and examine environmental details. Load after a run completes or when investigating a failure.",
-          "version": "2026-10-15 84b188a"
+          "description": "Triage Antithesis test reports to understand what happened in a run: look up runs, check status, investigate failed properties (assertions), view metadata, download logs, inspect findings, and examine environmental details. Load after a run completes or when investigating a failure.",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-workload",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-workload",
           "description": "Implement Antithesis workloads by turning the property catalog into SDK assertions and test commands, then refine coverage after triage.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "test:triage",
@@ -2541,7 +2944,7 @@
       "name": "antithesishq-antithesis-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from antithesishq/antithesis-skills.",
       "author": "ASM (antithesishq/antithesis-skills)",
-      "createdAt": "2026-10-18T22:13:24.437Z",
+      "createdAt": "2026-10-11T05:06:41.704Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2553,40 +2956,40 @@
       ],
       "skills": [
         {
-          "name": "antithesis-debug",
-          "installUrl": "github:antithesishq/antithesis-skills:antithesis-debug",
-          "description": "Run a bash script inside an Antithesis run at a chosen moment with `snouty runs exec`, from the terminal and without a browser. Use it for scripted forensics on a run: process and container inspection, on-disk evidence, gdb attach, and general debugging. Covers command usage, the live-session requirement, common workflows and errors, and how virtual time and perturbation limit what a debugger can see.",
-          "version": "2026-10-15 84b188a"
+          "name": "antithesis-agent-browser",
+          "installUrl": "github:antithesishq/antithesis-skills:antithesis-agent-browser",
+          "description": "Authenticate `agent-browser` against an Antithesis tenant and read data from Antithesis web pages (triage reports, runs page, logs viewer, causality reports). Only invoke this skill when explicitly requested by another skill or the user. Requires interactive browser authentication and is unsuitable for fully headless workflows.",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-feature-workload",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-feature-workload",
           "description": "Design and build an Antithesis workload for a specific feature: analyze the feature, discover its testable properties, build a self-driving workload that runs locally and in Antithesis, and iterate until the feature's behaviors are exercised and its invariants are checked.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-launch",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-launch",
           "description": "Launch an Antithesis run with snouty by discovering the harness layout, building the right Docker Compose config, running `snouty validate`, bailing on validation failure, and then submitting `snouty launch` with sane metadata. Use when the user wants to send, submit, or launch an Antithesis run. This skill takes duration in minutes as input.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-mutation-testing",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-mutation-testing",
           "description": "Validate that an Antithesis property catalog can actually catch bugs. For each safety property, inject one realistic mutant into the SUT, run it, and confirm the targeted property fires. Diagnoses survivors as a bad mutant, bad oracle, bad workload, or bad property, and routes fixes back to antithesis-workload or antithesis-research. Use once the harness is built and a baseline run is green.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup",
           "description": "Scaffold the Antithesis harness with docker-compose: initialize the working directory, write Dockerfiles and docker-compose.yaml with build directives, and prepare to submit your first Antithesis test run. If the desired setup is Kubernetes, defer to the antithesis-setup-k8s skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup-k8s",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup-k8s",
           "description": "Scaffold the Antithesis harness for customers running Kubernetes:  Convert helm charts, kustomize templates, or raw Kubernetes manifests into a minimized set of manifests for Antithesis. Verify the Kubernetes manifests are in the correct shape with snouty validate and a local cluster deploy. Hands it off to antithesis-launch if the user wants to submit a run. At the end, the user is ready to run antithesis-workload to build tests. If the desired setup is docker-compose, defer to the antithesis-setup skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         }
       ],
       "sourceRepo": {
@@ -2601,7 +3004,7 @@
       "name": "antithesishq-antithesis-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from antithesishq/antithesis-skills.",
       "author": "ASM (antithesishq/antithesis-skills)",
-      "createdAt": "2026-10-18T22:13:24.437Z",
+      "createdAt": "2026-10-11T05:06:41.704Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2616,19 +3019,19 @@
           "name": "antithesis-documentation",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-documentation",
           "description": "Use Antithesis documentation efficiently for product, workflow, and integration questions. Prefer the snouty docs CLI when available, and otherwise request markdown versions of documentation pages directly.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-research",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-research",
           "description": "Analyze a codebase to figure out how it should be tested with Antithesis: map the system, identify failure-prone areas and testable properties, and produce the research artifacts needed for workload and environment planning.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup-k8s",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup-k8s",
           "description": "Scaffold the Antithesis harness for customers running Kubernetes:  Convert helm charts, kustomize templates, or raw Kubernetes manifests into a minimized set of manifests for Antithesis. Verify the Kubernetes manifests are in the correct shape with snouty validate and a local cluster deploy. Hands it off to antithesis-launch if the user wants to submit a run. At the end, the user is ready to run antithesis-workload to build tests. If the desired setup is docker-compose, defer to the antithesis-setup skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         }
       ],
       "sourceRepo": {
@@ -2643,7 +3046,7 @@
       "name": "antithesishq-antithesis-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from antithesishq/antithesis-skills.",
       "author": "ASM (antithesishq/antithesis-skills)",
-      "createdAt": "2026-10-18T22:13:24.437Z",
+      "createdAt": "2026-10-11T05:06:41.704Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2658,31 +3061,31 @@
           "name": "antithesis-mutation-testing",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-mutation-testing",
           "description": "Validate that an Antithesis property catalog can actually catch bugs. For each safety property, inject one realistic mutant into the SUT, run it, and confirm the targeted property fires. Diagnoses survivors as a bad mutant, bad oracle, bad workload, or bad property, and routes fixes back to antithesis-workload or antithesis-research. Use once the harness is built and a baseline run is green.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-research",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-research",
           "description": "Analyze a codebase to figure out how it should be tested with Antithesis: map the system, identify failure-prone areas and testable properties, and produce the research artifacts needed for workload and environment planning.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-review-inputs",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-review-inputs",
           "description": "Review a workload's input generation for state space exploration: how well it uses randomness to drive the system under test into diverse regions of behavior.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup-k8s",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup-k8s",
           "description": "Scaffold the Antithesis harness for customers running Kubernetes:  Convert helm charts, kustomize templates, or raw Kubernetes manifests into a minimized set of manifests for Antithesis. Verify the Kubernetes manifests are in the correct shape with snouty validate and a local cluster deploy. Hands it off to antithesis-launch if the user wants to submit a run. At the end, the user is ready to run antithesis-workload to build tests. If the desired setup is docker-compose, defer to the antithesis-setup skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-skills-feedback",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-skills-feedback",
           "description": "File a bug report or feedback on the Antithesis skills by opening a pre-filled GitHub issue URL (skill name, skill version, agent, short summary). Load when the user wants to report a problem with, or give feedback on, any Antithesis skill. Does not auto-submit — presents the URL for the user to review.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "test:triage",
@@ -2703,7 +3106,7 @@
       "name": "antithesishq-antithesis-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from antithesishq/antithesis-skills.",
       "author": "ASM (antithesishq/antithesis-skills)",
-      "createdAt": "2026-10-18T22:13:24.437Z",
+      "createdAt": "2026-10-11T05:06:41.704Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2715,76 +3118,88 @@
       ],
       "skills": [
         {
+          "name": "antithesis-agent-browser",
+          "installUrl": "github:antithesishq/antithesis-skills:antithesis-agent-browser",
+          "description": "Authenticate `agent-browser` against an Antithesis tenant and read data from Antithesis web pages (triage reports, runs page, logs viewer, causality reports). Only invoke this skill when explicitly requested by another skill or the user. Requires interactive browser authentication and is unsuitable for fully headless workflows.",
+          "version": "2026-09-23 a8fe900"
+        },
+        {
           "name": "antithesis-debug",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-debug",
-          "description": "Run a bash script inside an Antithesis run at a chosen moment with `snouty runs exec`, from the terminal and without a browser. Use it for scripted forensics on a run: process and container inspection, on-disk evidence, gdb attach, and general debugging. Covers command usage, the live-session requirement, common workflows and errors, and how virtual time and perturbation limit what a debugger can see.",
-          "version": "2026-10-15 84b188a"
+          "description": "Interactively debug an Antithesis test run in the multiverse debugger (MVD): launch a session from a run, open a debugging-session URL, and inspect container filesystem and runtime state from inside the run.",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-documentation",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-documentation",
           "description": "Use Antithesis documentation efficiently for product, workflow, and integration questions. Prefer the snouty docs CLI when available, and otherwise request markdown versions of documentation pages directly.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-feature-workload",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-feature-workload",
           "description": "Design and build an Antithesis workload for a specific feature: analyze the feature, discover its testable properties, build a self-driving workload that runs locally and in Antithesis, and iterate until the feature's behaviors are exercised and its invariants are checked.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-launch",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-launch",
           "description": "Launch an Antithesis run with snouty by discovering the harness layout, building the right Docker Compose config, running `snouty validate`, bailing on validation failure, and then submitting `snouty launch` with sane metadata. Use when the user wants to send, submit, or launch an Antithesis run. This skill takes duration in minutes as input.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-mutation-testing",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-mutation-testing",
           "description": "Validate that an Antithesis property catalog can actually catch bugs. For each safety property, inject one realistic mutant into the SUT, run it, and confirm the targeted property fires. Diagnoses survivors as a bad mutant, bad oracle, bad workload, or bad property, and routes fixes back to antithesis-workload or antithesis-research. Use once the harness is built and a baseline run is green.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
+        },
+        {
+          "name": "antithesis-query-logs",
+          "installUrl": "github:antithesishq/antithesis-skills:antithesis-query-logs",
+          "description": "Search across all timelines in an Antithesis test run to find events, correlate property failures, and answer temporal questions about ordering and causation (e.g., did event A always precede failure B? do failures occur even without a preceding fault?).",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-research",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-research",
           "description": "Analyze a codebase to figure out how it should be tested with Antithesis: map the system, identify failure-prone areas and testable properties, and produce the research artifacts needed for workload and environment planning.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-review-inputs",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-review-inputs",
           "description": "Review a workload's input generation for state space exploration: how well it uses randomness to drive the system under test into diverse regions of behavior.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup",
           "description": "Scaffold the Antithesis harness with docker-compose: initialize the working directory, write Dockerfiles and docker-compose.yaml with build directives, and prepare to submit your first Antithesis test run. If the desired setup is Kubernetes, defer to the antithesis-setup-k8s skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-setup-k8s",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-setup-k8s",
           "description": "Scaffold the Antithesis harness for customers running Kubernetes:  Convert helm charts, kustomize templates, or raw Kubernetes manifests into a minimized set of manifests for Antithesis. Verify the Kubernetes manifests are in the correct shape with snouty validate and a local cluster deploy. Hands it off to antithesis-launch if the user wants to submit a run. At the end, the user is ready to run antithesis-workload to build tests. If the desired setup is docker-compose, defer to the antithesis-setup skill.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-skills-feedback",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-skills-feedback",
           "description": "File a bug report or feedback on the Antithesis skills by opening a pre-filled GitHub issue URL (skill name, skill version, agent, short summary). Load when the user wants to report a problem with, or give feedback on, any Antithesis skill. Does not auto-submit — presents the URL for the user to review.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-triage",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-triage",
-          "description": "Triage Antithesis test reports to understand what happened in a run: look up runs, check status, investigate failed properties (assertions), view metadata, download logs, search events across all timelines, inspect findings, and examine environmental details. Load after a run completes or when investigating a failure.",
-          "version": "2026-10-15 84b188a"
+          "description": "Triage Antithesis test reports to understand what happened in a run: look up runs, check status, investigate failed properties (assertions), view metadata, download logs, inspect findings, and examine environmental details. Load after a run completes or when investigating a failure.",
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "antithesis-workload",
           "installUrl": "github:antithesishq/antithesis-skills:antithesis-workload",
           "description": "Implement Antithesis workloads by turning the property catalog into SDK assertions and test commands, then refine coverage after triage.",
-          "version": "2026-10-15 84b188a"
+          "version": "2026-09-23 a8fe900"
         },
         {
           "name": "test:triage",

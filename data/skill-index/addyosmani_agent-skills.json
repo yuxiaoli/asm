@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "1be8e34187e34647bb83adc3a1323b26ae6f6abe",
   "repoUrl": "https://github.com/addyosmani/agent-skills.git",
   "owner": "addyosmani",
   "repo": "agent-skills",
-  "updatedAt": "2026-10-18T22:10:28.764Z",
+  "updatedAt": "2026-10-11T05:04:40.738Z",
   "skillCount": 25,
   "skills": [
     {
+      "contentHash": "e83d34f52ff12dd8a7c5134cd7e8140ea4541ec65e204f8a1e4cd366e30c4192",
+      "sourcePath": "skills/api-and-interface-design/SKILL.md",
       "name": "api-and-interface-design",
       "description": "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or GraphQL endpoints, defining type contracts between modules, or establishing boundaries between frontend and backend.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.638Z",
+        "evaluatedAt": "2026-10-11T05:04:40.554Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4e3aacd6a380cd25bc6c2d67fdd1c926a9b22535b8a62109ecd33cefd909e3d9",
+      "sourcePath": "skills/browser-testing-with-devtools/SKILL.md",
       "name": "browser-testing-with-devtools",
       "description": "Tests in real browsers via Chrome DevTools MCP. Use when building or debugging anything that runs in a browser. Use when you need to inspect the DOM, capture console errors, analyze network requests, profile performance, or verify visual output with real runtime data. Requires the chrome-devtools MCP server to be configured.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.638Z",
+        "evaluatedAt": "2026-10-11T05:04:40.549Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a6ed8ed56456b01ff8314c44eefc69897d9905ae4e06bb2b7036286efb79b5f0",
+      "sourcePath": "skills/ci-cd-and-automation/SKILL.md",
       "name": "ci-cd-and-automation",
       "description": "Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality gates, configure test runners in CI, or establish deployment strategies.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.639Z",
+        "evaluatedAt": "2026-10-11T05:04:40.549Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "2db1e850379f255fd3091ef278cde24cd6c7d2ba23e360cc52ea522c40d4396e",
+      "sourcePath": "skills/code-review-and-quality/SKILL.md",
       "name": "code-review-and-quality",
       "description": "Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main branch. Use when asked to review a diff or a pull request, even when the diff is pasted inline.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.638Z",
+        "evaluatedAt": "2026-10-11T05:04:40.549Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f0c5ed754057eb0c1e027e2587f59de816651feb5e837242296c43ea21cf621d",
+      "sourcePath": "skills/code-simplification/SKILL.md",
       "name": "code-simplification",
       "description": "Simplifies code for clarity. Use when refactoring code for clarity without changing behavior. Use when code works but is harder to read, maintain, or extend than it should be. Use when reviewing code that has accumulated unnecessary complexity.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.638Z",
+        "evaluatedAt": "2026-10-11T05:04:40.554Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.555Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.555Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "06479d4305f286d23cfb99f5dc85695896785269664e1f6a8d800e3b71e70c10",
+      "sourcePath": "skills/constraint-driven-development/SKILL.md",
       "name": "constraint-driven-development",
       "description": "Establishes a project's quality bar as a written contract and stops agents quietly lowering it. Interviews the user on which dimensions matter, supplies sane default thresholds when they have no number in mind, records everything in CONSTRAINTS.md, and watches the diff for a weakened bar — new @ts-ignore or eslint-disable suppressions, skipped or deleted tests, assertions stripped out, unimplemented stubs, thresholds edited down. Use when no quality bar is written down, when the user says \"set up constraints\" or \"define our standards\", when the user wants dimensions they care about — accessibility, web performance, coverage — set up as enforced constraints, when an agent keeps silencing checks or skipping tests to get to green, when you need a coverage or performance threshold and don't know what number to pick, or when an agent writes more code than anyone will read.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.638Z",
+        "evaluatedAt": "2026-10-11T05:04:40.549Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "8b736cb9e55b82b265ab6ff78349c0e826e8a6df550deddf665b7fb3ff858b63",
+      "sourcePath": "skills/context-engineering/SKILL.md",
       "name": "context-engineering",
       "description": "Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.639Z",
+        "evaluatedAt": "2026-10-11T05:04:40.554Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.555Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "21f3960f5d7ae2cc95c40896545004dbbcbbd752ea65fc2d53962554d4174220",
+      "sourcePath": "skills/debugging-and-error-recovery/SKILL.md",
       "name": "debugging-and-error-recovery",
       "description": "Guides systematic root-cause debugging. Use when tests fail, builds break, something that worked yesterday broke, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need to figure out what broke and why — a systematic approach to finding and fixing the root cause rather than guessing.",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.639Z",
+        "evaluatedAt": "2026-10-11T05:04:40.554Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.639Z",
+          "evaluatedAt": "2026-10-11T05:04:40.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6a624f942e09c69863a4219b9bd5d56975026b67b0c70bc83385ffd2120b6142",
+      "sourcePath": "skills/deprecation-and-migration/SKILL.md",
       "name": "deprecation-and-migration",
       "description": "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when migrating a database schema in production, such as renaming or dropping a column without downtime (expand/contract). Use when deciding whether to maintain or sunset existing code.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.679Z",
+        "evaluatedAt": "2026-10-11T05:04:40.613Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.680Z",
+          "evaluatedAt": "2026-10-11T05:04:40.616Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.680Z",
+          "evaluatedAt": "2026-10-11T05:04:40.616Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b60d503925bbaacee7fd63935db70b9ced5b2514ff5a56a672130e01b9690bc5",
+      "sourcePath": "skills/documentation-and-adrs/SKILL.md",
       "name": "documentation-and-adrs",
       "description": "Records decisions and documentation. Use when you need to document an architecture decision (ADR) or the reasoning behind a design choice, when changing public APIs, shipping features, or when you need to record context that future engineers and agents will need to understand the codebase.",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.679Z",
+        "evaluatedAt": "2026-10-11T05:04:40.616Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.680Z",
+          "evaluatedAt": "2026-10-11T05:04:40.618Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.680Z",
+          "evaluatedAt": "2026-10-11T05:04:40.618Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6fa1fcd8420c28daf7e53c5b08b0f20b907911efd2a6d9bce0b9740da20a4008",
+      "sourcePath": "skills/doubt-driven-development/SKILL.md",
       "name": "doubt-driven-development",
       "description": "Subjects every non-trivial decision to a fresh-context adversarial review before it stands. Use when you want every assumption cross-examined before proceeding, when stress-testing a plan for hidden failure modes, when correctness matters more than speed, when working in unfamiliar code, when stakes are high (production auth, security-sensitive logic, a high-stakes migration, irreversible operations), or any time a confident output would be cheaper to verify now than to debug later.",
       "version": "0.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.679Z",
+        "evaluatedAt": "2026-10-11T05:04:40.613Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.680Z",
+          "evaluatedAt": "2026-10-11T05:04:40.617Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.680Z",
+          "evaluatedAt": "2026-10-11T05:04:40.617Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "29a3e53d57c0a128831a20730ae874a8c4fda40c001fcdc15f8e9ad4b5f72f1b",
+      "sourcePath": "skills/frontend-ui-engineering/SKILL.md",
       "name": "frontend-ui-engineering",
       "description": "Builds production-quality, accessible, responsive user-facing UIs. Use when building or modifying interfaces and pages, creating components, implementing layouts, meeting WCAG accessibility requirements, managing state, or when the output needs to look and feel production-quality rather than AI-generated.",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.680Z",
+        "evaluatedAt": "2026-10-11T05:04:40.618Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.680Z",
+          "evaluatedAt": "2026-10-11T05:04:40.620Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.680Z",
+          "evaluatedAt": "2026-10-11T05:04:40.620Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b7465d187935c52546d39fdc7bd6ac36d94eda25a9500ef8c18b767d2eb116ea",
+      "sourcePath": "skills/git-workflow-and-versioning/SKILL.md",
       "name": "git-workflow-and-versioning",
       "description": "Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, splitting uncommitted work in a messy working tree into clean atomic commits, opening or reviewing a pull request (PR), pushing to a remote, or when you need to organize work across multiple parallel streams. Use when cutting a release, choosing a semantic version bump, tagging, or writing a changelog.",
       "version": "0.0.0",
@@ -2210,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.680Z",
+        "evaluatedAt": "2026-10-11T05:04:40.617Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.681Z",
+          "evaluatedAt": "2026-10-11T05:04:40.618Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.681Z",
+          "evaluatedAt": "2026-10-11T05:04:40.618Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "79e773058963adc7646b0115b4f8a4afc974c5ff95843e4ef1cafff3cb51899e",
+      "sourcePath": "skills/idea-refine/SKILL.md",
       "name": "idea-refine",
       "description": "Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague, when you need to stress-test assumptions before committing to a plan, or when you want to expand options before converging on one. Triggers on \"ideate\", \"refine this idea\", or \"stress-test my plan\".",
       "version": "0.0.0",
@@ -2321,7 +2350,7 @@
       "installUrl": "github:addyosmani/agent-skills:skills/idea-refine",
       "relPath": "skills/idea-refine",
       "verified": true,
-      "tokenCount": 2892,
+      "tokenCount": 2501,
       "evalSummary": {
         "overallScore": 70,
         "grade": "C",
@@ -2387,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.680Z",
+        "evaluatedAt": "2026-10-11T05:04:40.617Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2396,7 +2425,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 69,
+          "overallScore": 70,
           "grade": "C",
           "categories": [
             {
@@ -2456,11 +2485,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 9,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.681Z",
+          "evaluatedAt": "2026-10-11T05:04:40.618Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.681Z",
+          "evaluatedAt": "2026-10-11T05:04:40.618Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "df66536610071727feae1ca95f3c391c248ad828041750ccd3699cce763aa00b",
+      "sourcePath": "skills/incremental-implementation/SKILL.md",
       "name": "incremental-implementation",
       "description": "Delivers changes incrementally in thin, verifiable slices. Use when implementing any feature or change that touches more than one file, or when picking up the next task from a plan. Use when rolling a change out behind a feature flag, when you're about to write a large amount of code at once, or when a task feels too big to land in one step.",
       "version": "0.0.0",
@@ -2564,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.680Z",
+        "evaluatedAt": "2026-10-11T05:04:40.620Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.681Z",
+          "evaluatedAt": "2026-10-11T05:04:40.627Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.681Z",
+          "evaluatedAt": "2026-10-11T05:04:40.627Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ace4b675999bb504593d572e0f73f3d7e803ad6fddf318445598c82c11939db2",
+      "sourcePath": "skills/interview-me/SKILL.md",
       "name": "interview-me",
       "description": "Extracts what the user actually wants instead of what they think they should want. Achieves this through one-question-at-a-time interview until ~95% confidence about the underlying intent. Use when an ask is underspecified (\"build me X\" without \"for whom\" or \"why now\"), when the user explicitly invokes (\"interview me\", \"grill me\", \"are we sure?\", \"stress-test my thinking\"), or when you catch yourself silently filling in ambiguous requirements before any plan, spec, or code exists.",
       "version": "0.0.0",
@@ -2741,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.689Z",
+        "evaluatedAt": "2026-10-11T05:04:40.638Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.700Z",
+          "evaluatedAt": "2026-10-11T05:04:40.639Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,12 +2865,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.700Z",
+          "evaluatedAt": "2026-10-11T05:04:40.639Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e7fcb0820306d46268de9594d676ad98e35040858926c412b7000faa52a61f87",
+      "sourcePath": "skills/observability-and-instrumentation/SKILL.md",
       "name": "observability-and-instrumentation",
       "description": "Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works. Use when production issues are reported but you can't tell what happened from the available data.",
       "version": "0.0.0",
@@ -2918,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.727Z",
+        "evaluatedAt": "2026-10-11T05:04:40.695Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.728Z",
+          "evaluatedAt": "2026-10-11T05:04:40.697Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3009,12 +3044,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.728Z",
+          "evaluatedAt": "2026-10-11T05:04:40.697Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "665a83a7218d6aebd02ca329a7b2422cf28f7c55cb56f870c05e12047770245c",
+      "sourcePath": "skills/performance-optimization/SKILL.md",
       "name": "performance-optimization",
       "description": "Optimizes application performance across frontend, backend, queries, and databases. Use when performance requirements exist, when you suspect performance regressions, when Core Web Vitals or load times need improvement, when N+1 query patterns need fixing, or when profiling reveals bottlenecks.",
       "version": "0.0.0",
@@ -3095,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.728Z",
+        "evaluatedAt": "2026-10-11T05:04:40.697Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.698Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3186,12 +3223,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.698Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ed0f90cc5951ddd4bcab7f871f64efec93a49af9279ef93bc470da77ad8da3f7",
+      "sourcePath": "skills/planning-and-task-breakdown/SKILL.md",
       "name": "planning-and-task-breakdown",
       "description": "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate scope, or when parallel work is possible.",
       "version": "0.0.0",
@@ -3272,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.728Z",
+        "evaluatedAt": "2026-10-11T05:04:40.696Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.697Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3363,12 +3402,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.697Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "2e3fc60eed5aba97fe416f3f3c9317fdb014a682925ec70a733c3ff99e4b9858",
+      "sourcePath": "skills/security-and-hardening/SKILL.md",
       "name": "security-and-hardening",
       "description": "Hardens code against vulnerabilities. Use when auditing an input handler for vulnerabilities, when handling user input, authentication, data storage, or external integrations, or when checking a login flow is safe against the OWASP Top Ten. Use when building any feature that accepts untrusted data, manages user sessions, or interacts with third-party services. Use when auditing dependencies for known vulnerabilities, triaging package-manager audit findings, or assessing supply-chain risk in a new package. Use when personal data or privacy compliance (GDPR, CCPA) is involved.",
       "version": "0.0.0",
@@ -3449,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.728Z",
+        "evaluatedAt": "2026-10-11T05:04:40.696Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.697Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3540,12 +3581,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.697Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "726f3e546369db289160b8d42195590f00b6432887e17bf19070dcc9a347fe39",
+      "sourcePath": "skills/shipping-and-launch/SKILL.md",
       "name": "shipping-and-launch",
       "description": "Prepares production launches. Use when preparing to deploy to production, or when asking what needs to be in place before shipping. Use when you need a pre-launch checklist, when setting up monitoring, when planning a staged rollout, or when you need a rollback strategy.",
       "version": "0.0.0",
@@ -3626,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.728Z",
+        "evaluatedAt": "2026-10-11T05:04:40.698Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3699,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.699Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3717,12 +3760,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.699Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c59faf851377f0eeda45306398d16eb96d77ab1c2fd3e1a7fb58e9a0af33c1e9",
+      "sourcePath": "skills/source-driven-development/SKILL.md",
       "name": "source-driven-development",
       "description": "Grounds every implementation decision in official documentation. Use when you want to verify an approach against the official docs before implementing it, or when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library where correctness matters.",
       "version": "0.0.0",
@@ -3803,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.728Z",
+        "evaluatedAt": "2026-10-11T05:04:40.699Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3876,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.699Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3894,12 +3939,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.729Z",
+          "evaluatedAt": "2026-10-11T05:04:40.699Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c4b97ce3d7f24be0e67fd612c7595f65504872e3a9f8d338d098b2363fdb66ef",
+      "sourcePath": "skills/spec-driven-development/SKILL.md",
       "name": "spec-driven-development",
       "description": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when drafting a PRD or requirements document with objectives and scope, or when requirements are unclear, ambiguous, or only exist as a vague idea. Use when a single requirement spans several independently testable capabilities and needs decomposing into a capability map of modules before specifying.",
       "version": "0.0.0",
@@ -3980,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.736Z",
+        "evaluatedAt": "2026-10-11T05:04:40.717Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4053,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.744Z",
+          "evaluatedAt": "2026-10-11T05:04:40.717Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4071,14 +4118,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.744Z",
+          "evaluatedAt": "2026-10-11T05:04:40.717Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7c0c6ac057c19d7f8be65d9f49c3a638703b868f4625c78b70da5439d5d74fca",
+      "sourcePath": "skills/test-driven-development/SKILL.md",
       "name": "test-driven-development",
-      "description": "Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality. Use when asked to add tests to a function, fix a bug in it or change its behavior, even when the code is pasted inline and the request does not mention tests.",
+      "description": "Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -4091,9 +4140,9 @@
       "installUrl": "github:addyosmani/agent-skills:skills/test-driven-development",
       "relPath": "skills/test-driven-development",
       "verified": true,
-      "tokenCount": 5191,
+      "tokenCount": 5127,
       "evalSummary": {
-        "overallScore": 74,
+        "overallScore": 76,
         "grade": "C",
         "categories": [
           {
@@ -4105,7 +4154,7 @@
           {
             "id": "description",
             "name": "Description quality",
-            "score": 3,
+            "score": 5,
             "max": 10
           },
           {
@@ -4157,7 +4206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.755Z",
+        "evaluatedAt": "2026-10-11T05:04:40.733Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4166,7 +4215,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 74,
+          "overallScore": 76,
           "grade": "C",
           "categories": [
             {
@@ -4178,7 +4227,7 @@
             {
               "id": "description",
               "name": "Description quality",
-              "score": 3,
+              "score": 5,
               "max": 10
             },
             {
@@ -4230,7 +4279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.755Z",
+          "evaluatedAt": "2026-10-11T05:04:40.734Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4248,12 +4297,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.755Z",
+          "evaluatedAt": "2026-10-11T05:04:40.734Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "30787ef2c77bf1a4729fffed0f6523ba6fcbe81bdc436b36371b78c21394d3c3",
+      "sourcePath": "skills/using-agent-skills/SKILL.md",
       "name": "using-agent-skills",
       "description": "Discovers and invokes agent skills. Use when starting a session, or when you need to decide which skill or workflow applies to the piece of work at hand. This is the meta-skill that governs how all other skills are discovered and invoked.",
       "version": "0.0.0",
@@ -4334,7 +4385,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:10:28.755Z",
+        "evaluatedAt": "2026-10-11T05:04:40.734Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4407,7 +4458,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.756Z",
+          "evaluatedAt": "2026-10-11T05:04:40.734Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4425,7 +4476,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:10:28.756Z",
+          "evaluatedAt": "2026-10-11T05:04:40.734Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4437,7 +4488,7 @@
       "name": "addyosmani-agent-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from addyosmani/agent-skills.",
       "author": "ASM (addyosmani/agent-skills)",
-      "createdAt": "2026-10-18T22:10:28.764Z",
+      "createdAt": "2026-10-11T05:04:40.738Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4589,7 +4640,7 @@
         {
           "name": "test-driven-development",
           "installUrl": "github:addyosmani/agent-skills:skills/test-driven-development",
-          "description": "Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality. Use when asked to add tests to a function, fix a bug in it or change its behavior, even when the code is pasted inline and the request does not mention tests.",
+          "description": "Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality.",
           "version": "0.0.0"
         },
         {
@@ -4611,7 +4662,7 @@
       "name": "addyosmani-agent-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from addyosmani/agent-skills.",
       "author": "ASM (addyosmani/agent-skills)",
-      "createdAt": "2026-10-18T22:10:28.764Z",
+      "createdAt": "2026-10-11T05:04:40.738Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4719,7 +4770,7 @@
       "name": "addyosmani-agent-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from addyosmani/agent-skills.",
       "author": "ASM (addyosmani/agent-skills)",
-      "createdAt": "2026-10-18T22:10:28.764Z",
+      "createdAt": "2026-10-11T05:04:40.738Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4847,7 +4898,7 @@
         {
           "name": "test-driven-development",
           "installUrl": "github:addyosmani/agent-skills:skills/test-driven-development",
-          "description": "Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality. Use when asked to add tests to a function, fix a bug in it or change its behavior, even when the code is pasted inline and the request does not mention tests.",
+          "description": "Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality.",
           "version": "0.0.0"
         }
       ],
@@ -4863,7 +4914,7 @@
       "name": "addyosmani-agent-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from addyosmani/agent-skills.",
       "author": "ASM (addyosmani/agent-skills)",
-      "createdAt": "2026-10-18T22:10:28.764Z",
+      "createdAt": "2026-10-11T05:04:40.738Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4965,7 +5016,7 @@
       "name": "addyosmani-agent-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from addyosmani/agent-skills.",
       "author": "ASM (addyosmani/agent-skills)",
-      "createdAt": "2026-10-18T22:10:28.764Z",
+      "createdAt": "2026-10-11T05:04:40.738Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5019,7 +5070,7 @@
       "name": "addyosmani-agent-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from addyosmani/agent-skills.",
       "author": "ASM (addyosmani/agent-skills)",
-      "createdAt": "2026-10-18T22:10:28.764Z",
+      "createdAt": "2026-10-11T05:04:40.738Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5085,7 +5136,7 @@
       "name": "addyosmani-agent-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from addyosmani/agent-skills.",
       "author": "ASM (addyosmani/agent-skills)",
-      "createdAt": "2026-10-18T22:10:28.764Z",
+      "createdAt": "2026-10-11T05:04:40.738Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5145,7 +5196,7 @@
       "name": "addyosmani-agent-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from addyosmani/agent-skills.",
       "author": "ASM (addyosmani/agent-skills)",
-      "createdAt": "2026-10-18T22:10:28.764Z",
+      "createdAt": "2026-10-11T05:04:40.738Z",
       "tags": [
         "repo-derived",
         "inferred",

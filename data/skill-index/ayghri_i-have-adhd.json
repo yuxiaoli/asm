@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "723af7d9afaf43eb871dbcce6129e2bf80de90d5",
   "repoUrl": "https://github.com/ayghri/i-have-adhd.git",
   "owner": "ayghri",
   "repo": "i-have-adhd",
-  "updatedAt": "2026-10-18T22:13:34.414Z",
+  "updatedAt": "2026-10-11T05:06:52.164Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "88955c019bbb1419ff4b49dbb1f80a867467de6233d7865af2e06a7d7b76c7d3",
+      "sourcePath": "skills/i-have-adhd/SKILL.md",
       "name": "i-have-adhd",
       "description": "Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate state across turns, suppress tangents, give specific time estimates, make wins visible. Invoke with /i-have-adhd; stays on until \"stop adhd mode\".",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:13:34.411Z",
+        "evaluatedAt": "2026-10-11T05:06:52.162Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:34.411Z",
+          "evaluatedAt": "2026-10-11T05:06:52.162Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:13:34.411Z",
+          "evaluatedAt": "2026-10-11T05:06:52.162Z",
           "evaluatedVersion": "0.0.0"
         }
       }
