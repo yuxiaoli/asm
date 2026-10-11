@@ -16,3 +16,15 @@ regexes = [
   '''^sk-[a-z0-9]{10,11}$''',
   '''https://api\.github\.com/''',
 ]
+
+# Sourcegraph's legacy-token rule also matches bare 40-character hex strings
+# when a file mentions Sourcegraph. Generated public Git commit IDs are not tokens.
+[[rules]]
+id = "sourcegraph-access-token"
+
+[[rules.allowlists]]
+description = "Public cloned HEAD metadata in generated skill indices"
+condition = "AND"
+paths = ['''^data/skill-index/[^/]+\.json$''']
+regexTarget = "line"
+regexes = ['''^\s*"sourceCommit":\s*"[a-f0-9]{40}",?\s*$''']

@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "49dd158d1076134a641b33efb035946536778336",
   "repoUrl": "https://github.com/mattpocock/skills.git",
   "owner": "mattpocock",
   "repo": "skills",
-  "updatedAt": "2026-09-30T20:48:15.361Z",
-  "skillCount": 37,
+  "updatedAt": "2026-10-11T05:04:28.408Z",
+  "skillCount": 38,
   "skills": [
     {
+      "contentHash": "1371f5ce005de0992a44b137748bfb960a56948aa9871b405fe9d90b24332e3c",
+      "sourcePath": "skills/engineering/ask-matt/SKILL.md",
       "name": "ask-matt",
       "description": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
       "version": "0.0.0",
@@ -20,7 +23,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/ask-matt",
       "relPath": "skills/engineering/ask-matt",
       "verified": true,
-      "tokenCount": 3810,
+      "tokenCount": 3889,
       "evalSummary": {
         "overallScore": 60,
         "grade": "D",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.206Z",
+        "evaluatedAt": "2026-10-11T05:04:27.901Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,193 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6cc6e47ab5022f3e45e5be0fedbb0f6e645f4f0190d6b0c51c7cd60c2d7c1d98",
+      "sourcePath": "skills/in-progress/chief-of-staff/SKILL.md",
+      "name": "chief-of-staff",
+      "description": "Pursue a long-running goal in a single session by co-ordinating subagents.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": false,
+      "userInvocable": true,
+      "installUrl": "github:mattpocock/skills:skills/in-progress/chief-of-staff",
+      "relPath": "skills/in-progress/chief-of-staff",
+      "verified": true,
+      "tokenCount": 606,
+      "evalSummary": {
+        "overallScore": 53,
+        "grade": "D",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 4,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 4,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 1,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-11T05:04:27.899Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 53,
+          "grade": "D",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 4,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 4,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:04:27.901Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:04:27.901Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "79357a18425d66d4c24048bedf83dceb79d3bba356f38014950f764a7fab4026",
+      "sourcePath": "skills/in-progress/claude-handoff/SKILL.md",
       "name": "claude-handoff",
       "description": "Hand the current conversation off to a fresh background agent that picks up the work immediately.",
       "version": "0.0.0",
@@ -197,9 +381,9 @@
       "installUrl": "github:mattpocock/skills:skills/in-progress/claude-handoff",
       "relPath": "skills/in-progress/claude-handoff",
       "verified": true,
-      "tokenCount": 386,
+      "tokenCount": 432,
       "evalSummary": {
-        "overallScore": 51,
+        "overallScore": 52,
         "grade": "D",
         "categories": [
           {
@@ -235,7 +419,7 @@
           {
             "id": "testability",
             "name": "Testability",
-            "score": 0,
+            "score": 1,
             "max": 10
           },
           {
@@ -263,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.206Z",
+        "evaluatedAt": "2026-10-11T05:04:27.899Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -272,7 +456,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 51,
+          "overallScore": 52,
           "grade": "D",
           "categories": [
             {
@@ -308,7 +492,7 @@
             {
               "id": "testability",
               "name": "Testability",
-              "score": 0,
+              "score": 1,
               "max": 10
             },
             {
@@ -336,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.901Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.901Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "09eb147f793e4647949edd32dbad278f0554dfb56e0d46b699cd4c2c55bf0357",
+      "sourcePath": "skills/engineering/code-review/SKILL.md",
       "name": "code-review",
       "description": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes: Standards (does the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/spec asked for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to \\\"review since X\\\".",
       "version": "0.0.0",
@@ -374,7 +560,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/code-review",
       "relPath": "skills/engineering/code-review",
       "verified": true,
-      "tokenCount": 2072,
+      "tokenCount": 2115,
       "evalSummary": {
         "overallScore": 63,
         "grade": "D",
@@ -440,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.207Z",
+        "evaluatedAt": "2026-10-11T05:04:27.899Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.901Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.901Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2",
+      "sourcePath": "skills/engineering/codebase-design/SKILL.md",
       "name": "codebase-design",
       "description": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide where a seam goes, make code more testable or AI-navigable, or when another skill needs the deep-module vocabulary.",
       "version": "0.0.0",
@@ -617,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.206Z",
+        "evaluatedAt": "2026-10-11T05:04:27.902Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "849198df88cdb65fd0d97236604c1fca7ff2f22d2f705f9724a800d0266b118d",
+      "sourcePath": "skills/engineering/diagnosing-bugs/SKILL.md",
       "name": "diagnosing-bugs",
       "description": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug this\", or reports something broken/throwing/failing/slow.",
       "version": "0.0.0",
@@ -728,7 +918,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/diagnosing-bugs",
       "relPath": "skills/engineering/diagnosing-bugs",
       "verified": true,
-      "tokenCount": 2720,
+      "tokenCount": 2770,
       "evalSummary": {
         "overallScore": 75,
         "grade": "C",
@@ -794,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.208Z",
+        "evaluatedAt": "2026-10-11T05:04:27.901Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.208Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.208Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3",
+      "sourcePath": "skills/engineering/domain-modeling/SKILL.md",
       "name": "domain-modeling",
       "description": "Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or editing a GLOSSARY.md, or recording or editing an ADR.",
       "version": "0.0.0",
@@ -971,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.207Z",
+        "evaluatedAt": "2026-10-11T05:04:27.902Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "69b291d655626a01602b998a1836fcb93c058ede68dfafddfd71e87f17074764",
+      "sourcePath": "skills/misc/git-guardrails-claude-code/SKILL.md",
       "name": "git-guardrails-claude-code",
       "description": "Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.) before they execute. Use when user wants to prevent destructive git operations, add git safety hooks, or block git push/reset in Claude Code.",
       "version": "0.0.0",
@@ -1148,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.207Z",
+        "evaluatedAt": "2026-10-11T05:04:27.901Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.902Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+      "sourcePath": "skills/productivity/grill-me/SKILL.md",
       "name": "grill-me",
       "description": "A relentless interview to sharpen a plan or design.",
       "version": "0.0.0",
@@ -1325,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.207Z",
+        "evaluatedAt": "2026-10-11T05:04:27.955Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.955Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.207Z",
+          "evaluatedAt": "2026-10-11T05:04:27.955Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
+      "sourcePath": "skills/engineering/grill-with-docs/SKILL.md",
       "name": "grill-with-docs",
       "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
       "version": "0.0.0",
@@ -1502,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.218Z",
+        "evaluatedAt": "2026-10-11T05:04:27.955Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.218Z",
+          "evaluatedAt": "2026-10-11T05:04:27.955Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.218Z",
+          "evaluatedAt": "2026-10-11T05:04:27.955Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "befdff1e27a1dfe2a294d5871169ac1afe16d983911daa4f32627514a48c1e15",
+      "sourcePath": "skills/productivity/grilling/SKILL.md",
       "name": "grilling",
       "description": "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases.",
       "version": "0.0.0",
@@ -1613,7 +1813,7 @@
       "installUrl": "github:mattpocock/skills:skills/productivity/grilling",
       "relPath": "skills/productivity/grilling",
       "verified": true,
-      "tokenCount": 621,
+      "tokenCount": 638,
       "evalSummary": {
         "overallScore": 56,
         "grade": "D",
@@ -1679,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.218Z",
+        "evaluatedAt": "2026-10-11T05:04:27.963Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.218Z",
+          "evaluatedAt": "2026-10-11T05:04:27.963Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.218Z",
+          "evaluatedAt": "2026-10-11T05:04:27.963Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4cbb043950dad2ffd3662ff1a5a0b51ae676004b5cae10e3787e8ee7a4ee69d3",
+      "sourcePath": "skills/productivity/handoff/SKILL.md",
       "name": "handoff",
       "description": "Compact the current conversation into a handoff document for another agent to pick up.",
       "version": "0.0.0",
@@ -1790,7 +1992,7 @@
       "installUrl": "github:mattpocock/skills:skills/productivity/handoff",
       "relPath": "skills/productivity/handoff",
       "verified": true,
-      "tokenCount": 265,
+      "tokenCount": 277,
       "evalSummary": {
         "overallScore": 51,
         "grade": "D",
@@ -1856,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.218Z",
+        "evaluatedAt": "2026-10-11T05:04:27.979Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.218Z",
+          "evaluatedAt": "2026-10-11T05:04:27.994Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.218Z",
+          "evaluatedAt": "2026-10-11T05:04:27.994Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "483bdc4ccf4ac31d86ac7beeaa0d0db80313e71e120bb8c59b3196ae5decd53d",
+      "sourcePath": "skills/engineering/implement/SKILL.md",
       "name": "implement",
       "description": "Implement a piece of work based on a spec or set of tickets.",
       "version": "0.0.0",
@@ -1967,9 +2171,9 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/implement",
       "relPath": "skills/engineering/implement",
       "verified": true,
-      "tokenCount": 130,
+      "tokenCount": 195,
       "evalSummary": {
-        "overallScore": 44,
+        "overallScore": 48,
         "grade": "F",
         "categories": [
           {
@@ -1987,13 +2191,13 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 1,
+            "score": 2,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 2,
+            "score": 5,
             "max": 10
           },
           {
@@ -2033,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.218Z",
+        "evaluatedAt": "2026-10-11T05:04:27.979Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2042,7 +2246,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": false,
-          "overallScore": 44,
+          "overallScore": 48,
           "grade": "F",
           "categories": [
             {
@@ -2060,13 +2264,13 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 1,
+              "score": 2,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 2,
+              "score": 5,
               "max": 10
             },
             {
@@ -2106,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.219Z",
+          "evaluatedAt": "2026-10-11T05:04:27.994Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.219Z",
+          "evaluatedAt": "2026-10-11T05:04:27.994Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7a22dd2e60b8fcece478ced9d2533582adf3520d695acd3ab715341535c9e56d",
+      "sourcePath": "skills/engineering/implement-spec/SKILL.md",
       "name": "implement-spec",
       "description": "Implement the result of /to-spec and /to-tickets in code.",
       "version": "0.0.0",
@@ -2210,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.219Z",
+        "evaluatedAt": "2026-10-11T05:04:27.979Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.220Z",
+          "evaluatedAt": "2026-10-11T05:04:27.993Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.220Z",
+          "evaluatedAt": "2026-10-11T05:04:27.994Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "552240a5ab5cec6b67c15dd1ad6e9f6962b1bca6ce870059a8c2713760c20392",
+      "sourcePath": "skills/engineering/improve-codebase-architecture/SKILL.md",
       "name": "improve-codebase-architecture",
       "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.",
       "version": "0.0.0",
@@ -2387,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.220Z",
+        "evaluatedAt": "2026-10-11T05:04:27.996Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.220Z",
+          "evaluatedAt": "2026-10-11T05:04:27.997Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.220Z",
+          "evaluatedAt": "2026-10-11T05:04:27.997Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e44d1cc3e760fb86ac42964c2a5f1fcac511715db50fb375f3f7be814de1eaa7",
+      "sourcePath": "skills/in-progress/loop-me/SKILL.md",
       "name": "loop-me",
       "description": "Grill me about specs for the workflows I want to build, within this workspace.",
       "version": "0.0.0",
@@ -2564,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.222Z",
+        "evaluatedAt": "2026-10-11T05:04:27.997Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.222Z",
+          "evaluatedAt": "2026-10-11T05:04:27.998Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2865,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.222Z",
+          "evaluatedAt": "2026-10-11T05:04:27.998Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "de4da4c11d924fac79c924b2ee3d2db4a5cb98386eb490a599119463d036ae72",
+      "sourcePath": "skills/misc/migrate-to-shoehorn/SKILL.md",
       "name": "migrate-to-shoehorn",
       "description": "Migrate test files from `as` type assertions to @total-typescript/shoehorn. Use when user mentions shoehorn, wants to replace `as` in tests, or needs partial test data.",
       "version": "0.0.0",
@@ -2741,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.223Z",
+        "evaluatedAt": "2026-10-11T05:04:28.016Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.224Z",
+          "evaluatedAt": "2026-10-11T05:04:28.023Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,12 +3044,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.224Z",
+          "evaluatedAt": "2026-10-11T05:04:28.023Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ab63f1cf78647389edcd386c9427c5dfca27ed2836930c24773ffee834c19bcd",
+      "sourcePath": "skills/engineering/pr/SKILL.md",
       "name": "pr",
       "description": "Use when writing a PR body.",
       "version": "0.0.0",
@@ -2918,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.224Z",
+        "evaluatedAt": "2026-10-11T05:04:28.024Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.224Z",
+          "evaluatedAt": "2026-10-11T05:04:28.025Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3009,12 +3223,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.224Z",
+          "evaluatedAt": "2026-10-11T05:04:28.025Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3",
+      "sourcePath": "skills/engineering/prototype/SKILL.md",
       "name": "prototype",
       "description": "Build a throwaway prototype to answer a design question. Use when the user wants to sanity-check whether a state model or logic feels right, or explore what a UI should look like.",
       "version": "0.0.0",
@@ -3095,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.224Z",
+        "evaluatedAt": "2026-10-11T05:04:28.039Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.224Z",
+          "evaluatedAt": "2026-10-11T05:04:28.045Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3186,12 +3402,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.224Z",
+          "evaluatedAt": "2026-10-11T05:04:28.045Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4",
+      "sourcePath": "skills/engineering/research/SKILL.md",
       "name": "research",
       "description": "Investigate a question against high-trust primary sources and capture the findings as a Markdown file in the repo. Use when the user wants a topic researched, docs or API facts gathered, or reading legwork delegated to a background agent.",
       "version": "0.0.0",
@@ -3272,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.226Z",
+        "evaluatedAt": "2026-10-11T05:04:28.048Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.226Z",
+          "evaluatedAt": "2026-10-11T05:04:28.049Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3363,12 +3581,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.226Z",
+          "evaluatedAt": "2026-10-11T05:04:28.049Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "33fbc28568e3146f20fd908b12998bc0ab30aa4f4c87288199a40793efa94696",
+      "sourcePath": "skills/engineering/retro/SKILL.md",
       "name": "retro",
       "description": "Conduct a retrospective on a coding session.",
       "version": "0.0.0",
@@ -3449,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.227Z",
+        "evaluatedAt": "2026-10-11T05:04:28.048Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.227Z",
+          "evaluatedAt": "2026-10-11T05:04:28.049Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3540,12 +3760,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.227Z",
+          "evaluatedAt": "2026-10-11T05:04:28.049Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "75f5c9d771606fb9762f16522efc954df11c324f87148d8ff069bce166257de9",
+      "sourcePath": "skills/misc/scaffold-exercises/SKILL.md",
       "name": "scaffold-exercises",
       "description": "Create exercise directory structures with sections, problems, solutions, and explainers that pass linting. Use when user wants to scaffold exercises, create exercise stubs, or set up a new course section.",
       "version": "0.0.0",
@@ -3626,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.228Z",
+        "evaluatedAt": "2026-10-11T05:04:28.049Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3699,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.228Z",
+          "evaluatedAt": "2026-10-11T05:04:28.057Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3717,12 +3939,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.228Z",
+          "evaluatedAt": "2026-10-11T05:04:28.057Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f148858ffb7f63c03c06fca06e6fdb1d91a35c6b293244b8fdfacd5f4cc028c4",
+      "sourcePath": "skills/engineering/setup-matt-pocock-skills/SKILL.md",
       "name": "setup-matt-pocock-skills",
       "description": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the other engineering skills.",
       "version": "0.0.0",
@@ -3737,7 +3961,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/setup-matt-pocock-skills",
       "relPath": "skills/engineering/setup-matt-pocock-skills",
       "verified": true,
-      "tokenCount": 1945,
+      "tokenCount": 1988,
       "evalSummary": {
         "overallScore": 67,
         "grade": "C",
@@ -3803,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.229Z",
+        "evaluatedAt": "2026-10-11T05:04:28.068Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3876,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.229Z",
+          "evaluatedAt": "2026-10-11T05:04:28.069Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3894,12 +4118,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.229Z",
+          "evaluatedAt": "2026-10-11T05:04:28.069Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c9819d7f1e3b198064edc1faa3154224ed67395e9f07f5d3cea4b67cf0a11a98",
+      "sourcePath": "skills/misc/setup-pre-commit/SKILL.md",
       "name": "setup-pre-commit",
       "description": "Set up Husky pre-commit hooks with lint-staged (Prettier), type checking, and tests in the current repo. Use when user wants to add pre-commit hooks, set up Husky, configure lint-staged, or add commit-time formatting/typechecking/testing.",
       "version": "0.0.0",
@@ -3980,7 +4206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.230Z",
+        "evaluatedAt": "2026-10-11T05:04:28.069Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4053,7 +4279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.230Z",
+          "evaluatedAt": "2026-10-11T05:04:28.069Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4071,12 +4297,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.230Z",
+          "evaluatedAt": "2026-10-11T05:04:28.069Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "29acca66ac99d4532e2a6f0370d8125d7cba1e87c9ac66573203c75189d3e6c7",
+      "sourcePath": "skills/in-progress/setup-ts-deep-modules/SKILL.md",
       "name": "setup-ts-deep-modules",
       "description": "Wire dependency-cruiser into a TypeScript repo so each package is a deep module, with implementation hidden in subfolders and reachable only through its entry-point files. User-invoked.",
       "version": "0.0.0",
@@ -4157,7 +4385,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.231Z",
+        "evaluatedAt": "2026-10-11T05:04:28.080Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4230,7 +4458,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.232Z",
+          "evaluatedAt": "2026-10-11T05:04:28.081Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4248,12 +4476,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.232Z",
+          "evaluatedAt": "2026-10-11T05:04:28.081Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0",
+      "sourcePath": "skills/engineering/tdd/SKILL.md",
       "name": "tdd",
       "description": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests.",
       "version": "0.0.0",
@@ -4268,7 +4498,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/tdd",
       "relPath": "skills/engineering/tdd",
       "verified": true,
-      "tokenCount": 1095,
+      "tokenCount": 1125,
       "evalSummary": {
         "overallScore": 69,
         "grade": "C",
@@ -4334,7 +4564,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.233Z",
+        "evaluatedAt": "2026-10-11T05:04:28.111Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4407,7 +4637,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.233Z",
+          "evaluatedAt": "2026-10-11T05:04:28.112Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4425,12 +4655,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.233Z",
+          "evaluatedAt": "2026-10-11T05:04:28.112Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "550482c2d674b085c9043b87bfdc14a8f2ec453c736119e7fcbb1e9332bffeba",
+      "sourcePath": "skills/productivity/teach/SKILL.md",
       "name": "teach",
       "description": "Teach the user a new skill or concept, within this workspace.",
       "version": "0.0.0",
@@ -4445,7 +4677,7 @@
       "installUrl": "github:mattpocock/skills:skills/productivity/teach",
       "relPath": "skills/productivity/teach",
       "verified": true,
-      "tokenCount": 2894,
+      "tokenCount": 2962,
       "evalSummary": {
         "overallScore": 65,
         "grade": "C",
@@ -4511,7 +4743,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.233Z",
+        "evaluatedAt": "2026-10-11T05:04:28.111Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4584,7 +4816,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.233Z",
+          "evaluatedAt": "2026-10-11T05:04:28.112Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4602,12 +4834,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.233Z",
+          "evaluatedAt": "2026-10-11T05:04:28.112Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b5eb929842ee0e93d867c5e906d183d350f2f2d149eaeaa86967d94d8eda1d3b",
+      "sourcePath": "skills/productivity/to-questionnaire/SKILL.md",
       "name": "to-questionnaire",
       "description": "Turn a decision you can't fully answer into a questionnaire for someone else to fill in.",
       "version": "0.0.0",
@@ -4688,7 +4922,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.236Z",
+        "evaluatedAt": "2026-10-11T05:04:28.112Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4761,7 +4995,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.237Z",
+          "evaluatedAt": "2026-10-11T05:04:28.112Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4779,12 +5013,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.237Z",
+          "evaluatedAt": "2026-10-11T05:04:28.112Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088",
+      "sourcePath": "skills/engineering/to-spec/SKILL.md",
       "name": "to-spec",
       "description": "Turn the current conversation into a spec and publish it to the project issue tracker: no interview, just synthesis of what you've already discussed.",
       "version": "0.0.0",
@@ -4865,7 +5101,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.238Z",
+        "evaluatedAt": "2026-10-11T05:04:28.112Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4938,7 +5174,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.238Z",
+          "evaluatedAt": "2026-10-11T05:04:28.120Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4956,12 +5192,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.238Z",
+          "evaluatedAt": "2026-10-11T05:04:28.119Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "56ec23c5b2782785d4e65bff9e315b6d3aeb4ef977c174a219e99489fada1995",
+      "sourcePath": "skills/engineering/to-tickets/SKILL.md",
       "name": "to-tickets",
       "description": "Break a plan, spec, or the current conversation into a set of tracer-bullet tickets, each declaring its blocking edges, published to the configured tracker (edges as text in one file per ticket locally, or native blocking links on a real tracker).",
       "version": "0.0.0",
@@ -4976,7 +5214,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/to-tickets",
       "relPath": "skills/engineering/to-tickets",
       "verified": true,
-      "tokenCount": 1728,
+      "tokenCount": 1774,
       "evalSummary": {
         "overallScore": 61,
         "grade": "D",
@@ -5042,7 +5280,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.239Z",
+        "evaluatedAt": "2026-10-11T05:04:28.131Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5115,7 +5353,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.240Z",
+          "evaluatedAt": "2026-10-11T05:04:28.132Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5133,12 +5371,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.240Z",
+          "evaluatedAt": "2026-10-11T05:04:28.132Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "917b0baf74be583e74f110857ed45df2766617f75c00baf61fd136d7af515edf",
+      "sourcePath": "skills/engineering/triage/SKILL.md",
       "name": "triage",
       "description": "Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs.",
       "version": "0.0.0",
@@ -5219,7 +5459,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.242Z",
+        "evaluatedAt": "2026-10-11T05:04:28.133Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5292,7 +5532,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.242Z",
+          "evaluatedAt": "2026-10-11T05:04:28.133Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5310,12 +5550,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.242Z",
+          "evaluatedAt": "2026-10-11T05:04:28.133Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d961bb37defd975c539427edb8f450cdbccdcdd552e213c1ece46676a7970905",
+      "sourcePath": "skills/productivity/wait-what/SKILL.md",
       "name": "wait-what",
       "description": "Stop. That last message did not land: re-pitch it.",
       "version": "0.0.0",
@@ -5396,7 +5638,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.242Z",
+        "evaluatedAt": "2026-10-11T05:04:28.146Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5469,7 +5711,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.242Z",
+          "evaluatedAt": "2026-10-11T05:04:28.147Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5487,12 +5729,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.242Z",
+          "evaluatedAt": "2026-10-11T05:04:28.147Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9be7b478c389605a24517d27752f278933588da97a1b5921b165f455edf4c5b7",
+      "sourcePath": "skills/engineering/wayfinder/SKILL.md",
       "name": "wayfinder",
       "description": "Plan a huge chunk of work (more than one agent session can hold) as a shared map of decision tickets on your issue tracker, and resolve them one at a time until the way to the destination is clear.",
       "version": "0.0.0",
@@ -5507,7 +5751,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/wayfinder",
       "relPath": "skills/engineering/wayfinder",
       "verified": true,
-      "tokenCount": 3925,
+      "tokenCount": 4075,
       "evalSummary": {
         "overallScore": 65,
         "grade": "C",
@@ -5573,7 +5817,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.244Z",
+        "evaluatedAt": "2026-10-11T05:04:28.164Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5646,7 +5890,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.244Z",
+          "evaluatedAt": "2026-10-11T05:04:28.164Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5664,12 +5908,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.244Z",
+          "evaluatedAt": "2026-10-11T05:04:28.164Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "bdf31d48211ea559878f95a4f344aeabf8d85897488ba564382bab0b000daac1",
+      "sourcePath": "skills/engineering/wizard/SKILL.md",
       "name": "wizard",
       "description": "Generate an interactive bash wizard that walks a human through steps only they can perform. Use when provisioning infrastructure, setting up credentials or CI secrets, walking an unfamiliar third-party dashboard, or running a one-off migration or cutover. Don't invoke this for steps the agent can perform itself.",
       "version": "0.0.0",
@@ -5750,7 +5996,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.244Z",
+        "evaluatedAt": "2026-10-11T05:04:28.179Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5759,7 +6005,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 69,
+          "overallScore": 65,
           "grade": "C",
           "categories": [
             {
@@ -5813,17 +6059,17 @@
             {
               "id": "pii",
               "name": "PII detection",
-              "score": 10,
+              "score": 8,
               "max": 10
             },
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 9,
+              "score": 7,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.244Z",
+          "evaluatedAt": "2026-10-11T05:04:28.179Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5841,12 +6087,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.244Z",
+          "evaluatedAt": "2026-10-11T05:04:28.179Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a96abafa2372eede8267d770138b322d6125da8adaa7ccf0a5e08e4ee13ee71e",
+      "sourcePath": "skills/in-progress/writing-beats/SKILL.md",
       "name": "writing-beats",
       "description": "Writing, exploit; assemble raw material into a journey of beats, grounding each term before a beat leans on it.",
       "version": "0.0.0",
@@ -5927,7 +6175,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.245Z",
+        "evaluatedAt": "2026-10-11T05:04:28.189Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6000,7 +6248,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.245Z",
+          "evaluatedAt": "2026-10-11T05:04:28.191Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6018,12 +6266,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.245Z",
+          "evaluatedAt": "2026-10-11T05:04:28.191Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "551adca942227b44192edba88acd4e8db911f0121ce58ad16944ccf6a896a74a",
+      "sourcePath": "skills/productivity/writing-for-agents/SKILL.md",
       "name": "writing-for-agents",
       "description": "Writing documents for agents. Use when creating or editing skills, or modifying AGENTS.md or CLAUDE.md.",
       "version": "0.0.0",
@@ -6104,7 +6354,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.248Z",
+        "evaluatedAt": "2026-10-11T05:04:28.192Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6177,7 +6427,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.249Z",
+          "evaluatedAt": "2026-10-11T05:04:28.192Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6195,12 +6445,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.249Z",
+          "evaluatedAt": "2026-10-11T05:04:28.192Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "298b0edd23df229183630de592ed8aa4289233560f2040691f6eb77caeaad4ea",
+      "sourcePath": "skills/in-progress/writing-fragments/SKILL.md",
       "name": "writing-fragments",
       "description": "Writing, explore: mine raw fragments, no structure yet.",
       "version": "0.0.0",
@@ -6281,7 +6533,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.249Z",
+        "evaluatedAt": "2026-10-11T05:04:28.192Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6354,7 +6606,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.249Z",
+          "evaluatedAt": "2026-10-11T05:04:28.193Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6372,12 +6624,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.249Z",
+          "evaluatedAt": "2026-10-11T05:04:28.193Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f5e6c57bdd85178ace4a260c92f46da6b64ddee18215b461d875739c68976f72",
+      "sourcePath": "skills/in-progress/writing-shape/SKILL.md",
       "name": "writing-shape",
       "description": "Writing, exploit: shape raw material into an article, paragraph by paragraph.",
       "version": "0.0.0",
@@ -6458,7 +6712,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:15.249Z",
+        "evaluatedAt": "2026-10-11T05:04:28.219Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6531,7 +6785,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.251Z",
+          "evaluatedAt": "2026-10-11T05:04:28.219Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6549,7 +6803,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:15.251Z",
+          "evaluatedAt": "2026-10-11T05:04:28.219Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6561,7 +6815,7 @@
       "name": "mattpocock-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-09-30T20:48:15.361Z",
+      "createdAt": "2026-10-11T05:04:28.408Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6572,6 +6826,12 @@
         "skills"
       ],
       "skills": [
+        {
+          "name": "chief-of-staff",
+          "installUrl": "github:mattpocock/skills:skills/in-progress/chief-of-staff",
+          "description": "Pursue a long-running goal in a single session by co-ordinating subagents.",
+          "version": "0.0.0"
+        },
         {
           "name": "claude-handoff",
           "installUrl": "github:mattpocock/skills:skills/in-progress/claude-handoff",
@@ -6693,7 +6953,7 @@
       "name": "mattpocock-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-09-30T20:48:15.361Z",
+      "createdAt": "2026-10-11T05:04:28.408Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6759,7 +7019,7 @@
       "name": "mattpocock-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-09-30T20:48:15.361Z",
+      "createdAt": "2026-10-11T05:04:28.408Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6879,7 +7139,7 @@
       "name": "mattpocock-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-09-30T20:48:15.361Z",
+      "createdAt": "2026-10-11T05:04:28.408Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6963,7 +7223,7 @@
       "name": "mattpocock-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-09-30T20:48:15.361Z",
+      "createdAt": "2026-10-11T05:04:28.408Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7029,7 +7289,7 @@
       "name": "mattpocock-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-09-30T20:48:15.361Z",
+      "createdAt": "2026-10-11T05:04:28.408Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7071,7 +7331,7 @@
       "name": "mattpocock-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-09-30T20:48:15.361Z",
+      "createdAt": "2026-10-11T05:04:28.408Z",
       "tags": [
         "repo-derived",
         "inferred",

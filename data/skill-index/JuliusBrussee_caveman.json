@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "2e08b9177c07bb7249a8a2d1a6758e5db281d002",
   "repoUrl": "https://github.com/JuliusBrussee/caveman.git",
   "owner": "JuliusBrussee",
   "repo": "caveman",
-  "updatedAt": "2026-09-30T20:50:06.210Z",
-  "skillCount": 20,
+  "updatedAt": "2026-10-11T05:06:43.504Z",
+  "skillCount": 22,
   "skills": [
     {
+      "contentHash": "534c0a70d4c7728815214a11e80e66cecbd2104f905f96414e6e32504381c002",
+      "sourcePath": "skills/cavecrew/SKILL.md",
       "name": "cavecrew",
       "description": "When to delegate to `cavecrew-investigator` (locate code), `cavecrew-builder` (1-2 file edit) or `cavecrew-reviewer` (diff review) instead of working inline or using `Explore`. Their output is compressed, so main context lasts longer.",
       "version": "0.0.0",
@@ -20,7 +23,7 @@
       "installUrl": "github:JuliusBrussee/caveman:skills/cavecrew",
       "relPath": "skills/cavecrew",
       "verified": true,
-      "tokenCount": 992,
+      "tokenCount": 1046,
       "evalSummary": {
         "overallScore": 64,
         "grade": "D",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.901Z",
+        "evaluatedAt": "2026-10-11T05:06:43.175Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.176Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,14 +180,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.176Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "415d43518f2b1a9498c15a445d4657117b129ee5e81b19454ce348439cc6672b",
+      "sourcePath": "skills/caveman/SKILL.md",
       "name": "caveman",
-      "description": "Ultra-compressed communication mode that cuts output tokens while keeping technical accuracy. Levels: lite, full, ultra and the wenyan variants. Use for /caveman, \"caveman mode\", \"talk like caveman\", \"be brief\" or \"less tokens\".",
+      "description": "Terse caveman voice: answer first, fluff gone, every technical fact kept. Use for /caveman, \"caveman mode\", \"talk like caveman\", \"be brief\", \"less tokens\". Stays on until \"stop caveman\" or \"normal mode\".",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -197,10 +202,10 @@
       "installUrl": "github:JuliusBrussee/caveman:skills/caveman",
       "relPath": "skills/caveman",
       "verified": true,
-      "tokenCount": 1911,
+      "tokenCount": 1439,
       "evalSummary": {
-        "overallScore": 71,
-        "grade": "C",
+        "overallScore": 64,
+        "grade": "D",
         "categories": [
           {
             "id": "structure",
@@ -217,13 +222,13 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 7,
+            "score": 5,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 10,
+            "score": 7,
             "max": 10
           },
           {
@@ -247,7 +252,7 @@
           {
             "id": "naming",
             "name": "Naming & conventions",
-            "score": 10,
+            "score": 8,
             "max": 10
           },
           {
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.901Z",
+        "evaluatedAt": "2026-10-11T05:06:43.174Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -272,8 +277,8 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 71,
-          "grade": "C",
+          "overallScore": 64,
+          "grade": "D",
           "categories": [
             {
               "id": "structure",
@@ -290,13 +295,13 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 7,
+              "score": 5,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 10,
+              "score": 7,
               "max": 10
             },
             {
@@ -320,7 +325,7 @@
             {
               "id": "naming",
               "name": "Naming & conventions",
-              "score": 10,
+              "score": 8,
               "max": 10
             },
             {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.176Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.176Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c788a282fc75b981b421dfdad5d84ea7f83f946c126daa39cfc7d3f97845e193",
+      "sourcePath": "skills/caveman-commit/SKILL.md",
       "name": "caveman-commit",
       "description": "Write a Conventional Commits message compressed to intent only. Use for \"write a commit\", \"commit message\", /commit or /caveman-commit.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.901Z",
+        "evaluatedAt": "2026-10-11T05:06:43.174Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.175Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.175Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "377b0b8682d9db1a832c20ee6732ed0f19f55e4f7048955296128244c869c916",
+      "sourcePath": "skills/caveman-compress/SKILL.md",
       "name": "caveman-compress",
       "description": "Compress a memory file such as CLAUDE.md or a todo list into caveman format to save input tokens, keeping a readable backup. Trigger: /caveman-compress.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.900Z",
+        "evaluatedAt": "2026-10-11T05:06:43.174Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.175Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.175Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0483d17fce14ca5bbfcf1e085c180412dc20a672f5e8e4171fd0bbbb6f42b81a",
+      "sourcePath": "skills/caveman-discover/SKILL.md",
       "name": "caveman-discover",
       "description": "Find and label every LLM workflow in the repository so Caveman Cloud groups spend by workflow instead of one bucket. Use for \"discover workflows\" or breaking LLM spend down by workflow.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.901Z",
+        "evaluatedAt": "2026-10-11T05:06:43.174Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.175Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.175Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "05bd896c76a41918fe7b87113dabe852117727a579a7e445891aa41391ed57c2",
+      "sourcePath": "skills/caveman-evidence-review/SKILL.md",
       "name": "caveman-evidence-review",
       "description": "Read-only review of Caveman Cloud evidence: cost, Cave Score, workflows, traces, latency, errors, routing, savings. Use when asked what Caveman found or where LLM spend goes.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.901Z",
+        "evaluatedAt": "2026-10-11T05:06:43.176Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.176Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.176Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "908f504ce45f5f8517ac7b64dc89fef57c4519d26f92b0b1843febf4b6fe2ac8",
+      "sourcePath": "skills/caveman-explore/SKILL.md",
       "name": "caveman-explore",
       "description": "Read-only repository explorer for cold-start orientation, broad cross-file localization, or when a direct search failed. Skip it when the exact file or symbol is already named. Returns path:line citations only; its reads stay out of main context.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.901Z",
+        "evaluatedAt": "2026-10-11T05:06:43.176Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.176Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,14 +1254,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.176Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0bf9ee3fc8a9258b2d5f6b8bf24ac21f0bf2e4b9b4641dbc426b74f18186f81d",
+      "sourcePath": "skills/caveman-help/SKILL.md",
       "name": "caveman-help",
-      "description": "Quick-reference card for caveman modes, skills and commands. Trigger: /caveman-help or \"caveman help\".",
+      "description": "Quick-reference card for the three caveman skills and their commands. Trigger: /caveman-help or \"caveman help\".",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -1259,9 +1276,9 @@
       "installUrl": "github:JuliusBrussee/caveman:skills/caveman-help",
       "relPath": "skills/caveman-help",
       "verified": true,
-      "tokenCount": 599,
+      "tokenCount": 746,
       "evalSummary": {
-        "overallScore": 58,
+        "overallScore": 60,
         "grade": "D",
         "categories": [
           {
@@ -1285,19 +1302,19 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 10,
+            "score": 9,
             "max": 10
           },
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 1,
+            "score": 3,
             "max": 10
           },
           {
             "id": "testability",
             "name": "Testability",
-            "score": 0,
+            "score": 1,
             "max": 10
           },
           {
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.901Z",
+        "evaluatedAt": "2026-10-11T05:06:43.176Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1334,7 +1351,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 58,
+          "overallScore": 60,
           "grade": "D",
           "categories": [
             {
@@ -1358,19 +1375,19 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 10,
+              "score": 9,
               "max": 10
             },
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 1,
+              "score": 3,
               "max": 10
             },
             {
               "id": "testability",
               "name": "Testability",
-              "score": 0,
+              "score": 1,
               "max": 10
             },
             {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.177Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.901Z",
+          "evaluatedAt": "2026-10-11T05:06:43.177Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "466ce607aebff17df2fb0d4ec5fba9b0ab61b1f6a0fd7ae03f4f5ea4aa5627b9",
+      "sourcePath": "skills/caveman-learn/SKILL.md",
       "name": "caveman-learn",
       "description": "Act on a Caveman learn report - review the ranked token sinks, apply cost-lowering fixes with per-edit consent, and report what those fixes returned. Use when asked to lower an agent's token cost, what caveman has saved, to trim a heavy CLAUDE.md, or to offload re-pasted context into cavemem.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.908Z",
+        "evaluatedAt": "2026-10-11T05:06:43.210Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.909Z",
+          "evaluatedAt": "2026-10-11T05:06:43.223Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.909Z",
+          "evaluatedAt": "2026-10-11T05:06:43.223Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3404a3c8651d63b6a7c02ccda17fcb4fca2489e931bb814580979a9ff548a48e",
+      "sourcePath": "skills/caveman-manage/SKILL.md",
       "name": "caveman-manage",
       "description": "Inspect Caveman Cloud's experiment lifecycle and block unsafe execution. Use when asked to start, approve, cancel, promote or roll back a Caveman experiment.",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.909Z",
+        "evaluatedAt": "2026-10-11T05:06:43.231Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.909Z",
+          "evaluatedAt": "2026-10-11T05:06:43.231Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.909Z",
+          "evaluatedAt": "2026-10-11T05:06:43.231Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "93f391beb93198b5bf9c0c21bc8b7b194e57cb7855fbf05384a4a5d6dd8c06cb",
+      "sourcePath": "skills/caveman-optimize/SKILL.md",
       "name": "caveman-optimize",
       "description": "Turn a Caveman optimization observation into an operator-chosen candidate with a paired baseline evaluation. Use when asked to inspect or evaluate a Caveman optimization report. Needs explicit approval.",
       "version": "0.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.910Z",
+        "evaluatedAt": "2026-10-11T05:06:43.231Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.911Z",
+          "evaluatedAt": "2026-10-11T05:06:43.243Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.911Z",
+          "evaluatedAt": "2026-10-11T05:06:43.243Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "599330563f19b5c59c3efddffcd7e8d9098b74c29817ab422ccd3253b103fcb8",
+      "sourcePath": "skills/caveman-review/SKILL.md",
       "name": "caveman-review",
       "description": "Compressed code review - one line per finding with location, problem and fix. Use for /caveman-review, \"review this PR\", or \"review the diff\".",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.911Z",
+        "evaluatedAt": "2026-10-11T05:06:43.243Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.912Z",
+          "evaluatedAt": "2026-10-11T05:06:43.245Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.912Z",
+          "evaluatedAt": "2026-10-11T05:06:43.245Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "42c8b8eeba19c6d4ffd3c421be60a7e8b5c0e5108fd4496f0be3c7ced90bfd5f",
+      "sourcePath": "skills/caveman-setup/SKILL.md",
       "name": "caveman-setup",
       "description": "Wire a repository through the Caveman Cloud gateway so every LLM request is measured, with no behavior change. Use for \"set up caveman\" or adding LLM spend observability.",
       "version": "0.0.0",
@@ -2210,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.912Z",
+        "evaluatedAt": "2026-10-11T05:06:43.244Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.912Z",
+          "evaluatedAt": "2026-10-11T05:06:43.245Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.912Z",
+          "evaluatedAt": "2026-10-11T05:06:43.245Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4632f1611a56483df7851a0dabcc1e0c1952393cd8f5d08ddeda17f81a4e1e50",
+      "sourcePath": "skills/caveman-stats/SKILL.md",
       "name": "caveman-stats",
       "description": "Show recorded output and cache-read token usage and mode attribution for the current Claude Code session, or locate the host's native usage report. Trigger: /caveman-stats.",
       "version": "0.0.0",
@@ -2387,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.912Z",
+        "evaluatedAt": "2026-10-11T05:06:43.245Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.912Z",
+          "evaluatedAt": "2026-10-11T05:06:43.247Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.912Z",
+          "evaluatedAt": "2026-10-11T05:06:43.247Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7cc19dd2fc457eb20d65c44dee4d1b72dcdfcd1617182f5bff666700f2a055d8",
+      "sourcePath": "skills/investigate-first/SKILL.md",
       "name": "investigate-first",
       "description": "Diagnose ambiguous failures before editing. Use for unknown causes, intermittent behavior, performance regressions, or investigations needing evidence-ranked hypotheses.",
       "version": "0.0.0",
@@ -2564,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.912Z",
+        "evaluatedAt": "2026-10-11T05:06:43.247Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.912Z",
+          "evaluatedAt": "2026-10-11T05:06:43.249Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.912Z",
+          "evaluatedAt": "2026-10-11T05:06:43.249Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4d498073c6312858b220e9a04b7456c2485c734edb077f6bb17d88a7ed96ad7a",
+      "sourcePath": "skills/lean-build/SKILL.md",
       "name": "lean-build",
       "description": "Build feature work with high overbuilding risk. Use for new behavior, product slices, or integrations where repository reuse, strict scope, and an explicit stop condition matter.",
       "version": "0.0.0",
@@ -2741,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.916Z",
+        "evaluatedAt": "2026-10-11T05:06:43.282Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.916Z",
+          "evaluatedAt": "2026-10-11T05:06:43.283Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,12 +2865,193 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.916Z",
+          "evaluatedAt": "2026-10-11T05:06:43.283Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "139105296c0686c1ee24610caca1db293ab84162beb0d94aa7a9ad7cbc3352bf",
+      "sourcePath": "skills/megacave/SKILL.md",
+      "name": "megacave",
+      "description": "Caveman in Classical Chinese: 文言文 register, far fewer characters, technical terms verbatim. Invoke only with /megacave or /caveman wenyan. Stays on until \"stop caveman\" or \"normal mode\".",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": false,
+      "userInvocable": true,
+      "installUrl": "github:JuliusBrussee/caveman:skills/megacave",
+      "relPath": "skills/megacave",
+      "verified": true,
+      "tokenCount": 688,
+      "evalSummary": {
+        "overallScore": 57,
+        "grade": "D",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 4,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 2,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 1,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-11T05:06:43.283Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 57,
+          "grade": "D",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 4,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 2,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:43.284Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:43.284Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "fe7cf96a58b0521130fbb886dab2a326869d6ed0001e0306fd244014ba7a9662",
+      "sourcePath": "skills/migration/SKILL.md",
       "name": "migration",
       "description": "Implement reversible compatibility-safe transitions. Use for schema, data, API, protocol, configuration, or dependency migrations requiring rollback and preservation proof.",
       "version": "0.0.0",
@@ -2918,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.916Z",
+        "evaluatedAt": "2026-10-11T05:06:43.303Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.916Z",
+          "evaluatedAt": "2026-10-11T05:06:43.304Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3009,12 +3223,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.916Z",
+          "evaluatedAt": "2026-10-11T05:06:43.304Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "cd52867aba26aafb53379d43068cef9b2feca3a3fff850f877a99f710ccd02c0",
+      "sourcePath": "skills/safe-refactor/SKILL.md",
       "name": "safe-refactor",
       "description": "Restructure code while preserving behavior. Use for extraction, consolidation, ownership moves, or cleanup where verification must bracket structural edits.",
       "version": "0.0.0",
@@ -3095,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.916Z",
+        "evaluatedAt": "2026-10-11T05:06:43.313Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.916Z",
+          "evaluatedAt": "2026-10-11T05:06:43.316Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3186,12 +3402,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.916Z",
+          "evaluatedAt": "2026-10-11T05:06:43.316Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "81ea9f7b51409970099e04b98875dd65806cd35472f9a774b847030328187387",
+      "sourcePath": "skills/surgical-patch/SKILL.md",
       "name": "surgical-patch",
       "description": "Fix bugs and small behavior changes at the narrowest responsible layer. Use when regression proof, preserved surrounding behavior, and task-relevant tests matter.",
       "version": "0.0.0",
@@ -3272,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.917Z",
+        "evaluatedAt": "2026-10-11T05:06:43.318Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.917Z",
+          "evaluatedAt": "2026-10-11T05:06:43.319Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3363,12 +3581,193 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.917Z",
+          "evaluatedAt": "2026-10-11T05:06:43.319Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a8da5b0b3501b853e1b98f2ae09fe8dc9c0edf481b1d3fa9529f8557011c1ef8",
+      "sourcePath": "skills/ultracave/SKILL.md",
+      "name": "ultracave",
+      "description": "Caveman at maximum compression: fragments, one word when one word is enough, each fact once. Invoke only with /ultracave or /caveman ultra. Stays on until \"stop caveman\" or \"normal mode\".",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": false,
+      "userInvocable": true,
+      "installUrl": "github:JuliusBrussee/caveman:skills/ultracave",
+      "relPath": "skills/ultracave",
+      "verified": true,
+      "tokenCount": 729,
+      "evalSummary": {
+        "overallScore": 59,
+        "grade": "D",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 2,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 1,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-11T05:06:43.320Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 59,
+          "grade": "D",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 2,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:43.320Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:43.320Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "3d5599f49771b864eba94f27f456fda295c48c1a37fa6ba2f65fdcb13cc32acb",
+      "sourcePath": "skills/verify-and-stop/SKILL.md",
       "name": "verify-and-stop",
       "description": "Prove existing work meets acceptance conditions without expanding scope. Use for validation-only tasks, completion checks, focused gate runs, and last-mile proof.",
       "version": "0.0.0",
@@ -3449,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:05.917Z",
+        "evaluatedAt": "2026-10-11T05:06:43.335Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.918Z",
+          "evaluatedAt": "2026-10-11T05:06:43.336Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3540,7 +3939,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:05.918Z",
+          "evaluatedAt": "2026-10-11T05:06:43.336Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3552,7 +3951,7 @@
       "name": "juliusbrussee-caveman-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from JuliusBrussee/caveman.",
       "author": "ASM (JuliusBrussee/caveman)",
-      "createdAt": "2026-09-30T20:50:06.210Z",
+      "createdAt": "2026-10-11T05:06:43.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3642,7 +4041,7 @@
       "name": "juliusbrussee-caveman-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from JuliusBrussee/caveman.",
       "author": "ASM (JuliusBrussee/caveman)",
-      "createdAt": "2026-09-30T20:50:06.210Z",
+      "createdAt": "2026-10-11T05:06:43.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3708,7 +4107,7 @@
       "name": "juliusbrussee-caveman-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from JuliusBrussee/caveman.",
       "author": "ASM (JuliusBrussee/caveman)",
-      "createdAt": "2026-09-30T20:50:06.210Z",
+      "createdAt": "2026-10-11T05:06:43.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3786,7 +4185,7 @@
       "name": "juliusbrussee-caveman-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from JuliusBrussee/caveman.",
       "author": "ASM (JuliusBrussee/caveman)",
-      "createdAt": "2026-09-30T20:50:06.210Z",
+      "createdAt": "2026-10-11T05:06:43.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3806,7 +4205,7 @@
         {
           "name": "caveman-help",
           "installUrl": "github:JuliusBrussee/caveman:skills/caveman-help",
-          "description": "Quick-reference card for caveman modes, skills and commands. Trigger: /caveman-help or \"caveman help\".",
+          "description": "Quick-reference card for the three caveman skills and their commands. Trigger: /caveman-help or \"caveman help\".",
           "version": "0.0.0"
         },
         {
@@ -3834,7 +4233,7 @@
       "name": "juliusbrussee-caveman-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from JuliusBrussee/caveman.",
       "author": "ASM (JuliusBrussee/caveman)",
-      "createdAt": "2026-09-30T20:50:06.210Z",
+      "createdAt": "2026-10-11T05:06:43.504Z",
       "tags": [
         "repo-derived",
         "inferred",

@@ -23,6 +23,10 @@
 
 ## Problems `asm` solves
 
+The published registry also supports a filtered REST API, RSS subscriptions and
+private Custom GPT Actions. See [API and deployment documentation](docs/REGISTRY_API.md)
+and [GPT instructions](docs/GPT_ACTIONS_INSTRUCTIONS.md).
+
 | Pain                      | Without `asm`                                                                                                           | With `asm`                                                                 |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Scattered installs        | Same skill copied into `~/.claude/skills/`, `~/.codex/skills/`, `~/.cursor/rules/` — different versions, no single view | One `asm list` across all 21 providers and scopes                          |

@@ -20,13 +20,18 @@
     "test:all": "vitest run src/ && vitest run website-src/ && npm run build && vitest run tests/e2e/",
     "dev": "tsx src/index.tsx",
     "dev:site": "vite --config website-src/vite.config.js",
+    "dev:api": "tsx scripts/dev-api.ts",
+    "deploy:api": "tsx scripts/deploy-api.ts",
+    "secret:api": "wrangler secret put API_BEARER_TOKEN",
+    "test:api": "vitest run src/api/ src/utils/source-provenance.test.ts",
+    "benchmark:api": "tsx scripts/benchmark-api.ts",
     "build": "tsx scripts/build.ts",
     "build:site": "vite build --config website-src/vite.config.js",
     "preindex": "tsx scripts/preindex.ts",
     "refresh:repo-bundles": "tsx scripts/refresh-repo-bundles.ts",
     "build:website": "tsx scripts/build-catalog.ts && npm run build:site",
     "lint": "eslint src/",
-    "lint:site": "eslint --config website-src/eslint.config.js 'website-src/src/**/*.{js,jsx}'",
+    "lint:site": "eslint --config website-src/eslint.config.js \"website-src/src/**/*.{js,jsx}\"",
     "prepublishOnly": "npm run build",
     "postinstall": "node scripts/postinstall.cjs"
   },
@@ -121,6 +126,7 @@
     "typescript": "^7.0.2",
     "typescript-eslint": "^8.69.0",
     "vite": "^8.2.2",
-    "vitest": "^5.0.0"
+    "vitest": "^5.0.0",
+    "wrangler": "4.149.0"
   }
 }

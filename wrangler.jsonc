@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "asm-registry-api",
+  "main": "src/api/worker.ts",
+  "compatibility_date": "2026-10-08",
+  "workers_dev": true,
+  "vars": { "SITE_BASE_URL": "https://yuxiaoli.github.io/asm/" },
+  "ratelimits": [
+    {
+      "name": "RATE_LIMITER",
+      "namespace_id": "487121",
+      "simple": { "limit": 120, "period": 60 },
+    },
+  ],
+  "observability": { "enabled": true },
+}

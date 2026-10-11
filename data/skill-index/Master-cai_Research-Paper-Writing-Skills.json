@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "77e7c2c1ba06f7d71844873147665437a03aac1b",
   "repoUrl": "https://github.com/Master-cai/Research-Paper-Writing-Skills.git",
   "owner": "Master-cai",
   "repo": "Research-Paper-Writing-Skills",
-  "updatedAt": "2026-09-30T20:48:38.580Z",
+  "updatedAt": "2026-10-11T05:04:53.366Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "62ef11c06f2796c74e55ab24908ed31bafebfa0f1b736499d1615ac374cf7f6d",
+      "sourcePath": "research-paper-writing/SKILL.md",
       "name": "research-paper-writing",
       "description": "Improve academic paper writing quality for ML/CV/NLP-style papers with clear section structure, paragraph flow, and reviewer-facing presentation. Use when drafting or revising Abstract, Introduction, Related Work, Method, Experiments, or Conclusion; polishing figures/tables; checking claim-support alignment; or performing self-review before submission.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:38.574Z",
+        "evaluatedAt": "2026-10-11T05:04:53.355Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:38.574Z",
+          "evaluatedAt": "2026-10-11T05:04:53.355Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:38.574Z",
+          "evaluatedAt": "2026-10-11T05:04:53.355Z",
           "evaluatedVersion": "0.0.0"
         }
       }

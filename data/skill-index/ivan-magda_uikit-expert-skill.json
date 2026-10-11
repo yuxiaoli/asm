@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "45c70f0f31e63c62bcb11da6c7bb3b4759dac393",
   "repoUrl": "https://github.com/ivan-magda/uikit-expert-skill.git",
   "owner": "ivan-magda",
   "repo": "uikit-expert-skill",
-  "updatedAt": "2026-09-30T20:48:14.372Z",
+  "updatedAt": "2026-10-11T05:04:27.302Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "3a279331030aa9938417d7938e5cacc60d1983c307cee12343cbeb4d036b077e",
+      "sourcePath": "uikit-expert/SKILL.md",
       "name": "uikit-expert",
       "description": "Write, review, or improve UIKit code following best practices for view controller lifecycle, Auto Layout, collection views, navigation, animation, memory management, and modern iOS 18–26 APIs. Use when building new UIKit features, refactoring existing views or view controllers, reviewing code quality, adopting modern UIKit patterns (diffable data sources, compositional layout, cell configuration), or bridging UIKit with SwiftUI. Does not cover SwiftUI-only code.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:14.365Z",
+        "evaluatedAt": "2026-10-11T05:04:27.291Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:14.365Z",
+          "evaluatedAt": "2026-10-11T05:04:27.291Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:14.365Z",
+          "evaluatedAt": "2026-10-11T05:04:27.291Z",
           "evaluatedVersion": "0.0.0"
         }
       }

@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "b8064ccfb358f0ccd212fc7fb9bb5ebf1709bb9f",
   "repoUrl": "https://github.com/charlie947/voiceprint.git",
   "owner": "charlie947",
   "repo": "voiceprint",
-  "updatedAt": "2026-09-30T20:50:24.983Z",
+  "updatedAt": "2026-10-11T05:07:02.544Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "bc0d77a4929405310e128ec52ef248b62ac7c9235a0c477aad42e780a6bfba73",
+      "sourcePath": "skill/SKILL.md",
       "name": "voiceprint",
       "description": "Use when writing an article, newsletter, blog post or long social post that must genuinely be the user's own writing. Triggers on \"voiceprint\", \"write this in my voice\", \"turn my recording into an article\", \"cut my transcript down\", \"make this actually mine\", \"write from my video\". Turns the user's own spoken words into a finished piece by cutting, never by composing.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:24.982Z",
+        "evaluatedAt": "2026-10-11T05:07:02.542Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:24.982Z",
+          "evaluatedAt": "2026-10-11T05:07:02.542Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:24.982Z",
+          "evaluatedAt": "2026-10-11T05:07:02.542Z",
           "evaluatedVersion": "0.0.0"
         }
       }

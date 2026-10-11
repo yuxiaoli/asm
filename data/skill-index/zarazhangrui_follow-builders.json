@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "3dfdfae2f9fc6d401be4ca84eaa2c74cd7b7f2e4",
   "repoUrl": "https://github.com/zarazhangrui/follow-builders.git",
   "owner": "zarazhangrui",
   "repo": "follow-builders",
-  "updatedAt": "2026-09-30T20:49:56.456Z",
+  "updatedAt": "2026-10-11T05:06:35.625Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "c0e801510917befd8efe89b190993472673bad1b79c5c81b95203f0a58c185fa",
+      "sourcePath": "SKILL.md",
       "name": "follow-builders",
       "description": "AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Use when the user wants AI industry insights, builder updates, or invokes /ai. No API keys or dependencies required — all content is fetched from a central feed.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:56.451Z",
+        "evaluatedAt": "2026-10-11T05:06:35.614Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:56.451Z",
+          "evaluatedAt": "2026-10-11T05:06:35.614Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:56.451Z",
+          "evaluatedAt": "2026-10-11T05:06:35.614Z",
           "evaluatedVersion": "0.0.0"
         }
       }

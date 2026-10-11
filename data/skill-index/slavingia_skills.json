@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "eb9f57fba03ddb0382ed3bfe6654d3d7df128c70",
   "repoUrl": "https://github.com/slavingia/skills.git",
   "owner": "slavingia",
   "repo": "skills",
-  "updatedAt": "2026-09-30T20:48:00.308Z",
+  "updatedAt": "2026-10-11T05:04:16.909Z",
   "skillCount": 10,
   "skills": [
     {
+      "contentHash": "d8c017eb5ad222630fbf503320ead27c9ef39909db5752c8a38b0e96428d19ad",
+      "sourcePath": "skills/company-values/SKILL.md",
       "name": "company-values",
       "description": "Help define company values and culture for a minimalist business. Use when someone is setting up their company culture, preparing to hire, or wanting to codify what their company stands for.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.301Z",
+        "evaluatedAt": "2026-10-11T05:04:16.882Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.885Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.885Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "74725186bcad409520a59edffa14689bcbbfc213c4dc5dae4dffce97fd5183dc",
+      "sourcePath": "skills/find-community/SKILL.md",
       "name": "find-community",
       "description": "Help identify and evaluate communities to build a minimalist business around. Use when someone is looking for a business idea, trying to find their community, or wondering where to start as an entrepreneur.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.301Z",
+        "evaluatedAt": "2026-10-11T05:04:16.881Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.882Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.882Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "da4bfe33a52b6911388561e752691bb51f544c7965715c78ce16e33c47d84b64",
+      "sourcePath": "skills/first-customers/SKILL.md",
       "name": "first-customers",
       "description": "Create a strategy for selling to your first 100 customers using the minimalist entrepreneur playbook. Use when someone has a product and needs to find customers, or is struggling with early sales.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.301Z",
+        "evaluatedAt": "2026-10-11T05:04:16.881Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.882Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.882Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "55e382834d6e2416c26a2a869af52e23f4c6e30ead40703864114321ee92f6b5",
+      "sourcePath": "skills/grow-sustainably/SKILL.md",
       "name": "grow-sustainably",
       "description": "Evaluate business decisions through the lens of sustainable, profitable growth. Use when someone is making decisions about spending, hiring, fundraising, or scaling their business.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.301Z",
+        "evaluatedAt": "2026-10-11T05:04:16.881Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.882Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.882Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f0776f808cba0afde645919d3f33682f89d5104513627dfcc2b0b1055f2ed5f6",
+      "sourcePath": "skills/marketing-plan/SKILL.md",
       "name": "marketing-plan",
       "description": "Create a minimalist marketing plan focused on building an audience through content, not ads. Use when someone has product-market fit (~100 customers) and wants to scale with marketing, or needs a content strategy.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.301Z",
+        "evaluatedAt": "2026-10-11T05:04:16.881Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.882Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.882Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "113e74edc80297635748df6b425efcd4c04e493a5a11c392486e76917c101619",
+      "sourcePath": "skills/minimalist-review/SKILL.md",
       "name": "minimalist-review",
       "description": "Review any business decision, plan, or strategy through the minimalist entrepreneur lens. Use when someone wants a gut-check on a business decision, wants to simplify their approach, or needs to decide between options.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.301Z",
+        "evaluatedAt": "2026-10-11T05:04:16.885Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.885Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.885Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0546a592044bf2ada0f61507991cc41ab10507f7131b666a25caca10e6c2339a",
+      "sourcePath": "skills/mvp/SKILL.md",
       "name": "mvp",
       "description": "Guide building a minimum viable product the minimalist entrepreneur way — manual first, then processized, then productized. Use when someone is ready to build their first product or struggling with scope.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.301Z",
+        "evaluatedAt": "2026-10-11T05:04:16.882Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.885Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.885Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "120d0c341219051bf9b769d288ad47c0cf104602213e05dc612303c0468a2d1d",
+      "sourcePath": "skills/pricing/SKILL.md",
       "name": "pricing",
       "description": "Help figure out pricing for a product or service using minimalist entrepreneur principles. Use when someone is setting prices, considering price changes, or struggling with what to charge.",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.301Z",
+        "evaluatedAt": "2026-10-11T05:04:16.885Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.885Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.301Z",
+          "evaluatedAt": "2026-10-11T05:04:16.885Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a5a6888ce36d56a63b0abeff06256e64642b79f4f35309993ea80f243f078560",
+      "sourcePath": "skills/processize/SKILL.md",
       "name": "processize",
       "description": "Turn a product idea into a manual-first process you can start delivering today. Use when you have an idea and want to figure out how to deliver value by hand before writing any code.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.307Z",
+        "evaluatedAt": "2026-10-11T05:04:16.906Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.307Z",
+          "evaluatedAt": "2026-10-11T05:04:16.906Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.307Z",
+          "evaluatedAt": "2026-10-11T05:04:16.906Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "46d931aaef8e74c358253161d3950ea0c18525778b3b0286a925bf42917d6b03",
+      "sourcePath": "skills/validate-idea/SKILL.md",
       "name": "validate-idea",
       "description": "Validate a business idea using the minimalist entrepreneur framework. Use when someone has a business idea and wants to test if it's worth pursuing before building anything.",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:00.307Z",
+        "evaluatedAt": "2026-10-11T05:04:16.907Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.307Z",
+          "evaluatedAt": "2026-10-11T05:04:16.907Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:00.307Z",
+          "evaluatedAt": "2026-10-11T05:04:16.907Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1782,7 +1803,7 @@
       "name": "slavingia-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from slavingia/skills.",
       "author": "ASM (slavingia/skills)",
-      "createdAt": "2026-09-30T20:48:00.308Z",
+      "createdAt": "2026-10-11T05:04:16.909Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1824,7 +1845,7 @@
       "name": "slavingia-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from slavingia/skills.",
       "author": "ASM (slavingia/skills)",
-      "createdAt": "2026-09-30T20:48:00.308Z",
+      "createdAt": "2026-10-11T05:04:16.909Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1884,7 +1905,7 @@
       "name": "slavingia-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from slavingia/skills.",
       "author": "ASM (slavingia/skills)",
-      "createdAt": "2026-09-30T20:48:00.308Z",
+      "createdAt": "2026-10-11T05:04:16.909Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1932,7 +1953,7 @@
       "name": "slavingia-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from slavingia/skills.",
       "author": "ASM (slavingia/skills)",
-      "createdAt": "2026-09-30T20:48:00.308Z",
+      "createdAt": "2026-10-11T05:04:16.909Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1974,7 +1995,7 @@
       "name": "slavingia-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from slavingia/skills.",
       "author": "ASM (slavingia/skills)",
-      "createdAt": "2026-09-30T20:48:00.308Z",
+      "createdAt": "2026-10-11T05:04:16.909Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2058,7 +2079,7 @@
       "name": "slavingia-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from slavingia/skills.",
       "author": "ASM (slavingia/skills)",
-      "createdAt": "2026-09-30T20:48:00.308Z",
+      "createdAt": "2026-10-11T05:04:16.909Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2100,7 +2121,7 @@
       "name": "slavingia-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from slavingia/skills.",
       "author": "ASM (slavingia/skills)",
-      "createdAt": "2026-09-30T20:48:00.308Z",
+      "createdAt": "2026-10-11T05:04:16.909Z",
       "tags": [
         "repo-derived",
         "inferred",

@@ -2,63 +2,89 @@ name: Deploy Skill Catalog
 
 on:
   push:
-    branches: [main]
+    branches: [develop]
     paths:
-      - "data/skill-index/**"
-      - "data/skill-index-resources.json"
-      - "data/bundles/**"
-      - "website/**"
-      - "website-src/**"
-      - "scripts/build-catalog.ts"
-      - "package.json"
-      - "package-lock.json"
-      - ".github/workflows/deploy-website.yml"
+      [
+        "data/**",
+        "website/**",
+        "website-src/**",
+        "src/api/**",
+        "scripts/build-catalog.ts",
+        "scripts/publish-registry.ts",
+        "scripts/minisearch-options.ts",
+        "scripts/patch-ts6.cjs",
+        "package.json",
+        "package-lock.json",
+        ".github/workflows/deploy-website.yml",
+      ]
   pull_request:
-    branches: [main]
+    branches: [develop, main]
     paths:
-      - "data/skill-index/**"
-      - "data/skill-index-resources.json"
-      - "data/bundles/**"
-      - "website/**"
-      - "website-src/**"
-      - "scripts/build-catalog.ts"
-      - "package.json"
-      - "package-lock.json"
+      [
+        "data/**",
+        "website/**",
+        "website-src/**",
+        "src/api/**",
+        "scripts/**",
+        "package.json",
+        "package-lock.json",
+      ]
   workflow_dispatch:
+    inputs:
+      bootstrap_feed:
+        description: Initialize RSS history on the first release only
+        type: boolean
+        default: false
 
 permissions:
   contents: read
 
+# Serialize the whole production transaction, including public verification.
 concurrency:
-  group: pages
+  group: ${{ github.event_name == 'pull_request' && format('pages-preview-{0}', github.event.pull_request.number) || 'pages-production' }}
   cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     permissions:
       contents: read
+      actions: read
+      deployments: read
+      pages: read
+    outputs:
+      snapshotId: ${{ steps.snapshot.outputs.snapshotId }}
+      sourceRevision: ${{ steps.snapshot.outputs.sourceRevision }}
     steps:
       - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5.0.1
-
-      - name: Setup Node.js
-        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: 22
           cache: npm
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build catalog
-        run: npm run build:website
-        # Authenticated star fetch (issue #598): 5,000 req/hour instead of
-        # 60, so all ~73 repos resolve. `contents: read` is enough for the
-        # public repos endpoint.
+      - run: npm ci
+      - run: node scripts/patch-ts6.cjs
+      - run: npm run typecheck
+      - run: npm run lint && npm run lint:site
+      - run: npm test
+        env:
+          CI: "true"
+      - name: Validate previous production baseline
+        if: github.event_name != 'pull_request'
+        run: npx tsx scripts/publish-registry.ts prepare
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          ASM_FEED_BOOTSTRAP: ${{ inputs.bootstrap_feed && '1' || '0' }}
+      - name: Build catalog with independent preview state or verified production state
+        run: npm run build:website
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ASM_API_BASE_URL: ${{ vars.ASM_API_BASE_URL }}
+      - id: snapshot
+        if: github.event_name != 'pull_request'
+        run: node -e 'const fs=require("node:fs"); const s=JSON.parse(fs.readFileSync("website/feed-state.json","utf8")); fs.appendFileSync(process.env.GITHUB_OUTPUT,"snapshotId="+s.snapshotId+"\nsourceRevision="+s.sourceRevision+"\n");'
       - name: Upload website artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
@@ -77,11 +103,21 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
-
     steps:
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5.0.1
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
       - name: Setup GitHub Pages
         uses: actions/configure-pages@1f0c5cde4bc74cd7e1254d0cb4de8d49e9068c7d # v4.0.0
-
       - id: deploy
         name: Deploy to GitHub Pages
         uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5
+      - name: Verify publicly served snapshot identity
+        run: npx tsx scripts/publish-registry.ts verify
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ASM_EXPECTED_SNAPSHOT_ID: ${{ needs.build.outputs.snapshotId }}
+          ASM_EXPECTED_SOURCE_REVISION: ${{ needs.build.outputs.sourceRevision }}

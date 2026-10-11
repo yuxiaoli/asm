@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "3919d7c27402d92c7ef698f2016174b874ea189e",
   "repoUrl": "https://github.com/Eronred/aso-skills.git",
   "owner": "Eronred",
   "repo": "aso-skills",
-  "updatedAt": "2026-09-30T20:48:02.237Z",
+  "updatedAt": "2026-10-11T05:04:18.483Z",
   "skillCount": 40,
   "skills": [
     {
+      "contentHash": "723fb073c2735bcd69671ada7899cdf0fbfa8f72addbfea40aad4a5ddd15e15c",
+      "sourcePath": "skills/ab-test-store-listing/SKILL.md",
       "name": "ab-test-store-listing",
       "description": "When the user wants to A/B test App Store product page elements to improve conversion rate. Also use when the user mentions \"A/B test\", \"product page optimization\", \"test my screenshots\", \"test my icon\", \"conversion rate optimization\", \"CPP\", or \"custom product pages\". For screenshot design, see screenshot-optimization. For metadata optimization, see metadata-optimization.",
       "version": "1.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.160Z",
+        "evaluatedAt": "2026-10-11T05:04:18.194Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.196Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.196Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "42418319b58a6a85995904fce6782cfc996e81757e8ec3c9f3841cbdabe2bd82",
+      "sourcePath": "skills/android-aso/SKILL.md",
       "name": "android-aso",
       "description": "When the user wants to optimize their Google Play Store listing — title, short description, full description, keywords, ratings, or Play Store-specific features. Use when the user mentions \"Google Play\", \"Android\", \"Play Store\", \"Play Console\", \"short description\", \"full description indexed\", \"Google Play ASO\", or wants Google Play-specific keyword, creative, or ratings strategy. For iOS App Store optimization, see aso-audit and metadata-optimization.",
       "version": "1.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.161Z",
+        "evaluatedAt": "2026-10-11T05:04:18.194Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.196Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.196Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "1ba3f5c86e9caa88dcfa9509564f2dc8beeddd9a20e4efb5fb7fb4221121b5d2",
+      "sourcePath": "skills/app-analytics/SKILL.md",
       "name": "app-analytics",
       "description": "When the user wants to set up, interpret, or improve their app analytics and tracking. Also use when the user mentions \"analytics\", \"tracking\", \"metrics\", \"KPIs\", \"App Store Connect analytics\", \"install tracking\", \"funnel\", \"attribution\", or \"how is my app performing\". For A/B testing, see ab-test-store-listing. For retention metrics, see retention-optimization.",
       "version": "1.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.161Z",
+        "evaluatedAt": "2026-10-11T05:04:18.194Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.196Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.196Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "c0c3134e0554b6e73ab3606f0e866fa872a4653922f8162789c8a0af91965617",
+      "sourcePath": "skills/app-clips/SKILL.md",
       "name": "app-clips",
       "description": "When the user wants to implement, optimize, or use App Clips for app discovery and conversion. Use when the user mentions \"App Clip\", \"app clip code\", \"mini app\", \"instant app\", \"App Clip card\", \"App Clip link\", \"no download required\", \"instant experience\", or wants to understand how App Clips appear in App Store search. For general App Store discoverability, see aso-audit. For marketing campaigns, see ua-campaign.",
       "version": "1.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.162Z",
+        "evaluatedAt": "2026-10-11T05:04:18.196Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.162Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.162Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "c40d933fe5ab29376bf699b7830f914ab3f58ba250915eba1a298aebdadc7474",
+      "sourcePath": "skills/app-icon-optimization/SKILL.md",
       "name": "app-icon-optimization",
       "description": "When the user wants to design, test, or improve their app icon to increase tap-through rate and conversions in App Store search and browse. Use when the user mentions \"app icon\", \"icon design\", \"icon A/B test\", \"icon variants\", \"tap-through rate\", \"icon conversion\", \"icon refresh\", or wants to know what makes a good app icon. For screenshot optimization, see screenshot-optimization. For full listing A/B tests, see ab-test-store-listing.",
       "version": "1.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.161Z",
+        "evaluatedAt": "2026-10-11T05:04:18.197Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "b11fd5800af20caedff6ed472f70c126dfbcfd01159b4fdacd8b00981b65b292",
+      "sourcePath": "skills/app-launch/SKILL.md",
       "name": "app-launch",
       "description": "When the user wants to plan a launch strategy for a new app or major update. Also use when the user mentions \"app launch\", \"launch plan\", \"launch checklist\", \"pre-launch\", \"launch day\", or \"how to launch my app\". For ongoing ASO after launch, see aso-audit. For paid acquisition during launch, see ua-campaign.",
       "version": "1.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.161Z",
+        "evaluatedAt": "2026-10-11T05:04:18.196Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.161Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "6ab2d22ca4b24c02aca84fd5ec65e07b8e43ec6ae11820a7f23c67db0650f7b4",
+      "sourcePath": "skills/app-marketing-context/SKILL.md",
       "name": "app-marketing-context",
       "description": "When the user wants to create or update their app marketing context document. Also use when the user mentions \"app context\", \"marketing brief\", \"app positioning\", or when starting any ASO or app marketing project. This is the foundation skill — all other skills check for this context first.",
       "version": "1.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.161Z",
+        "evaluatedAt": "2026-10-11T05:04:18.196Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.162Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.162Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "d53cc71d1be58c576cf0bd920c929a087ae30970b62dc340726a5e7c55da5170",
+      "sourcePath": "skills/app-preview-video/SKILL.md",
       "name": "app-preview-video",
       "description": "When the user wants to plan, script, produce, or optimize App Store Preview videos or Google Play promo videos — the autoplay videos that show in App Store/Play Store search and product pages. Use when the user mentions \"App Preview\", \"preview video\", \"app store video\", \"promo video\", \"Play Store video\", \"video poster frame\", \"YouTube promo for Play Store\", \"30 second app video\", \"video script\", \"video specs\", or \"should I add a preview video\". For static screenshots, see screenshot-optimization. For A/B testing the video, see ab-test-store-listing. For broader creative briefs, see screenshot-optimization (covers stills).",
       "version": "1.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.162Z",
+        "evaluatedAt": "2026-10-11T05:04:18.196Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.162Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.162Z",
+          "evaluatedAt": "2026-10-11T05:04:18.197Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "19c64c811410007285d55755f9184ac08647a65ff6c8b1a9e63964666711a6b1",
+      "sourcePath": "skills/app-rejection-recovery/SKILL.md",
       "name": "app-rejection-recovery",
       "description": "When the user's app or update was rejected by Apple App Review or Google Play Review and they need to diagnose why, fix it, and resubmit fast. Use when the user mentions \"app rejected\", \"App Review rejection\", \"guideline violation\", \"Apple rejected my app\", \"Google Play rejected\", \"Play policy violation\", \"Resolution Center\", \"metadata rejection\", \"binary rejection\", \"guideline 2.1\", \"guideline 4.3\", \"guideline 5.1.1\", \"Sign in with Apple required\", \"Apple ID rejection\", \"Play Store suspension\", \"appeal\", \"I need to respond to App Review\", or \"expedited review\". For pre-submission listing health, see aso-audit. For metadata-only fixes, see metadata-optimization.",
       "version": "1.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.171Z",
+        "evaluatedAt": "2026-10-11T05:04:18.262Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.173Z",
+          "evaluatedAt": "2026-10-11T05:04:18.265Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.173Z",
+          "evaluatedAt": "2026-10-11T05:04:18.265Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "62d34491a0c5d0303a5035a2b011e47306814a400529cb86540620ccb749d5f9",
+      "sourcePath": "skills/app-store-featured/SKILL.md",
       "name": "app-store-featured",
       "description": "When the user wants to get featured on the App Store or understand the editorial process. Also use when the user mentions \"get featured\", \"App Store editorial\", \"App of the Day\", \"Today tab\", \"Apple featuring\", or \"how to get Apple to feature my app\". For launch strategy, see app-launch. For ASO optimization, see aso-audit.",
       "version": "1.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.172Z",
+        "evaluatedAt": "2026-10-11T05:04:18.265Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.173Z",
+          "evaluatedAt": "2026-10-11T05:04:18.266Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.173Z",
+          "evaluatedAt": "2026-10-11T05:04:18.266Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "8b0229682ca5c9024e1475ba2573f27953d90e931fe9f606a134083a08f27269",
+      "sourcePath": "skills/apple-search-ads/SKILL.md",
       "name": "apple-search-ads",
       "description": "When the user wants to set up, optimize, or scale Apple Search Ads (ASA) campaigns — including keyword bidding, match types, campaign structure, Creative Product Sets, CPP routing, and ROAS optimization. Use when the user mentions \"Apple Search Ads\", \"ASA\", \"Search Ads\", \"Search tab ads\", \"Today tab ads\", \"CPT\", \"TTR\", \"Search Match\", \"exact match\", \"broad match\", \"CPP in ads\", \"ASA bidding\", or \"Search Ads budget\". For Meta/Google UAC/TikTok paid UA, see ua-campaign.",
       "version": "1.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.172Z",
+        "evaluatedAt": "2026-10-11T05:04:18.263Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.173Z",
+          "evaluatedAt": "2026-10-11T05:04:18.265Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.173Z",
+          "evaluatedAt": "2026-10-11T05:04:18.265Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "8d79196235a5ef9de3a1954d8ce62bccdbc4c40406525e8bb608748e35bcab6f",
+      "sourcePath": "skills/asc-metrics/SKILL.md",
       "name": "asc-metrics",
       "description": "When the user wants to analyze their own app's actual performance data from App Store Connect — real downloads, revenue, IAP, subscriptions, trials, or country breakdowns synced via Appeeky Connect. Use when the user asks about \"my downloads\", \"my revenue\", \"how is my app performing\", \"ASC data\", \"sales and trends\", \"my subscription numbers\", \"App Store Connect metrics\", or wants to compare periods or top markets. For third-party app estimates, see app-analytics. For subscription analytics depth, see monetization-strategy.",
       "version": "1.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.173Z",
+        "evaluatedAt": "2026-10-11T05:04:18.263Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.174Z",
+          "evaluatedAt": "2026-10-11T05:04:18.265Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.175Z",
+          "evaluatedAt": "2026-10-11T05:04:18.265Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "907997223a8df93ff68a262eaa87b61467ed5fd884e666f6f1bbacd6f79dccfd",
+      "sourcePath": "skills/aso-audit/SKILL.md",
       "name": "aso-audit",
       "description": "When the user wants a full ASO health audit, review their App Store listing quality, or diagnose why their app isn't ranking. Also use when the user mentions \"ASO audit\", \"ASO score\", \"why am I not ranking\", \"listing review\", or \"optimize my app store page\". For keyword-specific research, see keyword-research. For metadata writing, see metadata-optimization.",
       "version": "1.0.0",
@@ -2210,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.173Z",
+        "evaluatedAt": "2026-10-11T05:04:18.266Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.175Z",
+          "evaluatedAt": "2026-10-11T05:04:18.267Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2328,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.175Z",
+          "evaluatedAt": "2026-10-11T05:04:18.267Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "38f738df898b2e8bc3279ef3e9cba869095dedae126c382deee2e9f14258d7a2",
+      "sourcePath": "skills/aso-router/SKILL.md",
       "name": "aso-router",
       "description": "Single entry point that routes any ASO, App Store, Google Play, app marketing, paid UA, monetization, retention, reviews, ratings, market-intel, or app-analytics question to the correct specialist skill in this library. Use FIRST whenever the user mentions an app, App Store, Play Store, keywords, ranking, downloads, revenue, subscriptions, screenshots, icon, reviews, competitors, charts, in-app events, launch, press, or ads — but the right specialized skill is not obvious. Triggers: \"/aso-router\", \"/aso-skill\", \"/aso\", \"aso help\", \"help me with my app\", \"I need ASO\", \"which skill should I use\", or any ambiguous app-marketing request. Skip this router only when the user explicitly invokes a specific skill (e.g. /aso-audit, /keyword-research).",
       "version": "1.0.0",
@@ -2387,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.174Z",
+        "evaluatedAt": "2026-10-11T05:04:18.266Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.175Z",
+          "evaluatedAt": "2026-10-11T05:04:18.267Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2507,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.175Z",
+          "evaluatedAt": "2026-10-11T05:04:18.267Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "968d0aebb386a50716d2c729280c4aefa74c4317a2ba0fcbad4cb3c98736e0cb",
+      "sourcePath": "skills/attribution-setup/SKILL.md",
       "name": "attribution-setup",
       "description": "When the user wants to set up, debug, or interpret app install attribution — including SKAdNetwork (SKAN), Apple's AdAttributionKit, Google Play Install Referrer, MMPs (AppsFlyer, Adjust, Singular, Branch, Kochava), deep links, deferred deep links, conversion values, postback windows, or privacy thresholds. Use when the user mentions \"SKAdNetwork\", \"SKAN\", \"SKAN 4\", \"AdAttributionKit\", \"AAK\", \"MMP\", \"AppsFlyer\", \"Adjust\", \"Singular\", \"Branch\", \"attribution\", \"conversion value\", \"postback\", \"Install Referrer\", \"deferred deep link\", \"iOS 14.5\", \"ATT\", \"App Tracking Transparency\", \"IDFA\", or \"I can't measure my ad campaigns\". For paid campaign strategy, see ua-campaign and apple-search-ads. For analytics events, see app-analytics.",
       "version": "1.0.0",
@@ -2564,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.175Z",
+        "evaluatedAt": "2026-10-11T05:04:18.265Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.176Z",
+          "evaluatedAt": "2026-10-11T05:04:18.267Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2686,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.176Z",
+          "evaluatedAt": "2026-10-11T05:04:18.267Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "4592ec2fff83f12aa06a95192f6e2a0fcec03e5939faf3bd9a8113ad28a0db43",
+      "sourcePath": "skills/category-positioning/SKILL.md",
       "name": "category-positioning",
       "description": "When the user wants to choose, change, or evaluate their App Store / Google Play category and subcategory — including primary vs secondary category trade-offs, chart-rank competitive analysis, category-driven discoverability, and how category choice affects featuring eligibility. Use when the user mentions \"which category\", \"App Store category\", \"primary category\", \"secondary category\", \"change my category\", \"Health & Fitness vs Lifestyle\", \"Productivity vs Utilities\", \"rank higher in a smaller category\", \"category chart\", \"subcategory\", \"Play Store category\", or \"should I switch categories\". For full ASO health beyond category, see aso-audit. For competitor analysis within the chosen category, see competitor-analysis. For chart movements within categories, see market-movers.",
       "version": "1.0.0",
@@ -2741,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.176Z",
+        "evaluatedAt": "2026-10-11T05:04:18.267Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.177Z",
+          "evaluatedAt": "2026-10-11T05:04:18.267Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -2832,12 +2865,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.177Z",
+          "evaluatedAt": "2026-10-11T05:04:18.267Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "3ae77742405904d712dc0ed675ca61c81f0113f8d16ee2af7f27b7b4de5ca49d",
+      "sourcePath": "skills/competitor-analysis/SKILL.md",
       "name": "competitor-analysis",
       "description": "When the user wants to analyze competitors' App Store strategy, find keyword gaps, or understand competitive positioning. Also use when the user mentions \"competitor analysis\", \"competitive research\", \"keyword gap\", \"what are my competitors doing\", or \"compare my app to\". For keyword-specific research, see keyword-research. For metadata writing, see metadata-optimization.",
       "version": "1.0.0",
@@ -2918,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.192Z",
+        "evaluatedAt": "2026-10-11T05:04:18.329Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.195Z",
+          "evaluatedAt": "2026-10-11T05:04:18.332Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3009,12 +3044,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.195Z",
+          "evaluatedAt": "2026-10-11T05:04:18.332Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "4f2ac677a24ad070dfb967f86bd172f5dadbd2507b0a9059e6948889d823a5c3",
+      "sourcePath": "skills/competitor-tracking/SKILL.md",
       "name": "competitor-tracking",
       "description": "When the user wants to monitor competitor apps on an ongoing basis — tracking metadata changes, keyword shifts, screenshot updates, rating trends, or new features. Use when the user mentions \"competitor monitoring\", \"track competitors\", \"competitor alert\", \"competitor changed their title\", \"watch a competitor app\", \"competitor weekly report\", \"competitive intelligence\", or \"what changed in competitor's listing\". For a one-time deep competitive analysis, see competitor-analysis. For market-wide chart movements, see market-movers.",
       "version": "1.0.0",
@@ -3095,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.195Z",
+        "evaluatedAt": "2026-10-11T05:04:18.329Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.195Z",
+          "evaluatedAt": "2026-10-11T05:04:18.332Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3186,12 +3223,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.195Z",
+          "evaluatedAt": "2026-10-11T05:04:18.332Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "717350102a5c585603bb2fd9eb0118d375046c10ca9169bacaa9c01e6f832ba0",
+      "sourcePath": "skills/crash-analytics/SKILL.md",
       "name": "crash-analytics",
       "description": "When the user wants to monitor, triage, or reduce their app's crash rate — including setting up Crashlytics, prioritizing which crashes to fix first, interpreting crash data, and understanding how crashes affect App Store ranking. Use when the user mentions \"crash\", \"crashlytics\", \"crash rate\", \"ANR\", \"app not responding\", \"crash-free sessions\", \"crash-free users\", \"symbolication\", \"stability\", \"firebase crashes\", \"app crashing\", or \"crash report\". For overall analytics setup, see app-analytics.",
       "version": "1.0.0",
@@ -3272,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.195Z",
+        "evaluatedAt": "2026-10-11T05:04:18.333Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.197Z",
+          "evaluatedAt": "2026-10-11T05:04:18.335Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3363,12 +3402,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.197Z",
+          "evaluatedAt": "2026-10-11T05:04:18.335Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "2b6bdc1b729be4bc3cd6ed002c5bc802f7cf9eff54cdcda3fe8f2bdcd00e6239",
+      "sourcePath": "skills/creator-ugc-marketing/SKILL.md",
       "name": "creator-ugc-marketing",
       "description": "When the user wants to plan, brief, source, or measure organic creator / influencer / UGC marketing for their app — including TikTok creators, Instagram Reels, YouTube Shorts, micro-influencers, paid creator briefs, UGC ad creative for Meta/TikTok, affiliate programs, and seeding strategy. Use when the user mentions \"creators\", \"influencers\", \"TikTok marketing\", \"UGC\", \"user-generated content\", \"creator briefs\", \"creator outreach\", \"influencer marketing\", \"Reels\", \"Shorts\", \"creator gifting\", \"seeding\", \"affiliate\", \"Whop\", \"TikTok Spark Ads\", \"Instagram collab posts\", or \"I want my app to go viral on TikTok\". For paid social ad campaigns (Meta/TikTok ad accounts), see ua-campaign. For PR / press, see press-and-pr. For viral in-app loops, see referral-program.",
       "version": "1.0.0",
@@ -3449,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.195Z",
+        "evaluatedAt": "2026-10-11T05:04:18.333Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.195Z",
+          "evaluatedAt": "2026-10-11T05:04:18.334Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3540,12 +3581,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.195Z",
+          "evaluatedAt": "2026-10-11T05:04:18.334Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "da84e97aefef22a95439bb791a307ba20e727d7712a4083717185fc86fcbf237",
+      "sourcePath": "skills/custom-product-pages/SKILL.md",
       "name": "custom-product-pages",
       "description": "When the user wants to design, deploy, or measure Apple Custom Product Pages (CPP) — the alternate App Store product pages with different screenshots, preview videos, and promo text shown to users coming from specific URLs (typically ad campaigns or social posts). Use when the user mentions \"Custom Product Page\", \"CPP\", \"alternate product page\", \"App Store URL variant\", \"ASA CPP\", \"campaign-specific landing page\", \"product page per audience\", \"App Store Connect CPP\", \"ppoUrl\", \"?cpp=\" parameter, or \"show different screenshots to different ad audiences\". For App Store A/B tests on the default page, see ab-test-store-listing. For paid ad campaigns that route to CPPs, see apple-search-ads or ua-campaign.",
       "version": "1.0.0",
@@ -3626,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.195Z",
+        "evaluatedAt": "2026-10-11T05:04:18.332Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3699,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.196Z",
+          "evaluatedAt": "2026-10-11T05:04:18.334Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3717,12 +3760,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.195Z",
+          "evaluatedAt": "2026-10-11T05:04:18.334Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "9d4d5a51a24a999ff06bf809228ca82299455726838cf9521ddd567933d4800b",
+      "sourcePath": "skills/in-app-events/SKILL.md",
       "name": "in-app-events",
       "description": "When the user wants to create, plan, or optimize App Store In-App Events — the event cards that appear on the Today tab, search results, and your product page. Use when the user mentions \"in-app event\", \"App Store event\", \"event card\", \"Today tab\", \"live event\", \"challenge\", \"game event\", \"seasonal event card\", or wants visibility beyond organic search. For general ASO, see aso-audit. For seasonal keyword strategy, see seasonal-aso.",
       "version": "1.0.0",
@@ -3803,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.195Z",
+        "evaluatedAt": "2026-10-11T05:04:18.332Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3876,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.196Z",
+          "evaluatedAt": "2026-10-11T05:04:18.334Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3894,12 +3939,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.196Z",
+          "evaluatedAt": "2026-10-11T05:04:18.334Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "fb938fd60bf6010efd127086fcb4391186c67afa06f34f474a6965850459046b",
+      "sourcePath": "skills/keyword-research/SKILL.md",
       "name": "keyword-research",
       "description": "When the user wants to discover, evaluate, or prioritize App Store keywords. Also use when the user mentions \"keyword research\", \"find keywords\", \"search volume\", \"keyword difficulty\", \"keyword ideas\", or \"what keywords should I target\". For implementing keywords into metadata, see metadata-optimization. For auditing current keyword performance, see aso-audit.",
       "version": "1.0.0",
@@ -3980,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.197Z",
+        "evaluatedAt": "2026-10-11T05:04:18.334Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4053,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.197Z",
+          "evaluatedAt": "2026-10-11T05:04:18.335Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4071,12 +4118,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.197Z",
+          "evaluatedAt": "2026-10-11T05:04:18.335Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "31db527619d95895c4a5f5440d7e35f5014ebe3801ec10566ff102fd74b31899",
+      "sourcePath": "skills/localization/SKILL.md",
       "name": "localization",
       "description": "When the user wants to localize their App Store listing for international markets. Also use when the user mentions \"localization\", \"translate my app\", \"international markets\", \"expand to new countries\", \"localize metadata\", or \"which countries should I target\". For keyword research in specific markets, see keyword-research. For metadata writing, see metadata-optimization.",
       "version": "1.0.0",
@@ -4157,7 +4206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.198Z",
+        "evaluatedAt": "2026-10-11T05:04:18.335Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4230,7 +4279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.199Z",
+          "evaluatedAt": "2026-10-11T05:04:18.335Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4248,12 +4297,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.199Z",
+          "evaluatedAt": "2026-10-11T05:04:18.335Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "af98ebf0cb40c8b247c2baa7be6d80fcabef5af762d15e77a49821a92107a029",
+      "sourcePath": "skills/market-movers/SKILL.md",
       "name": "market-movers",
       "description": "When the user wants to track App Store chart rank changes, find top gainers and losers, detect breakout apps entering the top 100, or identify apps dropping out of charts. Also use when the user mentions \"chart movers\", \"rank changes\", \"who's rising\", \"who's falling\", \"new chart entries\", \"top gainers\", or \"market shifts\". For broader market overview, see market-pulse. For competitive keyword analysis, see competitor-analysis.",
       "version": "1.0.0",
@@ -4334,7 +4385,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.208Z",
+        "evaluatedAt": "2026-10-11T05:04:18.390Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4407,7 +4458,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.397Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4425,12 +4476,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.397Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "940728433254583ab47d9d2bcc034c2278ad8dc3437634d0531fd6ed3c8a50eb",
+      "sourcePath": "skills/market-pulse/SKILL.md",
       "name": "market-pulse",
       "description": "When the user wants a comprehensive App Store market overview, daily/weekly market briefing, or combined view of chart movements, trending keywords, featured apps, and new releases. Also use when the user mentions \"market overview\", \"what's happening on the App Store\", \"market briefing\", \"weekly report\", \"market trends\", or \"state of the market\". For chart-specific rank changes only, see market-movers. For keyword trends only, see keyword-research.",
       "version": "1.0.0",
@@ -4511,7 +4564,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.208Z",
+        "evaluatedAt": "2026-10-11T05:04:18.397Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4584,7 +4637,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.398Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4602,12 +4655,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.398Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "ff6a41e06d2f04c46606efa7d8611728cc33f8b304843e963930753eee575e9c",
+      "sourcePath": "skills/metadata-optimization/SKILL.md",
       "name": "metadata-optimization",
       "description": "When the user wants to optimize App Store metadata — title, subtitle, keyword field, or description. Also use when the user mentions \"optimize my title\", \"ASO metadata\", \"keyword field\", \"character limits\", \"app description\", or \"write my subtitle\". For keyword discovery, see keyword-research. For full ASO audits, see aso-audit.",
       "version": "1.0.0",
@@ -4688,7 +4743,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.209Z",
+        "evaluatedAt": "2026-10-11T05:04:18.395Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4761,7 +4816,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.397Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4779,12 +4834,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.397Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "327c3a965d83c536ad9e427de3ed8668cb260245c82b06cd397dc71b3e13364b",
+      "sourcePath": "skills/monetization-strategy/SKILL.md",
       "name": "monetization-strategy",
       "description": "When the user wants to design or optimize their app's monetization — pricing, paywalls, subscriptions, or in-app purchases. Also use when the user mentions \"pricing\", \"paywall\", \"subscription\", \"IAP\", \"how to monetize\", \"revenue optimization\", \"free trial\", or \"conversion to paid\". For retention impact, see retention-optimization. For competitive pricing, see competitor-analysis.",
       "version": "1.0.0",
@@ -4865,7 +4922,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.208Z",
+        "evaluatedAt": "2026-10-11T05:04:18.395Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4938,7 +4995,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.397Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4956,12 +5013,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.397Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "2a46f45342f9442940da1d7cc77b228fd39e3ef1f1a3c05cdb14a2543044c5dd",
+      "sourcePath": "skills/onboarding-optimization/SKILL.md",
       "name": "onboarding-optimization",
       "description": "When the user wants to improve their app's onboarding experience, increase activation rate, reduce Day 1 drop-off, or optimize the first-run flow. Use when the user mentions \"onboarding\", \"first-run\", \"activation\", \"tutorial\", \"day 1 retention\", \"new user flow\", \"permission prompts\", \"sign-up conversion\", \"onboarding funnel\", or \"users dropping off early\". For overall retention strategy, see retention-optimization. For paywall placement, see monetization-strategy.",
       "version": "1.0.0",
@@ -5042,7 +5101,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.208Z",
+        "evaluatedAt": "2026-10-11T05:04:18.398Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5115,7 +5174,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.399Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -5133,12 +5192,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.399Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "3e391c6f14bb18adaa010f6b2e949f22dbe1ad22284d5263b48e14438c1a54e3",
+      "sourcePath": "skills/paywall-optimization/SKILL.md",
       "name": "paywall-optimization",
       "description": "When the user wants to design, test, or optimize their app's paywall — layout, copy, pricing display, trial offers, plan structure, hard vs soft paywall, paywall placement, or paywall A/B tests. Use when the user mentions \"paywall\", \"paywall design\", \"paywall conversion\", \"trial-to-paid\", \"soft paywall\", \"hard paywall\", \"paywall A/B test\", \"paywall copy\", \"plan picker\", \"annual vs monthly display\", \"best paywall\", \"RevenueCat paywall\", \"Superwall\", \"Adapty\", or \"my paywall isn't converting\". For overall pricing strategy and monetization model choice, see monetization-strategy. For trial nurture, dunning, and churn, see subscription-lifecycle. For where in the onboarding the paywall fires, see onboarding-optimization.",
       "version": "1.0.0",
@@ -5219,7 +5280,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.209Z",
+        "evaluatedAt": "2026-10-11T05:04:18.399Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5292,7 +5353,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.400Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -5310,12 +5371,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.209Z",
+          "evaluatedAt": "2026-10-11T05:04:18.400Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "3db23eacf6572420b9db8536463525daab0899f6d9037aa0545ec3d07e3133ca",
+      "sourcePath": "skills/press-and-pr/SKILL.md",
       "name": "press-and-pr",
       "description": "When the user wants to get press coverage, media mentions, or editorial features for their app — including writing press releases, pitching journalists, getting on \"best apps\" lists, or building an app press kit. Use when the user mentions \"press\", \"PR\", \"media coverage\", \"TechCrunch\", \"journalist\", \"press release\", \"app press kit\", \"get featured in media\", \"editorial coverage\", \"review from a blogger\", or \"app launch announcement\". For Apple editorial featuring, see app-store-featured. For launch strategy, see app-launch.",
       "version": "1.0.0",
@@ -5396,7 +5459,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.211Z",
+        "evaluatedAt": "2026-10-11T05:04:18.399Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5469,7 +5532,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.215Z",
+          "evaluatedAt": "2026-10-11T05:04:18.399Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -5487,12 +5550,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.215Z",
+          "evaluatedAt": "2026-10-11T05:04:18.399Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "e40e57f2036e208194609c70db597cf522869a6faf859971de19753598267b7e",
+      "sourcePath": "skills/rating-prompt-strategy/SKILL.md",
       "name": "rating-prompt-strategy",
       "description": "When the user wants to improve their app's star rating, increase ratings volume, optimize when and how they prompt users for a review, or recover from a bad rating period. Use when the user mentions \"app rating\", \"star rating\", \"review prompt\", \"SKStoreReviewRequest\", \"In-App Review API\", \"ask for review\", \"low rating\", \"rating drop\", \"get more reviews\", or \"recover from 1-star\". For responding to reviews, see review-management. For overall ASO health, see aso-audit.",
       "version": "1.0.0",
@@ -5573,7 +5638,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.214Z",
+        "evaluatedAt": "2026-10-11T05:04:18.400Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5646,7 +5711,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.215Z",
+          "evaluatedAt": "2026-10-11T05:04:18.403Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -5664,12 +5729,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.215Z",
+          "evaluatedAt": "2026-10-11T05:04:18.403Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "b4f565ba3f1cf58fb1bad4a72c5a56c6e101693ae967e4a2761176b1067623aa",
+      "sourcePath": "skills/referral-program/SKILL.md",
       "name": "referral-program",
       "description": "When the user wants to design, launch, or optimize an in-app referral / invite / share-to-earn program — including reward structure, mechanics, fraud prevention, deep link setup, and viral coefficient measurement. Use when the user mentions \"referral program\", \"invite a friend\", \"refer and earn\", \"share to earn\", \"viral loop\", \"viral coefficient\", \"K-factor\", \"double-sided rewards\", \"give X get X\", \"referral rewards\", \"invite link\", \"share sheet\", \"Branch referrals\", \"in-app invites\", or \"how to make my app go viral\". For deep link infrastructure that referrals depend on, see attribution-setup. For organic content-driven virality (UGC, creator), see creator-ugc-marketing.",
       "version": "1.0.0",
@@ -5750,7 +5817,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.224Z",
+        "evaluatedAt": "2026-10-11T05:04:18.461Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5823,7 +5890,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.225Z",
+          "evaluatedAt": "2026-10-11T05:04:18.470Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -5841,12 +5908,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.225Z",
+          "evaluatedAt": "2026-10-11T05:04:18.470Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "cb31fede83a278b960d62d2b1725574aac9eb0e9f5f621b73a390aea5a2d557f",
+      "sourcePath": "skills/retention-optimization/SKILL.md",
       "name": "retention-optimization",
       "description": "When the user wants to reduce churn, improve user engagement, or increase lifetime value. Also use when the user mentions \"retention\", \"churn\", \"users leaving\", \"engagement\", \"DAU/MAU\", \"user activation\", or \"why are users uninstalling\". For onboarding-specific issues, see app-launch. For monetization, see monetization-strategy.",
       "version": "1.0.0",
@@ -5927,7 +5996,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.225Z",
+        "evaluatedAt": "2026-10-11T05:04:18.459Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6000,7 +6069,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.225Z",
+          "evaluatedAt": "2026-10-11T05:04:18.467Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6018,12 +6087,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.226Z",
+          "evaluatedAt": "2026-10-11T05:04:18.468Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "4f679270482886d8700cb063a8199c174faa97a7e52020002e7e555926bb107c",
+      "sourcePath": "skills/review-management/SKILL.md",
       "name": "review-management",
       "description": "When the user wants to analyze, respond to, or improve their app reviews and ratings. Also use when the user mentions \"reviews\", \"ratings\", \"negative reviews\", \"how to get more reviews\", \"review response\", or \"my rating is dropping\". For broader ASO audit, see aso-audit. For retention issues causing bad reviews, see retention-optimization.",
       "version": "1.0.0",
@@ -6104,7 +6175,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.225Z",
+        "evaluatedAt": "2026-10-11T05:04:18.468Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6177,7 +6248,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.226Z",
+          "evaluatedAt": "2026-10-11T05:04:18.470Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6195,12 +6266,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.226Z",
+          "evaluatedAt": "2026-10-11T05:04:18.470Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "3347d82c1781799dda13d3a9622a4c2ff1b6dc0942d00b57ffe3b025d3af0180",
+      "sourcePath": "skills/screenshot-optimization/SKILL.md",
       "name": "screenshot-optimization",
       "description": "When the user wants to design, optimize, or evaluate App Store screenshots and preview videos. Also use when the user mentions \"screenshots\", \"app preview\", \"product page design\", \"screenshot design\", \"creative assets\", or \"what should my screenshots show\". For A/B testing screenshots, see ab-test-store-listing. For full ASO audit, see aso-audit.",
       "version": "1.0.0",
@@ -6281,7 +6354,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.226Z",
+        "evaluatedAt": "2026-10-11T05:04:18.468Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6354,7 +6427,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.227Z",
+          "evaluatedAt": "2026-10-11T05:04:18.470Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6372,12 +6445,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.227Z",
+          "evaluatedAt": "2026-10-11T05:04:18.470Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "569b350ee4bb4916a912ea2d32af8f2d7ca151b7f2e7a61075ffceb01b446b26",
+      "sourcePath": "skills/seasonal-aso/SKILL.md",
       "name": "seasonal-aso",
       "description": "When the user wants to optimize their App Store listing for seasonal events, holidays, or trending moments — including keyword opportunities, metadata updates, screenshot theming, and timing strategy. Use when the user mentions \"seasonal\", \"holiday\", \"Christmas\", \"New Year\", \"Valentine's Day\", \"summer\", \"back to school\", \"seasonal keywords\", \"trending now\", \"limited time\", or wants to capitalize on a calendar event. For general keyword research, see keyword-research. For full metadata rewrites, see metadata-optimization.",
       "version": "1.0.0",
@@ -6458,7 +6533,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.227Z",
+        "evaluatedAt": "2026-10-11T05:04:18.471Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6531,7 +6606,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.228Z",
+          "evaluatedAt": "2026-10-11T05:04:18.472Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6549,12 +6624,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.228Z",
+          "evaluatedAt": "2026-10-11T05:04:18.472Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "3861e156e75ddd47b108d8fc06f9edb41f3cda90cbc46765d3a5caca2d166a21",
+      "sourcePath": "skills/subscription-lifecycle/SKILL.md",
       "name": "subscription-lifecycle",
       "description": "When the user wants to optimize their subscription business end-to-end — from trial start through renewal, cancellation, and win-back. Use when the user mentions \"subscription lifecycle\", \"trial conversion\", \"churn\", \"cancellation\", \"win-back\", \"lapsed subscribers\", \"dunning\", \"billing retry\", \"grace period\", \"renewal rate\", \"subscriber LTV\", or \"resubscribe\". For paywall design and pricing strategy, see monetization-strategy. For subscription analytics dashboards, see app-analytics.",
       "version": "1.0.0",
@@ -6635,7 +6712,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.227Z",
+        "evaluatedAt": "2026-10-11T05:04:18.470Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6708,7 +6785,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.228Z",
+          "evaluatedAt": "2026-10-11T05:04:18.471Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6726,12 +6803,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.228Z",
+          "evaluatedAt": "2026-10-11T05:04:18.471Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "336652d8c928e92647488f798c81a58d1fc186303db9ac5f116b5a4ce19bb083",
+      "sourcePath": "skills/ua-campaign/SKILL.md",
       "name": "ua-campaign",
       "description": "When the user wants to plan or optimize paid user acquisition campaigns. Also use when the user mentions \"Apple Search Ads\", \"user acquisition\", \"paid ads\", \"UA\", \"ad campaign\", \"install campaign\", \"Facebook ads for apps\", \"TikTok ads\", or \"cost per install\". For organic growth, see aso-audit. For launch-specific UA, see app-launch.",
       "version": "1.0.0",
@@ -6812,7 +6891,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.228Z",
+        "evaluatedAt": "2026-10-11T05:04:18.470Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6885,7 +6964,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.229Z",
+          "evaluatedAt": "2026-10-11T05:04:18.471Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6903,12 +6982,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.229Z",
+          "evaluatedAt": "2026-10-11T05:04:18.471Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "ab9c8637614376d606b0192bf3150ecacf4a3fff71b8ec5a7ecd2d4748d3f883",
+      "sourcePath": "skills/web-to-app-funnel/SKILL.md",
       "name": "web-to-app-funnel",
       "description": "When the user wants to design or optimize the funnel that takes web visitors into installing and onboarding the app — including smart app banners, web-to-app deep links, deferred deep links, web onboarding (Stripe-paid web flow before app install), QR codes, \"open in app\" CTAs, and the trade-off between paying on web vs in-app. Use when the user mentions \"web to app\", \"smart app banner\", \"Stripe before app\", \"web paywall before install\", \"Branch web SDK\", \"web funnel for app\", \"AppsFlyer OneLink web\", \"Universal Links\", \"App Links\", \"QR code to app\", \"open in app\", \"deferred deep link from web\", or \"should I sell on web first then push to app\". For pure in-app onboarding, see onboarding-optimization. For deep link infra, see attribution-setup.",
       "version": "1.0.0",
@@ -6989,7 +7070,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:02.230Z",
+        "evaluatedAt": "2026-10-11T05:04:18.473Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -7062,7 +7143,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.231Z",
+          "evaluatedAt": "2026-10-11T05:04:18.473Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -7080,7 +7161,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:02.231Z",
+          "evaluatedAt": "2026-10-11T05:04:18.473Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -7092,7 +7173,7 @@
       "name": "eronred-aso-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7296,7 +7377,7 @@
       "name": "eronred-aso-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7416,7 +7497,7 @@
       "name": "eronred-aso-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7542,7 +7623,7 @@
       "name": "eronred-aso-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7650,7 +7731,7 @@
       "name": "eronred-aso-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7914,7 +7995,7 @@
       "name": "eronred-aso-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8100,7 +8181,7 @@
       "name": "eronred-aso-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8304,7 +8385,7 @@
       "name": "eronred-aso-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8442,7 +8523,7 @@
       "name": "eronred-aso-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from Eronred/aso-skills.",
       "author": "ASM (Eronred/aso-skills)",
-      "createdAt": "2026-09-30T20:48:02.237Z",
+      "createdAt": "2026-10-11T05:04:18.483Z",
       "tags": [
         "repo-derived",
         "inferred",

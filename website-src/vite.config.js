@@ -6,6 +6,9 @@ import { dirname, resolve } from "node:path";
 import { readFileSync } from "node:fs";
 
 const here = dirname(fileURLToPath(import.meta.url));
+const outputDir = resolve(
+  process.env.ASM_WEBSITE_OUTPUT_DIR || resolve(here, "../website"),
+);
 
 /**
  * Inject live catalog counts into index.html at build time so the
@@ -18,7 +21,7 @@ const here = dirname(fileURLToPath(import.meta.url));
  * placeholder survives — a raw `{{SKILL_COUNT}}` must never ship.
  */
 function injectCatalogCounts() {
-  const catalogPath = resolve(here, "../website/catalog.json");
+  const catalogPath = resolve(outputDir, "catalog.json");
   return {
     name: "inject-catalog-counts",
     transformIndexHtml(html) {
@@ -79,10 +82,9 @@ export default defineConfig(({ command }) => ({
   // outDir already IS `website/`, and a publicDir copy would try to
   // re-overwrite the catalog JSONs (and every single `skills/*.json`) on
   // every Vite build.
-  publicDir:
-    command === "serve" ? resolve(here, "../website") : resolve(here, "public"),
+  publicDir: command === "serve" ? outputDir : resolve(here, "public"),
   build: {
-    outDir: resolve(here, "../website"),
+    outDir: outputDir,
     emptyOutDir: false,
     sourcemap: false,
     assetsDir: "assets",

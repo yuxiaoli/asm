@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "74ae19e7c62b0516d1c298328e5544976c12da5d",
   "repoUrl": "https://github.com/Paramchoudhary/ResumeSkills.git",
   "owner": "Paramchoudhary",
   "repo": "ResumeSkills",
-  "updatedAt": "2026-09-30T20:49:50.931Z",
+  "updatedAt": "2026-10-11T05:06:31.141Z",
   "skillCount": 22,
   "skills": [
     {
+      "contentHash": "7b15396ae8c284e5cb090d543c8009279269c922f944b2b535089cae0726bd23",
+      "sourcePath": "skills/academic-cv-builder/SKILL.md",
       "name": "academic-cv-builder",
       "description": "Format CVs for academic positions with publications, grants, and teaching",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.894Z",
+        "evaluatedAt": "2026-10-11T05:06:31.008Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c5804ccbc6e34d05edd59a86f3246259a73f96f1fcd7ba253fd9e48c1ddca8d8",
+      "sourcePath": "skills/application-form-filler/SKILL.md",
       "name": "application-form-filler",
       "description": "Fill out job application form fields with context-aware, tailored answers drawn from the candidate's CV and the job description",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.895Z",
+        "evaluatedAt": "2026-10-11T05:06:31.006Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d1b6d39a9031ef2c4b493c6cccf6227144621729f059044173b658200455eecc",
+      "sourcePath": "skills/career-changer-translator/SKILL.md",
       "name": "career-changer-translator",
       "description": "Translate skills from one industry to another, identify transferable skills",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.895Z",
+        "evaluatedAt": "2026-10-11T05:06:31.006Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b8b576b5e917b68083efc8772db765843caef125dd5d9444b533ca23b9ad574b",
+      "sourcePath": "skills/cold-email-writer/SKILL.md",
       "name": "cold-email-writer",
       "description": "Write personalized cold outreach emails to hiring managers and founders — specific, human, not a pitch deck",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.896Z",
+        "evaluatedAt": "2026-10-11T05:06:31.006Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1b84e3d487f982700ab69fab1cf945fa785bf4a4266e8946e47401b1fe5ebc6c",
+      "sourcePath": "skills/cover-letter-generator/SKILL.md",
       "name": "cover-letter-generator",
       "description": "Create personalized, compelling cover letters from resume and job description",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.896Z",
+        "evaluatedAt": "2026-10-11T05:06:31.006Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "71301ed4cc3a4c4b026619d606762b72ac2724888884a711936e7ea85c4a54f5",
+      "sourcePath": "skills/creative-portfolio-resume/SKILL.md",
       "name": "creative-portfolio-resume",
       "description": "Balance visual design with ATS compatibility for creative roles",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.896Z",
+        "evaluatedAt": "2026-10-11T05:06:31.006Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "74fc63ac5b836f3bf994a3100c03eb2f3f4a9d67e64cbb0df6e973e06e9d95c0",
+      "sourcePath": "skills/executive-resume-writer/SKILL.md",
       "name": "executive-resume-writer",
       "description": "Create C-suite and VP level resumes emphasizing strategic leadership",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.896Z",
+        "evaluatedAt": "2026-10-11T05:06:31.009Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1c543ab0eb226b0e404fcbd4495e7322ae129c5cb940b248ae58656fd2e240d6",
+      "sourcePath": "skills/interview-prep-generator/SKILL.md",
       "name": "interview-prep-generator",
       "description": "Generate STAR stories, practice questions, and talking points from resume",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.896Z",
+        "evaluatedAt": "2026-10-11T05:06:31.009Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.896Z",
+          "evaluatedAt": "2026-10-11T05:06:31.009Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9898051a4a54ddeb82115778e4dfe24dbf226a6457dcb7be6c94bddca15479d5",
+      "sourcePath": "skills/job-description-analyzer/SKILL.md",
       "name": "job-description-analyzer",
       "description": "Analyze job postings, calculate match scores, identify gaps, and create application strategy",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.910Z",
+        "evaluatedAt": "2026-10-11T05:06:31.074Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3fffcd58f30fe045bcdf7e776417dfccb3061efd3ad15ec537b7e8c285547862",
+      "sourcePath": "skills/linkedin-profile-optimizer/SKILL.md",
       "name": "linkedin-profile-optimizer",
       "description": "Optimize LinkedIn profile for searchability, recruiter visibility, and engagement",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.911Z",
+        "evaluatedAt": "2026-10-11T05:06:31.070Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.074Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.074Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3265a7bb36a9b8ffb986f5e5dec6de88578f45b28da0be493d4e86ce366cf95d",
+      "sourcePath": "skills/offer-comparison-analyzer/SKILL.md",
       "name": "offer-comparison-analyzer",
       "description": "Compare multiple job offers side-by-side with total compensation analysis",
       "version": "0.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.910Z",
+        "evaluatedAt": "2026-10-11T05:06:31.077Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b6b17fe94dd87ec68f3818bbfef3ce855a499dba7f1cbb1bb44aa920a9b0f84d",
+      "sourcePath": "skills/portfolio-case-study-writer/SKILL.md",
       "name": "portfolio-case-study-writer",
       "description": "Transform resume bullets into detailed portfolio case studies",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.910Z",
+        "evaluatedAt": "2026-10-11T05:06:31.074Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ef4d0794277724c9476ae4d728a5192d975b64b6b01250cfa0d229839d99349a",
+      "sourcePath": "skills/reference-list-builder/SKILL.md",
       "name": "reference-list-builder",
       "description": "Format professional references properly and prepare reference materials",
       "version": "0.0.0",
@@ -2210,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.910Z",
+        "evaluatedAt": "2026-10-11T05:06:31.074Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "03ad07d45afa209a41f8a0acdfc4286bc61ededd8371ced5242b5caf97d86702",
+      "sourcePath": "skills/resume-ats-optimizer/SKILL.md",
       "name": "resume-ats-optimizer",
       "description": "Optimize resumes for Applicant Tracking Systems, check ATS compatibility, and analyze keyword match",
       "version": "0.0.0",
@@ -2387,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.910Z",
+        "evaluatedAt": "2026-10-11T05:06:31.077Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.911Z",
+          "evaluatedAt": "2026-10-11T05:06:31.078Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "49ea6a533a72112cc4935c40924830d13979b86321e593892a45244fef0a14fb",
+      "sourcePath": "skills/resume-bullet-writer/SKILL.md",
       "name": "resume-bullet-writer",
       "description": "Transform weak resume bullets into achievement-focused statements with metrics and impact",
       "version": "0.0.0",
@@ -2564,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.911Z",
+        "evaluatedAt": "2026-10-11T05:06:31.077Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.912Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.912Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "387522dc9a48ea948fc44c73189fce0676dc12b694186d4d44957ae02bd6becf",
+      "sourcePath": "skills/resume-formatter/SKILL.md",
       "name": "resume-formatter",
       "description": "Ensure ATS-friendly formatting and create clean scannable layouts",
       "version": "0.0.0",
@@ -2741,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.912Z",
+        "evaluatedAt": "2026-10-11T05:06:31.077Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.912Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,12 +2865,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.912Z",
+          "evaluatedAt": "2026-10-11T05:06:31.077Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6cdf56f990ff1f67154ea99c256654d35eeb5048f13af76da396dcb3b9d2d68d",
+      "sourcePath": "skills/resume-quantifier/SKILL.md",
       "name": "resume-quantifier",
       "description": "Find opportunities to add metrics and estimate numbers when exact data unavailable",
       "version": "0.0.0",
@@ -2918,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.924Z",
+        "evaluatedAt": "2026-10-11T05:06:31.128Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.130Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3009,12 +3044,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.130Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "63e9972a7b1b4a184f7f4e7a992f17c3590a0da19a4389631bdbbeb3b94dd68b",
+      "sourcePath": "skills/resume-section-builder/SKILL.md",
       "name": "resume-section-builder",
       "description": "Create targeted resume sections optimized for different experience levels and roles",
       "version": "0.0.0",
@@ -3095,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.924Z",
+        "evaluatedAt": "2026-10-11T05:06:31.130Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.132Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3186,12 +3223,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.132Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "96853a389e2043cd3cc46667b89576cd3755bbef2c72ebeafc486230609b0981",
+      "sourcePath": "skills/resume-tailor/SKILL.md",
       "name": "resume-tailor",
       "description": "Customize resume for specific job postings while maintaining truthfulness",
       "version": "0.0.0",
@@ -3272,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.924Z",
+        "evaluatedAt": "2026-10-11T05:06:31.129Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.130Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3363,12 +3402,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.130Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ddf1acc97694e7710c9091dc547942a424f16601b2c8b35ce1c317f3b19b94f7",
+      "sourcePath": "skills/resume-version-manager/SKILL.md",
       "name": "resume-version-manager",
       "description": "Track different resume versions, maintain master resume, manage tailored versions",
       "version": "0.0.0",
@@ -3449,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.924Z",
+        "evaluatedAt": "2026-10-11T05:06:31.129Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.130Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3540,12 +3581,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.130Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "efac612f8ab539a7946f77e6b0c6d820713283c309eee6daf36e3ed7a27a7088",
+      "sourcePath": "skills/salary-negotiation-prep/SKILL.md",
       "name": "salary-negotiation-prep",
       "description": "Research market rates, build negotiation strategy, and create counter-offer scripts",
       "version": "0.0.0",
@@ -3626,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.924Z",
+        "evaluatedAt": "2026-10-11T05:06:31.132Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3699,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.924Z",
+          "evaluatedAt": "2026-10-11T05:06:31.132Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3717,12 +3760,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.925Z",
+          "evaluatedAt": "2026-10-11T05:06:31.132Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "38cbc83d7d143ec3432be19e8179c5992b55b20765c478f575b0200ed357339a",
+      "sourcePath": "skills/tech-resume-optimizer/SKILL.md",
       "name": "tech-resume-optimizer",
       "description": "Optimize resumes for software engineering, PM, and technical roles",
       "version": "0.0.0",
@@ -3803,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:50.925Z",
+        "evaluatedAt": "2026-10-11T05:06:31.132Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3876,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.925Z",
+          "evaluatedAt": "2026-10-11T05:06:31.132Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3894,7 +3939,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:50.925Z",
+          "evaluatedAt": "2026-10-11T05:06:31.133Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3906,7 +3951,7 @@
       "name": "paramchoudhary-resumeskills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Paramchoudhary/ResumeSkills.",
       "author": "ASM (Paramchoudhary/ResumeSkills)",
-      "createdAt": "2026-09-30T20:49:50.931Z",
+      "createdAt": "2026-10-11T05:06:31.141Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3972,7 +4017,7 @@
       "name": "paramchoudhary-resumeskills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Paramchoudhary/ResumeSkills.",
       "author": "ASM (Paramchoudhary/ResumeSkills)",
-      "createdAt": "2026-09-30T20:49:50.931Z",
+      "createdAt": "2026-10-11T05:06:31.141Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4008,7 +4053,7 @@
       "name": "paramchoudhary-resumeskills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from Paramchoudhary/ResumeSkills.",
       "author": "ASM (Paramchoudhary/ResumeSkills)",
-      "createdAt": "2026-09-30T20:49:50.931Z",
+      "createdAt": "2026-10-11T05:06:31.141Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4056,7 +4101,7 @@
       "name": "paramchoudhary-resumeskills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from Paramchoudhary/ResumeSkills.",
       "author": "ASM (Paramchoudhary/ResumeSkills)",
-      "createdAt": "2026-09-30T20:49:50.931Z",
+      "createdAt": "2026-10-11T05:06:31.141Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4128,7 +4173,7 @@
       "name": "paramchoudhary-resumeskills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from Paramchoudhary/ResumeSkills.",
       "author": "ASM (Paramchoudhary/ResumeSkills)",
-      "createdAt": "2026-09-30T20:49:50.931Z",
+      "createdAt": "2026-10-11T05:06:31.141Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4284,7 +4329,7 @@
       "name": "paramchoudhary-resumeskills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from Paramchoudhary/ResumeSkills.",
       "author": "ASM (Paramchoudhary/ResumeSkills)",
-      "createdAt": "2026-09-30T20:49:50.931Z",
+      "createdAt": "2026-10-11T05:06:31.141Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4326,7 +4371,7 @@
       "name": "paramchoudhary-resumeskills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from Paramchoudhary/ResumeSkills.",
       "author": "ASM (Paramchoudhary/ResumeSkills)",
-      "createdAt": "2026-09-30T20:49:50.931Z",
+      "createdAt": "2026-10-11T05:06:31.141Z",
       "tags": [
         "repo-derived",
         "inferred",

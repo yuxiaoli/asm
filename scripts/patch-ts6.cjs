@@ -26,6 +26,7 @@ const {
   lstatSync,
   realpathSync,
   readFileSync,
+  cpSync,
 } = require("node:fs");
 
 const TS6_PKG = "node_modules/@typescript/typescript6";
@@ -138,7 +139,21 @@ function applyPatch(root) {
         // best effort
       }
     }
-    symlinkSync(ts6Path, linkPath, "dir");
+    try {
+      symlinkSync(
+        ts6Path,
+        linkPath,
+        process.platform === "win32" ? "junction" : "dir",
+      );
+    } catch (error) {
+      // Network/mapped Windows drives can reject both symlinks and junctions.
+      if (
+        process.platform !== "win32" ||
+        !["EISDIR", "EPERM", "ENOTSUP"].includes(error.code)
+      )
+        throw error;
+      cpSync(ts6Path, linkPath, { recursive: true });
+    }
     patched++;
   }
 

@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "855ca7d0df50e82b00c12881dd9cd23c19ef5f49",
   "repoUrl": "https://github.com/AvdLee/Core-Data-Agent-Skill.git",
   "owner": "AvdLee",
   "repo": "Core-Data-Agent-Skill",
-  "updatedAt": "2026-09-30T20:48:09.869Z",
+  "updatedAt": "2026-10-11T05:04:23.027Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "74cac8c2a86868a30d41769529ab45124098d89cebd65c2fa310dd52a5ff1b7e",
+      "sourcePath": "core-data-expert/SKILL.md",
       "name": "core-data-expert",
       "description": "Expert Core Data guidance (iOS/macOS): stack setup, fetch requests & NSFetchedResultsController, saving/merge conflicts, threading & Swift Concurrency, batch operations & persistent history, migrations, performance, and NSPersistentCloudKitContainer/CloudKit sync.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:09.864Z",
+        "evaluatedAt": "2026-10-11T05:04:23.019Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:09.864Z",
+          "evaluatedAt": "2026-10-11T05:04:23.019Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:09.864Z",
+          "evaluatedAt": "2026-10-11T05:04:23.019Z",
           "evaluatedVersion": "0.0.0"
         }
       }

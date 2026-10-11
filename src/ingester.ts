@@ -1,5 +1,11 @@
 import { writeFile, mkdir, unlink, readFile, readdir } from "fs/promises";
 import { join } from "path";
+import { createHash } from "node:crypto";
+import {
+  readSourceCommit,
+  readSourceSkill,
+  sourceSkillPath,
+} from "./utils/source-provenance";
 import {
   parseSource,
   discoverSkills,
@@ -82,6 +88,7 @@ export async function ingestRepo(sourceInput: string): Promise<IngestResult> {
   let tempDir: string | null = null;
   try {
     tempDir = await cloneToTemp(source);
+    const sourceCommit = await readSourceCommit(tempDir);
     debug(`ingester: discovering skills in ${tempDir}`);
 
     const discovered = await discoverSkills(tempDir);
@@ -111,8 +118,21 @@ export async function ingestRepo(sourceInput: string): Promise<IngestResult> {
         // Read SKILL.md content for verification
         const skillMdPath = join(skillRoot, skill.relPath, "SKILL.md");
         let skillMdContent = "";
+        let contentHash: string | undefined;
+        let sourcePath: string | undefined;
         try {
-          skillMdContent = await readFile(skillMdPath, "utf-8");
+          if (sourceCommit)
+            sourcePath = await sourceSkillPath(skillRoot, skill.relPath);
+          const bytes = sourceCommit
+            ? await readSourceSkill(
+                skillRoot,
+                skill.relPath,
+                sourceCommit,
+                sourcePath,
+              )
+            : await readFile(skillMdPath);
+          skillMdContent = bytes.toString("utf-8");
+          contentHash = createHash("sha256").update(bytes).digest("hex");
         } catch {
           // If we can't read SKILL.md, the skill won't pass verification
           debug(`ingester: could not read SKILL.md at ${skillMdPath}`);
@@ -207,6 +227,8 @@ export async function ingestRepo(sourceInput: string): Promise<IngestResult> {
         }
 
         return {
+          contentHash,
+          sourcePath,
           name: skill.name,
           description: skill.description,
           version: skill.version,
@@ -229,6 +251,7 @@ export async function ingestRepo(sourceInput: string): Promise<IngestResult> {
     );
 
     const repoIndex: RepoIndex = {
+      sourceCommit,
       repoUrl: source.cloneUrl,
       owner: source.owner,
       repo: source.repo,

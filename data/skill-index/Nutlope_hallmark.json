@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "13ac0ec7e148655948100b6396439e481361d690",
   "repoUrl": "https://github.com/Nutlope/hallmark.git",
   "owner": "Nutlope",
   "repo": "hallmark",
-  "updatedAt": "2026-09-30T20:50:17.407Z",
+  "updatedAt": "2026-10-11T05:06:57.232Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "59469635bbbd21acddbc664d95e8d97147f454b2d8f4a0a89c7d2c5afbe67577",
+      "sourcePath": "skills/hallmark/SKILL.md",
       "name": "hallmark",
       "description": "Anti-AI-slop design skill for greenfield pages, audits, redesigns, and design extraction from URLs or screenshots. Use when the user asks to build a new app or landing page, wants to redesign something, invokes Hallmark by name, or uses audit/redesign/study.",
       "version": "1.1.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:17.388Z",
+        "evaluatedAt": "2026-10-11T05:06:57.191Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:17.388Z",
+          "evaluatedAt": "2026-10-11T05:06:57.191Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:17.388Z",
+          "evaluatedAt": "2026-10-11T05:06:57.191Z",
           "evaluatedVersion": "1.1.0"
         }
       }
