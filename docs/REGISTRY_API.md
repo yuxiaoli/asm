@@ -31,7 +31,7 @@ The first release requires a manual “Deploy Skill Catalog” run with
 `bootstrap_feed=true`. The existing directory becomes the baseline, with no
 historical notification flood. Future runs read `feed-state.json` from the last
 successful Pages publication and compare its source revision with the latest
-successful `github-pages` deployment. A later missing/corrupt state cannot be
+completed successful production publication workflow. A later missing/corrupt state cannot be
 bootstrapped again: recover the last published artifact instead.
 
 Production publishes are serialized through verification of the new public
