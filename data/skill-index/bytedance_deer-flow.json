@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "2f4f4d4b6cdb3d0b98465f2333aca0e063fb6371",
   "repoUrl": "https://github.com/bytedance/deer-flow.git",
   "owner": "bytedance",
   "repo": "deer-flow",
-  "updatedAt": "2026-09-30T20:48:42.547Z",
+  "updatedAt": "2026-10-11T05:04:57.498Z",
   "skillCount": 27,
   "skills": [
     {
+      "contentHash": "a0285baaeacc916bf45751c06db37745b195ddd4ec30e271ec1472f6cd48e8aa",
+      "sourcePath": "skills/public/academic-paper-review/SKILL.md",
       "name": "academic-paper-review",
       "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.012Z",
+        "evaluatedAt": "2026-10-11T05:04:56.634Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ce0e4ac97812a879c196db98e06275000bcbf5858920f704ed0515e4b656b974",
+      "sourcePath": ".agent/skills/blocking-io-guard/SKILL.md",
       "name": "blocking-io-guard",
       "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.014Z",
+        "evaluatedAt": "2026-10-11T05:04:56.631Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d117997b877f80da7411d33b457878ad9ae0a649f43781a74c8b09707984356d",
+      "sourcePath": "skills/public/bootstrap/SKILL.md",
       "name": "bootstrap",
       "description": "Generate a personalized SOUL.md through a warm, adaptive onboarding conversation. Trigger when the user wants to create, set up, or initialize their AI partner's identity — e.g., \"create my SOUL.md\", \"bootstrap my agent\", \"set up my AI partner\", \"define who you are\", \"let's do onboarding\", \"personalize this AI\", \"make you mine\", or when a SOUL.md is missing. Also trigger for updates: \"update my SOUL.md\", \"change my AI's personality\", \"tweak the soul\".",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.016Z",
+        "evaluatedAt": "2026-10-11T05:04:56.631Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.016Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.016Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "eb44160e5a51bc0951696c65c13623bb7f686c140b6fd44e6e588b43c9911840",
+      "sourcePath": "skills/public/chart-visualization/SKILL.md",
       "name": "chart-visualization",
       "description": "This skill should be used when the user wants to visualize data. It intelligently selects the most suitable chart type from 26 available options, extracts parameters based on detailed specifications, and generates a chart image using a JavaScript script.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.014Z",
+        "evaluatedAt": "2026-10-11T05:04:56.631Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b05a6fa8c64ba4137b09a5f61278b6caa0384b2b4e4330ee9676e2485a53269e",
+      "sourcePath": "skills/public/claude-to-deerflow/SKILL.md",
       "name": "claude-to-deerflow",
       "description": "Interact with DeerFlow AI agent platform via its HTTP API. Use this skill when the user wants to send messages or questions to DeerFlow for research/analysis, start a DeerFlow conversation thread, check DeerFlow status or health, list available models/skills/agents in DeerFlow, manage DeerFlow memory, upload files to DeerFlow threads, or delegate complex research tasks to DeerFlow. Also use when the user mentions deerflow, deer flow, or wants to run a deep research task that DeerFlow can handle.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.014Z",
+        "evaluatedAt": "2026-10-11T05:04:56.631Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "75721d7bc1b294592dc31a1e1d92ff9c390115af4b08ed42e7e0a2b094060676",
+      "sourcePath": "skills/public/code-documentation/SKILL.md",
       "name": "code-documentation",
       "description": "Use this skill when the user requests to generate, create, or improve documentation for code, APIs, libraries, repositories, or software projects. Supports README generation, API reference documentation, inline code comments, architecture documentation, changelog generation, and developer guides. Trigger on requests like \"document this code\", \"create a README\", \"generate API docs\", \"write developer guide\", or when analyzing codebases for documentation purposes.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.015Z",
+        "evaluatedAt": "2026-10-11T05:04:56.634Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.015Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "5bc99df7e5f8af5471eaa5d20b85fc46e99895cf3f2642fa9da94108d03ca13e",
+      "sourcePath": "skills/public/consulting-analysis/SKILL.md",
       "name": "consulting-analysis",
       "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.015Z",
+        "evaluatedAt": "2026-10-11T05:04:56.631Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.016Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.016Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d9383f31df40250c7dd58b31f3518bc80c95f670eada6e8222c7925d80a0b3a1",
+      "sourcePath": "skills/public/data-analysis/SKILL.md",
       "name": "data-analysis",
       "description": "Use this skill when the user uploads Excel (.xlsx/.xls) or CSV files and wants to perform data analysis, generate statistics, create summaries, pivot tables, SQL queries, or any form of structured data exploration. Supports multi-sheet Excel workbooks, aggregation, filtering, joins, and exporting results to CSV/JSON/Markdown.",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.015Z",
+        "evaluatedAt": "2026-10-11T05:04:56.634Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.016Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.016Z",
+          "evaluatedAt": "2026-10-11T05:04:56.634Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "04712f4daa7937cc1f8dabc1a086a9549e670eb3fa3f1a8d30abdc3ea8b31a79",
+      "sourcePath": "skills/public/deep-research/SKILL.md",
       "name": "deep-research",
       "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.032Z",
+        "evaluatedAt": "2026-10-11T05:04:56.712Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.033Z",
+          "evaluatedAt": "2026-10-11T05:04:56.715Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.033Z",
+          "evaluatedAt": "2026-10-11T05:04:56.715Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "bdd3e985cf00969c8b6af35438294e72be0fa5152982ff2cb7a23182478018dc",
+      "sourcePath": ".agent/skills/deerflow-maintainer-orchestrator/SKILL.md",
       "name": "deerflow-maintainer-orchestrator",
       "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.033Z",
+        "evaluatedAt": "2026-10-11T05:04:56.712Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.033Z",
+          "evaluatedAt": "2026-10-11T05:04:56.715Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.033Z",
+          "evaluatedAt": "2026-10-11T05:04:56.715Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3824ac0af2773631d4e2374e5ec8457540fb1c9546870920319ddc68a3228ca6",
+      "sourcePath": ".agent/skills/engineer-system-change/SKILL.md",
       "name": "engineer-system-change",
       "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
       "version": "0.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.033Z",
+        "evaluatedAt": "2026-10-11T05:04:56.715Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.033Z",
+          "evaluatedAt": "2026-10-11T05:04:56.715Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.033Z",
+          "evaluatedAt": "2026-10-11T05:04:56.715Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0fccfaeacc4c71bfc93aeabf06d2d5d17480d4a09cb024c643a90b14dc024aba",
+      "sourcePath": "skills/public/find-skills/SKILL.md",
       "name": "find-skills",
       "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.039Z",
+        "evaluatedAt": "2026-10-11T05:04:56.750Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.039Z",
+          "evaluatedAt": "2026-10-11T05:04:56.752Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.040Z",
+          "evaluatedAt": "2026-10-11T05:04:56.751Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f187caf13081bd3b5509f4c7424b7b507e3140020daaf3454b9181d1af4f61ca",
+      "sourcePath": "skills/public/frontend-design/SKILL.md",
       "name": "frontend-design",
       "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
       "version": "0.0.0",
@@ -2210,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.040Z",
+        "evaluatedAt": "2026-10-11T05:04:56.753Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.040Z",
+          "evaluatedAt": "2026-10-11T05:04:56.768Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.040Z",
+          "evaluatedAt": "2026-10-11T05:04:56.768Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7add6956b424fbe5d4fcf85ea977b7b663ad2d810b3157a69953401db9c7acdb",
+      "sourcePath": "skills/public/github-deep-research/SKILL.md",
       "name": "github-deep-research",
       "description": "Conduct multi-round deep research on any GitHub Repo. Use when users request comprehensive analysis, timeline reconstruction, competitive analysis, or in-depth investigation of GitHub. Produces structured markdown reports with executive summaries, chronological timelines, metrics analysis, and Mermaid diagrams. Triggers on Github repository URL or open source projects.",
       "version": "0.0.0",
@@ -2387,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.040Z",
+        "evaluatedAt": "2026-10-11T05:04:56.785Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.040Z",
+          "evaluatedAt": "2026-10-11T05:04:56.786Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.040Z",
+          "evaluatedAt": "2026-10-11T05:04:56.786Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9e5f4d09a8440ef6cca6f3b0ec35777259b6eadd027bfa5db9baa4ee13812f4e",
+      "sourcePath": "skills/public/image-generation/SKILL.md",
       "name": "image-generation",
       "description": "Use this skill when the user requests to generate, create, imagine, or visualize images including characters, scenes, products, or any visual content. Supports structured prompts and reference images for guided generation.",
       "version": "0.0.0",
@@ -2564,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.041Z",
+        "evaluatedAt": "2026-10-11T05:04:56.786Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.041Z",
+          "evaluatedAt": "2026-10-11T05:04:56.793Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.041Z",
+          "evaluatedAt": "2026-10-11T05:04:56.793Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b8b17571b82357dea768c5aa24437eada4a717a2d7c6fad082f6bb63cde6d884",
+      "sourcePath": "skills/public/music-generation/SKILL.md",
       "name": "music-generation",
       "description": "Use this skill when the user requests to generate, create, compose, or produce music or songs — background music, theme songs, jingles, or instrumental tracks. Generates a song from a style/mood prompt and optional lyrics via the MiniMax music API.",
       "version": "0.0.0",
@@ -2741,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.051Z",
+        "evaluatedAt": "2026-10-11T05:04:56.793Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.051Z",
+          "evaluatedAt": "2026-10-11T05:04:56.793Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,12 +2865,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.051Z",
+          "evaluatedAt": "2026-10-11T05:04:56.793Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "cc66adb99053a781d6b5ce65f5e698c62384b8793421d15067d880e7b32538dc",
+      "sourcePath": "skills/public/newsletter-generation/SKILL.md",
       "name": "newsletter-generation",
       "description": "Use this skill when the user requests to generate, create, write, or draft a newsletter, email digest, weekly roundup, industry briefing, or curated content summary. Supports topic-based research, content curation from multiple sources, and professional formatting for email or web distribution. Trigger on requests like \"create a newsletter about X\", \"write a weekly digest\", \"generate a tech roundup\", or \"curate news about Y\".",
       "version": "0.0.0",
@@ -2918,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.058Z",
+        "evaluatedAt": "2026-10-11T05:04:56.793Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.058Z",
+          "evaluatedAt": "2026-10-11T05:04:56.795Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3009,12 +3044,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.058Z",
+          "evaluatedAt": "2026-10-11T05:04:56.795Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "8b5e640f8f24741a126d0a824c10a96a8635c3a9997d327200ec3e29c922059b",
+      "sourcePath": "skills/public/podcast-generation/SKILL.md",
       "name": "podcast-generation",
       "description": "Use this skill when the user requests to generate, create, or produce podcasts from text content. Converts written content into a two-host conversational podcast audio format with natural dialogue.",
       "version": "0.0.0",
@@ -3095,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.061Z",
+        "evaluatedAt": "2026-10-11T05:04:56.796Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.061Z",
+          "evaluatedAt": "2026-10-11T05:04:56.802Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3186,12 +3223,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.061Z",
+          "evaluatedAt": "2026-10-11T05:04:56.802Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1c3e00433b754365390c9ffca4fcc12061f42993cc612b68bf77cd778affc090",
+      "sourcePath": "skills/public/ppt-generation/SKILL.md",
       "name": "ppt-generation",
       "description": "Use this skill when the user requests to generate, create, or make presentations (PPT/PPTX). Creates visually rich slides by generating images for each slide and composing them into a PowerPoint file.",
       "version": "0.0.0",
@@ -3272,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.078Z",
+        "evaluatedAt": "2026-10-11T05:04:56.895Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.078Z",
+          "evaluatedAt": "2026-10-11T05:04:56.897Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3363,12 +3402,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.079Z",
+          "evaluatedAt": "2026-10-11T05:04:56.897Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "313a95a145d9926693f8c053b63047212dd1db217c061891865b6546c4e70d02",
+      "sourcePath": "skills/public/skill-creator/SKILL.md",
       "name": "skill-creator",
       "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
       "version": "0.0.0",
@@ -3449,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.081Z",
+        "evaluatedAt": "2026-10-11T05:04:56.897Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.081Z",
+          "evaluatedAt": "2026-10-11T05:04:56.898Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3540,19 +3581,23 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.081Z",
+          "evaluatedAt": "2026-10-11T05:04:56.899Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "68cff70a729660fed0fbf01b9ff4ec408bab83ea4e5997811508dc394e1c185d",
+      "sourcePath": "skills/public/skill-reviewer/SKILL.md",
       "name": "skill-reviewer",
       "description": "Reviews DeerFlow skill packages for readiness, triggers, safety boundaries, resources, and evidence. Invoke when users ask to audit, grade, or production-check an existing skill.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
       "compatibility": "",
-      "allowedTools": ["review_skill_package"],
+      "allowedTools": [
+        "review_skill_package"
+      ],
       "tags": [],
       "dependencies": [],
       "modelInvocable": true,
@@ -3626,7 +3671,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.086Z",
+        "evaluatedAt": "2026-10-11T05:04:56.899Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3699,7 +3744,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.088Z",
+          "evaluatedAt": "2026-10-11T05:04:56.905Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3717,12 +3762,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.086Z",
+          "evaluatedAt": "2026-10-11T05:04:56.905Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6872ae52ec3f701dfad9733a659a718c3039cd768c01ba5ee2edc41a16596a60",
+      "sourcePath": ".agent/skills/smoke-test/SKILL.md",
       "name": "smoke-test",
       "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
       "version": "0.0.0",
@@ -3803,7 +3850,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.099Z",
+        "evaluatedAt": "2026-10-11T05:04:56.913Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3876,7 +3923,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.099Z",
+          "evaluatedAt": "2026-10-11T05:04:56.919Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3894,12 +3941,14 @@
               "max": 2
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.099Z",
+          "evaluatedAt": "2026-10-11T05:04:56.919Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e93e72ca445d112fa46c8b4d1b355cd97a51448ad20693f1279296523944d01a",
+      "sourcePath": "skills/public/surprise-me/SKILL.md",
       "name": "surprise-me",
       "description": "Create a delightful, unexpected \"wow\" experience for the user by dynamically discovering and creatively combining other enabled skills. Triggers when the user says \"surprise me\" or any request expressing a desire for an unexpected creative showcase. Also triggers when the user is bored, wants inspiration, or asks for \"something interesting\".",
       "version": "0.0.0",
@@ -3980,7 +4029,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.101Z",
+        "evaluatedAt": "2026-10-11T05:04:56.940Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4053,7 +4102,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.101Z",
+          "evaluatedAt": "2026-10-11T05:04:56.943Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4071,12 +4120,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.101Z",
+          "evaluatedAt": "2026-10-11T05:04:56.943Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9fe4891e86b29d0f0f192bddab4ff913b123ffd764a2af737a4d6bb334209b6a",
+      "sourcePath": "skills/public/systematic-literature-review/SKILL.md",
       "name": "systematic-literature-review",
       "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
       "version": "0.0.0",
@@ -4157,7 +4208,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.104Z",
+        "evaluatedAt": "2026-10-11T05:04:56.943Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4230,7 +4281,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.106Z",
+          "evaluatedAt": "2026-10-11T05:04:56.944Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4248,12 +4299,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.106Z",
+          "evaluatedAt": "2026-10-11T05:04:56.944Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "feb94ffd40d4b720394725f38440573dcb1f38125f3dfe4eca072ce564bb95a1",
+      "sourcePath": "skills/public/vercel-deploy/SKILL.md",
       "name": "vercel-deploy",
       "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
       "version": "1.0.0",
@@ -4334,7 +4387,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.109Z",
+        "evaluatedAt": "2026-10-11T05:04:56.945Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4407,7 +4460,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.109Z",
+          "evaluatedAt": "2026-10-11T05:04:56.947Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4425,12 +4478,14 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.109Z",
+          "evaluatedAt": "2026-10-11T05:04:56.947Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "cbd6a3ef76c4388312476768fd4a34f0a9bc27ffe594215784b770d4eac7c765",
+      "sourcePath": "skills/public/video-generation/SKILL.md",
       "name": "video-generation",
       "description": "Use this skill when the user requests to generate, create, or imagine videos. Supports structured prompts and reference image for guided generation.",
       "version": "0.0.0",
@@ -4511,7 +4566,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.111Z",
+        "evaluatedAt": "2026-10-11T05:04:57.007Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4584,7 +4639,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.111Z",
+          "evaluatedAt": "2026-10-11T05:04:57.027Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4602,12 +4657,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.111Z",
+          "evaluatedAt": "2026-10-11T05:04:57.026Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f4647ca866a3accf763777f83e7682954f0187cd6bea7eea0399796652414e8f",
+      "sourcePath": "skills/public/web-design-guidelines/SKILL.md",
       "name": "web-design-guidelines",
       "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
       "version": "1.0.0",
@@ -4688,7 +4745,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:42.114Z",
+        "evaluatedAt": "2026-10-11T05:04:57.041Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4761,7 +4818,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.114Z",
+          "evaluatedAt": "2026-10-11T05:04:57.041Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4779,7 +4836,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:42.114Z",
+          "evaluatedAt": "2026-10-11T05:04:57.041Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -4791,7 +4848,7 @@
       "name": "bytedance-deer-flow-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-09-30T20:48:42.547Z",
+      "createdAt": "2026-10-11T05:04:57.498Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4935,7 +4992,7 @@
       "name": "bytedance-deer-flow-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-09-30T20:48:42.547Z",
+      "createdAt": "2026-10-11T05:04:57.498Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5007,7 +5064,7 @@
       "name": "bytedance-deer-flow-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-09-30T20:48:42.547Z",
+      "createdAt": "2026-10-11T05:04:57.498Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5121,7 +5178,7 @@
       "name": "bytedance-deer-flow-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-09-30T20:48:42.547Z",
+      "createdAt": "2026-10-11T05:04:57.498Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5229,7 +5286,7 @@
       "name": "bytedance-deer-flow-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-09-30T20:48:42.547Z",
+      "createdAt": "2026-10-11T05:04:57.498Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5265,7 +5322,7 @@
       "name": "bytedance-deer-flow-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-09-30T20:48:42.547Z",
+      "createdAt": "2026-10-11T05:04:57.498Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5325,7 +5382,7 @@
       "name": "bytedance-deer-flow-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-09-30T20:48:42.547Z",
+      "createdAt": "2026-10-11T05:04:57.498Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5445,7 +5502,7 @@
       "name": "bytedance-deer-flow-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-09-30T20:48:42.547Z",
+      "createdAt": "2026-10-11T05:04:57.498Z",
       "tags": [
         "repo-derived",
         "inferred",

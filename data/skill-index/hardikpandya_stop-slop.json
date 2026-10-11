@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "8da1f030185bdfe8471220585162991eaeb970e9",
   "repoUrl": "https://github.com/hardikpandya/stop-slop.git",
   "owner": "hardikpandya",
   "repo": "stop-slop",
-  "updatedAt": "2026-09-30T20:50:20.319Z",
+  "updatedAt": "2026-10-11T05:06:59.618Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "7432a1d9ebdd42b27666da8458af252edf549f723fb14bcd4791425103930310",
+      "sourcePath": "SKILL.md",
       "name": "stop-slop",
       "description": "Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate predictable AI tells.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:20.318Z",
+        "evaluatedAt": "2026-10-11T05:06:59.615Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:20.318Z",
+          "evaluatedAt": "2026-10-11T05:06:59.615Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:20.318Z",
+          "evaluatedAt": "2026-10-11T05:06:59.615Z",
           "evaluatedVersion": "0.0.0"
         }
       }

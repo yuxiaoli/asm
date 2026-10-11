@@ -1,14 +1,17 @@
 {
+  "sourceCommit": "d631a8827f99414d2b6daba4ef08b7f8701751d7",
   "repoUrl": "https://github.com/pbakaus/impeccable.git",
   "owner": "pbakaus",
   "repo": "impeccable",
-  "updatedAt": "2026-09-30T20:50:12.656Z",
+  "updatedAt": "2026-10-11T05:06:53.604Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "35c883046117a416ca008ad7cbcda912c728a01f99b9a88130c2f0ab4c8d234c",
+      "sourcePath": ".claude/skills/impeccable/SKILL.md",
       "name": "impeccable",
       "description": "Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adapt, animate, colorize, extract, or otherwise improve a frontend interface. Covers websites, landing pages, dashboards, product UI, app shells, components, forms, settings, onboarding, and empty states. Handles UX review, visual hierarchy, information architecture, cognitive load, accessibility, performance, responsive behavior, theming, anti-patterns, typography, fonts, spacing, layout, alignment, color, motion, micro-interactions, UX copy, error states, edge cases, i18n, and reusable design systems or tokens. Also use for bland designs that need to become bolder or more delightful, loud designs that should become quieter, live browser iteration on UI elements, or ambitious visual effects that should feel technically extraordinary. Not for backend-only or non-UI tasks.",
-      "version": "4.4.0",
+      "version": "4.5.2",
       "license": "Apache 2.0",
       "creator": "",
       "compatibility": "",
@@ -20,9 +23,9 @@
       "installUrl": "github:pbakaus/impeccable:.claude/skills/impeccable",
       "relPath": ".claude/skills/impeccable",
       "verified": true,
-      "tokenCount": 3151,
+      "tokenCount": 3278,
       "evalSummary": {
-        "overallScore": 77,
+        "overallScore": 75,
         "grade": "C",
         "categories": [
           {
@@ -46,7 +49,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 9,
+            "score": 7,
             "max": 10
           },
           {
@@ -86,8 +89,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:12.619Z",
-        "evaluatedVersion": "4.4.0"
+        "evaluatedAt": "2026-10-11T05:06:53.550Z",
+        "evaluatedVersion": "4.5.2"
       },
       "evalSummaries": {
         "quality": {
@@ -95,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 75,
+          "overallScore": 73,
           "grade": "C",
           "categories": [
             {
@@ -119,7 +122,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 9,
+              "score": 7,
               "max": 10
             },
             {
@@ -159,8 +162,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:12.619Z",
-          "evaluatedVersion": "4.4.0"
+          "evaluatedAt": "2026-10-11T05:06:53.550Z",
+          "evaluatedVersion": "4.5.2"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -177,8 +180,8 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:12.619Z",
-          "evaluatedVersion": "4.4.0"
+          "evaluatedAt": "2026-10-11T05:06:53.550Z",
+          "evaluatedVersion": "4.5.2"
         }
       }
     }

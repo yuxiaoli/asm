@@ -1,13 +1,16 @@
 {
+  "sourceCommit": "58ab0b98d2d0def8e49dced705c7b566936723ec",
   "repoUrl": "https://github.com/tt-a1i/archify.git",
   "owner": "tt-a1i",
   "repo": "archify",
-  "updatedAt": "2026-09-30T20:50:23.321Z",
+  "updatedAt": "2026-10-11T05:07:01.651Z",
   "skillCount": 2,
   "skills": [
     {
+      "contentHash": "cf348309c5350c285714151a409d7451669fe00f4537824c38038a6e18767b6d",
+      "sourcePath": "archify/SKILL.md",
       "name": "archify",
-      "description": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. Accept plain-language requirements or pasted Mermaid flowchart, sequenceDiagram, and stateDiagram input; inspect repository evidence when the diagram must reflect real code. Use when the user asks to visualize system architecture, infrastructure, cloud/security/network topology, technical workflows, API call sequences, request lifecycles, data pipelines, ETL/ELT, data lineage, state machines, or to convert/beautify Mermaid.",
+      "description": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. Accept plain-language requirements or pasted Mermaid flowchart, sequenceDiagram, and stateDiagram input; inspect repository evidence when the diagram must reflect real code. Use when the user asks to visualize system architecture, infrastructure, cloud/security/network topology, technical workflows, API call sequences, request lifecycles, data pipelines, ETL/ELT, data lineage, state machines, or to convert/beautify Mermaid. Also use for everyday subjects with steps, parts, relationships, or states: a leave or travel plan, an application or approval process, a back-and-forth such as renting, where money or documents go, or where an application or order stands. Not for numeric charts or dashboards.",
       "version": "3.0",
       "license": "MIT",
       "creator": "",
@@ -20,7 +23,7 @@
       "installUrl": "github:tt-a1i/archify:archify",
       "relPath": "archify",
       "verified": true,
-      "tokenCount": 2657,
+      "tokenCount": 2876,
       "evalSummary": {
         "overallScore": 89,
         "grade": "B",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:23.215Z",
+        "evaluatedAt": "2026-10-11T05:07:01.487Z",
         "evaluatedVersion": "3.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:23.215Z",
+          "evaluatedAt": "2026-10-11T05:07:01.487Z",
           "evaluatedVersion": "3.0"
         },
         "skill-best-practice": {
@@ -167,22 +170,24 @@
           "providerVersion": "1.2.0",
           "schemaVersion": 1,
           "passed": false,
-          "overallScore": 79,
-          "grade": "C",
+          "overallScore": 86,
+          "grade": "B",
           "categories": [
             {
               "id": "validation",
               "name": "Deterministic validation",
-              "score": 11,
+              "score": 12,
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:23.215Z",
+          "evaluatedAt": "2026-10-11T05:07:01.487Z",
           "evaluatedVersion": "3.0"
         }
       }
     },
     {
+      "contentHash": "811eb78d69360b741475053a08a0060e60126af2405ffa24afdc0498f17b6cb8",
+      "sourcePath": ".agents/skills/archify-review/SKILL.md",
       "name": "archify-review",
       "description": "Review Archify issues, PRs, or code through value, cost, and impact to support evidence-based maintenance decisions. Use for issue triage, change reviews, and code quality assessments.",
       "version": "0.0.0",
@@ -197,7 +202,7 @@
       "installUrl": "github:tt-a1i/archify:.agents/skills/archify-review",
       "relPath": ".agents/skills/archify-review",
       "verified": true,
-      "tokenCount": 417,
+      "tokenCount": 423,
       "evalSummary": {
         "overallScore": 66,
         "grade": "C",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:23.215Z",
+        "evaluatedAt": "2026-10-11T05:07:01.487Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:23.215Z",
+          "evaluatedAt": "2026-10-11T05:07:01.487Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:23.215Z",
+          "evaluatedAt": "2026-10-11T05:07:01.487Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -366,7 +371,7 @@
       "name": "tt-a1i-archify-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from tt-a1i/archify.",
       "author": "ASM (tt-a1i/archify)",
-      "createdAt": "2026-09-30T20:50:23.321Z",
+      "createdAt": "2026-10-11T05:07:01.651Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -380,7 +385,7 @@
         {
           "name": "archify",
           "installUrl": "github:tt-a1i/archify:archify",
-          "description": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. Accept plain-language requirements or pasted Mermaid flowchart, sequenceDiagram, and stateDiagram input; inspect repository evidence when the diagram must reflect real code. Use when the user asks to visualize system architecture, infrastructure, cloud/security/network topology, technical workflows, API call sequences, request lifecycles, data pipelines, ETL/ELT, data lineage, state machines, or to convert/beautify Mermaid.",
+          "description": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. Accept plain-language requirements or pasted Mermaid flowchart, sequenceDiagram, and stateDiagram input; inspect repository evidence when the diagram must reflect real code. Use when the user asks to visualize system architecture, infrastructure, cloud/security/network topology, technical workflows, API call sequences, request lifecycles, data pipelines, ETL/ELT, data lineage, state machines, or to convert/beautify Mermaid. Also use for everyday subjects with steps, parts, relationships, or states: a leave or travel plan, an application or approval process, a back-and-forth such as renting, where money or documents go, or where an application or order stands. Not for numeric charts or dashboards.",
           "version": "3.0"
         },
         {
@@ -402,7 +407,7 @@
       "name": "tt-a1i-archify-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from tt-a1i/archify.",
       "author": "ASM (tt-a1i/archify)",
-      "createdAt": "2026-09-30T20:50:23.321Z",
+      "createdAt": "2026-10-11T05:07:01.651Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -416,7 +421,7 @@
         {
           "name": "archify",
           "installUrl": "github:tt-a1i/archify:archify",
-          "description": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. Accept plain-language requirements or pasted Mermaid flowchart, sequenceDiagram, and stateDiagram input; inspect repository evidence when the diagram must reflect real code. Use when the user asks to visualize system architecture, infrastructure, cloud/security/network topology, technical workflows, API call sequences, request lifecycles, data pipelines, ETL/ELT, data lineage, state machines, or to convert/beautify Mermaid.",
+          "description": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. Accept plain-language requirements or pasted Mermaid flowchart, sequenceDiagram, and stateDiagram input; inspect repository evidence when the diagram must reflect real code. Use when the user asks to visualize system architecture, infrastructure, cloud/security/network topology, technical workflows, API call sequences, request lifecycles, data pipelines, ETL/ELT, data lineage, state machines, or to convert/beautify Mermaid. Also use for everyday subjects with steps, parts, relationships, or states: a leave or travel plan, an application or approval process, a back-and-forth such as renting, where money or documents go, or where an application or order stands. Not for numeric charts or dashboards.",
           "version": "3.0"
         },
         {
@@ -438,7 +443,7 @@
       "name": "tt-a1i-archify-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from tt-a1i/archify.",
       "author": "ASM (tt-a1i/archify)",
-      "createdAt": "2026-09-30T20:50:23.321Z",
+      "createdAt": "2026-10-11T05:07:01.651Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -452,7 +457,7 @@
         {
           "name": "archify",
           "installUrl": "github:tt-a1i/archify:archify",
-          "description": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. Accept plain-language requirements or pasted Mermaid flowchart, sequenceDiagram, and stateDiagram input; inspect repository evidence when the diagram must reflect real code. Use when the user asks to visualize system architecture, infrastructure, cloud/security/network topology, technical workflows, API call sequences, request lifecycles, data pipelines, ETL/ELT, data lineage, state machines, or to convert/beautify Mermaid.",
+          "description": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as explorable standalone HTML with inline SVG, dark/light themes, optional trace motion, and PNG/JPEG/WebP/SVG/WebM export. Accept plain-language requirements or pasted Mermaid flowchart, sequenceDiagram, and stateDiagram input; inspect repository evidence when the diagram must reflect real code. Use when the user asks to visualize system architecture, infrastructure, cloud/security/network topology, technical workflows, API call sequences, request lifecycles, data pipelines, ETL/ELT, data lineage, state machines, or to convert/beautify Mermaid. Also use for everyday subjects with steps, parts, relationships, or states: a leave or travel plan, an application or approval process, a back-and-forth such as renting, where money or documents go, or where an application or order stands. Not for numeric charts or dashboards.",
           "version": "3.0"
         },
         {

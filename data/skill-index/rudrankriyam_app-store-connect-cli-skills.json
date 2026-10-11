@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "9c7e769f09a18237c9bd9c70f70aef65f0cd0391",
   "repoUrl": "https://github.com/rudrankriyam/app-store-connect-cli-skills.git",
   "owner": "rudrankriyam",
   "repo": "app-store-connect-cli-skills",
-  "updatedAt": "2026-09-30T20:48:13.450Z",
+  "updatedAt": "2026-10-11T05:04:26.750Z",
   "skillCount": 25,
   "skills": [
     {
+      "contentHash": "a090ed8e82bcdcedf3a7ac1b7676e0a298fcf8c91432b04ff9a63f0170c247aa",
+      "sourcePath": "skills/asc-ad-hoc-distribution/SKILL.md",
       "name": "asc-ad-hoc-distribution",
       "description": "Prepare, publish, resume, and verify private iOS release-testing installs with asc distribute. Use when distributing an IPA to registered devices outside TestFlight, reconciling ad hoc profiles, publishing through caller-owned S3-compatible storage, or diagnosing a resumable private distribution run.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.414Z",
+        "evaluatedAt": "2026-10-11T05:04:26.601Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "5045edbc15f5bb3268a334116f221dd3acd70f12ef1d2e111502a6e1bb1e1188",
+      "sourcePath": "skills/asc-analytics-reports/SKILL.md",
       "name": "asc-analytics-reports",
       "description": "Collect, download, and verify App Store Connect Analytics reports with asc. Use when users need to discover analytics report requests, select report instances by processing date or granularity, download every segment, or verify downloaded files against Apple's size and MD5 metadata before analysis.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.414Z",
+        "evaluatedAt": "2026-10-11T05:04:26.598Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b3afdc3ff50fa47fc7a3d7de4d1ce6759518c503c6c12c8300202fc90ed1d237",
+      "sourcePath": "skills/asc-app-create-ui/SKILL.md",
       "name": "asc-app-create-ui",
       "description": "Create a new App Store Connect app record via browser automation. Use when there is no public API for app creation and you need an agent to drive the New App form.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.414Z",
+        "evaluatedAt": "2026-10-11T05:04:26.598Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "2dd8b220d439d2120f676469bcd86788b378e096a90ab7884a4d8d4ae518d60a",
+      "sourcePath": "skills/asc-apple-ads/SKILL.md",
       "name": "asc-apple-ads",
       "description": "Use when managing Apple Ads with asc, including OAuth profiles, ad-account discovery, Platform API v1 campaigns and targeting, reports, assets, recommendations, guarded mutations, raw requests, and Campaign Management API v5 migration.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.414Z",
+        "evaluatedAt": "2026-10-11T05:04:26.598Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7cabafa6277c1b1a2d4f14aae0134d05147040ce887a6a1239ad55e63a017694",
+      "sourcePath": "skills/asc-aso-audit/SKILL.md",
       "name": "asc-aso-audit",
       "description": "Run an offline ASO audit on canonical App Store metadata under `./metadata` and surface keyword gaps using Astro MCP. Use after pulling metadata with `asc metadata pull`.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.416Z",
+        "evaluatedAt": "2026-10-11T05:04:26.601Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.416Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.417Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "254f4f1c7d51616d8de46a46ba60a262983c869994c908c5102682016fb7d6dc",
+      "sourcePath": "skills/asc-build-lifecycle/SKILL.md",
       "name": "asc-build-lifecycle",
       "description": "Track build processing, find latest builds, and clean up old builds with asc. Use when managing build retention or waiting on processing.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.415Z",
+        "evaluatedAt": "2026-10-11T05:04:26.601Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.415Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "34f2c153af557052f51bb85a8503d9de4080b4b7d08c9383f836c4ee4b5d35f6",
+      "sourcePath": "skills/asc-cli-usage/SKILL.md",
       "name": "asc-cli-usage",
       "description": "Guidance for using asc cli in this repo (flags, output formats, pagination, auth, and discovery). Use when asked to run or design asc commands or interact with App Store Connect via the CLI.",
       "version": "0.0.0",
@@ -1082,9 +1097,9 @@
       "installUrl": "github:rudrankriyam/app-store-connect-cli-skills:skills/asc-cli-usage",
       "relPath": "skills/asc-cli-usage",
       "verified": true,
-      "tokenCount": 2176,
+      "tokenCount": 2239,
       "evalSummary": {
-        "overallScore": 74,
+        "overallScore": 75,
         "grade": "C",
         "categories": [
           {
@@ -1108,7 +1123,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 6,
+            "score": 7,
             "max": 10
           },
           {
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.415Z",
+        "evaluatedAt": "2026-10-11T05:04:26.601Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1157,7 +1172,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 72,
+          "overallScore": 73,
           "grade": "C",
           "categories": [
             {
@@ -1181,7 +1196,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 6,
+              "score": 7,
               "max": 10
             },
             {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.416Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.416Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3afc42be148548f93aceb411b595914ab5e945ec5407c9d63b848b681901430c",
+      "sourcePath": "skills/asc-crash-triage/SKILL.md",
       "name": "asc-crash-triage",
       "description": "Triage TestFlight crashes, beta feedback, and performance diagnostics using asc. Use when the user asks about TF crashes, TestFlight crash reports, beta tester feedback, app hangs, disk writes, launch diagnostics, or wants a crash summary for a build or app.",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.415Z",
+        "evaluatedAt": "2026-10-11T05:04:26.601Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.416Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.416Z",
+          "evaluatedAt": "2026-10-11T05:04:26.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "44c892e57e89c28448103e1294a190cfc48cc0b8f162bb34ec068ddad808ea60",
+      "sourcePath": "skills/asc-id-resolver/SKILL.md",
       "name": "asc-id-resolver",
       "description": "Resolve App Store Connect IDs (apps, builds, app and digital-goods versions, groups, testers) from human-friendly names using asc. Use when commands require IDs.",
       "version": "0.0.0",
@@ -1436,7 +1455,7 @@
       "installUrl": "github:rudrankriyam/app-store-connect-cli-skills:skills/asc-id-resolver",
       "relPath": "skills/asc-id-resolver",
       "verified": true,
-      "tokenCount": 855,
+      "tokenCount": 897,
       "evalSummary": {
         "overallScore": 62,
         "grade": "D",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.430Z",
+        "evaluatedAt": "2026-10-11T05:04:26.650Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.653Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.653Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "771f01d1007839fb25739e7b9e36d8077eefa54f92fdef77c883377630773c83",
+      "sourcePath": "skills/asc-localize-metadata/SKILL.md",
       "name": "asc-localize-metadata",
       "description": "Automatically translate and sync App Store metadata (description, keywords, what's new, subtitle) to multiple languages using LLM translation and asc CLI. Use when asked to localize an app's App Store listing, translate app descriptions, or add new languages to App Store Connect.",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.430Z",
+        "evaluatedAt": "2026-10-11T05:04:26.653Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.654Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.654Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1a4b5b2dfc42a6fa95541f5ceff3b1a484c3b4f02eef2f0693237fbd927d9e1a",
+      "sourcePath": "skills/asc-metadata-sync/SKILL.md",
       "name": "asc-metadata-sync",
       "description": "Sync, validate, and apply App Store metadata with the current asc canonical metadata workflow. Use when updating metadata, localizations, keywords, or migrating legacy fastlane metadata.",
       "version": "0.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.430Z",
+        "evaluatedAt": "2026-10-11T05:04:26.650Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.653Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.653Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e3e674725cd8f3fa422ce80c516eb2292b39e888473271b9053391abfd906b82",
+      "sourcePath": "skills/asc-notarization/SKILL.md",
       "name": "asc-notarization",
       "description": "Archive, export, and notarize macOS apps using xcodebuild and asc. Use when you need to prepare a macOS app for distribution outside the App Store with Developer ID signing and Apple notarization.",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.430Z",
+        "evaluatedAt": "2026-10-11T05:04:26.654Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.655Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.655Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1f27077369ea6fd5564f415befea7272ef4ac70ae3677f9b7fc69ade9c28e359",
+      "sourcePath": "skills/asc-ppp-pricing/SKILL.md",
       "name": "asc-ppp-pricing",
       "description": "Set territory-specific pricing for subscriptions and in-app purchases using current asc setup, pricing summary, price import, and price schedule commands. Use when adjusting prices by country or implementing localized PPP strategies.",
       "version": "0.0.0",
@@ -2210,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.430Z",
+        "evaluatedAt": "2026-10-11T05:04:26.653Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.654Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.654Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "0d8132e6cc1828aa5a2d0e10795a11951b9c913cebf68a4f37d91801abd04b97",
+      "sourcePath": "skills/asc-release-flow/SKILL.md",
       "name": "asc-release-flow",
       "description": "Orchestrate App Store releases with asc, including staging a version, uploading or building an artifact, publishing, and submitting for review. Use when the user wants to prepare or execute a release. Keep Game Center item preparation in this skill; route other readiness failures, stuck submissions, cancellation, and retry decisions to asc-submission-health.",
       "version": "0.0.0",
@@ -2321,7 +2350,7 @@
       "installUrl": "github:rudrankriyam/app-store-connect-cli-skills:skills/asc-release-flow",
       "relPath": "skills/asc-release-flow",
       "verified": true,
-      "tokenCount": 2126,
+      "tokenCount": 2240,
       "evalSummary": {
         "overallScore": 72,
         "grade": "C",
@@ -2387,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.430Z",
+        "evaluatedAt": "2026-10-11T05:04:26.653Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.654Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.654Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "45364bcd0c3147b983944143106d23c7688ddf42e8253f8de32c69f4d8e53fbc",
+      "sourcePath": "skills/asc-revenuecat-catalog-sync/SKILL.md",
       "name": "asc-revenuecat-catalog-sync",
       "description": "Reconcile App Store Connect subscriptions and in-app purchases with RevenueCat products, entitlements, offerings, and packages using asc and RevenueCat MCP. Use when setting up or syncing subscription catalogs across ASC and RevenueCat.",
       "version": "0.0.0",
@@ -2564,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.430Z",
+        "evaluatedAt": "2026-10-11T05:04:26.654Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.655Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.430Z",
+          "evaluatedAt": "2026-10-11T05:04:26.655Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "311b549c07d90ef5d0710217fb1936370714250e8edf7e1c74c76156e6a19637",
+      "sourcePath": "skills/asc-screenshot-resize/SKILL.md",
       "name": "asc-screenshot-resize",
       "description": "Resize and validate App Store screenshots with current asc screenshot-size data and macOS sips. Use when preparing or fixing screenshots for App Store Connect submission.",
       "version": "0.0.0",
@@ -2741,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.436Z",
+        "evaluatedAt": "2026-10-11T05:04:26.669Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.436Z",
+          "evaluatedAt": "2026-10-11T05:04:26.670Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,12 +2865,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.436Z",
+          "evaluatedAt": "2026-10-11T05:04:26.670Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "51b8ebd47bef5f86a999bd861d31c3d28bf3b564dda26296b77137bebda71b47",
+      "sourcePath": "skills/asc-shots-pipeline/SKILL.md",
       "name": "asc-shots-pipeline",
       "description": "Orchestrate iOS screenshot automation with xcodebuild/simctl for build-run, AXe for UI actions, JSON settings and plan files, Koubou-based framing (`asc screenshots frame`), and screenshot upload (`asc screenshots upload`). Use when users ask for automated screenshot capture, AXe-driven simulator flows, frame composition, or screenshot-to-upload pipelines.",
       "version": "0.0.0",
@@ -2852,7 +2887,7 @@
       "installUrl": "github:rudrankriyam/app-store-connect-cli-skills:skills/asc-shots-pipeline",
       "relPath": "skills/asc-shots-pipeline",
       "verified": true,
-      "tokenCount": 2702,
+      "tokenCount": 2732,
       "evalSummary": {
         "overallScore": 61,
         "grade": "D",
@@ -2918,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.441Z",
+        "evaluatedAt": "2026-10-11T05:04:26.705Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2991,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.706Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3009,12 +3044,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.706Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "7197b0780904541a62e3ae4949c89425d2dab276b2486285922775de6a81d16a",
+      "sourcePath": "skills/asc-signing-setup/SKILL.md",
       "name": "asc-signing-setup",
       "description": "Set up bundle IDs, capabilities, signing certificates, provisioning profiles, and encrypted signing sync with the asc cli. Use when onboarding a new app, rotating signing assets, or sharing them across a team.",
       "version": "0.0.0",
@@ -3095,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.441Z",
+        "evaluatedAt": "2026-10-11T05:04:26.704Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3168,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.705Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3186,12 +3223,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.705Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e9c66fb0792807e39608a0eb624f70b5360b0b681d08e173fcaca6116b7c4dc1",
+      "sourcePath": "skills/asc-submission-health/SKILL.md",
       "name": "asc-submission-health",
       "description": "Diagnose App Store submission blockers and operate review health with asc, including readiness validation, repair routing, status monitoring, cancellation, and retry decisions. Use when validation fails, a version is not in a valid state, review status is unclear or stuck, or a failed submission must be repaired and retried. For staging, upload, publication, and submission execution, use asc-release-flow.",
       "version": "0.0.0",
@@ -3206,7 +3245,7 @@
       "installUrl": "github:rudrankriyam/app-store-connect-cli-skills:skills/asc-submission-health",
       "relPath": "skills/asc-submission-health",
       "verified": true,
-      "tokenCount": 2278,
+      "tokenCount": 2405,
       "evalSummary": {
         "overallScore": 72,
         "grade": "C",
@@ -3272,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.441Z",
+        "evaluatedAt": "2026-10-11T05:04:26.706Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3345,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.707Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3363,12 +3402,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.707Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c9ddd3b9a8290db5ceaf3d1b432c8e49ddb0d48c463912f512a70b005929fcf8",
+      "sourcePath": "skills/asc-subscription-localization/SKILL.md",
       "name": "asc-subscription-localization",
       "description": "Bulk-localize subscription, subscription-group, and in-app purchase display names across App Store locales using asc, including API 4.4.1 version-scoped v2 resources. Use when filling or updating subscription/IAP names and descriptions without App Store Connect UI work.",
       "version": "0.0.0",
@@ -3383,7 +3424,7 @@
       "installUrl": "github:rudrankriyam/app-store-connect-cli-skills:skills/asc-subscription-localization",
       "relPath": "skills/asc-subscription-localization",
       "verified": true,
-      "tokenCount": 2614,
+      "tokenCount": 2824,
       "evalSummary": {
         "overallScore": 77,
         "grade": "C",
@@ -3449,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.441Z",
+        "evaluatedAt": "2026-10-11T05:04:26.707Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3522,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.707Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3540,12 +3581,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.707Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1cf2ca07e46d7d845a03fd64ba69a17376a9973d91d7ea6ab92908a49c9fd311",
+      "sourcePath": "skills/asc-testflight-orchestration/SKILL.md",
       "name": "asc-testflight-orchestration",
       "description": "Orchestrate TestFlight distribution, groups, testers, and What to Test notes using asc. Use when rolling out betas.",
       "version": "0.0.0",
@@ -3626,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.441Z",
+        "evaluatedAt": "2026-10-11T05:04:26.707Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3699,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.707Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3717,12 +3760,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.441Z",
+          "evaluatedAt": "2026-10-11T05:04:26.707Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d19bfaff35f88b516ee90a4a6a1f645d0255c6192578d0c3fdb05a6227efe999",
+      "sourcePath": "skills/asc-wall-submit/SKILL.md",
       "name": "asc-wall-submit",
       "description": "Submit or update a Wall of Apps entry in the App-Store-Connect-CLI repository using `asc apps wall submit`. Use when the user says \"submit to wall of apps\", \"add my app to the wall\", or \"wall-of-apps\".",
       "version": "0.0.0",
@@ -3803,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.445Z",
+        "evaluatedAt": "2026-10-11T05:04:26.734Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3876,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.446Z",
+          "evaluatedAt": "2026-10-11T05:04:26.735Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3894,12 +3939,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.446Z",
+          "evaluatedAt": "2026-10-11T05:04:26.735Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "592c33a56caf79e60598f48c01be1bac2d4ef57fb9148805993c44383ea8e78d",
+      "sourcePath": "skills/asc-whats-new-writer/SKILL.md",
       "name": "asc-whats-new-writer",
       "description": "Generate engaging, localized App Store release notes (What's New) from git log, bullet points, or free text using canonical metadata under `./metadata`. Optionally pairs with promotional text updates.",
       "version": "0.0.0",
@@ -3980,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.446Z",
+        "evaluatedAt": "2026-10-11T05:04:26.734Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4053,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.446Z",
+          "evaluatedAt": "2026-10-11T05:04:26.735Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4071,12 +4118,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.446Z",
+          "evaluatedAt": "2026-10-11T05:04:26.735Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "ba607f8e533b86fa9b08246615ae15d9daa58bf4d61896d9d7a05f7ef9002922",
+      "sourcePath": "skills/asc-workflow/SKILL.md",
       "name": "asc-workflow",
       "description": "Define, validate, run, resume, and audit repo-local multi-step automations with current `asc workflow` and `.asc/workflow.json`, including step outputs and safe release/TestFlight workflows.",
       "version": "0.0.0",
@@ -4157,7 +4206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.446Z",
+        "evaluatedAt": "2026-10-11T05:04:26.735Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4230,7 +4279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.446Z",
+          "evaluatedAt": "2026-10-11T05:04:26.736Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4248,12 +4297,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.446Z",
+          "evaluatedAt": "2026-10-11T05:04:26.736Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "41e3504f7b4c054e12873989ac784fafb8129458ee2c35aa59e3cda552841224",
+      "sourcePath": "skills/asc-xcode-build/SKILL.md",
       "name": "asc-xcode-build",
       "description": "Build, archive, generate export options, export, upload, and manage Xcode version/build numbers with the current asc xcode helpers. Use when creating an IPA or PKG for App Store Connect, TestFlight, or registered-device release testing.",
       "version": "0.0.0",
@@ -4334,7 +4385,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:13.449Z",
+        "evaluatedAt": "2026-10-11T05:04:26.748Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4407,7 +4458,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.449Z",
+          "evaluatedAt": "2026-10-11T05:04:26.748Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4425,7 +4476,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:13.449Z",
+          "evaluatedAt": "2026-10-11T05:04:26.748Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4437,7 +4488,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4539,7 +4590,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4623,7 +4674,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4797,7 +4848,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4881,7 +4932,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4935,7 +4986,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5085,7 +5136,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5127,7 +5178,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5187,7 +5238,7 @@
       "name": "rudrankriyam-app-store-connect-cli-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from rudrankriyam/app-store-connect-cli-skills.",
       "author": "ASM (rudrankriyam/app-store-connect-cli-skills)",
-      "createdAt": "2026-09-30T20:48:13.450Z",
+      "createdAt": "2026-10-11T05:04:26.750Z",
       "tags": [
         "repo-derived",
         "inferred",

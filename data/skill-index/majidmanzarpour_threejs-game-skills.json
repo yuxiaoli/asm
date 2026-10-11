@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "8286774b22a2566bf894dbc825825c16921866af",
   "repoUrl": "https://github.com/majidmanzarpour/threejs-game-skills.git",
   "owner": "majidmanzarpour",
   "repo": "threejs-game-skills",
-  "updatedAt": "2026-09-30T20:50:26.762Z",
+  "updatedAt": "2026-10-11T05:07:04.133Z",
   "skillCount": 9,
   "skills": [
     {
+      "contentHash": "f0ace24708a44297183d1763534c0f21cc00b12ffa59ff8882f7ffff60e1c1a7",
+      "sourcePath": "skills/threejs-3d-generator/SKILL.md",
       "name": "threejs-3d-generator",
       "description": "Generate, texture, rig, animate, stylize, convert, and download 3D assets for Three.js games via the Tripo API. Use for text-to-3D, image-to-3D, game-ready GLB/FBX, characters, creatures, buildings, props, weapons, terrain, auto-rigging, animation retargeting, model texturing, voxel/LEGO stylization, and low-poly conversion. Pair with threejs-image-generator for concept and texture references first.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.674Z",
+        "evaluatedAt": "2026-10-11T05:07:03.997Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.674Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.674Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6656c3a0c3553cf78e0e64665bd6e697e06eeebbe2276b10538483820688f7b6",
+      "sourcePath": "skills/threejs-aaa-graphics-builder/SKILL.md",
       "name": "threejs-aaa-graphics-builder",
       "description": "Upgrade Three.js games from prototype visuals to premium browser graphics: art-direction critique, procedural model building, material and texture libraries, world prop kits, shaders, VFX, lighting and render pipeline, LOD and instancing, render budgets, and a 10-category visual scorecard. Use when screenshots still look basic or the user asks for premium, AAA, high-fidelity, showcase, or less-basic graphics.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.674Z",
+        "evaluatedAt": "2026-10-11T05:07:03.995Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.674Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.674Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6510cdece14c9652f24930d1281f2d1c2aa56d80ea0f18390028a2de9ac3d3bd",
+      "sourcePath": "skills/threejs-audio-generator/SKILL.md",
       "name": "threejs-audio-generator",
       "description": "Generate, convert, clean, and integrate audio for Three.js browser games with ElevenLabs: sound effects, looping ambience, music tracks and loops (menu, gameplay, boss, victory/defeat stingers), UI sounds, impact/weapon/vehicle audio, creature and boss stingers, announcer and dialogue TTS, voice conversion from a scratch performance, voice cleanup, audio manifests, and Web Audio integration.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.674Z",
+        "evaluatedAt": "2026-10-11T05:07:03.995Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.674Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.674Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1cf28e596eec23a88d310cb9ca3b652aebb3e70f889202ddd5988f591ff243bf",
+      "sourcePath": "skills/threejs-debug-profiler/SKILL.md",
       "name": "threejs-debug-profiler",
       "description": "Debug and profile Three.js browser games: blank canvases, render and runtime bugs, asset and audio loading, animation, resize, mobile input, plus performance profiling of draw calls, triangles, textures, memory, shader and post-processing cost, and bundle size.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.674Z",
+        "evaluatedAt": "2026-10-11T05:07:03.995Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.675Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.675Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "1c7a19cc1af9208bc63913e9b09fd9dbf95511fdb69d5212154aed960bca27e6",
+      "sourcePath": "skills/threejs-game-director/SKILL.md",
       "name": "threejs-game-director",
       "description": "Entrypoint for building, upgrading, and finishing Three.js browser games. Routes work across the sibling threejs-* skills for gameplay, graphics, UI, 3D/image/audio asset generation, debugging, and release. Use for any request to build, upgrade, polish, or ship a Three.js game as a whole, at any scope from a small arcade prototype to a premium release.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.674Z",
+        "evaluatedAt": "2026-10-11T05:07:03.997Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.675Z",
+          "evaluatedAt": "2026-10-11T05:07:03.998Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.675Z",
+          "evaluatedAt": "2026-10-11T05:07:03.998Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "f68b6a0ad4347ed30fb416d3e5d9ee21e63af6c43dc05a3784f3e333f21e4f85",
+      "sourcePath": "skills/threejs-game-ui-designer/SKILL.md",
       "name": "threejs-game-ui-designer",
       "description": "Design premium Three.js game UI: HUDs, menus, overlays, pause/win/lose screens, settings, icon controls, touch UI, typography, responsive layout, safe areas, text fit, and UI/world cohesion.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.675Z",
+        "evaluatedAt": "2026-10-11T05:07:03.995Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.676Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.676Z",
+          "evaluatedAt": "2026-10-11T05:07:03.997Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4d3501c0356673ca99d7559e6b8804bdd8ef79175f546bfdc43bd0ebd4ece245",
+      "sourcePath": "skills/threejs-gameplay-systems/SKILL.md",
       "name": "threejs-gameplay-systems",
       "description": "Build and iterate playable Three.js game systems: starter scaffold, architecture, design briefs, core loops, level and encounter design, entities, input, camera, collision and physics, scoring, objectives, and game feel. Use for first playable slices, new Vite/TypeScript/Three.js setups, level/arena/track/wave/hole/puzzle design, combat encounters, difficulty tuning, and juice.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.675Z",
+        "evaluatedAt": "2026-10-11T05:07:03.997Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.675Z",
+          "evaluatedAt": "2026-10-11T05:07:03.998Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.675Z",
+          "evaluatedAt": "2026-10-11T05:07:03.998Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3abbf9e964133d11bb347ea703ede931ac356f16da29b21499e02f4911117159",
+      "sourcePath": "skills/threejs-image-generator/SKILL.md",
       "name": "threejs-image-generator",
       "description": "Generate and edit 2D image assets for Three.js games with Google's Gemini image API: concept sheets, image-to-3D inputs, texture and material references, sky and background plates, decals, logos, icons, GUI art, title and menu art, and marketing stills. Also use for direct image editing when the user supplies an image path.",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.675Z",
+        "evaluatedAt": "2026-10-11T05:07:03.998Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.675Z",
+          "evaluatedAt": "2026-10-11T05:07:03.998Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.675Z",
+          "evaluatedAt": "2026-10-11T05:07:03.998Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "21042d59f3983e487c436f77ce3be0cba6ac4c183e49b40ed495de3a1cdd2d61",
+      "sourcePath": "skills/threejs-qa-release/SKILL.md",
       "name": "threejs-qa-release",
       "description": "Verify and release Three.js browser games: playtest QA, automated bot playtests, mobile and responsive checks, production builds, static-hosting base paths, debug gating, bundle review, screenshots, visual regression baselines, canvas-pixel inspection with measured metrics, and release risk reports.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:26.690Z",
+        "evaluatedAt": "2026-10-11T05:07:04.067Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.690Z",
+          "evaluatedAt": "2026-10-11T05:07:04.069Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:26.690Z",
+          "evaluatedAt": "2026-10-11T05:07:04.069Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1605,7 +1624,7 @@
       "name": "majidmanzarpour-threejs-game-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from majidmanzarpour/threejs-game-skills.",
       "author": "ASM (majidmanzarpour/threejs-game-skills)",
-      "createdAt": "2026-09-30T20:50:26.762Z",
+      "createdAt": "2026-10-11T05:07:04.133Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1647,7 +1666,7 @@
       "name": "majidmanzarpour-threejs-game-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from majidmanzarpour/threejs-game-skills.",
       "author": "ASM (majidmanzarpour/threejs-game-skills)",
-      "createdAt": "2026-09-30T20:50:26.762Z",
+      "createdAt": "2026-10-11T05:07:04.133Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1689,7 +1708,7 @@
       "name": "majidmanzarpour-threejs-game-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from majidmanzarpour/threejs-game-skills.",
       "author": "ASM (majidmanzarpour/threejs-game-skills)",
-      "createdAt": "2026-09-30T20:50:26.762Z",
+      "createdAt": "2026-10-11T05:07:04.133Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1755,7 +1774,7 @@
       "name": "majidmanzarpour-threejs-game-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from majidmanzarpour/threejs-game-skills.",
       "author": "ASM (majidmanzarpour/threejs-game-skills)",
-      "createdAt": "2026-09-30T20:50:26.762Z",
+      "createdAt": "2026-10-11T05:07:04.133Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1827,7 +1846,7 @@
       "name": "majidmanzarpour-threejs-game-skills-game",
       "description": "Game development, gameplay systems, game UI, 3D assets, and Three.js skills. Derived from majidmanzarpour/threejs-game-skills.",
       "author": "ASM (majidmanzarpour/threejs-game-skills)",
-      "createdAt": "2026-09-30T20:50:26.762Z",
+      "createdAt": "2026-10-11T05:07:04.133Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1905,7 +1924,7 @@
       "name": "majidmanzarpour-threejs-game-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from majidmanzarpour/threejs-game-skills.",
       "author": "ASM (majidmanzarpour/threejs-game-skills)",
-      "createdAt": "2026-09-30T20:50:26.762Z",
+      "createdAt": "2026-10-11T05:07:04.133Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1953,7 +1972,7 @@
       "name": "majidmanzarpour-threejs-game-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from majidmanzarpour/threejs-game-skills.",
       "author": "ASM (majidmanzarpour/threejs-game-skills)",
-      "createdAt": "2026-09-30T20:50:26.762Z",
+      "createdAt": "2026-10-11T05:07:04.133Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1989,7 +2008,7 @@
       "name": "majidmanzarpour-threejs-game-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from majidmanzarpour/threejs-game-skills.",
       "author": "ASM (majidmanzarpour/threejs-game-skills)",
-      "createdAt": "2026-09-30T20:50:26.762Z",
+      "createdAt": "2026-10-11T05:07:04.133Z",
       "tags": [
         "repo-derived",
         "inferred",

@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "000fbf3f36b5e534a0a8d3461cf24f5dc9ae43fe",
   "repoUrl": "https://github.com/Egonex-AI/Understand-Anything.git",
   "owner": "Egonex-AI",
   "repo": "Understand-Anything",
-  "updatedAt": "2026-09-30T20:48:23.152Z",
+  "updatedAt": "2026-10-11T05:04:39.852Z",
   "skillCount": 9,
   "skills": [
     {
+      "contentHash": "12a224cbe2dfdb49c7262949a30b90fdaed784fe436df23fcec45485e663e625",
+      "sourcePath": "understand-anything-plugin/skills/understand/SKILL.md",
       "name": "understand",
       "description": "Analyze a codebase to produce an interactive knowledge graph for understanding architecture, components, and relationships",
       "version": "0.0.0",
@@ -20,7 +23,7 @@
       "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand",
       "relPath": "understand-anything-plugin/skills/understand",
       "verified": true,
-      "tokenCount": 15790,
+      "tokenCount": 15808,
       "evalSummary": {
         "overallScore": 77,
         "grade": "C",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.033Z",
+        "evaluatedAt": "2026-10-11T05:04:39.709Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "5f1da70e0849ec2f3005fc232a95ab5f4b1c09cc062ced13945ce8516ca0e5f7",
+      "sourcePath": "understand-anything-plugin/skills/understand-chat/SKILL.md",
       "name": "understand-chat",
       "description": "Use when you need to ask questions about a codebase or understand code using a knowledge graph",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.033Z",
+        "evaluatedAt": "2026-10-11T05:04:39.708Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d12cb059d8e6139873542111ccec691b0603496675182f5ac826d5b65273331a",
+      "sourcePath": "understand-anything-plugin/skills/understand-dashboard/SKILL.md",
       "name": "understand-dashboard",
       "description": "Launch the interactive web dashboard to visualize a codebase's knowledge graph",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.033Z",
+        "evaluatedAt": "2026-10-11T05:04:39.708Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "fc8dc1b216ee1a480daff421c41c27218d7a0db881d35d0c22e9858de5189379",
+      "sourcePath": "understand-anything-plugin/skills/understand-diff/SKILL.md",
       "name": "understand-diff",
       "description": "Use when you need to analyze git diffs or pull requests to understand what changed, affected components, and risks",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.034Z",
+        "evaluatedAt": "2026-10-11T05:04:39.708Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b2c98c18b579856a70174cb93d2d25330e715a5ac411b4cc354dc8a1daeb01ae",
+      "sourcePath": "understand-anything-plugin/skills/understand-domain/SKILL.md",
       "name": "understand-domain",
       "description": "Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Works standalone (lightweight scan) or derives from an existing /understand knowledge graph.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.033Z",
+        "evaluatedAt": "2026-10-11T05:04:39.708Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.709Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "661389c81c9133e6cdc99ba033678300ba7a7a377031396b259a23dad39496fe",
+      "sourcePath": "understand-anything-plugin/skills/understand-explain/SKILL.md",
       "name": "understand-explain",
       "description": "Use when you need a deep-dive explanation of a specific file, function, or module in the codebase",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.035Z",
+        "evaluatedAt": "2026-10-11T05:04:39.710Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.035Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.035Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b8f76ffb75250a265d609d597c218d1884e220618065240748f2256ef10c475d",
+      "sourcePath": "understand-anything-plugin/skills/understand-figma/SKILL.md",
       "name": "understand-figma",
       "description": "Analyze a Figma file via the Figma REST API and generate an interactive design knowledge graph (pages, screens, components, component sets, instances, design tokens) with a kind:\"design\" dashboard.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.034Z",
+        "evaluatedAt": "2026-10-11T05:04:39.710Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e2b225a82d0fc59a83b8391afe17d1ff7f84acb831d2cf716f0ab583ba09c010",
+      "sourcePath": "understand-anything-plugin/skills/understand-knowledge/SKILL.md",
       "name": "understand-knowledge",
       "description": "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit relationships, and topic clustering.",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.034Z",
+        "evaluatedAt": "2026-10-11T05:04:39.710Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.034Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.035Z",
+          "evaluatedAt": "2026-10-11T05:04:39.710Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e5be45248859ca8255546a18a340bc1556984162f5b1a3f77da1e66136a557b3",
+      "sourcePath": "understand-anything-plugin/skills/understand-onboard/SKILL.md",
       "name": "understand-onboard",
       "description": "Use when you need to generate an onboarding guide for new team members joining a project",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:23.048Z",
+        "evaluatedAt": "2026-10-11T05:04:39.750Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.048Z",
+          "evaluatedAt": "2026-10-11T05:04:39.750Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:23.048Z",
+          "evaluatedAt": "2026-10-11T05:04:39.750Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1605,7 +1624,7 @@
       "name": "egonex-ai-understand-anything-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Egonex-AI/Understand-Anything.",
       "author": "ASM (Egonex-AI/Understand-Anything)",
-      "createdAt": "2026-09-30T20:48:23.152Z",
+      "createdAt": "2026-10-11T05:04:39.852Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1683,7 +1702,7 @@
       "name": "egonex-ai-understand-anything-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Egonex-AI/Understand-Anything.",
       "author": "ASM (Egonex-AI/Understand-Anything)",
-      "createdAt": "2026-09-30T20:48:23.152Z",
+      "createdAt": "2026-10-11T05:04:39.852Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1719,7 +1738,7 @@
       "name": "egonex-ai-understand-anything-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from Egonex-AI/Understand-Anything.",
       "author": "ASM (Egonex-AI/Understand-Anything)",
-      "createdAt": "2026-09-30T20:48:23.152Z",
+      "createdAt": "2026-10-11T05:04:39.852Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1779,7 +1798,7 @@
       "name": "egonex-ai-understand-anything-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from Egonex-AI/Understand-Anything.",
       "author": "ASM (Egonex-AI/Understand-Anything)",
-      "createdAt": "2026-09-30T20:48:23.152Z",
+      "createdAt": "2026-10-11T05:04:39.852Z",
       "tags": [
         "repo-derived",
         "inferred",

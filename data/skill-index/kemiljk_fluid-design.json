@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "667d1189f30a3484413958ee5307af2f06da82d5",
   "repoUrl": "https://github.com/kemiljk/fluid-design.git",
   "owner": "kemiljk",
   "repo": "fluid-design",
-  "updatedAt": "2026-09-30T20:48:01.156Z",
+  "updatedAt": "2026-10-11T05:04:17.345Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "9969a1c3766522d0eb74953475fea9f554c85608cc61970b23f93c7254d389c3",
+      "sourcePath": "skills/fluid-design/SKILL.md",
       "name": "fluid-design",
       "description": "Use this skill whenever building interfaces that should feel physically responsive, alive, and polished. Trigger for spring animations, gesture-driven UI, interruptible animations, physics-based motion, drag interactions, momentum scrolling, layout animations, shared element transitions, spatial UI, micro-interactions, haptic feel, or any request to make an interface feel alive, snappy, smooth, natural, polished, or less static. Also trigger when building interactive components (drawers, sheets, carousels, modals, accordions, reorderable lists) without specified animation, or any interactive prototype, component library, or design system.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:01.153Z",
+        "evaluatedAt": "2026-10-11T05:04:17.342Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:01.153Z",
+          "evaluatedAt": "2026-10-11T05:04:17.342Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:01.153Z",
+          "evaluatedAt": "2026-10-11T05:04:17.342Z",
           "evaluatedVersion": "0.0.0"
         }
       }

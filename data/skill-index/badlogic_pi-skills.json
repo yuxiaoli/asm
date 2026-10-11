@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "90bb51cae36515a648515b633a81c0c6efc8c74d",
   "repoUrl": "https://github.com/badlogic/pi-skills.git",
   "owner": "badlogic",
   "repo": "pi-skills",
-  "updatedAt": "2026-09-30T20:49:55.661Z",
+  "updatedAt": "2026-10-11T05:06:35.165Z",
   "skillCount": 8,
   "skills": [
     {
+      "contentHash": "07bb0b5f54844074b10b90cbcf476f7698e2b19bd6a524b89d2210b592c3ffaa",
+      "sourcePath": "brave-search/SKILL.md",
       "name": "brave-search",
       "description": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-11T05:06:35.102Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.106Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.106Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "abb6f33fc50550b3f4c36378b9b6be09e4d9792b17cf56f8dc80079792543499",
+      "sourcePath": "browser-tools/SKILL.md",
       "name": "browser-tools",
       "description": "Interactive browser automation via Chrome DevTools Protocol. Use when you need to interact with web pages, test frontends, or when user interaction with a visible browser is required.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-11T05:06:35.098Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.103Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.103Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "3a687e1dcd426d21262d0ff6d1e4086e51d69cabc639a685805acc6ec6965573",
+      "sourcePath": "gccli/SKILL.md",
       "name": "gccli",
       "description": "Google Calendar CLI for listing calendars, viewing/creating/updating events, and checking availability.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-11T05:06:35.097Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.103Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.103Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "edc2c2ce421c4bbe66510075136714789d84bc864f3807115316f72c1b1112d9",
+      "sourcePath": "gdcli/SKILL.md",
       "name": "gdcli",
       "description": "Google Drive CLI for listing, searching, uploading, downloading, and sharing files and folders.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-11T05:06:35.097Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.103Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.103Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "5985513a2f07d6c71b9d5ff8ba031d2bac534e8ed9184384b83dda692c12aade",
+      "sourcePath": "gmcli/SKILL.md",
       "name": "gmcli",
       "description": "Gmail CLI for searching emails, reading threads, sending messages, managing drafts, and handling labels/attachments.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-11T05:06:35.097Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.103Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.103Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "45a996d4621ab26bd0e87496237c8c964c25646206fbb5fca11f5d088c7fb2a4",
+      "sourcePath": "transcribe/SKILL.md",
       "name": "transcribe",
       "description": "Local speech-to-text transcription on Apple Silicon macOS. Supports wav directly and other audio formats via ffmpeg.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-11T05:06:35.106Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.107Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.107Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "79607bef813f60c8ab7f79a257b519e469aed6247b24560aaf00d7d48038885b",
+      "sourcePath": "vscode/SKILL.md",
       "name": "vscode",
       "description": "VS Code integration for viewing diffs and comparing files. Use when showing file differences to the user.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-11T05:06:35.103Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.107Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.107Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4ea282a587c90c638199170a08c5a59844438352606d0d5c240723fe855ca6f7",
+      "sourcePath": "youtube-transcript/SKILL.md",
       "name": "youtube-transcript",
       "description": "Fetch transcripts from YouTube videos for summarization and analysis.",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:55.608Z",
+        "evaluatedAt": "2026-10-11T05:06:35.107Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.107Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:55.608Z",
+          "evaluatedAt": "2026-10-11T05:06:35.107Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1428,7 +1445,7 @@
       "name": "badlogic-pi-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from badlogic/pi-skills.",
       "author": "ASM (badlogic/pi-skills)",
-      "createdAt": "2026-09-30T20:49:55.661Z",
+      "createdAt": "2026-10-11T05:06:35.165Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1476,7 +1493,7 @@
       "name": "badlogic-pi-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from badlogic/pi-skills.",
       "author": "ASM (badlogic/pi-skills)",
-      "createdAt": "2026-09-30T20:49:55.661Z",
+      "createdAt": "2026-10-11T05:06:35.165Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1536,7 +1553,7 @@
       "name": "badlogic-pi-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from badlogic/pi-skills.",
       "author": "ASM (badlogic/pi-skills)",
-      "createdAt": "2026-09-30T20:49:55.661Z",
+      "createdAt": "2026-10-11T05:06:35.165Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1572,7 +1589,7 @@
       "name": "badlogic-pi-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from badlogic/pi-skills.",
       "author": "ASM (badlogic/pi-skills)",
-      "createdAt": "2026-09-30T20:49:55.661Z",
+      "createdAt": "2026-10-11T05:06:35.165Z",
       "tags": [
         "repo-derived",
         "inferred",

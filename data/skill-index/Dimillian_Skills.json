@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "05ba982bfeb0d77d3c97d4542b0ee15034d05f84",
   "repoUrl": "https://github.com/Dimillian/Skills.git",
   "owner": "Dimillian",
   "repo": "Skills",
-  "updatedAt": "2026-09-30T20:48:12.592Z",
+  "updatedAt": "2026-10-11T05:04:24.883Z",
   "skillCount": 16,
   "skills": [
     {
+      "contentHash": "3c86eb572b2a67a3f79b4d2eb76ec20683d54bc7fecfac55a7259b0f6fe66723",
+      "sourcePath": "app-store-changelog/SKILL.md",
       "name": "app-store-changelog",
       "description": "Create user-facing App Store release notes by collecting and summarizing all user-impacting changes since the last git tag (or a specified ref). Use when asked to generate a comprehensive release changelog, App Store \"What's New\" text, or release notes based on git history or tags.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.267Z",
+        "evaluatedAt": "2026-10-11T05:04:24.459Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.460Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.460Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "eac37efd6a304de4aee75b2d0f0f7565ba32e132f2c234f39106ceeafc0a536e",
+      "sourcePath": "bug-hunt-swarm/SKILL.md",
       "name": "bug-hunt-swarm",
       "description": "Parallel read-only multi-agent root-cause investigation for bugs, regressions, crashes, flaky behavior, or unexplained failures. Use when the user asks to investigate a bug, find the root cause, trace a regression, understand why something broke, or wants a ranked diagnosis with the fastest proof path without making code edits.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.267Z",
+        "evaluatedAt": "2026-10-11T05:04:24.458Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.459Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.459Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "be99dc6f9fd194f18712e1342e847f4f52db81e18dee6fd049566f402cd9e75a",
+      "sourcePath": "github/SKILL.md",
       "name": "github",
       "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries. Use when the user asks about GitHub issues, pull requests, workflows, or wants to interact with GitHub repositories from the command line — including tasks like check CI status, create PR, list issues, or query the GitHub API.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.267Z",
+        "evaluatedAt": "2026-10-11T05:04:24.458Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.459Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.459Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "07000b6744b8cf21bfa76db3bf76c6d158f9ef16a4a33eee9ce15508a7aa8b2e",
+      "sourcePath": "ios-debugger-agent/SKILL.md",
       "name": "ios-debugger-agent",
       "description": "Use XcodeBuildMCP to build, run, launch, and debug the current iOS project on a booted simulator. Trigger when asked to run an iOS app, interact with the simulator UI, inspect on-screen state, capture logs/console output, or diagnose runtime behavior using XcodeBuildMCP tools.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.267Z",
+        "evaluatedAt": "2026-10-11T05:04:24.458Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.459Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.459Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a9eb12f37a31410ae3e353c8aa34d4e5e9ea421e612541dad5edd774f08c490e",
+      "sourcePath": "macos-menubar-tuist-app/SKILL.md",
       "name": "macos-menubar-tuist-app",
       "description": "Build, refactor, or review macOS menubar apps that use Tuist and SwiftUI. Use when creating or maintaining LSUIElement menubar utilities, defining Tuist targets/manifests, implementing model-client-store-view architecture, adding script-based launch flows, or validating reliable local build/run behavior without Xcode-first workflows.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.267Z",
+        "evaluatedAt": "2026-10-11T05:04:24.458Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.459Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.267Z",
+          "evaluatedAt": "2026-10-11T05:04:24.459Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "a20c790a7153ff519262e04c8d95861ce752d7850f703ae762ee8a477763dd9a",
+      "sourcePath": "macos-spm-app-packaging/SKILL.md",
       "name": "macos-spm-app-packaging",
       "description": "Scaffold, build, and package SwiftPM-based macOS apps without an Xcode project. Use when you need a from-scratch macOS app layout, SwiftPM targets/resources, a custom .app bundle assembly script, or signing/notarization/appcast steps outside Xcode.",
       "version": "0.0.0",
@@ -971,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.268Z",
+        "evaluatedAt": "2026-10-11T05:04:24.460Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.268Z",
+          "evaluatedAt": "2026-10-11T05:04:24.460Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.268Z",
+          "evaluatedAt": "2026-10-11T05:04:24.460Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "b7bd20ed6cdb93a89c4c7c70c21554d838189d310904ca516144036c9cf8d506",
+      "sourcePath": "orchestrate-batch-refactor/SKILL.md",
       "name": "orchestrate-batch-refactor",
       "description": "Plan and execute large refactor or rewrite efforts efficiently with parallel multi-agent analysis and implementation. Use when a user asks to refactor many files, split workstreams, analyze a target code area, and coordinate sub-agents with clear ownership and dependency-aware execution.",
       "version": "0.0.0",
@@ -1148,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.268Z",
+        "evaluatedAt": "2026-10-11T05:04:24.459Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.269Z",
+          "evaluatedAt": "2026-10-11T05:04:24.460Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.269Z",
+          "evaluatedAt": "2026-10-11T05:04:24.460Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "c510076579706cee86f763e5532dbaf9e05dcbeb4283d6fd95d5c5ad68352854",
+      "sourcePath": "project-skill-audit/SKILL.md",
       "name": "project-skill-audit",
       "description": "Analyze a project's past Codex sessions, memory files, and existing local skills to recommend the highest-value skills to create or update. Use when a user asks what skills a project needs, wants skill ideas grounded in real project history, wants an audit of current project-local skills, or wants recommendations for updating stale or incomplete skills instead of creating duplicates.",
       "version": "0.0.0",
@@ -1325,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.268Z",
+        "evaluatedAt": "2026-10-11T05:04:24.460Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.269Z",
+          "evaluatedAt": "2026-10-11T05:04:24.461Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.269Z",
+          "evaluatedAt": "2026-10-11T05:04:24.461Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4d563bd4beca0c67ac85984fc5e05178532307d167c2accfdfc724d7548669de",
+      "sourcePath": "react-component-performance/SKILL.md",
       "name": "react-component-performance",
       "description": "Analyze and optimize React component performance issues (slow renders, re-render thrash, laggy lists, expensive computations). Use when asked to profile or improve a React component, reduce re-renders, or speed up UI updates in React apps.",
       "version": "0.0.0",
@@ -1502,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.279Z",
+        "evaluatedAt": "2026-10-11T05:04:24.514Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.279Z",
+          "evaluatedAt": "2026-10-11T05:04:24.515Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.279Z",
+          "evaluatedAt": "2026-10-11T05:04:24.515Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "4e90a5d3a70fbd3b8fea1d755e8090de6abb13c0fc7c7640e932b7233ccd7cce",
+      "sourcePath": "review-and-simplify-changes/SKILL.md",
       "name": "review-and-simplify-changes",
       "description": "Review a git diff or explicit file scope for reuse, code quality, efficiency, clarity, and standards issues, then optionally apply safe Codex-driven fixes. Use when the user asks to \\\"simplify code\\\", \\\"review changed code\\\", \\\"check for code reuse\\\", \\\"review code quality\\\", \\\"review efficiency\\\", \\\"simplify changes\\\", \\\"clean up code\\\", \\\"refactor changes\\\", or \\\"run simplify\\\".",
       "version": "0.0.0",
@@ -1679,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.279Z",
+        "evaluatedAt": "2026-10-11T05:04:24.514Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.279Z",
+          "evaluatedAt": "2026-10-11T05:04:24.515Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.279Z",
+          "evaluatedAt": "2026-10-11T05:04:24.515Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "da643e5339396e007e37ec2d793b24bcec55f200cbb0d097c99be9f41c7399c8",
+      "sourcePath": "review-swarm/SKILL.md",
       "name": "review-swarm",
       "description": "Parallel read-only multi-agent review of a current git diff or explicit file scope to find behavioral regressions, security or privacy risks, performance or reliability issues, and contract or test coverage gaps. Use when the user asks for a review swarm, parallel review, diff review, regression review, security review, or wants high-signal issues plus a prioritized fix path without editing files.",
       "version": "0.0.0",
@@ -1856,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.279Z",
+        "evaluatedAt": "2026-10-11T05:04:24.514Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.279Z",
+          "evaluatedAt": "2026-10-11T05:04:24.515Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.279Z",
+          "evaluatedAt": "2026-10-11T05:04:24.515Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6444fa364371e70cc52d9810457e132bba8d258c54b2a6464751e294433171bd",
+      "sourcePath": "swift-concurrency-expert/SKILL.md",
       "name": "swift-concurrency-expert",
       "description": "Swift Concurrency review and remediation for Swift 6.2+. Use when asked to review Swift Concurrency usage, improve concurrency compliance, or fix Swift concurrency compiler errors in a feature or file. Concrete actions include adding Sendable conformance, applying @MainActor annotations, resolving actor isolation warnings, fixing data race diagnostics, and migrating completion handlers to async/await.",
       "version": "0.0.0",
@@ -2033,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.279Z",
+        "evaluatedAt": "2026-10-11T05:04:24.516Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.279Z",
+          "evaluatedAt": "2026-10-11T05:04:24.516Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.279Z",
+          "evaluatedAt": "2026-10-11T05:04:24.516Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "53dfbe810cf2044b9c9fff5b2b9d9888053ac24b7d72e63258df8859571bc599",
+      "sourcePath": "swiftui-liquid-glass/SKILL.md",
       "name": "swiftui-liquid-glass",
       "description": "Implement, review, or improve SwiftUI features using the iOS 26+ Liquid Glass API. Use when asked to adopt Liquid Glass in new SwiftUI UI, refactor an existing feature to Liquid Glass, or review Liquid Glass usage for correctness, performance, and design alignment.",
       "version": "0.0.0",
@@ -2210,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.279Z",
+        "evaluatedAt": "2026-10-11T05:04:24.516Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.280Z",
+          "evaluatedAt": "2026-10-11T05:04:24.517Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.280Z",
+          "evaluatedAt": "2026-10-11T05:04:24.517Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6cfb3f9f3e1938aca3eb1cf3ac9f265cca15559b0c9b3dcd3ab2e580be3cea2f",
+      "sourcePath": "swiftui-performance-audit/SKILL.md",
       "name": "swiftui-performance-audit",
       "description": "Audit and improve SwiftUI runtime performance from code review and architecture. Use for requests to diagnose slow rendering, janky scrolling, high CPU/memory usage, excessive view updates, or layout thrash in SwiftUI apps, and to provide guidance for user-run Instruments profiling when code review alone is insufficient.",
       "version": "0.0.0",
@@ -2387,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.286Z",
+        "evaluatedAt": "2026-10-11T05:04:24.554Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2460,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.286Z",
+          "evaluatedAt": "2026-10-11T05:04:24.555Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2478,12 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.286Z",
+          "evaluatedAt": "2026-10-11T05:04:24.555Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "adbc12e85a56643b41ee3649d24db37f00fd8163c70727f5947b38f3cb5760f2",
+      "sourcePath": "swiftui-ui-patterns/SKILL.md",
       "name": "swiftui-ui-patterns",
       "description": "Best practices and example-driven guidance for building SwiftUI views and components, including navigation hierarchies, custom view modifiers, and responsive layouts with stacks and grids. Use when creating or refactoring SwiftUI UI, designing tab architecture with TabView, composing screens with VStack/HStack, managing @State or @Binding, building declarative iOS interfaces, or needing component-specific patterns and examples.",
       "version": "0.0.0",
@@ -2564,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.287Z",
+        "evaluatedAt": "2026-10-11T05:04:24.564Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2637,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.287Z",
+          "evaluatedAt": "2026-10-11T05:04:24.569Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2655,12 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.287Z",
+          "evaluatedAt": "2026-10-11T05:04:24.569Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "5a9bac2cc642e97253891285a553b8cc3ffa31b46d6573c4c9d37eb7735d0083",
+      "sourcePath": "swiftui-view-refactor/SKILL.md",
       "name": "swiftui-view-refactor",
       "description": "Refactor and review SwiftUI view files with strong defaults for small dedicated subviews, MV-over-MVVM data flow, stable view trees, explicit dependency injection, and correct Observation usage. Use when cleaning up a SwiftUI view, splitting long bodies, removing inline actions or side effects, reducing computed `some View` helpers, or standardizing `@Observable` and view model initialization patterns.",
       "version": "0.0.0",
@@ -2741,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:48:12.289Z",
+        "evaluatedAt": "2026-10-11T05:04:24.575Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2814,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.290Z",
+          "evaluatedAt": "2026-10-11T05:04:24.576Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2832,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:48:12.290Z",
+          "evaluatedAt": "2026-10-11T05:04:24.576Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2844,7 +2877,7 @@
       "name": "dimillian-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Dimillian/Skills.",
       "author": "ASM (Dimillian/Skills)",
-      "createdAt": "2026-09-30T20:48:12.592Z",
+      "createdAt": "2026-10-11T05:04:24.883Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2910,7 +2943,7 @@
       "name": "dimillian-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Dimillian/Skills.",
       "author": "ASM (Dimillian/Skills)",
-      "createdAt": "2026-09-30T20:48:12.592Z",
+      "createdAt": "2026-10-11T05:04:24.883Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2988,7 +3021,7 @@
       "name": "dimillian-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from Dimillian/Skills.",
       "author": "ASM (Dimillian/Skills)",
-      "createdAt": "2026-09-30T20:48:12.592Z",
+      "createdAt": "2026-10-11T05:04:24.883Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3096,7 +3129,7 @@
       "name": "dimillian-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from Dimillian/Skills.",
       "author": "ASM (Dimillian/Skills)",
-      "createdAt": "2026-09-30T20:48:12.592Z",
+      "createdAt": "2026-10-11T05:04:24.883Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3168,7 +3201,7 @@
       "name": "dimillian-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from Dimillian/Skills.",
       "author": "ASM (Dimillian/Skills)",
-      "createdAt": "2026-09-30T20:48:12.592Z",
+      "createdAt": "2026-10-11T05:04:24.883Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3246,7 +3279,7 @@
       "name": "dimillian-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from Dimillian/Skills.",
       "author": "ASM (Dimillian/Skills)",
-      "createdAt": "2026-09-30T20:48:12.592Z",
+      "createdAt": "2026-10-11T05:04:24.883Z",
       "tags": [
         "repo-derived",
         "inferred",

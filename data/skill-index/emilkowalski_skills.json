@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "e8a175de22ae1e49370fc144c1f3bb9aeedf988d",
   "repoUrl": "https://github.com/emilkowalski/skills.git",
   "owner": "emilkowalski",
   "repo": "skills",
-  "updatedAt": "2026-09-30T20:49:58.469Z",
-  "skillCount": 13,
+  "updatedAt": "2026-10-11T05:06:37.453Z",
+  "skillCount": 14,
   "skills": [
     {
+      "contentHash": "b8ede161270458e6ae2e45e8a1985373515d4c63de5568ddb0f9012d7634356c",
+      "sourcePath": "skills/animate/SKILL.md",
       "name": "animate",
       "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. Writes the implementation. Use when asked to animate something, add motion, make a component feel alive, or build a transition. For critiquing existing motion use review-animations; for auditing a whole codebase use improve-animations.",
       "version": "0.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.440Z",
+        "evaluatedAt": "2026-10-11T05:06:37.379Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.442Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.442Z",
+          "evaluatedAt": "2026-10-11T05:06:37.380Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "9a01a91701e6563c67677dde6b66ab30f066a5341d42c21a90ba51d99679274a",
+      "sourcePath": "skills/animate-expo/SKILL.md",
       "name": "animate-expo",
       "description": "Build animations in React Native and Expo, making the decisions in the order that determines whether they feel right — should it animate, which thread it runs on, which properties, spring or timing, how the gesture hands off, how it degrades. Writes the implementation with Reanimated, Gesture Handler, Expo Router and expo-haptics. Use when animating anything in an Expo app, adding gestures, sheets, screen transitions, press feedback or haptics, or fixing motion that stutters on device. For web animation use `animate`.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.441Z",
+        "evaluatedAt": "2026-10-11T05:06:37.375Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.442Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,12 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.442Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "40d2b27adfdfeb0570a9f20e7d0255109d9233c50603878bcd0dcd04c923fd94",
+      "sourcePath": "skills/animation-vocabulary/SKILL.md",
       "name": "animation-vocabulary",
       "description": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a popover opens\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding). Use when the user asks \"what's it called when…\", or describes a motion effect without knowing its name and wants the right word to prompt an AI or designer with. For naming an effect, not designing or building one.",
       "version": "0.0.0",
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.441Z",
+        "evaluatedAt": "2026-10-11T05:06:37.375Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.442Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -531,12 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.442Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "77bb63b7043bb93aca2ff4ab040c249484eef35682bb6ff7163433c31d30adc7",
+      "sourcePath": "skills/apple-design/SKILL.md",
       "name": "apple-design",
       "description": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI, spring animations, drag/swipe/sheet interactions, momentum and interruptible transitions, translucent materials and depth, typography (optical sizing, tracking, leading), reduced-motion, or the design foundations (feedback, spatial consistency, restraint) behind Apple-style interfaces.",
       "version": "0.0.0",
@@ -617,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.444Z",
+        "evaluatedAt": "2026-10-11T05:06:37.375Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -690,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -708,12 +717,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "39f3ee185b3aa2cf70a689052ff078953ce7ba5915ed7a9391d232e9d4dcf57f",
+      "sourcePath": "skills/ask-sonner/SKILL.md",
       "name": "ask-sonner",
       "description": "Guide to Sonner, the React toast library — install and wire up the Toaster, pick the right toast() call, promise and loading toasts, updating, dismissing and persisting toasts, styling, theming and icons, positioning and multiple toasters. Use when working with Sonner or troubleshooting it — toasts that don't appear, appear twice, lose their styles, ignore Tailwind classes, sit behind a modal, or don't follow dark mode.",
       "version": "0.0.0",
@@ -794,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.442Z",
+        "evaluatedAt": "2026-10-11T05:06:37.375Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -867,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,12 +896,193 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.379Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "e7eec1d70ac56a04255e9c0dbe98084ea3d544cc04aaad34f32c95d6fa9dff5e",
+      "sourcePath": "skills/break-ui/SKILL.md",
+      "name": "break-ui",
+      "description": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts, zero items, long labels, non-Latin text, emoji, extreme numbers — then render it behind a \"Demo data / Worst case\" toggle and report everything that broke, with the fix for each. Use when the user asks to stress-test, break, or find edge cases in a component or screen, or to \"try the worst case\". For visual design critique use emil-design-eng; for motion use review-animations.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:emilkowalski/skills:skills/break-ui",
+      "relPath": "skills/break-ui",
+      "verified": true,
+      "tokenCount": 4789,
+      "evalSummary": {
+        "overallScore": 69,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-11T05:06:37.379Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 67,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "ffbe68e6007fb42cb8149f089b400a1ca007d59ba23e8948e2be4476f3175939",
+      "sourcePath": "skills/emil-design-eng/SKILL.md",
       "name": "emil-design-eng",
       "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
       "version": "0.0.0",
@@ -971,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.442Z",
+        "evaluatedAt": "2026-10-11T05:06:37.379Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1044,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.380Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,12 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.380Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "d52a377819b84a71930f0c822cfe2849f40301605a2d5c7eccbfa3b257700df2",
+      "sourcePath": "skills/find-animation-opportunities/SKILL.md",
       "name": "find-animation-opportunities",
       "description": "Search a codebase or UI for places that don't animate but should, and reject everything that shouldn't. Read-only; it proposes motion with exact values, it does not implement it. Use when the user asks \"what could be animated here?\" or wants to \"make this feel more alive\". For fixing existing animations, use improve-animations or review-animations instead.",
       "version": "0.0.0",
@@ -1148,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.442Z",
+        "evaluatedAt": "2026-10-11T05:06:37.379Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1221,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.380Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1239,12 +1433,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.380Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "73962447464433476343e2c12cd08ab39cc99a9e5f3c118c5fb54ed897574ef6",
+      "sourcePath": "skills/improve-animations/SKILL.md",
       "name": "improve-animations",
       "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained implementation plans for other agents (or cheaper models) to execute. Read-only on source code — it plans improvements, it does not apply them. Use when the user asks to \"improve the animations\", \"audit the motion\", \"make this app feel better\", or wants a roadmap of animation fixes rather than a review of a single diff.",
       "version": "0.0.0",
@@ -1325,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.444Z",
+        "evaluatedAt": "2026-10-11T05:06:37.421Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1398,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.424Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1416,12 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.444Z",
+          "evaluatedAt": "2026-10-11T05:06:37.424Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "888b7651d66d66dbac4e72b7c554638eb19bd971d686d6cbdf030a5ef3788f55",
+      "sourcePath": "skills/mobile-native/SKILL.md",
       "name": "mobile-native",
       "description": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels installed. Covers sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, pull-to-refresh hijacking scroll, content under the notch, long-press selecting button text, carousels that scroll the wrong way, mismatched status bars, and the rule that you test on real hardware. Use when a web app is being built for or reviewed on mobile, when something \"works in Chrome but feels wrong on my phone\", when building a PWA, a bottom sheet, a carousel, a full-screen layout, or any touch interaction. For motion itself use animate; for React Native use animate-expo.",
       "version": "0.0.0",
@@ -1502,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.458Z",
+        "evaluatedAt": "2026-10-11T05:06:37.435Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1575,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.458Z",
+          "evaluatedAt": "2026-10-11T05:06:37.436Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1593,12 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.458Z",
+          "evaluatedAt": "2026-10-11T05:06:37.436Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "675fdce308683256ed617351a9b74d23457a5fbd0a562d9831b9c764b8c5e682",
+      "sourcePath": "skills/pick-ui-library/SKILL.md",
       "name": "pick-ui-library",
       "description": "Pick the right library for a given frontend task from a curated, opinionated list — numbers, OTP inputs, charts, command menus, virtualization, drag and drop, toasts, state, styling, and more. Only runs when explicitly invoked; it does not trigger on its own.",
       "version": "0.0.0",
@@ -1679,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.458Z",
+        "evaluatedAt": "2026-10-11T05:06:37.434Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1752,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.458Z",
+          "evaluatedAt": "2026-10-11T05:06:37.436Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1770,12 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.458Z",
+          "evaluatedAt": "2026-10-11T05:06:37.436Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "bba39c955eb1871c5a02733976ceec5d0324198e0812e667604756489c89f7b9",
+      "sourcePath": "skills/prototype/SKILL.md",
       "name": "prototype",
       "description": "Build multiple genuinely different versions of a UI piece you describe, rendered behind a visual picker so you can flip through them live and promote the one that feels right. Only runs when explicitly invoked; it does not trigger on its own.",
       "version": "0.0.0",
@@ -1856,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.458Z",
+        "evaluatedAt": "2026-10-11T05:06:37.436Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1929,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.459Z",
+          "evaluatedAt": "2026-10-11T05:06:37.438Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1947,12 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.459Z",
+          "evaluatedAt": "2026-10-11T05:06:37.438Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "6ff590d29e436766135aa3d137be1fac2a867165c7257fc315b189361f1873af",
+      "sourcePath": "skills/review-animations/SKILL.md",
       "name": "review-animations",
       "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.",
       "version": "0.0.0",
@@ -2033,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.462Z",
+        "evaluatedAt": "2026-10-11T05:06:37.440Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2106,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.462Z",
+          "evaluatedAt": "2026-10-11T05:06:37.441Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2124,12 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.462Z",
+          "evaluatedAt": "2026-10-11T05:06:37.441Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "16a4b6adb74e338e55e704ce5753ad54d825438b8a63930eeaede9f3c04c9447",
+      "sourcePath": "skills/write-swift/SKILL.md",
       "name": "write-swift",
       "description": "How to write modern Swift well — modeling with value types, Swift 6 data-race safety and approachable concurrency (@concurrent, main-actor-by-default, actors, task groups), protocols and generics (some vs any), API design, performance and ARC, Swift Testing, macros, and the modern language features agents don't know about yet. Use when writing, reviewing, or migrating Swift, or when a concurrency error, a hang, a data race, a retain cycle, or a performance problem needs fixing.",
       "version": "0.0.0",
@@ -2210,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:49:58.462Z",
+        "evaluatedAt": "2026-10-11T05:06:37.441Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2283,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.462Z",
+          "evaluatedAt": "2026-10-11T05:06:37.441Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2301,7 +2507,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:49:58.462Z",
+          "evaluatedAt": "2026-10-11T05:06:37.441Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2313,7 +2519,7 @@
       "name": "emilkowalski-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-09-30T20:49:58.469Z",
+      "createdAt": "2026-10-11T05:06:37.453Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2340,6 +2546,12 @@
           "name": "ask-sonner",
           "installUrl": "github:emilkowalski/skills:skills/ask-sonner",
           "description": "Guide to Sonner, the React toast library — install and wire up the Toaster, pick the right toast() call, promise and loading toasts, updating, dismissing and persisting toasts, styling, theming and icons, positioning and multiple toasters. Use when working with Sonner or troubleshooting it — toasts that don't appear, appear twice, lose their styles, ignore Tailwind classes, sit behind a modal, or don't follow dark mode.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "break-ui",
+          "installUrl": "github:emilkowalski/skills:skills/break-ui",
+          "description": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts, zero items, long labels, non-Latin text, emoji, extreme numbers — then render it behind a \"Demo data / Worst case\" toggle and report everything that broke, with the fix for each. Use when the user asks to stress-test, break, or find edge cases in a component or screen, or to \"try the worst case\". For visual design critique use emil-design-eng; for motion use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2379,7 +2591,7 @@
       "name": "emilkowalski-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-09-30T20:49:58.469Z",
+      "createdAt": "2026-10-11T05:06:37.453Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2433,7 +2645,7 @@
       "name": "emilkowalski-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-09-30T20:49:58.469Z",
+      "createdAt": "2026-10-11T05:06:37.453Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2466,6 +2678,12 @@
           "name": "apple-design",
           "installUrl": "github:emilkowalski/skills:skills/apple-design",
           "description": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI, spring animations, drag/swipe/sheet interactions, momentum and interruptible transitions, translucent materials and depth, typography (optical sizing, tracking, leading), reduced-motion, or the design foundations (feedback, spatial consistency, restraint) behind Apple-style interfaces.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "break-ui",
+          "installUrl": "github:emilkowalski/skills:skills/break-ui",
+          "description": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts, zero items, long labels, non-Latin text, emoji, extreme numbers — then render it behind a \"Demo data / Worst case\" toggle and report everything that broke, with the fix for each. Use when the user asks to stress-test, break, or find edge cases in a component or screen, or to \"try the worst case\". For visual design critique use emil-design-eng; for motion use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2523,7 +2741,7 @@
       "name": "emilkowalski-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-09-30T20:49:58.469Z",
+      "createdAt": "2026-10-11T05:06:37.453Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2562,6 +2780,12 @@
           "name": "ask-sonner",
           "installUrl": "github:emilkowalski/skills:skills/ask-sonner",
           "description": "Guide to Sonner, the React toast library — install and wire up the Toaster, pick the right toast() call, promise and loading toasts, updating, dismissing and persisting toasts, styling, theming and icons, positioning and multiple toasters. Use when working with Sonner or troubleshooting it — toasts that don't appear, appear twice, lose their styles, ignore Tailwind classes, sit behind a modal, or don't follow dark mode.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "break-ui",
+          "installUrl": "github:emilkowalski/skills:skills/break-ui",
+          "description": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts, zero items, long labels, non-Latin text, emoji, extreme numbers — then render it behind a \"Demo data / Worst case\" toggle and report everything that broke, with the fix for each. Use when the user asks to stress-test, break, or find edge cases in a component or screen, or to \"try the worst case\". For visual design critique use emil-design-eng; for motion use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2619,7 +2843,7 @@
       "name": "emilkowalski-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-09-30T20:49:58.469Z",
+      "createdAt": "2026-10-11T05:06:37.453Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2661,7 +2885,7 @@
       "name": "emilkowalski-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-09-30T20:49:58.469Z",
+      "createdAt": "2026-10-11T05:06:37.453Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2703,7 +2927,7 @@
       "name": "emilkowalski-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-09-30T20:49:58.469Z",
+      "createdAt": "2026-10-11T05:06:37.453Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2724,6 +2948,12 @@
           "name": "apple-design",
           "installUrl": "github:emilkowalski/skills:skills/apple-design",
           "description": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI, spring animations, drag/swipe/sheet interactions, momentum and interruptible transitions, translucent materials and depth, typography (optical sizing, tracking, leading), reduced-motion, or the design foundations (feedback, spatial consistency, restraint) behind Apple-style interfaces.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "break-ui",
+          "installUrl": "github:emilkowalski/skills:skills/break-ui",
+          "description": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts, zero items, long labels, non-Latin text, emoji, extreme numbers — then render it behind a \"Demo data / Worst case\" toggle and report everything that broke, with the fix for each. Use when the user asks to stress-test, break, or find edge cases in a component or screen, or to \"try the worst case\". For visual design critique use emil-design-eng; for motion use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2769,7 +2999,7 @@
       "name": "emilkowalski-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-09-30T20:49:58.469Z",
+      "createdAt": "2026-10-11T05:06:37.453Z",
       "tags": [
         "repo-derived",
         "inferred",

@@ -1,13 +1,16 @@
 {
+  "sourceCommit": "9b58c1ffb790c075ca32e70a89cf1d80588f4abf",
   "repoUrl": "https://github.com/DietrichGebert/ponytail.git",
   "owner": "DietrichGebert",
   "repo": "ponytail",
-  "updatedAt": "2026-09-30T20:50:25.815Z",
+  "updatedAt": "2026-10-11T05:07:03.449Z",
   "skillCount": 6,
   "skills": [
     {
+      "contentHash": "ba68ff26239c3c3b05b2a9a47ee0d9a6b93a69639a2555ec87a5d44bffaf2f0c",
+      "sourcePath": "skills/ponytail/SKILL.md",
       "name": "ponytail",
-      "description": "Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior dev who has seen everything: question whether the task needs to exist at all (YAGNI), reach for the standard library before custom code, native platform features before dependencies, one line before fifty. Supports intensity levels: lite, full (default), ultra. Use on ANY coding task: writing, adding, refactoring, fixing, reviewing, or designing code, and choosing libraries or dependencies. Also use whenever the user says \"ponytail\", \"be lazy\", \"lazy mode\", \"simplest solution\", \"minimal solution\", \"yagni\", \"do less\", or \"shortest path\", or complains about over-engineering, bloat, boilerplate, or unnecessary dependencies. Do NOT use for non-coding requests (general knowledge, prose, translation, summaries, recipes).",
+      "description": "Lazy senior dev mode: the smallest change that fully solves the task, and a reply a busy human understands in one read. Use on any coding task (writing, fixing, refactoring, reviewing, choosing dependencies) and when the user says \"ponytail\", \"be lazy\", \"simplest solution\", \"yagni\", or complains about over-engineering or bloat. Levels: lite, full (default), ultra.",
       "version": "0.0.0",
       "license": "MIT",
       "creator": "",
@@ -20,9 +23,9 @@
       "installUrl": "github:DietrichGebert/ponytail:skills/ponytail",
       "relPath": "skills/ponytail",
       "verified": true,
-      "tokenCount": 2087,
+      "tokenCount": 1154,
       "evalSummary": {
-        "overallScore": 74,
+        "overallScore": 75,
         "grade": "C",
         "categories": [
           {
@@ -34,13 +37,13 @@
           {
             "id": "description",
             "name": "Description quality",
-            "score": 3,
+            "score": 5,
             "max": 10
           },
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 5,
+            "score": 4,
             "max": 10
           },
           {
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:25.812Z",
+        "evaluatedAt": "2026-10-11T05:07:03.442Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -95,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 74,
+          "overallScore": 75,
           "grade": "C",
           "categories": [
             {
@@ -107,13 +110,13 @@
             {
               "id": "description",
               "name": "Description quality",
-              "score": 3,
+              "score": 5,
               "max": 10
             },
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 5,
+              "score": 4,
               "max": 10
             },
             {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
+          "evaluatedAt": "2026-10-11T05:07:03.442Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,14 +180,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
+          "evaluatedAt": "2026-10-11T05:07:03.442Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "2b3223a02c386d1263e1b08343cb8eb3a53e444cdafb1d79e26c8ec2a8fcad28",
+      "sourcePath": "skills/ponytail-audit/SKILL.md",
       "name": "ponytail-audit",
-      "description": "Whole-repo audit for over-engineering. Like ponytail-review, but scans the entire codebase instead of a diff: a ranked list of what to delete, simplify, or replace with stdlib/native equivalents. Use when the user says \"audit this codebase\", \"audit for over-engineering\", \"what can I delete from this repo\", \"find bloat\", \"ponytail-audit\", or \"/ponytail-audit\". One-shot report, does not apply fixes.",
+      "description": "Quality audit of a whole repo: bugs, security holes, what breaks under real load, risky code without tests, slow paths, and what to delete, merge or split. Ranked, each finding explained in plain English. One-shot report, changes nothing. Use for \"audit this codebase\", \"review the whole repo\", \"find bloat\", \"what can I delete\", /ponytail-audit.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -197,10 +202,10 @@
       "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-audit",
       "relPath": "skills/ponytail-audit",
       "verified": true,
-      "tokenCount": 449,
+      "tokenCount": 1829,
       "evalSummary": {
-        "overallScore": 54,
-        "grade": "D",
+        "overallScore": 67,
+        "grade": "C",
         "categories": [
           {
             "id": "structure",
@@ -217,25 +222,25 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 3,
+            "score": 4,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 6,
+            "score": 9,
             "max": 10
           },
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 3,
+            "score": 7,
             "max": 10
           },
           {
             "id": "testability",
             "name": "Testability",
-            "score": 0,
+            "score": 7,
             "max": 10
           },
           {
@@ -247,7 +252,7 @@
           {
             "id": "naming",
             "name": "Naming & conventions",
-            "score": 10,
+            "score": 8,
             "max": 10
           },
           {
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:25.812Z",
+        "evaluatedAt": "2026-10-11T05:07:03.442Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -272,8 +277,8 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 54,
-          "grade": "D",
+          "overallScore": 67,
+          "grade": "C",
           "categories": [
             {
               "id": "structure",
@@ -290,25 +295,25 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 3,
+              "score": 4,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 6,
+              "score": 9,
               "max": 10
             },
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 3,
+              "score": 7,
               "max": 10
             },
             {
               "id": "testability",
               "name": "Testability",
-              "score": 0,
+              "score": 7,
               "max": 10
             },
             {
@@ -320,7 +325,7 @@
             {
               "id": "naming",
               "name": "Naming & conventions",
-              "score": 10,
+              "score": 8,
               "max": 10
             },
             {
@@ -336,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
+          "evaluatedAt": "2026-10-11T05:07:03.443Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,14 +359,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
+          "evaluatedAt": "2026-10-11T05:07:03.443Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "63168f0e1475affb1211bc004261aa51a037f79e484571aae484bf27fe4d17c2",
+      "sourcePath": "skills/ponytail-debt/SKILL.md",
       "name": "ponytail-debt",
-      "description": "Harvest every `ponytail:` comment in the codebase into a debt ledger, so the deliberate shortcuts and deferrals ponytail leaves behind get tracked instead of rotting into \"later means never\". Use when the user says \"ponytail debt\", \"/ponytail-debt\", \"what did ponytail defer\", \"list the shortcuts\", \"ponytail ledger\", or \"what did we mark to do later\". One-shot report, changes nothing.",
+      "description": "List every `shortcut:` comment (and older `ponytail:` ones) as a debt ledger. One-shot report, changes nothing. Use for \"ponytail debt\", \"what did ponytail defer\", \"list the shortcuts\", /ponytail-debt.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -374,9 +381,9 @@
       "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-debt",
       "relPath": "skills/ponytail-debt",
       "verified": true,
-      "tokenCount": 502,
+      "tokenCount": 514,
       "evalSummary": {
-        "overallScore": 51,
+        "overallScore": 56,
         "grade": "D",
         "categories": [
           {
@@ -388,7 +395,7 @@
           {
             "id": "description",
             "name": "Description quality",
-            "score": 5,
+            "score": 10,
             "max": 10
           },
           {
@@ -440,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:25.812Z",
+        "evaluatedAt": "2026-10-11T05:07:03.442Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -449,7 +456,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 51,
+          "overallScore": 56,
           "grade": "D",
           "categories": [
             {
@@ -461,7 +468,7 @@
             {
               "id": "description",
               "name": "Description quality",
-              "score": 5,
+              "score": 10,
               "max": 10
             },
             {
@@ -513,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
+          "evaluatedAt": "2026-10-11T05:07:03.443Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -521,24 +528,26 @@
           "providerVersion": "1.2.0",
           "schemaVersion": 1,
           "passed": false,
-          "overallScore": 69,
+          "overallScore": 77,
           "grade": "C",
           "categories": [
             {
               "id": "validation",
               "name": "Deterministic validation",
-              "score": 9,
+              "score": 10,
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
+          "evaluatedAt": "2026-10-11T05:07:03.443Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
+      "contentHash": "60e05eaf65e8e404c8975a944eda9d3ed4ae3345478b3550b0e74570982c187e",
+      "sourcePath": "skills/ponytail-gain/SKILL.md",
       "name": "ponytail-gain",
-      "description": "Show ponytail's measured impact as a compact scoreboard: less code, less cost, more speed, from the benchmark medians. One-shot display, not a persistent mode, and not a per-repo number. Trigger: /ponytail-gain, \"ponytail gain\", \"what does ponytail save\", \"show ponytail impact\", \"ponytail scoreboard\".",
+      "description": "Show ponytail's measured savings (code, cost, speed) from the benchmark. One-shot display. Use for /ponytail-gain, \"what does ponytail save\", \"ponytail impact\".",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -551,9 +560,9 @@
       "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-gain",
       "relPath": "skills/ponytail-gain",
       "verified": true,
-      "tokenCount": 584,
+      "tokenCount": 649,
       "evalSummary": {
-        "overallScore": 55,
+        "overallScore": 62,
         "grade": "D",
         "categories": [
           {
@@ -565,7 +574,7 @@
           {
             "id": "description",
             "name": "Description quality",
-            "score": 8,
+            "score": 10,
             "max": 10
           },
           {
@@ -578,183 +587,6 @@
             "id": "context-efficiency",
             "name": "Context efficiency",
             "score": 6,
-            "max": 10
-          },
-          {
-            "id": "safety",
-            "name": "Safety & guardrails",
-            "score": 2,
-            "max": 10
-          },
-          {
-            "id": "testability",
-            "name": "Testability",
-            "score": 0,
-            "max": 10
-          },
-          {
-            "id": "license",
-            "name": "License verification",
-            "score": 0,
-            "max": 10
-          },
-          {
-            "id": "naming",
-            "name": "Naming & conventions",
-            "score": 10,
-            "max": 10
-          },
-          {
-            "id": "pii",
-            "name": "PII detection",
-            "score": 10,
-            "max": 10
-          },
-          {
-            "id": "script-lint",
-            "name": "Script linting",
-            "score": 10,
-            "max": 10
-          }
-        ],
-        "evaluatedAt": "2026-09-30T20:50:25.812Z",
-        "evaluatedVersion": "0.0.0"
-      },
-      "evalSummaries": {
-        "quality": {
-          "providerId": "quality",
-          "providerVersion": "1.0.0",
-          "schemaVersion": 1,
-          "passed": true,
-          "overallScore": 55,
-          "grade": "D",
-          "categories": [
-            {
-              "id": "structure",
-              "name": "Structure & completeness",
-              "score": 7,
-              "max": 10
-            },
-            {
-              "id": "description",
-              "name": "Description quality",
-              "score": 8,
-              "max": 10
-            },
-            {
-              "id": "prompt-engineering",
-              "name": "Prompt engineering",
-              "score": 2,
-              "max": 10
-            },
-            {
-              "id": "context-efficiency",
-              "name": "Context efficiency",
-              "score": 6,
-              "max": 10
-            },
-            {
-              "id": "safety",
-              "name": "Safety & guardrails",
-              "score": 2,
-              "max": 10
-            },
-            {
-              "id": "testability",
-              "name": "Testability",
-              "score": 0,
-              "max": 10
-            },
-            {
-              "id": "license",
-              "name": "License verification",
-              "score": 0,
-              "max": 10
-            },
-            {
-              "id": "naming",
-              "name": "Naming & conventions",
-              "score": 10,
-              "max": 10
-            },
-            {
-              "id": "pii",
-              "name": "PII detection",
-              "score": 10,
-              "max": 10
-            },
-            {
-              "id": "script-lint",
-              "name": "Script linting",
-              "score": 10,
-              "max": 10
-            }
-          ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
-          "evaluatedVersion": "0.0.0"
-        },
-        "skill-best-practice": {
-          "providerId": "skill-best-practice",
-          "providerVersion": "1.2.0",
-          "schemaVersion": 1,
-          "passed": false,
-          "overallScore": 69,
-          "grade": "C",
-          "categories": [
-            {
-              "id": "validation",
-              "name": "Deterministic validation",
-              "score": 9,
-              "max": 13
-            }
-          ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
-          "evaluatedVersion": "0.0.0"
-        }
-      }
-    },
-    {
-      "name": "ponytail-help",
-      "description": "Quick-reference card for all ponytail modes, skills, and commands. One-shot display, not a persistent mode. Trigger: /ponytail-help, \"ponytail help\", \"what ponytail commands\", \"how do I use ponytail\".",
-      "version": "0.0.0",
-      "license": "",
-      "creator": "",
-      "compatibility": "",
-      "allowedTools": [],
-      "tags": [],
-      "dependencies": [],
-      "modelInvocable": true,
-      "userInvocable": true,
-      "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-help",
-      "relPath": "skills/ponytail-help",
-      "verified": true,
-      "tokenCount": 714,
-      "evalSummary": {
-        "overallScore": 61,
-        "grade": "D",
-        "categories": [
-          {
-            "id": "structure",
-            "name": "Structure & completeness",
-            "score": 7,
-            "max": 10
-          },
-          {
-            "id": "description",
-            "name": "Description quality",
-            "score": 7,
-            "max": 10
-          },
-          {
-            "id": "prompt-engineering",
-            "name": "Prompt engineering",
-            "score": 3,
-            "max": 10
-          },
-          {
-            "id": "context-efficiency",
-            "name": "Context efficiency",
-            "score": 7,
             "max": 10
           },
           {
@@ -794,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:25.812Z",
+        "evaluatedAt": "2026-10-11T05:07:03.442Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -803,7 +635,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 61,
+          "overallScore": 62,
           "grade": "D",
           "categories": [
             {
@@ -815,19 +647,19 @@
             {
               "id": "description",
               "name": "Description quality",
-              "score": 7,
+              "score": 10,
               "max": 10
             },
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 3,
+              "score": 2,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 7,
+              "score": 6,
               "max": 10
             },
             {
@@ -867,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.813Z",
+          "evaluatedAt": "2026-10-11T05:07:03.442Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -885,14 +717,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.813Z",
+          "evaluatedAt": "2026-10-11T05:07:03.442Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "name": "ponytail-review",
-      "description": "Code review focused exclusively on over-engineering. Finds what to delete: reinvented standard library, unneeded dependencies, speculative abstractions, dead flexibility. One line per finding: location, what to cut, what replaces it. Use when the user says \"review for over-engineering\", \"what can we delete\", \"is this over-engineered\", \"simplify review\", or invokes /ponytail-review. Complements correctness-focused review, this one only hunts complexity.",
+      "contentHash": "2927276bc9c10221ce8bcf80adb798db130cd70eb33a95db91ab3a0d105f5109",
+      "sourcePath": "skills/ponytail-help/SKILL.md",
+      "name": "ponytail-help",
+      "description": "Quick reference for ponytail levels, skills and commands. One-shot display. Use for /ponytail-help, \"ponytail help\", \"how do I use ponytail\".",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -902,12 +736,12 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-review",
-      "relPath": "skills/ponytail-review",
+      "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-help",
+      "relPath": "skills/ponytail-help",
       "verified": true,
-      "tokenCount": 652,
+      "tokenCount": 781,
       "evalSummary": {
-        "overallScore": 61,
+        "overallScore": 60,
         "grade": "D",
         "categories": [
           {
@@ -919,7 +753,7 @@
           {
             "id": "description",
             "name": "Description quality",
-            "score": 5,
+            "score": 7,
             "max": 10
           },
           {
@@ -931,13 +765,13 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 6,
+            "score": 7,
             "max": 10
           },
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 7,
+            "score": 3,
             "max": 10
           },
           {
@@ -971,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-09-30T20:50:25.812Z",
+        "evaluatedAt": "2026-10-11T05:07:03.442Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -980,7 +814,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 61,
+          "overallScore": 60,
           "grade": "D",
           "categories": [
             {
@@ -992,7 +826,7 @@
             {
               "id": "description",
               "name": "Description quality",
-              "score": 5,
+              "score": 7,
               "max": 10
             },
             {
@@ -1004,13 +838,13 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 6,
+              "score": 7,
               "max": 10
             },
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 7,
+              "score": 3,
               "max": 10
             },
             {
@@ -1044,7 +878,186 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
+          "evaluatedAt": "2026-10-11T05:07:03.442Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 77,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 10,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:07:03.442Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "33fe4ebe22a460924e5d4a261e223df22e409cc94ab76182bee9fb91a3ef022e",
+      "sourcePath": "skills/ponytail-review/SKILL.md",
+      "name": "ponytail-review",
+      "description": "Quality review of a change: is the logic right, is it safe, does it hold under real load, is risky code tested, is it fast enough, and is every line needed. Reads the connected code, not only the diff. Each finding is explained in plain English. Use for \"review this\", \"code review\", \"review the last commit\", \"review my PR\", \"is this over-engineered\", /ponytail-review.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-review",
+      "relPath": "skills/ponytail-review",
+      "verified": true,
+      "tokenCount": 1749,
+      "evalSummary": {
+        "overallScore": 68,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 4,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-11T05:07:03.443Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 68,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 4,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-11T05:07:03.443Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1062,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-09-30T20:50:25.812Z",
+          "evaluatedAt": "2026-10-11T05:07:03.443Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1074,7 +1087,7 @@
       "name": "dietrichgebert-ponytail-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from DietrichGebert/ponytail.",
       "author": "ASM (DietrichGebert/ponytail)",
-      "createdAt": "2026-09-30T20:50:25.815Z",
+      "createdAt": "2026-10-11T05:07:03.449Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1088,73 +1101,37 @@
         {
           "name": "ponytail",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail",
-          "description": "Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior dev who has seen everything: question whether the task needs to exist at all (YAGNI), reach for the standard library before custom code, native platform features before dependencies, one line before fifty. Supports intensity levels: lite, full (default), ultra. Use on ANY coding task: writing, adding, refactoring, fixing, reviewing, or designing code, and choosing libraries or dependencies. Also use whenever the user says \"ponytail\", \"be lazy\", \"lazy mode\", \"simplest solution\", \"minimal solution\", \"yagni\", \"do less\", or \"shortest path\", or complains about over-engineering, bloat, boilerplate, or unnecessary dependencies. Do NOT use for non-coding requests (general knowledge, prose, translation, summaries, recipes).",
+          "description": "Lazy senior dev mode: the smallest change that fully solves the task, and a reply a busy human understands in one read. Use on any coding task (writing, fixing, refactoring, reviewing, choosing dependencies) and when the user says \"ponytail\", \"be lazy\", \"simplest solution\", \"yagni\", or complains about over-engineering or bloat. Levels: lite, full (default), ultra.",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-audit",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-audit",
-          "description": "Whole-repo audit for over-engineering. Like ponytail-review, but scans the entire codebase instead of a diff: a ranked list of what to delete, simplify, or replace with stdlib/native equivalents. Use when the user says \"audit this codebase\", \"audit for over-engineering\", \"what can I delete from this repo\", \"find bloat\", \"ponytail-audit\", or \"/ponytail-audit\". One-shot report, does not apply fixes.",
+          "description": "Quality audit of a whole repo: bugs, security holes, what breaks under real load, risky code without tests, slow paths, and what to delete, merge or split. Ranked, each finding explained in plain English. One-shot report, changes nothing. Use for \"audit this codebase\", \"review the whole repo\", \"find bloat\", \"what can I delete\", /ponytail-audit.",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-debt",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-debt",
-          "description": "Harvest every `ponytail:` comment in the codebase into a debt ledger, so the deliberate shortcuts and deferrals ponytail leaves behind get tracked instead of rotting into \"later means never\". Use when the user says \"ponytail debt\", \"/ponytail-debt\", \"what did ponytail defer\", \"list the shortcuts\", \"ponytail ledger\", or \"what did we mark to do later\". One-shot report, changes nothing.",
+          "description": "List every `shortcut:` comment (and older `ponytail:` ones) as a debt ledger. One-shot report, changes nothing. Use for \"ponytail debt\", \"what did ponytail defer\", \"list the shortcuts\", /ponytail-debt.",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-gain",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-gain",
-          "description": "Show ponytail's measured impact as a compact scoreboard: less code, less cost, more speed, from the benchmark medians. One-shot display, not a persistent mode, and not a per-repo number. Trigger: /ponytail-gain, \"ponytail gain\", \"what does ponytail save\", \"show ponytail impact\", \"ponytail scoreboard\".",
+          "description": "Show ponytail's measured savings (code, cost, speed) from the benchmark. One-shot display. Use for /ponytail-gain, \"what does ponytail save\", \"ponytail impact\".",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-help",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-help",
-          "description": "Quick-reference card for all ponytail modes, skills, and commands. One-shot display, not a persistent mode. Trigger: /ponytail-help, \"ponytail help\", \"what ponytail commands\", \"how do I use ponytail\".",
+          "description": "Quick reference for ponytail levels, skills and commands. One-shot display. Use for /ponytail-help, \"ponytail help\", \"how do I use ponytail\".",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-review",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-review",
-          "description": "Code review focused exclusively on over-engineering. Finds what to delete: reinvented standard library, unneeded dependencies, speculative abstractions, dead flexibility. One line per finding: location, what to cut, what replaces it. Use when the user says \"review for over-engineering\", \"what can we delete\", \"is this over-engineered\", \"simplify review\", or invokes /ponytail-review. Complements correctness-focused review, this one only hunts complexity.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "DietrichGebert",
-        "repo": "ponytail",
-        "repoUrl": "https://github.com/DietrichGebert/ponytail.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "dietrichgebert-ponytail-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from DietrichGebert/ponytail.",
-      "author": "ASM (DietrichGebert/ponytail)",
-      "createdAt": "2026-09-30T20:50:25.815Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "dietrichgebert",
-        "ponytail"
-      ],
-      "skills": [
-        {
-          "name": "ponytail",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail",
-          "description": "Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior dev who has seen everything: question whether the task needs to exist at all (YAGNI), reach for the standard library before custom code, native platform features before dependencies, one line before fifty. Supports intensity levels: lite, full (default), ultra. Use on ANY coding task: writing, adding, refactoring, fixing, reviewing, or designing code, and choosing libraries or dependencies. Also use whenever the user says \"ponytail\", \"be lazy\", \"lazy mode\", \"simplest solution\", \"minimal solution\", \"yagni\", \"do less\", or \"shortest path\", or complains about over-engineering, bloat, boilerplate, or unnecessary dependencies. Do NOT use for non-coding requests (general knowledge, prose, translation, summaries, recipes).",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ponytail-review",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-review",
-          "description": "Code review focused exclusively on over-engineering. Finds what to delete: reinvented standard library, unneeded dependencies, speculative abstractions, dead flexibility. One line per finding: location, what to cut, what replaces it. Use when the user says \"review for over-engineering\", \"what can we delete\", \"is this over-engineered\", \"simplify review\", or invokes /ponytail-review. Complements correctness-focused review, this one only hunts complexity.",
+          "description": "Quality review of a change: is the logic right, is it safe, does it hold under real load, is risky code tested, is it fast enough, and is every line needed. Reads the connected code, not only the diff. Each finding is explained in plain English. Use for \"review this\", \"code review\", \"review the last commit\", \"review my PR\", \"is this over-engineered\", /ponytail-review.",
           "version": "0.0.0"
         }
       ],
@@ -1170,7 +1147,7 @@
       "name": "dietrichgebert-ponytail-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from DietrichGebert/ponytail.",
       "author": "ASM (DietrichGebert/ponytail)",
-      "createdAt": "2026-09-30T20:50:25.815Z",
+      "createdAt": "2026-10-11T05:07:03.449Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1184,73 +1161,25 @@
         {
           "name": "ponytail",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail",
-          "description": "Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior dev who has seen everything: question whether the task needs to exist at all (YAGNI), reach for the standard library before custom code, native platform features before dependencies, one line before fifty. Supports intensity levels: lite, full (default), ultra. Use on ANY coding task: writing, adding, refactoring, fixing, reviewing, or designing code, and choosing libraries or dependencies. Also use whenever the user says \"ponytail\", \"be lazy\", \"lazy mode\", \"simplest solution\", \"minimal solution\", \"yagni\", \"do less\", or \"shortest path\", or complains about over-engineering, bloat, boilerplate, or unnecessary dependencies. Do NOT use for non-coding requests (general knowledge, prose, translation, summaries, recipes).",
+          "description": "Lazy senior dev mode: the smallest change that fully solves the task, and a reply a busy human understands in one read. Use on any coding task (writing, fixing, refactoring, reviewing, choosing dependencies) and when the user says \"ponytail\", \"be lazy\", \"simplest solution\", \"yagni\", or complains about over-engineering or bloat. Levels: lite, full (default), ultra.",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-audit",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-audit",
-          "description": "Whole-repo audit for over-engineering. Like ponytail-review, but scans the entire codebase instead of a diff: a ranked list of what to delete, simplify, or replace with stdlib/native equivalents. Use when the user says \"audit this codebase\", \"audit for over-engineering\", \"what can I delete from this repo\", \"find bloat\", \"ponytail-audit\", or \"/ponytail-audit\". One-shot report, does not apply fixes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ponytail-debt",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-debt",
-          "description": "Harvest every `ponytail:` comment in the codebase into a debt ledger, so the deliberate shortcuts and deferrals ponytail leaves behind get tracked instead of rotting into \"later means never\". Use when the user says \"ponytail debt\", \"/ponytail-debt\", \"what did ponytail defer\", \"list the shortcuts\", \"ponytail ledger\", or \"what did we mark to do later\". One-shot report, changes nothing.",
+          "description": "Quality audit of a whole repo: bugs, security holes, what breaks under real load, risky code without tests, slow paths, and what to delete, merge or split. Ranked, each finding explained in plain English. One-shot report, changes nothing. Use for \"audit this codebase\", \"review the whole repo\", \"find bloat\", \"what can I delete\", /ponytail-audit.",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-gain",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-gain",
-          "description": "Show ponytail's measured impact as a compact scoreboard: less code, less cost, more speed, from the benchmark medians. One-shot display, not a persistent mode, and not a per-repo number. Trigger: /ponytail-gain, \"ponytail gain\", \"what does ponytail save\", \"show ponytail impact\", \"ponytail scoreboard\".",
+          "description": "Show ponytail's measured savings (code, cost, speed) from the benchmark. One-shot display. Use for /ponytail-gain, \"what does ponytail save\", \"ponytail impact\".",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-review",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-review",
-          "description": "Code review focused exclusively on over-engineering. Finds what to delete: reinvented standard library, unneeded dependencies, speculative abstractions, dead flexibility. One line per finding: location, what to cut, what replaces it. Use when the user says \"review for over-engineering\", \"what can we delete\", \"is this over-engineered\", \"simplify review\", or invokes /ponytail-review. Complements correctness-focused review, this one only hunts complexity.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "DietrichGebert",
-        "repo": "ponytail",
-        "repoUrl": "https://github.com/DietrichGebert/ponytail.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "dietrichgebert-ponytail-frontend-design",
-      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from DietrichGebert/ponytail.",
-      "author": "ASM (DietrichGebert/ponytail)",
-      "createdAt": "2026-09-30T20:50:25.815Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "frontend",
-        "design",
-        "ui",
-        "dietrichgebert",
-        "ponytail"
-      ],
-      "skills": [
-        {
-          "name": "ponytail",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail",
-          "description": "Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior dev who has seen everything: question whether the task needs to exist at all (YAGNI), reach for the standard library before custom code, native platform features before dependencies, one line before fifty. Supports intensity levels: lite, full (default), ultra. Use on ANY coding task: writing, adding, refactoring, fixing, reviewing, or designing code, and choosing libraries or dependencies. Also use whenever the user says \"ponytail\", \"be lazy\", \"lazy mode\", \"simplest solution\", \"minimal solution\", \"yagni\", \"do less\", or \"shortest path\", or complains about over-engineering, bloat, boilerplate, or unnecessary dependencies. Do NOT use for non-coding requests (general knowledge, prose, translation, summaries, recipes).",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ponytail-audit",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-audit",
-          "description": "Whole-repo audit for over-engineering. Like ponytail-review, but scans the entire codebase instead of a diff: a ranked list of what to delete, simplify, or replace with stdlib/native equivalents. Use when the user says \"audit this codebase\", \"audit for over-engineering\", \"what can I delete from this repo\", \"find bloat\", \"ponytail-audit\", or \"/ponytail-audit\". One-shot report, does not apply fixes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ponytail-help",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-help",
-          "description": "Quick-reference card for all ponytail modes, skills, and commands. One-shot display, not a persistent mode. Trigger: /ponytail-help, \"ponytail help\", \"what ponytail commands\", \"how do I use ponytail\".",
+          "description": "Quality review of a change: is the logic right, is it safe, does it hold under real load, is risky code tested, is it fast enough, and is every line needed. Reads the connected code, not only the diff. Each finding is explained in plain English. Use for \"review this\", \"code review\", \"review the last commit\", \"review my PR\", \"is this over-engineered\", /ponytail-review.",
           "version": "0.0.0"
         }
       ],
@@ -1266,7 +1195,7 @@
       "name": "dietrichgebert-ponytail-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from DietrichGebert/ponytail.",
       "author": "ASM (DietrichGebert/ponytail)",
-      "createdAt": "2026-09-30T20:50:25.815Z",
+      "createdAt": "2026-10-11T05:07:03.449Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1280,19 +1209,19 @@
         {
           "name": "ponytail",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail",
-          "description": "Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior dev who has seen everything: question whether the task needs to exist at all (YAGNI), reach for the standard library before custom code, native platform features before dependencies, one line before fifty. Supports intensity levels: lite, full (default), ultra. Use on ANY coding task: writing, adding, refactoring, fixing, reviewing, or designing code, and choosing libraries or dependencies. Also use whenever the user says \"ponytail\", \"be lazy\", \"lazy mode\", \"simplest solution\", \"minimal solution\", \"yagni\", \"do less\", or \"shortest path\", or complains about over-engineering, bloat, boilerplate, or unnecessary dependencies. Do NOT use for non-coding requests (general knowledge, prose, translation, summaries, recipes).",
+          "description": "Lazy senior dev mode: the smallest change that fully solves the task, and a reply a busy human understands in one read. Use on any coding task (writing, fixing, refactoring, reviewing, choosing dependencies) and when the user says \"ponytail\", \"be lazy\", \"simplest solution\", \"yagni\", or complains about over-engineering or bloat. Levels: lite, full (default), ultra.",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-audit",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-audit",
-          "description": "Whole-repo audit for over-engineering. Like ponytail-review, but scans the entire codebase instead of a diff: a ranked list of what to delete, simplify, or replace with stdlib/native equivalents. Use when the user says \"audit this codebase\", \"audit for over-engineering\", \"what can I delete from this repo\", \"find bloat\", \"ponytail-audit\", or \"/ponytail-audit\". One-shot report, does not apply fixes.",
+          "description": "Quality audit of a whole repo: bugs, security holes, what breaks under real load, risky code without tests, slow paths, and what to delete, merge or split. Ranked, each finding explained in plain English. One-shot report, changes nothing. Use for \"audit this codebase\", \"review the whole repo\", \"find bloat\", \"what can I delete\", /ponytail-audit.",
           "version": "0.0.0"
         },
         {
           "name": "ponytail-review",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-review",
-          "description": "Code review focused exclusively on over-engineering. Finds what to delete: reinvented standard library, unneeded dependencies, speculative abstractions, dead flexibility. One line per finding: location, what to cut, what replaces it. Use when the user says \"review for over-engineering\", \"what can we delete\", \"is this over-engineered\", \"simplify review\", or invokes /ponytail-review. Complements correctness-focused review, this one only hunts complexity.",
+          "description": "Quality review of a change: is the logic right, is it safe, does it hold under real load, is risky code tested, is it fast enough, and is every line needed. Reads the connected code, not only the diff. Each finding is explained in plain English. Use for \"review this\", \"code review\", \"review the last commit\", \"review my PR\", \"is this over-engineered\", /ponytail-review.",
           "version": "0.0.0"
         }
       ],
