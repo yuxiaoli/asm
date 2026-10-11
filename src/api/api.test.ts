@@ -368,6 +368,7 @@ describe("published feed history", () => {
     expect(() =>
       validateFeedState({ ...s.feed, known: { bad: {} } }),
     ).toThrow();
+    expect(() => validateFeedState({ ...s.feed, known: {} })).toThrow();
     expect(() =>
       validateSnapshot({
         ...s,

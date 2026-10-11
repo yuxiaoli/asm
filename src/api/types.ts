@@ -64,6 +64,7 @@ export interface FeedState {
       present: boolean;
     }
   >;
+  knownCount: number;
   events: FeedEvent[];
 }
 
@@ -107,19 +108,27 @@ export async function sha256(
   ).join("");
 }
 
-export function validateFeedState(value: unknown): asserts value is FeedState {
+export function validateFeedState(
+  value: unknown,
+  fullBaseline = true,
+): asserts value is FeedState {
   const state = value as FeedState;
   if (
     !state ||
     state.schemaVersion !== 1 ||
     typeof state.snapshotId !== "string" ||
+    !state.snapshotId ||
     typeof state.sourceRevision !== "string" ||
+    !/^[a-f0-9]{40}$/i.test(state.sourceRevision) ||
     !Number.isFinite(Date.parse(state.generatedAt)) ||
     !state.known ||
     Array.isArray(state.known) ||
     typeof state.known !== "object" ||
     !Array.isArray(state.events) ||
-    state.events.length > 1000
+    state.events.length > 1000 ||
+    !Number.isSafeInteger(state.knownCount) ||
+    state.knownCount < 0 ||
+    (fullBaseline && Object.keys(state.known).length !== state.knownCount)
   ) {
     throw new Error("Invalid feed-state schema; history must not be reset");
   }
@@ -140,9 +149,11 @@ export function validateFeedState(value: unknown): asserts value is FeedState {
     if (
       !event ||
       typeof event.id !== "string" ||
+      !/^[a-f0-9]{64}$/.test(event.id) ||
       ids.has(event.id) ||
       !["added", "updated"].includes(event.type) ||
       typeof event.skillId !== "string" ||
+      (fullBaseline && !Object.hasOwn(state.known, event.skillId)) ||
       typeof event.snapshotId !== "string" ||
       !Number.isFinite(Date.parse(event.observedAt)) ||
       !event.skill ||
@@ -175,7 +186,7 @@ export function validateSnapshot(value: unknown): asserts value is ApiSnapshot {
   ) {
     throw new Error("Invalid registry snapshot");
   }
-  validateFeedState(snapshot.feed);
+  validateFeedState(snapshot.feed, false);
   if (
     snapshot.feed.snapshotId !== snapshot.snapshotId ||
     snapshot.feed.sourceRevision !== snapshot.sourceRevision ||
