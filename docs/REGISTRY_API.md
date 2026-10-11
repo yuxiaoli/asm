@@ -27,11 +27,32 @@ to GitHub. No workflow enables or purchases a Workers plan.
 
 ## Publish the first feed
 
+### Current Free-plan deployment
+
+Live acceptance on 2026-10-11 verified 6,842 skills from 81 repositories,
+all selectors and pagination, and a 292,366-character body reconstructed from
+10 hash-verified segments. Cloudflare measured API CPU P50 of 1.43 ms and P99
+of 560 ms, and isolate memory P99 of approximately 83 MiB. These are sampled
+metrics from the acceptance requests, including cold loads.
+
+The account is on Workers Free. Cold loads and snapshot refreshes exceed its
+10 ms CPU allowance; repeated refresh testing returned resource-limit 503s.
+The maintainer explicitly deferred a paid upgrade. The current deployment is
+therefore available for evaluation but cannot guarantee successful cold loads
+or refreshes. No subscription was changed.
+
+For a future approved Workers Paid deployment, configure
+`"limits": { "cpu_ms": 1000 }` in `wrangler.jsonc`, deploy with Wrangler and
+repeat cold-load/refresh acceptance. The Paid subscription starts at US$5/month;
+see [Cloudflare pricing](https://developers.cloudflare.com/workers/platform/pricing/).
+Free accounts reject this CPU-limit configuration, so it is intentionally absent
+from the current config.
+
 The first release requires a manual “Deploy Skill Catalog” run with
 `bootstrap_feed=true`. The existing directory becomes the baseline, with no
 historical notification flood. Future runs read `feed-state.json` from the last
 successful Pages publication and compare its source revision with the latest
-successful `github-pages` deployment. A later missing/corrupt state cannot be
+completed successful production publication workflow. A later missing/corrupt state cannot be
 bootstrapped again: recover the last published artifact instead.
 
 Production publishes are serialized through verification of the new public
