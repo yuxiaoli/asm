@@ -1,7 +1,11 @@
 import { writeFile, mkdir, unlink, readFile, readdir } from "fs/promises";
 import { join } from "path";
 import { createHash } from "node:crypto";
-import { readSourceCommit, readSourceSkill } from "./utils/source-provenance";
+import {
+  readSourceCommit,
+  readSourceSkill,
+  sourceSkillPath,
+} from "./utils/source-provenance";
 import {
   parseSource,
   discoverSkills,
@@ -132,9 +136,17 @@ export async function ingestRepo(
         const skillMdPath = join(skillRoot, skill.relPath, "SKILL.md");
         let skillMdContent = "";
         let contentHash: string | undefined;
+        let sourcePath: string | undefined;
         try {
+          if (sourceCommit)
+            sourcePath = await sourceSkillPath(skillRoot, skill.relPath);
           const bytes = sourceCommit
-            ? await readSourceSkill(skillRoot, skill.relPath, sourceCommit)
+            ? await readSourceSkill(
+                skillRoot,
+                skill.relPath,
+                sourceCommit,
+                sourcePath,
+              )
             : await readFile(skillMdPath);
           skillMdContent = bytes.toString("utf-8");
           contentHash = createHash("sha256").update(bytes).digest("hex");
@@ -233,6 +245,7 @@ export async function ingestRepo(
 
         return {
           contentHash,
+          sourcePath,
           name: skill.name,
           description: skill.description,
           version: skill.version,

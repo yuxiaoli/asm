@@ -658,6 +658,8 @@ export interface SkillIndexResources {
 export interface IndexedSkill {
   /** SHA-256 of the indexed SKILL.md bytes; absent in legacy indices. */
   contentHash?: string;
+  /** Commit-relative blob path after resolving repository-local symlinks. */
+  sourcePath?: string;
   name: string;
   description: string;
   version: string;

@@ -1,6 +1,20 @@
 import { execFile } from "node:child_process";
 import { promisify } from "node:util";
+import { realpath } from "node:fs/promises";
+import { isAbsolute, join, relative } from "node:path";
 const execute = promisify(execFile);
+
+/** Resolve repository-local symlinks to a blob GitHub can serve at this commit. */
+export async function sourceSkillPath(
+  directory: string,
+  relPath: string,
+): Promise<string> {
+  const root = await realpath(directory);
+  const path = relative(root, await realpath(join(root, relPath, "SKILL.md")));
+  if (isAbsolute(path) || path.split(/[\\/]/).includes(".."))
+    throw new Error("Skill source escapes its repository");
+  return path.replace(/\\/g, "/");
+}
 
 /** Legacy/test discovery directories may have no Git metadata. Never invent a ref. */
 export async function readSourceCommit(
@@ -24,10 +38,9 @@ export async function readSourceSkill(
   directory: string,
   relPath: string,
   commit: string,
+  sourcePath?: string,
 ): Promise<Buffer> {
-  const path = [...relPath.split(/[\\/]/).filter(Boolean), "SKILL.md"].join(
-    "/",
-  );
+  const path = sourcePath ?? (await sourceSkillPath(directory, relPath));
   const { stdout } = await execute(
     "git",
     ["-C", directory, "show", `${commit}:${path}`],

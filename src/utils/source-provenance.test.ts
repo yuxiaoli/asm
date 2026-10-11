@@ -1,9 +1,13 @@
 import { afterEach, describe, expect, it } from "vitest";
-import { mkdtemp, rm, writeFile } from "node:fs/promises";
+import { mkdtemp, mkdir, rm, symlink, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { execFileSync } from "node:child_process";
-import { readSourceCommit, readSourceSkill } from "./source-provenance";
+import {
+  readSourceCommit,
+  readSourceSkill,
+  sourceSkillPath,
+} from "./source-provenance";
 
 let directory: string;
 afterEach(async () => {
@@ -19,7 +23,15 @@ describe("source provenance", () => {
       }).trim();
     git("init", "-b", "release-skills");
     await writeFile(join(directory, "SKILL.md"), "root skill\n");
+    await mkdir(join(directory, "actual"));
+    await writeFile(join(directory, "actual", "SKILL.md"), "linked skill\n");
+    await symlink(
+      join(directory, "actual"),
+      join(directory, "alias"),
+      process.platform === "win32" ? "junction" : "dir",
+    );
     git("add", "SKILL.md");
+    git("add", "actual");
     git(
       "-c",
       "user.name=Fixture",
@@ -30,6 +42,12 @@ describe("source provenance", () => {
       "fixture",
     );
     expect(await readSourceCommit(directory)).toBe(git("rev-parse", "HEAD"));
+    expect(await sourceSkillPath(directory, "alias")).toBe("actual/SKILL.md");
+    expect(
+      (
+        await readSourceSkill(directory, "alias", git("rev-parse", "HEAD"))
+      ).toString(),
+    ).toBe("linked skill\n");
     await writeFile(join(directory, "SKILL.md"), "checkout changed\r\n");
     expect(
       (
