@@ -115,7 +115,9 @@ export function createWorker(
     try {
       const response = await fetcher(sourceUrl, {
         signal: AbortSignal.timeout(10_000),
-        redirect: "error",
+        // workerd supports manual/follow only. Reject redirect status codes
+        // below to preserve the commit-pinned origin contract.
+        redirect: "manual",
       });
       if (!response.ok || !response.body) throw new Error("Source unavailable");
       const reader = response.body.getReader();

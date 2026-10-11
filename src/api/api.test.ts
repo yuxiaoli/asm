@@ -237,6 +237,7 @@ describe("catalog API", () => {
       `https://raw.githubusercontent.com/alpha/skills/${"a".repeat(40)}/SKILL.md`,
     );
     expect(fetcher.mock.calls[1][1]?.headers).toBeUndefined();
+    expect(fetcher.mock.calls[1][1]?.redirect).toBe("manual");
     expect(
       (
         await worker.fetch(
@@ -250,7 +251,7 @@ describe("catalog API", () => {
   });
 
   it("reports legacy provenance, unavailable upstream and mismatched hash", async () => {
-    for (const scenario of ["legacy", "missing", "hash", "timeout"]) {
+    for (const scenario of ["legacy", "missing", "redirect", "hash", "timeout"]) {
       const s = await fixtureSnapshot();
       if (scenario === "legacy") delete s.skills[0].sourceCommit;
       const fetcher: typeof fetch = async (input) => {
@@ -259,7 +260,7 @@ describe("catalog API", () => {
         if (scenario === "timeout")
           throw new DOMException("timeout", "TimeoutError");
         return new Response("wrong", {
-          status: scenario === "missing" ? 404 : 200,
+          status: scenario === "missing" ? 404 : scenario === "redirect" ? 302 : 200,
         });
       };
       const response = await createWorker(fetcher).fetch(
