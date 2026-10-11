@@ -155,7 +155,19 @@ export function createWorker(
         "CONTENT_HASH_MISMATCH",
         "Source content differs from the published hash",
       );
-    const content = new TextDecoder().decode(bytes);
+    let content: string;
+    try {
+      content = new TextDecoder("utf-8", {
+        fatal: true,
+        ignoreBOM: true,
+      }).decode(bytes);
+    } catch {
+      throw new ApiError(
+        502,
+        "CONTENT_ENCODING_UNSUPPORTED",
+        "SKILL.md must contain valid UTF-8 text",
+      );
+    }
     while (bodyBytes + content.length * 2 > MAX_BODY_BYTES && bodies.size) {
       const key = bodies.keys().next().value!;
       bodyBytes -= bodies.get(key)!.length * 2;

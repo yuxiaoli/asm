@@ -86,6 +86,10 @@ Snapshots are checked at least every five minutes of active use. Origin failure
 preserves a verified snapshot with `stale=true`; a cold unavailable origin yields 503.
 
 Content uses the clone's exact commit and verifies SHA-256 against indexed bytes.
+Repository-local symlinks retain their catalog ID; `sourcePath` records the actual
+commit-relative blob path used for the source URL and content retrieval. Text is
+decoded as UTF-8 without dropping a leading BOM; invalid UTF-8 returns an explicit
+`CONTENT_ENCODING_UNSUPPORTED` error.
 Pass `offset`, optional `limit` (1–32000), and the previous `contentHash` when
 continuing. Follow `nextOffset` until null. Offsets/lengths are UTF-16 code units;
 use returned offsets, never calculate them from rendered text. Responses fit a

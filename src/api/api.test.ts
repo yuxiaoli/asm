@@ -206,7 +206,7 @@ describe("catalog API", () => {
   });
 
   it("reads fixed commits, verifies bytes, and reconstructs escaped Unicode content", async () => {
-    const content = "你好 🧠\n" + "\u0000".repeat(32000) + "\nend";
+    const content = "\uFEFF你好 🧠\n" + "\u0000".repeat(32000) + "\nend";
     const s = await fixtureSnapshot(content);
     const fetcher = vi.fn<typeof fetch>(
       async (input) =>
