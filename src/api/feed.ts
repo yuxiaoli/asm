@@ -82,7 +82,13 @@ export async function buildFeedState(
     (a, b) =>
       b.observedAt.localeCompare(a.observedAt) || a.id.localeCompare(b.id),
   );
-  return { schemaVersion: 1, ...context, known, events: events.slice(0, 1000) };
+  return {
+    schemaVersion: 1,
+    ...context,
+    known,
+    knownCount: Object.keys(known).length,
+    events: events.slice(0, 1000),
+  };
 }
 
 const escapeXml = (value: string) =>
