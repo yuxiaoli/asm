@@ -5,6 +5,11 @@ on:
     # Every Monday at 03:00 UTC
     - cron: "0 3 * * 1"
   workflow_dispatch:
+    inputs:
+      collect_provenance:
+        description: Collect an index artifact for deliberate review, without publishing or opening a PR
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -16,6 +21,7 @@ concurrency:
 
 jobs:
   refresh:
+    if: ${{ !inputs.collect_provenance }}
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -35,6 +41,8 @@ jobs:
       - name: Run weekly content refresh script
         id: refresh
         run: bash scripts/weekly-content-refresh.sh
+        env:
+          ASM_CONFIG_DIR: ${{ runner.temp }}/asm-refresh-config
 
       - name: Configure git identity
         if: steps.refresh.outputs.changed == 'true'
@@ -67,3 +75,28 @@ jobs:
       - name: No changes detected
         if: steps.refresh.outputs.changed != 'true'
         run: echo "No content changes detected this week."
+
+  collect-provenance:
+    if: ${{ inputs.collect_provenance }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5.0.1
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Collect cloned HEADs and original skill hashes
+        run: npm run preindex
+        env:
+          ASM_CONFIG_DIR: ${{ runner.temp }}/asm-provenance-config
+      - name: Save generated indices for review, including partial failures
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: skill-provenance-index
+          path: data/skill-index/*.json
+          retention-days: 7

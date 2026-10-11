@@ -43,7 +43,16 @@ self.addEventListener("fetch", (event) => {
 
   // Refresh HTML on navigation so an installed worker never pins an old deploy.
   // Catalog JSON is network-first as well, with an offline cache fallback.
-  if (event.request.mode === "navigate" || DATA_FILES.includes(url)) {
+  const path = new URL(url).pathname;
+  const registryData =
+    /\/(api-snapshot\.json|feed-state\.json|registry-links\.json|rss\.xml)$/.test(
+      path,
+    );
+  if (
+    event.request.mode === "navigate" ||
+    DATA_FILES.includes(url) ||
+    registryData
+  ) {
     event.respondWith(
       fetch(event.request)
         .then((response) => {

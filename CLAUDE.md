@@ -12,7 +12,14 @@ CI=true npm test     # unit suite — the command of record
 npm run test:coverage  # v8 coverage for src/ — measurement only, no fail gate
 npm run typecheck    # tsc --noEmit
 npm run lint         # eslint over src/
+node scripts/patch-ts6.cjs # npm peer-dependency compatibility, also used by CI
 npm run lint:site    # eslint over website-src/src
+npm run test:api      # registry API, RSS, publication and Git provenance tests
+npm run dev:api       # local Wrangler runtime; .dev.vars supplies the Bearer secret
+npm run deploy:api    # Wrangler deployment using .env and this repository's Pages URL
+npm run secret:api    # store API_BEARER_TOKEN with Wrangler (interactive stdin)
+npm run benchmark:api # measure the real generated snapshot in the Worker handler
+node --expose-gc --import tsx scripts/benchmark-api.ts # also report retained heap
 npm run test:e2e     # tests/e2e/ — NOT covered by `npm test`
 npm start            # run the TUI from source
 ```

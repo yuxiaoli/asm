@@ -2,6 +2,7 @@ import { describe, expect, it, beforeEach, afterEach, vi } from "vitest";
 import { mkdtemp, writeFile, mkdir, rm, readFile, readdir } from "fs/promises";
 import { join } from "path";
 import { tmpdir } from "os";
+import { createHash } from "node:crypto";
 import {
   buildSkillInstallUrl,
   ensureIndexDir,
@@ -374,6 +375,11 @@ describe("parallel skill ingestion (issue #372)", () => {
       ingestMocks.cloneToTemp.mockResolvedValueOnce(singleRoot);
       const result = await ingestRepo(`github:issue-372-tests/${repoName}`);
       expect(result.success).toBe(true);
+      expect(result.repoIndex!.skills[0].contentHash).toBe(
+        createHash("sha256")
+          .update(await readFile(join(singleRoot, "skills", name, "SKILL.md")))
+          .digest("hex"),
+      );
       sequentialSkills.push(...result.repoIndex!.skills);
     }
 

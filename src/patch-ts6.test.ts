@@ -36,7 +36,11 @@ function installTarget(
   mkdirSync(nested, { recursive: true });
   if (link === "missing") return;
   if (link === "symlink") {
-    symlinkSync(ts6Dir, join(nested, "typescript"), "dir");
+    symlinkSync(
+      ts6Dir,
+      join(nested, "typescript"),
+      process.platform === "win32" ? "junction" : "dir",
+    );
     return;
   }
   const other = join(root, "node_modules", `${name}-other-ts`);
@@ -46,11 +50,13 @@ function installTarget(
     JSON.stringify({ version: link === "wrong" ? "7.0.0" : "6.0.2" }),
   );
   if (link === "wrong") {
-    symlinkSync(other, join(nested, "typescript"), "dir");
+    symlinkSync(
+      other,
+      join(nested, "typescript"),
+      process.platform === "win32" ? "junction" : "dir",
+    );
   } else {
-    symlinkSync(other, join(nested, "typescript"), "dir");
-    // realdir: replace the link with a real directory holding the ts6 manifest
-    rmSync(join(nested, "typescript"));
+    // Materialized overrides do not require a symlink.
     mkdirSync(join(nested, "typescript"));
     writeFileSync(
       join(nested, "typescript", "package.json"),
@@ -88,7 +94,9 @@ describe("patch-ts6 --check", () => {
     installTarget("typescript-eslint", "missing");
     const failures = checkPatch(root);
     expect(failures).toHaveLength(1);
-    expect(failures[0]).toContain("node_modules/typescript: missing");
+    expect(failures[0].replaceAll("\\", "/")).toContain(
+      "node_modules/typescript: missing",
+    );
   });
 
   test("fails when a nested link points at typescript@7", () => {

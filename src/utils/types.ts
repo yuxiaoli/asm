@@ -648,6 +648,8 @@ export interface SkillIndexResources {
 }
 
 export interface IndexedSkill {
+  /** SHA-256 of the indexed SKILL.md bytes; absent in legacy indices. */
+  contentHash?: string;
   name: string;
   description: string;
   version: string;
@@ -696,6 +698,8 @@ export interface RepoIndexBundle extends BundleManifest {
 }
 
 export interface RepoIndex {
+  /** Actual cloned HEAD, independent of the repository's default branch. */
+  sourceCommit?: string;
   repoUrl: string;
   owner: string;
   repo: string;
