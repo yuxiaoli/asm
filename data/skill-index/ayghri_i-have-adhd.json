@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "723af7d9afaf43eb871dbcce6129e2bf80de90d5",
+  "sourceCommit": "1ecea1993b7fce257ffbd686c070948b5e07eda6",
   "repoUrl": "https://github.com/ayghri/i-have-adhd.git",
   "owner": "ayghri",
   "repo": "i-have-adhd",
-  "updatedAt": "2026-10-11T05:06:52.164Z",
+  "updatedAt": "2026-10-12T10:04:59.235Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:52.162Z",
+        "evaluatedAt": "2026-10-12T10:04:59.233Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:52.162Z",
+          "evaluatedAt": "2026-10-12T10:04:59.233Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:52.162Z",
+          "evaluatedAt": "2026-10-12T10:04:59.233Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

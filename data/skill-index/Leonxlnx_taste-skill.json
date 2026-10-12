@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "717446e07a78d4e6d7918b1fde1a263378eebac9",
+  "sourceCommit": "d237dd399d57524945c0c81327da5da19f7a468d",
   "repoUrl": "https://github.com/Leonxlnx/taste-skill.git",
   "owner": "Leonxlnx",
   "repo": "taste-skill",
-  "updatedAt": "2026-10-11T05:04:07.937Z",
+  "updatedAt": "2026-10-12T10:02:49.295Z",
   "skillCount": 13,
   "skills": [
     {
-      "contentHash": "b0c4837e1bd140ca816ae54948754ddd2ac1e2a4d3619363777a80caf00b2ede",
+      "contentHash": "9584a127e535c90b686c8dcb5a707ede586dac6791fbf92cfd118c5fea96f9a0",
       "sourcePath": "skills/brandkit/SKILL.md",
       "name": "brandkit",
       "description": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark-tech, luxury, cultural, security, gaming, developer-tool, and consumer-app brand systems. Optimized for intentional logo concepting, refined composition, sparse typography, strong symbolic meaning, premium mockups, art-directed imagery, and flexible grid layouts.",
@@ -23,9 +23,9 @@
       "installUrl": "github:Leonxlnx/taste-skill:skills/brandkit",
       "relPath": "skills/brandkit",
       "verified": true,
-      "tokenCount": 4650,
+      "tokenCount": 5566,
       "evalSummary": {
-        "overallScore": 56,
+        "overallScore": 54,
         "grade": "D",
         "categories": [
           {
@@ -43,19 +43,19 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 6,
+            "score": 5,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 7,
+            "score": 5,
             "max": 10
           },
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 3,
+            "score": 4,
             "max": 10
           },
           {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.855Z",
+        "evaluatedAt": "2026-10-12T10:02:49.218Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -98,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 56,
+          "overallScore": 54,
           "grade": "D",
           "categories": [
             {
@@ -116,19 +116,19 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 6,
+              "score": 5,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 7,
+              "score": 5,
               "max": 10
             },
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 3,
+              "score": 4,
               "max": 10
             },
             {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,13 +180,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+      "contentHash": "2136ed83016bfada39f7b8013b2aafd9f78fcbd9799110ed222a79c6419ba5fb",
       "sourcePath": "skills/taste-skill/SKILL.md",
       "name": "design-taste-frontend",
       "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that do not look templated. Real design systems when applicable, audit-first on redesigns, strict pre-flight check.",
@@ -202,10 +202,10 @@
       "installUrl": "github:Leonxlnx/taste-skill:skills/taste-skill",
       "relPath": "skills/taste-skill",
       "verified": true,
-      "tokenCount": 25793,
+      "tokenCount": 26474,
       "evalSummary": {
-        "overallScore": 66,
-        "grade": "C",
+        "overallScore": 64,
+        "grade": "D",
         "categories": [
           {
             "id": "structure",
@@ -228,7 +228,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 6,
+            "score": 4,
             "max": 10
           },
           {
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.848Z",
+        "evaluatedAt": "2026-10-12T10:02:49.218Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -277,7 +277,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 64,
+          "overallScore": 62,
           "grade": "D",
           "categories": [
             {
@@ -301,7 +301,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 6,
+              "score": 4,
               "max": 10
             },
             {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.848Z",
+        "evaluatedAt": "2026-10-12T10:02:49.218Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.848Z",
+        "evaluatedAt": "2026-10-12T10:02:49.217Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,13 +717,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "2e64c269953f2656c21bf5a0fa6b4568e82fe0c72b36e8f84758e090349966a5",
+      "contentHash": "d2dfb60b01f5b45bdc2d25a3c6a7eed04d6ec59715361182c2f49369a3f87a77",
       "sourcePath": "skills/gpt-tasteskill/SKILL.md",
       "name": "gpt-taste",
       "description": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial typography (bans 6-line wraps), gapless bento grids, strict GSAP ScrollTriggers (pinning, stacking, scrubbing), inline micro-images, and massive section spacing.",
@@ -739,7 +739,7 @@
       "installUrl": "github:Leonxlnx/taste-skill:skills/gpt-tasteskill",
       "relPath": "skills/gpt-tasteskill",
       "verified": true,
-      "tokenCount": 2213,
+      "tokenCount": 2332,
       "evalSummary": {
         "overallScore": 67,
         "grade": "C",
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.848Z",
+        "evaluatedAt": "2026-10-12T10:02:49.226Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.227Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.227Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.848Z",
+        "evaluatedAt": "2026-10-12T10:02:49.217Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.226Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.856Z",
+        "evaluatedAt": "2026-10-12T10:02:49.226Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.227Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.227Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.856Z",
+        "evaluatedAt": "2026-10-12T10:02:49.226Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.227Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.856Z",
+          "evaluatedAt": "2026-10-12T10:02:49.227Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.915Z",
+        "evaluatedAt": "2026-10-12T10:02:49.284Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.916Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.916Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.913Z",
+        "evaluatedAt": "2026-10-12T10:02:49.282Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.916Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,13 +1791,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.916Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "36bc7328f085405f43b476938e62460fa573bf7e984e949e072bcf014831a44c",
+      "contentHash": "769ab38eed137bb22c7c09ee08ebb628e9acf3ad37f138d43f772e3af83933e4",
       "sourcePath": "skills/minimalist-skill/SKILL.md",
       "name": "minimalist-ui",
       "description": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy shadows.",
@@ -1813,7 +1813,7 @@
       "installUrl": "github:Leonxlnx/taste-skill:skills/minimalist-skill",
       "relPath": "skills/minimalist-skill",
       "verified": true,
-      "tokenCount": 2138,
+      "tokenCount": 2213,
       "evalSummary": {
         "overallScore": 53,
         "grade": "D",
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.913Z",
+        "evaluatedAt": "2026-10-12T10:02:49.282Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.915Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,13 +1970,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.916Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "98ad3e5b051bfb71b2795f7e8a6aa0d32b51ee095606c098a4b2822ac07926c9",
+      "contentHash": "a75d547d04595fe97a5d377dddf145d029d51487a4f2a0a5a9d3b532ca3b84cd",
       "sourcePath": "skills/redesign-skill/SKILL.md",
       "name": "redesign-existing-projects",
       "description": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without breaking functionality. Works with any CSS framework or vanilla CSS.",
@@ -1992,7 +1992,7 @@
       "installUrl": "github:Leonxlnx/taste-skill:skills/redesign-skill",
       "relPath": "skills/redesign-skill",
       "verified": true,
-      "tokenCount": 4277,
+      "tokenCount": 4634,
       "evalSummary": {
         "overallScore": 60,
         "grade": "D",
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.916Z",
+        "evaluatedAt": "2026-10-12T10:02:49.285Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.917Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.917Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:07.916Z",
+        "evaluatedAt": "2026-10-12T10:02:49.285Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.917Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:07.917Z",
+          "evaluatedAt": "2026-10-12T10:02:49.285Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2337,16 +2337,16 @@
   "bundles": [
     {
       "version": 1,
-      "name": "leonxlnx-taste-skill-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Leonxlnx/taste-skill.",
+      "name": "leonxlnx-taste-skill-marketing",
+      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from Leonxlnx/taste-skill.",
       "author": "ASM (Leonxlnx/taste-skill)",
-      "createdAt": "2026-10-11T05:04:07.937Z",
+      "createdAt": "2026-10-12T10:02:49.295Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "marketing",
+        "growth",
+        "seo",
         "leonxlnx",
         "taste-skill"
       ],
@@ -2358,27 +2358,9 @@
           "version": "0.0.0"
         },
         {
-          "name": "design-taste-frontend",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/taste-skill",
-          "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that do not look templated. Real design systems when applicable, audit-first on redesigns, strict pre-flight check.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "full-output-enforcement",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/output-skill",
-          "description": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any task requiring exhaustive, unabridged output.",
-          "version": "0.0.0"
-        },
-        {
           "name": "gpt-taste",
           "installUrl": "github:Leonxlnx/taste-skill:skills/gpt-tasteskill",
           "description": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial typography (bans 6-line wraps), gapless bento grids, strict GSAP ScrollTriggers (pinning, stacking, scrubbing), inline micro-images, and massive section spacing.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "high-end-visual-design",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/soft-skill",
-          "description": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make AI designs look cheap or generic.",
           "version": "0.0.0"
         },
         {
@@ -2400,18 +2382,6 @@
           "version": "0.0.0"
         },
         {
-          "name": "industrial-brutalist-ui",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/brutalist-skill",
-          "description": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type scale contrast, utilitarian color, analog degradation effects. For data-heavy dashboards, portfolios, or editorial sites that need to feel like declassified blueprints.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "redesign-existing-projects",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/redesign-skill",
-          "description": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without breaking functionality. Works with any CSS framework or vanilla CSS.",
-          "version": "0.0.0"
-        },
-        {
           "name": "stitch-design-taste",
           "installUrl": "github:Leonxlnx/taste-skill:skills/stitch-skill",
           "description": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards — strict typography, calibrated color, asymmetric layouts, perpetual micro-motion, and hardware-accelerated performance.",
@@ -2427,42 +2397,30 @@
     },
     {
       "version": 1,
-      "name": "leonxlnx-taste-skill-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Leonxlnx/taste-skill.",
+      "name": "leonxlnx-taste-skill-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from Leonxlnx/taste-skill.",
       "author": "ASM (Leonxlnx/taste-skill)",
-      "createdAt": "2026-10-11T05:04:07.937Z",
+      "createdAt": "2026-10-12T10:02:49.295Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "devops",
-        "infra",
-        "automation",
+        "writing",
+        "content",
+        "docs",
         "leonxlnx",
         "taste-skill"
       ],
       "skills": [
         {
-          "name": "brandkit",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/brandkit",
-          "description": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark-tech, luxury, cultural, security, gaming, developer-tool, and consumer-app brand systems. Optimized for intentional logo concepting, refined composition, sparse typography, strong symbolic meaning, premium mockups, art-directed imagery, and flexible grid layouts.",
+          "name": "design-taste-frontend-v1",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/taste-skill-v1",
+          "description": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current default is `design-taste-frontend` (v2 experimental), which is a substantial rewrite. Use this v1 install name only if you need exact backward compatibility.",
           "version": "0.0.0"
         },
         {
-          "name": "gpt-taste",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/gpt-tasteskill",
-          "description": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial typography (bans 6-line wraps), gapless bento grids, strict GSAP ScrollTriggers (pinning, stacking, scrubbing), inline micro-images, and massive section spacing.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "high-end-visual-design",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/soft-skill",
-          "description": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make AI designs look cheap or generic.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "image-to-code",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/image-to-code-skill",
-          "description": "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then implement the website to match them as closely as possible. In Codex, it must prefer large, readable, section-specific images instead of tiny compressed boards, generate fresh standalone images for sections or detail views instead of cropping old ones, avoid lazy under-generation, avoid cards-inside-cards-inside-cards UI, and keep the hero clean, spacious, readable, and visible on a small laptop.",
+          "name": "imagegen-frontend-mobile",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/imagegen-frontend-mobile",
+          "description": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, Android, and cross-platform mobile products. Prioritizes clean hierarchy, comfortably readable text, strong multi-screen consistency, controlled color palettes, non-generic creative direction, textured surfaces, image-led composition, tasteful custom iconography, and clean phone mockup framing. By default, screens should be shown inside a subtle premium iPhone or similar phone mockup with a visible frame, while the main focus stays on the app content itself. This skill generates images only. It does not write code.",
           "version": "0.0.0"
         }
       ],
@@ -2478,7 +2436,7 @@
       "name": "leonxlnx-taste-skill-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from Leonxlnx/taste-skill.",
       "author": "ASM (Leonxlnx/taste-skill)",
-      "createdAt": "2026-10-11T05:04:07.937Z",
+      "createdAt": "2026-10-12T10:02:49.295Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2532,7 +2490,7 @@
       "name": "leonxlnx-taste-skill-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from Leonxlnx/taste-skill.",
       "author": "ASM (Leonxlnx/taste-skill)",
-      "createdAt": "2026-10-11T05:04:07.937Z",
+      "createdAt": "2026-10-12T10:02:49.295Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2631,16 +2589,16 @@
     },
     {
       "version": 1,
-      "name": "leonxlnx-taste-skill-marketing",
-      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from Leonxlnx/taste-skill.",
+      "name": "leonxlnx-taste-skill-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Leonxlnx/taste-skill.",
       "author": "ASM (Leonxlnx/taste-skill)",
-      "createdAt": "2026-10-11T05:04:07.937Z",
+      "createdAt": "2026-10-12T10:02:49.295Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "marketing",
-        "growth",
-        "seo",
+        "devops",
+        "infra",
+        "automation",
         "leonxlnx",
         "taste-skill"
       ],
@@ -2655,6 +2613,72 @@
           "name": "gpt-taste",
           "installUrl": "github:Leonxlnx/taste-skill:skills/gpt-tasteskill",
           "description": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial typography (bans 6-line wraps), gapless bento grids, strict GSAP ScrollTriggers (pinning, stacking, scrubbing), inline micro-images, and massive section spacing.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "high-end-visual-design",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/soft-skill",
+          "description": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make AI designs look cheap or generic.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "image-to-code",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/image-to-code-skill",
+          "description": "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then implement the website to match them as closely as possible. In Codex, it must prefer large, readable, section-specific images instead of tiny compressed boards, generate fresh standalone images for sections or detail views instead of cropping old ones, avoid lazy under-generation, avoid cards-inside-cards-inside-cards UI, and keep the hero clean, spacious, readable, and visible on a small laptop.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Leonxlnx",
+        "repo": "taste-skill",
+        "repoUrl": "https://github.com/Leonxlnx/taste-skill.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "leonxlnx-taste-skill-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Leonxlnx/taste-skill.",
+      "author": "ASM (Leonxlnx/taste-skill)",
+      "createdAt": "2026-10-12T10:02:49.295Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
+        "leonxlnx",
+        "taste-skill"
+      ],
+      "skills": [
+        {
+          "name": "brandkit",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/brandkit",
+          "description": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark-tech, luxury, cultural, security, gaming, developer-tool, and consumer-app brand systems. Optimized for intentional logo concepting, refined composition, sparse typography, strong symbolic meaning, premium mockups, art-directed imagery, and flexible grid layouts.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "design-taste-frontend",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/taste-skill",
+          "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that do not look templated. Real design systems when applicable, audit-first on redesigns, strict pre-flight check.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "full-output-enforcement",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/output-skill",
+          "description": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any task requiring exhaustive, unabridged output.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gpt-taste",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/gpt-tasteskill",
+          "description": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial typography (bans 6-line wraps), gapless bento grids, strict GSAP ScrollTriggers (pinning, stacking, scrubbing), inline micro-images, and massive section spacing.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "high-end-visual-design",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/soft-skill",
+          "description": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make AI designs look cheap or generic.",
           "version": "0.0.0"
         },
         {
@@ -2676,6 +2700,18 @@
           "version": "0.0.0"
         },
         {
+          "name": "industrial-brutalist-ui",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/brutalist-skill",
+          "description": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type scale contrast, utilitarian color, analog degradation effects. For data-heavy dashboards, portfolios, or editorial sites that need to feel like declassified blueprints.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "redesign-existing-projects",
+          "installUrl": "github:Leonxlnx/taste-skill:skills/redesign-skill",
+          "description": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without breaking functionality. Works with any CSS framework or vanilla CSS.",
+          "version": "0.0.0"
+        },
+        {
           "name": "stitch-design-taste",
           "installUrl": "github:Leonxlnx/taste-skill:skills/stitch-skill",
           "description": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards — strict typography, calibrated color, asymmetric layouts, perpetual micro-motion, and hardware-accelerated performance.",
@@ -2694,7 +2730,7 @@
       "name": "leonxlnx-taste-skill-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from Leonxlnx/taste-skill.",
       "author": "ASM (Leonxlnx/taste-skill)",
-      "createdAt": "2026-10-11T05:04:07.937Z",
+      "createdAt": "2026-10-12T10:02:49.295Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2715,42 +2751,6 @@
           "name": "imagegen-frontend-web",
           "installUrl": "github:Leonxlnx/taste-skill:skills/imagegen-frontend-web",
           "description": "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate ONE separate horizontal image FOR EVERY section. A landing page with 8 sections produces 8 images. Never compress multiple sections into one image. Enforces composition variety (not always left-text / right-image), background-image freedom, varied CTAs, varied hero scales (giant / mid / mini minimalist), narrative concept spine, second-read moments, and a single consistent palette across all images. Optimized for landing pages, marketing sites, and product comps that developers or coding models can accurately recreate.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Leonxlnx",
-        "repo": "taste-skill",
-        "repoUrl": "https://github.com/Leonxlnx/taste-skill.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "leonxlnx-taste-skill-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from Leonxlnx/taste-skill.",
-      "author": "ASM (Leonxlnx/taste-skill)",
-      "createdAt": "2026-10-11T05:04:07.937Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "writing",
-        "content",
-        "docs",
-        "leonxlnx",
-        "taste-skill"
-      ],
-      "skills": [
-        {
-          "name": "design-taste-frontend-v1",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/taste-skill-v1",
-          "description": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current default is `design-taste-frontend` (v2 experimental), which is a substantial rewrite. Use this v1 install name only if you need exact backward compatibility.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "imagegen-frontend-mobile",
-          "installUrl": "github:Leonxlnx/taste-skill:skills/imagegen-frontend-mobile",
-          "description": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, Android, and cross-platform mobile products. Prioritizes clean hierarchy, comfortably readable text, strong multi-screen consistency, controlled color palettes, non-generic creative direction, textured surfaces, image-led composition, tasteful custom iconography, and clean phone mockup framing. By default, screens should be shown inside a subtle premium iPhone or similar phone mockup with a visible frame, while the main focus stays on the app content itself. This skill generates images only. It does not write code.",
           "version": "0.0.0"
         }
       ],

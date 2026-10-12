@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/Egonex-AI/Understand-Anything.git",
   "owner": "Egonex-AI",
   "repo": "Understand-Anything",
-  "updatedAt": "2026-10-11T05:04:39.852Z",
+  "updatedAt": "2026-10-12T10:03:11.703Z",
   "skillCount": 9,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.709Z",
+        "evaluatedAt": "2026-10-12T10:03:11.592Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.593Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.593Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.708Z",
+        "evaluatedAt": "2026-10-12T10:03:11.591Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.592Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.592Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.708Z",
+        "evaluatedAt": "2026-10-12T10:03:11.591Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.592Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.592Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.708Z",
+        "evaluatedAt": "2026-10-12T10:03:11.591Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.592Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.592Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.708Z",
+        "evaluatedAt": "2026-10-12T10:03:11.591Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.709Z",
+          "evaluatedAt": "2026-10-12T10:03:11.592Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.592Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.710Z",
+        "evaluatedAt": "2026-10-12T10:03:11.593Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.593Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.593Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.710Z",
+        "evaluatedAt": "2026-10-12T10:03:11.593Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.593Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.593Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.710Z",
+        "evaluatedAt": "2026-10-12T10:03:11.592Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.593Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.710Z",
+          "evaluatedAt": "2026-10-12T10:03:11.593Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:39.750Z",
+        "evaluatedAt": "2026-10-12T10:03:11.622Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.750Z",
+          "evaluatedAt": "2026-10-12T10:03:11.622Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:39.750Z",
+          "evaluatedAt": "2026-10-12T10:03:11.622Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1621,124 +1621,10 @@
   "bundles": [
     {
       "version": 1,
-      "name": "egonex-ai-understand-anything-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Egonex-AI/Understand-Anything.",
-      "author": "ASM (Egonex-AI/Understand-Anything)",
-      "createdAt": "2026-10-11T05:04:39.852Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "data",
-        "ai",
-        "agents",
-        "egonex-ai",
-        "understand-anything"
-      ],
-      "skills": [
-        {
-          "name": "understand",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand",
-          "description": "Analyze a codebase to produce an interactive knowledge graph for understanding architecture, components, and relationships",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-chat",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-chat",
-          "description": "Use when you need to ask questions about a codebase or understand code using a knowledge graph",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-dashboard",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-dashboard",
-          "description": "Launch the interactive web dashboard to visualize a codebase's knowledge graph",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-diff",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-diff",
-          "description": "Use when you need to analyze git diffs or pull requests to understand what changed, affected components, and risks",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-domain",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-domain",
-          "description": "Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Works standalone (lightweight scan) or derives from an existing /understand knowledge graph.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-explain",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-explain",
-          "description": "Use when you need a deep-dive explanation of a specific file, function, or module in the codebase",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-figma",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-figma",
-          "description": "Analyze a Figma file via the Figma REST API and generate an interactive design knowledge graph (pages, screens, components, component sets, instances, design tokens) with a kind:\"design\" dashboard.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-knowledge",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-knowledge",
-          "description": "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit relationships, and topic clustering.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-onboard",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-onboard",
-          "description": "Use when you need to generate an onboarding guide for new team members joining a project",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Egonex-AI",
-        "repo": "Understand-Anything",
-        "repoUrl": "https://github.com/Egonex-AI/Understand-Anything.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "egonex-ai-understand-anything-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Egonex-AI/Understand-Anything.",
-      "author": "ASM (Egonex-AI/Understand-Anything)",
-      "createdAt": "2026-10-11T05:04:39.852Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "egonex-ai",
-        "understand-anything"
-      ],
-      "skills": [
-        {
-          "name": "understand-explain",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-explain",
-          "description": "Use when you need a deep-dive explanation of a specific file, function, or module in the codebase",
-          "version": "0.0.0"
-        },
-        {
-          "name": "understand-knowledge",
-          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-knowledge",
-          "description": "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit relationships, and topic clustering.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Egonex-AI",
-        "repo": "Understand-Anything",
-        "repoUrl": "https://github.com/Egonex-AI/Understand-Anything.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "egonex-ai-understand-anything-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from Egonex-AI/Understand-Anything.",
       "author": "ASM (Egonex-AI/Understand-Anything)",
-      "createdAt": "2026-10-11T05:04:39.852Z",
+      "createdAt": "2026-10-12T10:03:11.703Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1798,7 +1684,7 @@
       "name": "egonex-ai-understand-anything-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from Egonex-AI/Understand-Anything.",
       "author": "ASM (Egonex-AI/Understand-Anything)",
-      "createdAt": "2026-10-11T05:04:39.852Z",
+      "createdAt": "2026-10-12T10:03:11.703Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1831,6 +1717,120 @@
           "name": "understand-figma",
           "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-figma",
           "description": "Analyze a Figma file via the Figma REST API and generate an interactive design knowledge graph (pages, screens, components, component sets, instances, design tokens) with a kind:\"design\" dashboard.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-onboard",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-onboard",
+          "description": "Use when you need to generate an onboarding guide for new team members joining a project",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Egonex-AI",
+        "repo": "Understand-Anything",
+        "repoUrl": "https://github.com/Egonex-AI/Understand-Anything.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "egonex-ai-understand-anything-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Egonex-AI/Understand-Anything.",
+      "author": "ASM (Egonex-AI/Understand-Anything)",
+      "createdAt": "2026-10-12T10:03:11.703Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "devops",
+        "infra",
+        "automation",
+        "egonex-ai",
+        "understand-anything"
+      ],
+      "skills": [
+        {
+          "name": "understand-explain",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-explain",
+          "description": "Use when you need a deep-dive explanation of a specific file, function, or module in the codebase",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-knowledge",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-knowledge",
+          "description": "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit relationships, and topic clustering.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Egonex-AI",
+        "repo": "Understand-Anything",
+        "repoUrl": "https://github.com/Egonex-AI/Understand-Anything.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "egonex-ai-understand-anything-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Egonex-AI/Understand-Anything.",
+      "author": "ASM (Egonex-AI/Understand-Anything)",
+      "createdAt": "2026-10-12T10:03:11.703Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
+        "egonex-ai",
+        "understand-anything"
+      ],
+      "skills": [
+        {
+          "name": "understand",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand",
+          "description": "Analyze a codebase to produce an interactive knowledge graph for understanding architecture, components, and relationships",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-chat",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-chat",
+          "description": "Use when you need to ask questions about a codebase or understand code using a knowledge graph",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-dashboard",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-dashboard",
+          "description": "Launch the interactive web dashboard to visualize a codebase's knowledge graph",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-diff",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-diff",
+          "description": "Use when you need to analyze git diffs or pull requests to understand what changed, affected components, and risks",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-domain",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-domain",
+          "description": "Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Works standalone (lightweight scan) or derives from an existing /understand knowledge graph.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-explain",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-explain",
+          "description": "Use when you need a deep-dive explanation of a specific file, function, or module in the codebase",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-figma",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-figma",
+          "description": "Analyze a Figma file via the Figma REST API and generate an interactive design knowledge graph (pages, screens, components, component sets, instances, design tokens) with a kind:\"design\" dashboard.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "understand-knowledge",
+          "installUrl": "github:Egonex-AI/Understand-Anything:understand-anything-plugin/skills/understand-knowledge",
+          "description": "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit relationships, and topic clustering.",
           "version": "0.0.0"
         },
         {

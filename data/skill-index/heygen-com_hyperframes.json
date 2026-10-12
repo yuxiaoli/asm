@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "8bca7c4417b59b47fca851183a8d47a4565bad0c",
+  "sourceCommit": "86521b94f592bcf0ca86aba63068893cf658af16",
   "repoUrl": "https://github.com/heygen-com/hyperframes.git",
   "owner": "heygen-com",
   "repo": "hyperframes",
-  "updatedAt": "2026-10-11T05:06:24.777Z",
+  "updatedAt": "2026-10-12T10:04:38.742Z",
   "skillCount": 34,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.618Z",
+        "evaluatedAt": "2026-10-12T10:04:37.989Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.620Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.620Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.613Z",
+        "evaluatedAt": "2026-10-12T10:04:37.983Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.618Z",
+          "evaluatedAt": "2026-10-12T10:04:37.989Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.618Z",
+          "evaluatedAt": "2026-10-12T10:04:37.989Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.613Z",
+        "evaluatedAt": "2026-10-12T10:04:37.984Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.618Z",
+          "evaluatedAt": "2026-10-12T10:04:37.989Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.618Z",
+          "evaluatedAt": "2026-10-12T10:04:37.989Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.613Z",
+        "evaluatedAt": "2026-10-12T10:04:37.990Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.618Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.618Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.620Z",
+        "evaluatedAt": "2026-10-12T10:04:37.989Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.622Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.622Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.618Z",
+        "evaluatedAt": "2026-10-12T10:04:37.990Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.620Z",
+          "evaluatedAt": "2026-10-12T10:04:37.991Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.620Z",
+          "evaluatedAt": "2026-10-12T10:04:37.991Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.618Z",
+        "evaluatedAt": "2026-10-12T10:04:37.989Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.620Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.621Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.621Z",
+        "evaluatedAt": "2026-10-12T10:04:37.989Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.622Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.622Z",
+          "evaluatedAt": "2026-10-12T10:04:37.990Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.648Z",
+        "evaluatedAt": "2026-10-12T10:04:38.010Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.649Z",
+          "evaluatedAt": "2026-10-12T10:04:38.010Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.649Z",
+          "evaluatedAt": "2026-10-12T10:04:38.010Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.676Z",
+        "evaluatedAt": "2026-10-12T10:04:38.021Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.681Z",
+          "evaluatedAt": "2026-10-12T10:04:38.025Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.681Z",
+          "evaluatedAt": "2026-10-12T10:04:38.025Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.684Z",
+        "evaluatedAt": "2026-10-12T10:04:38.032Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.685Z",
+          "evaluatedAt": "2026-10-12T10:04:38.034Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.685Z",
+          "evaluatedAt": "2026-10-12T10:04:38.034Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.704Z",
+        "evaluatedAt": "2026-10-12T10:04:38.043Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.705Z",
+          "evaluatedAt": "2026-10-12T10:04:38.044Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.705Z",
+          "evaluatedAt": "2026-10-12T10:04:38.044Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.738Z",
+        "evaluatedAt": "2026-10-12T10:04:38.080Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.739Z",
+          "evaluatedAt": "2026-10-12T10:04:38.081Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.739Z",
+          "evaluatedAt": "2026-10-12T10:04:38.081Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.790Z",
+        "evaluatedAt": "2026-10-12T10:04:38.100Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.790Z",
+          "evaluatedAt": "2026-10-12T10:04:38.100Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,13 +2507,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.790Z",
+          "evaluatedAt": "2026-10-12T10:04:38.100Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "959fdea508f89e77c8e4b000c85c086ea073b826fb07103bbfb936a32dfa29a9",
+      "contentHash": "daf3250390426ef096a7d2f71082919418099decbd1f31288640a43b43c7e293",
       "sourcePath": "skills/hyperframes-audio/SKILL.md",
       "name": "hyperframes-audio",
       "description": "Use when audio already placed in a HyperFrames composition needs to be mixed: fade-in/fade-out, crossfade, track gain or volume, volume automation, ducking, a music bed that fights a voiceover (voiceover carve), effects on a track (EQ, compressor, limiter, gate, saturation, delay, reverb, chorus, phaser, bitcrush), automation envelopes drawn on a track's volume or any effect parameter, or one submix bus carrying a chain, a fader and an automation clock for several tracks at once (`<hf-audio-group>`). Don't use for sourcing or generating audio — finding BGM, SFX, or making a voiceover is `/media-use`. Don't use for clip timing or track layout, which is `/hyperframes-core`.",
@@ -2529,7 +2529,7 @@
       "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-audio",
       "relPath": "skills/hyperframes-audio",
       "verified": true,
-      "tokenCount": 8492,
+      "tokenCount": 8688,
       "evalSummary": {
         "overallScore": 62,
         "grade": "D",
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.790Z",
+        "evaluatedAt": "2026-10-12T10:04:38.100Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.791Z",
+          "evaluatedAt": "2026-10-12T10:04:38.101Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,7 +2686,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.791Z",
+          "evaluatedAt": "2026-10-12T10:04:38.101Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.818Z",
+        "evaluatedAt": "2026-10-12T10:04:38.114Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.820Z",
+          "evaluatedAt": "2026-10-12T10:04:38.115Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.820Z",
+          "evaluatedAt": "2026-10-12T10:04:38.115Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.820Z",
+        "evaluatedAt": "2026-10-12T10:04:38.117Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.821Z",
+          "evaluatedAt": "2026-10-12T10:04:38.117Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3044,7 +3044,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.821Z",
+          "evaluatedAt": "2026-10-12T10:04:38.118Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.877Z",
+        "evaluatedAt": "2026-10-12T10:04:38.162Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.878Z",
+          "evaluatedAt": "2026-10-12T10:04:38.162Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3223,7 +3223,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.878Z",
+          "evaluatedAt": "2026-10-12T10:04:38.162Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.891Z",
+        "evaluatedAt": "2026-10-12T10:04:38.171Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.891Z",
+          "evaluatedAt": "2026-10-12T10:04:38.172Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3402,7 +3402,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.891Z",
+          "evaluatedAt": "2026-10-12T10:04:38.172Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.940Z",
+        "evaluatedAt": "2026-10-12T10:04:38.198Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.940Z",
+          "evaluatedAt": "2026-10-12T10:04:38.199Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3581,7 +3581,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.940Z",
+          "evaluatedAt": "2026-10-12T10:04:38.199Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3669,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.940Z",
+        "evaluatedAt": "2026-10-12T10:04:38.199Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3742,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.942Z",
+          "evaluatedAt": "2026-10-12T10:04:38.199Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3760,7 +3760,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.942Z",
+          "evaluatedAt": "2026-10-12T10:04:38.199Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3848,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.942Z",
+        "evaluatedAt": "2026-10-12T10:04:38.199Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3921,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.943Z",
+          "evaluatedAt": "2026-10-12T10:04:38.201Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3939,7 +3939,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.943Z",
+          "evaluatedAt": "2026-10-12T10:04:38.201Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4027,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:23.964Z",
+        "evaluatedAt": "2026-10-12T10:04:38.215Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4100,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.966Z",
+          "evaluatedAt": "2026-10-12T10:04:38.216Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4118,7 +4118,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:23.966Z",
+          "evaluatedAt": "2026-10-12T10:04:38.216Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4206,7 +4206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.007Z",
+        "evaluatedAt": "2026-10-12T10:04:38.239Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4279,7 +4279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.008Z",
+          "evaluatedAt": "2026-10-12T10:04:38.239Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4297,7 +4297,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.008Z",
+          "evaluatedAt": "2026-10-12T10:04:38.239Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4385,7 +4385,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.039Z",
+        "evaluatedAt": "2026-10-12T10:04:38.248Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4458,7 +4458,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.040Z",
+          "evaluatedAt": "2026-10-12T10:04:38.248Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4476,7 +4476,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.040Z",
+          "evaluatedAt": "2026-10-12T10:04:38.248Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4564,7 +4564,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.119Z",
+        "evaluatedAt": "2026-10-12T10:04:38.295Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4637,7 +4637,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.120Z",
+          "evaluatedAt": "2026-10-12T10:04:38.295Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4655,7 +4655,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.120Z",
+          "evaluatedAt": "2026-10-12T10:04:38.295Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4743,7 +4743,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.247Z",
+        "evaluatedAt": "2026-10-12T10:04:38.398Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4816,7 +4816,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.247Z",
+          "evaluatedAt": "2026-10-12T10:04:38.398Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4834,7 +4834,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.247Z",
+          "evaluatedAt": "2026-10-12T10:04:38.398Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4922,7 +4922,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.285Z",
+        "evaluatedAt": "2026-10-12T10:04:38.423Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4995,7 +4995,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.285Z",
+          "evaluatedAt": "2026-10-12T10:04:38.423Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5013,7 +5013,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.285Z",
+          "evaluatedAt": "2026-10-12T10:04:38.423Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5101,7 +5101,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.323Z",
+        "evaluatedAt": "2026-10-12T10:04:38.449Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5174,7 +5174,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.324Z",
+          "evaluatedAt": "2026-10-12T10:04:38.450Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5192,7 +5192,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.324Z",
+          "evaluatedAt": "2026-10-12T10:04:38.451Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5280,7 +5280,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.370Z",
+        "evaluatedAt": "2026-10-12T10:04:38.471Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5353,7 +5353,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.371Z",
+          "evaluatedAt": "2026-10-12T10:04:38.471Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5371,7 +5371,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.371Z",
+          "evaluatedAt": "2026-10-12T10:04:38.471Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5459,7 +5459,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.371Z",
+        "evaluatedAt": "2026-10-12T10:04:38.472Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5532,7 +5532,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.371Z",
+          "evaluatedAt": "2026-10-12T10:04:38.472Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5550,7 +5550,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.372Z",
+          "evaluatedAt": "2026-10-12T10:04:38.472Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5638,7 +5638,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.408Z",
+        "evaluatedAt": "2026-10-12T10:04:38.498Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5711,7 +5711,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.409Z",
+          "evaluatedAt": "2026-10-12T10:04:38.499Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5729,7 +5729,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.409Z",
+          "evaluatedAt": "2026-10-12T10:04:38.499Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5817,7 +5817,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.447Z",
+        "evaluatedAt": "2026-10-12T10:04:38.527Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5890,7 +5890,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.448Z",
+          "evaluatedAt": "2026-10-12T10:04:38.528Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5908,7 +5908,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.448Z",
+          "evaluatedAt": "2026-10-12T10:04:38.528Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5996,7 +5996,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:24.472Z",
+        "evaluatedAt": "2026-10-12T10:04:38.528Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6069,7 +6069,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.473Z",
+          "evaluatedAt": "2026-10-12T10:04:38.528Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6087,7 +6087,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:24.473Z",
+          "evaluatedAt": "2026-10-12T10:04:38.528Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6096,54 +6096,24 @@
   "bundles": [
     {
       "version": 1,
-      "name": "heygen-com-hyperframes-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from heygen-com/hyperframes.",
+      "name": "heygen-com-hyperframes-marketing",
+      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-11T05:06:24.777Z",
+      "createdAt": "2026-10-12T10:04:38.742Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "marketing",
+        "growth",
+        "seo",
         "heygen-com",
         "hyperframes"
       ],
       "skills": [
         {
-          "name": "captions-overlay",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/captions-overlay",
-          "description": "Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, when deciding whether a phrase should be dropped, ride the verbatim rail, or be promoted to a scarce embedded climax, when laying out a composition that will carry captions (do NOT reserve a keep-out band), or when centering a composition on the true frame center under captions. Quotes the rail+embed model from embedded-captions and constraint #13 (captions overlay, keep-out band retired) from the product-launch-video scene agent. Applies ON TOP of embedded-captions.",
-          "version": "0.0.0"
-        },
-        {
           "name": "changelog-video",
           "installUrl": "github:heygen-com/hyperframes:.claude/skills/changelog-video",
           "description": "Turn a weekly changelog .md into a finished branded changelog video (square 1080, ~45-60s, Annie VO, animated brand background, mock-UI visualizations, lowkey captions). Use when the user provides a changelog/digest markdown and wants the weekly video, or says \"changelog video\". Self-contained — fonts, background, lexicon, and scripts ship in this skill.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cuboid-carousel",
-          "installUrl": "github:heygen-com/hyperframes:registry/blocks/cuboid-carousel",
-          "description": "A chain of bevelled cuboids rides a travelling wave as a content carousel. HyperFrames block, 1920×1080, 6.666666666666667s, 40 variables.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cut-the-curve",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/cut-the-curve",
-          "description": "The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curve, waterfall cut, rack-focus blur-cut) plus the two in-scene techniques — waterfall ENTRY (staggered arrival cascades for title cards / segment openers) and the nudge curve (slow-fast-slow three-phase group slides). Covers partial-travel (~12% of frame) velocity matching via mirrored power4 eases, the Z scale-sign rule, size-scaled blur (10px text / 18-20px full-frame), word-by-word staggered cuts, cascade pacing by element weight, and the 10/65/25 slide ratio. Read before authoring any transition, text-beat handoff, kinetic text entry, or group reposition. [depth, zoom, inverse-zoom, scale-sign, mirrored-zoom, rack-focus, pacing, velocity, cut-the-curve, waterfall, stagger, cascade, kinetic-text, title-card, segment-opener, nudge, slide, easing, group-motion, z-depth, motion-graphics, cinematic, transition, blur, directional-continuity]",
-          "version": "0.0.0"
-        },
-        {
-          "name": "embedded-captions",
-          "installUrl": "github:heygen-com/hyperframes:skills/embedded-captions",
-          "description": "Add captions or subtitles to an existing single-subject talking-head video without editing the footage. Use for plain verbatim captions, cinematic captions embedded behind the subject, VFX captions, “炸/特效/酷炫字幕,” or a named identity from the 35-style catalog. Route by visual identity, not by backend engine. The quiet `anchor` rail is the default; embed every word only when the user explicitly wants a fully cinematic treatment. The workflow runs locally end to end, including transcription and subject matting; split multi-shot footage before applying it.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "faceless-explainer",
-          "installUrl": "github:heygen-com/hyperframes:skills/faceless-explainer",
-          "description": "Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there is no site or footage to capture, so the visuals are invented per scene (typography, abstract graphics, diagrams, data-viz). Use for topic explainers, concept breakdowns, how-tos, listicles. Not a video built from a website (/product-launch-video — promo or tour). Unclear → /hyperframes.",
           "version": "0.0.0"
         },
         {
@@ -6153,159 +6123,15 @@
           "version": "0.0.0"
         },
         {
-          "name": "hyperframes",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes",
-          "description": "Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition. Also use it to inspect, diagnose, validate, preview, publish, or batch-render an existing HyperFrames project. Inputs may be a website URL, GitHub PR, Figma design or URL, text or brief, existing footage, or music. It resumes project state, captures intent when applicable, selects and installs the owning workflow, and routes domain capabilities. HyperFrames is the default output framework unless the user explicitly chooses another framework for the deliverable or asks only to record a browser session.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-audio",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-audio",
-          "description": "Use when audio already placed in a HyperFrames composition needs to be mixed: fade-in/fade-out, crossfade, track gain or volume, volume automation, ducking, a music bed that fights a voiceover (voiceover carve), effects on a track (EQ, compressor, limiter, gate, saturation, delay, reverb, chorus, phaser, bitcrush), automation envelopes drawn on a track's volume or any effect parameter, or one submix bus carrying a chain, a fader and an automation clock for several tracks at once (`<hf-audio-group>`). Don't use for sourcing or generating audio — finding BGM, SFX, or making a voiceover is `/media-use`. Don't use for clip timing or track layout, which is `/hyperframes-core`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-cli",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
-          "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-core",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-core",
-          "description": "The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timing attributes, `class=\"clip\"`, tracks, sub-compositions, variables, framework-owned media playback, deterministic-render rules, and validation. Read before writing composition HTML.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-keyframes",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-keyframes",
-          "description": "Use when a HyperFrames composition needs a punch-in, punch-out, zoom, reframe, Ken Burns treatment, camera move, visual match/whip handoff, or other seek-safe 2D/3D keyframes; also for GSAP, CSS keyframes, Anime.js, WAAPI, FLIP, paths, masks, SVG morph/draw, text trails, 3D depth, or `hyperframes keyframes` diagnostics. Don't use for broad scene strategy, brand design, media sourcing, captions, or general video planning.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-registry",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-registry",
-          "description": "Search, install, and wire registry blocks and components into HyperFrames compositions. Use BEFORE hand-building any named visual — whenever a brief, a user, or a storyboard names a look, effect, treatment, or transition such as CRT scanlines, glitch, chromatic aberration, film grain, a shimmer sweep, a chart, a code or terminal window, a map, or a confetti burst — because roughly 400 hosted items already cover many of them and the search ranks all of them with nothing installed, no project, and no account. Also use when running hyperframes add or hyperframes catalog, installing one item or every block matching a tag, wiring an installed item into index.html, or working with hyperframes.json. Covers discovery, install locations, block sub-composition wiring, component snippet merging, and authoring a new block or component to contribute upstream (idea → scaffold → validate → PR).",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-studio",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-studio",
-          "description": "Use when working with a person on a HyperFrames project in Studio: first, whether their message asks for a change at all (questions, loose ideas and \"don't change anything\" get an answer and a plan, not an edit); for a new film, the plan, storyboard and build order that the HyperFrames launch films follow; and how the timeline should be laid out so it reads well (one caption track, one element kind per track, every scene a sub-composition) and where captions and key content may sit (safe zones). Don't use for how to perform an individual edit (split, trim, retime, volume, copy, swap): that is `creator-editing-recipes.md` in `/hyperframes-core`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "media-use",
-          "installUrl": "github:heygen-com/hyperframes:skills/media-use",
-          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm|sfx` needs the heygen CLI. When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "motion-doctrine",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/motion-doctrine",
-          "description": "GATEWAY — load FIRST before composing any HyperFrames animation or video. The high-level motion law that makes a multi-scene video feel like ONE continuous camera move instead of a stack of independently-animated slides. Covers the vector law (how you exit determines how you enter, incl. the Z scale-sign rule), the film's current, carrier elements, causal motion, the Seam Gate (build-gate enforcement), the ban on idle wobble (motion must PERFORM, not breathe), stillness-before-climax, and the sustained-motion routes. Routes to the low-level technique skills (cut-the-curve — the full catalog incl. waterfall entry + nudge curve, oversized-cursor, seam-craft). These rules SUPERSEDE generic / upstream motion guidance. [continuity, direction, vector, momentum, seam, transition, ease, performance, idle-motion, narrative-motion, film-grammar]",
-          "version": "0.0.0"
-        },
-        {
-          "name": "motion-graphics",
-          "installUrl": "github:heygen-com/hyperframes:skills/motion-graphics",
-          "description": "A short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, chart/data-viz hit, logo sting / brand lockup, lower-third / callout / social overlay, animated map (highlight regions, connect places, zoom to a location), animated tweet / news-article / headline, webpage / UI animation (scroll, cursor, callouts), or fusing a real image's geometry into a chart. Usually under 10s (up to ~30s), no narration or live-action subject; renders to MP4 or transparent overlay. Longer / narrated / multi-scene → /general-video. Unclear → /hyperframes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "oversized-cursor",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/oversized-cursor",
-          "description": "House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene involves cursors or a pointer-led action, when kicking off a UI scene, when igniting a morph/transition/typing run with a click, or when a scene reads as static, dead, or stale and needs a cheap high-yield source of motion to carry the viewer's eye and segment them out of the stale state. Covers cursor size/look (incl. brand-motif cursors), the off-screen entry law, tip-targeting and the click tap, click-ignites-the-next-beat, and exit / cross-scene handoff.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "pr-to-video",
-          "installUrl": "github:heygen-com/hyperframes:skills/pr-to-video",
-          "description": "Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-out repo) into a code-change explainer video — changelog, feature reveal, fix, or refactor walkthrough built from the diff, commits, and files: the input is a code change, not a website. Not a product promo (/product-launch-video) or a no-PR topic explainer (/faceless-explainer). Unclear → /hyperframes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "seam-craft",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/seam-craft",
-          "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark films), when reasoning about why a transition opacity dip shows through, or when verifying the render-side mechanics of how overlapping scene wrappers blend. Covers the opaque stage-ground (#root background) white-flash guard and how the injector overlaps wrappers, holds final frames, ping-pongs tracks, and stamps lint-clean template code onto the master timeline. Does NOT contain the per-transition catalog — see the transition registry for individual transition entries.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "talking-head-recut",
-          "installUrl": "github:heygen-com/hyperframes:skills/talking-head-recut",
-          "description": "Package an existing talking-head / interview / podcast video with timed, designed GRAPHIC OVERLAY cards — kinetic titles, lower-thirds, data callouts, quotes, side panels, picture-in-picture — synced to the transcript, on a 16:9 / 9:16 / 4:5 canvas of your choice; the clip plays untouched underneath. Trigger on \"graphic overlays\", \"on-screen graphics\", \"package / dress up my video\". Not plain subtitles (/embedded-captions). Unclear → /hyperframes.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "heygen-com",
-        "repo": "hyperframes",
-        "repoUrl": "https://github.com/heygen-com/hyperframes.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "heygen-com-hyperframes-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from heygen-com/hyperframes.",
-      "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-11T05:06:24.777Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "heygen-com",
-        "hyperframes"
-      ],
-      "skills": [
-        {
-          "name": "captions-overlay",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/captions-overlay",
-          "description": "Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, when deciding whether a phrase should be dropped, ride the verbatim rail, or be promoted to a scarce embedded climax, when laying out a composition that will carry captions (do NOT reserve a keep-out band), or when centering a composition on the true frame center under captions. Quotes the rail+embed model from embedded-captions and constraint #13 (captions overlay, keep-out band retired) from the product-launch-video scene agent. Applies ON TOP of embedded-captions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cut-the-curve",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/cut-the-curve",
-          "description": "The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curve, waterfall cut, rack-focus blur-cut) plus the two in-scene techniques — waterfall ENTRY (staggered arrival cascades for title cards / segment openers) and the nudge curve (slow-fast-slow three-phase group slides). Covers partial-travel (~12% of frame) velocity matching via mirrored power4 eases, the Z scale-sign rule, size-scaled blur (10px text / 18-20px full-frame), word-by-word staggered cuts, cascade pacing by element weight, and the 10/65/25 slide ratio. Read before authoring any transition, text-beat handoff, kinetic text entry, or group reposition. [depth, zoom, inverse-zoom, scale-sign, mirrored-zoom, rack-focus, pacing, velocity, cut-the-curve, waterfall, stagger, cascade, kinetic-text, title-card, segment-opener, nudge, slide, easing, group-motion, z-depth, motion-graphics, cinematic, transition, blur, directional-continuity]",
-          "version": "0.0.0"
-        },
-        {
-          "name": "embedded-captions",
-          "installUrl": "github:heygen-com/hyperframes:skills/embedded-captions",
-          "description": "Add captions or subtitles to an existing single-subject talking-head video without editing the footage. Use for plain verbatim captions, cinematic captions embedded behind the subject, VFX captions, “炸/特效/酷炫字幕,” or a named identity from the 35-style catalog. Route by visual identity, not by backend engine. The quiet `anchor` rail is the default; embed every word only when the user explicitly wants a fully cinematic treatment. The workflow runs locally end to end, including transcription and subject matting; split multi-shot footage before applying it.",
-          "version": "0.0.0"
-        },
-        {
           "name": "general-video",
           "installUrl": "github:heygen-com/hyperframes:skills/general-video",
           "description": "Author or edit a custom HyperFrames composition when no specialized workflow fits, or when BRIEF.md sets flow: companion. Use for longer or multi-scene pieces, brand and sizzle reels, montages, static loops, static title cards, footage remixes, and freeform builds. Use motion-graphics instead for a short unnarrated motion-first unit, including an animated title. Route fresh creation through hyperframes before using this skill.",
           "version": "0.0.0"
         },
         {
-          "name": "hyperframes",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes",
-          "description": "Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition. Also use it to inspect, diagnose, validate, preview, publish, or batch-render an existing HyperFrames project. Inputs may be a website URL, GitHub PR, Figma design or URL, text or brief, existing footage, or music. It resumes project state, captures intent when applicable, selects and installs the owning workflow, and routes domain capabilities. HyperFrames is the default output framework unless the user explicitly chooses another framework for the deliverable or asks only to record a browser session.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-animation",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-animation",
-          "description": "All animation knowledge for HyperFrames — atomic motion rules, multi-phase scene blueprints, scene transitions, broader motion-design techniques, AND the seven runtime adapters (GSAP default, plus Lottie, Three.js, Anime.js, CSS keyframes, Web Animations API, TypeGPU). Use for any motion or animation task: pick 2-4 rules and compose, or load a blueprint, or look up runtime-specific API (e.g. GSAP eases / Lottie player / Three.js mixer). Also covers auditing an existing composition's choreography (animation map) and 24 named text-animation effects. HyperFrames-native: single paused timeline, seek-safe, deterministic.",
-          "version": "0.0.0"
-        },
-        {
           "name": "hyperframes-audio",
           "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-audio",
           "description": "Use when audio already placed in a HyperFrames composition needs to be mixed: fade-in/fade-out, crossfade, track gain or volume, volume automation, ducking, a music bed that fights a voiceover (voiceover carve), effects on a track (EQ, compressor, limiter, gate, saturation, delay, reverb, chorus, phaser, bitcrush), automation envelopes drawn on a track's volume or any effect parameter, or one submix bus carrying a chain, a fader and an automation clock for several tracks at once (`<hf-audio-group>`). Don't use for sourcing or generating audio — finding BGM, SFX, or making a voiceover is `/media-use`. Don't use for clip timing or track layout, which is `/hyperframes-core`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-cli",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
-          "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
           "version": "0.0.0"
         },
         {
@@ -6339,9 +6165,9 @@
           "version": "0.0.0"
         },
         {
-          "name": "music-to-video",
-          "installUrl": "github:heygen-com/hyperframes:skills/music-to-video",
-          "description": "Turn a music track (an audio file, a video to pull audio from, or a track generated from a mood brief) into a beat-synced video — lyric video, slideshow, or kinetic promo. The music drives all pacing; any user-supplied images/videos are cut onto the same beat grid, and a complete video needs zero assets. Narrated pieces → the input-matched workflow (see /hyperframes). Unclear → /hyperframes.",
+          "name": "oversized-cursor",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/oversized-cursor",
+          "description": "House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene involves cursors or a pointer-led action, when kicking off a UI scene, when igniting a morph/transition/typing run with a click, or when a scene reads as static, dead, or stale and needs a cheap high-yield source of motion to carry the viewer's eye and segment them out of the stale state. Covers cursor size/look (incl. brand-motif cursors), the off-screen entry law, tip-targeting and the click tap, click-ignites-the-next-beat, and exit / cross-scene handoff.",
           "version": "0.0.0"
         },
         {
@@ -6351,21 +6177,123 @@
           "version": "0.0.0"
         },
         {
-          "name": "remotion-to-hyperframes",
-          "installUrl": "github:heygen-com/hyperframes:skills/remotion-to-hyperframes",
-          "description": "Port an existing Remotion (React) composition''s source to HyperFrames HTML. Use ONLY on an explicit ask to port/convert/migrate/translate a Remotion source — one-way, Remotion-only. A passing Remotion mention, reference-only code, or \"make something like my Remotion video\" is a fresh build (/general-video). Unclear → /hyperframes.",
+          "name": "seam-craft",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/seam-craft",
+          "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark films), when reasoning about why a transition opacity dip shows through, or when verifying the render-side mechanics of how overlapping scene wrappers blend. Covers the opaque stage-ground (#root background) white-flash guard and how the injector overlaps wrappers, holds final frames, ping-pongs tracks, and stamps lint-clean template code onto the master timeline. Does NOT contain the per-transition catalog — see the transition registry for individual transition entries.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "heygen-com",
+        "repo": "hyperframes",
+        "repoUrl": "https://github.com/heygen-com/hyperframes.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "heygen-com-hyperframes-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from heygen-com/hyperframes.",
+      "author": "ASM (heygen-com/hyperframes)",
+      "createdAt": "2026-10-12T10:04:38.742Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "writing",
+        "content",
+        "docs",
+        "heygen-com",
+        "hyperframes"
+      ],
+      "skills": [
+        {
+          "name": "captions-overlay",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/captions-overlay",
+          "description": "Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, when deciding whether a phrase should be dropped, ride the verbatim rail, or be promoted to a scarce embedded climax, when laying out a composition that will carry captions (do NOT reserve a keep-out band), or when centering a composition on the true frame center under captions. Quotes the rail+embed model from embedded-captions and constraint #13 (captions overlay, keep-out band retired) from the product-launch-video scene agent. Applies ON TOP of embedded-captions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cuboid-carousel",
+          "installUrl": "github:heygen-com/hyperframes:registry/blocks/cuboid-carousel",
+          "description": "A chain of bevelled cuboids rides a travelling wave as a content carousel. HyperFrames block, 1920×1080, 6.666666666666667s, 40 variables.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "faceless-explainer",
+          "installUrl": "github:heygen-com/hyperframes:skills/faceless-explainer",
+          "description": "Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there is no site or footage to capture, so the visuals are invented per scene (typography, abstract graphics, diagrams, data-viz). Use for topic explainers, concept breakdowns, how-tos, listicles. Not a video built from a website (/product-launch-video — promo or tour). Unclear → /hyperframes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma",
+          "installUrl": "github:heygen-com/hyperframes:skills/figma",
+          "description": "Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, storyboard sections → reconstructed motion (frames read as states, not slides) (REST/CLI), connector-assisted motion when available, and shaders from a connector or native export. Use when the user pastes a figma.com link or asks to bring a Figma design, frame, logo, brand, or animation into a video/composition.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-cli",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
+          "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-core",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-core",
+          "description": "The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timing attributes, `class=\"clip\"`, tracks, sub-compositions, variables, framework-owned media playback, deterministic-render rules, and validation. Read before writing composition HTML.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-studio",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-studio",
+          "description": "Use when working with a person on a HyperFrames project in Studio: first, whether their message asks for a change at all (questions, loose ideas and \"don't change anything\" get an answer and a plan, not an edit); for a new film, the plan, storyboard and build order that the HyperFrames launch films follow; and how the timeline should be laid out so it reads well (one caption track, one element kind per track, every scene a sub-composition) and where captions and key content may sit (safe zones). Don't use for how to perform an individual edit (split, trim, retime, volume, copy, swap): that is `creator-editing-recipes.md` in `/hyperframes-core`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "motion-graphics",
+          "installUrl": "github:heygen-com/hyperframes:skills/motion-graphics",
+          "description": "A short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, chart/data-viz hit, logo sting / brand lockup, lower-third / callout / social overlay, animated map (highlight regions, connect places, zoom to a location), animated tweet / news-article / headline, webpage / UI animation (scroll, cursor, callouts), or fusing a real image's geometry into a chart. Usually under 10s (up to ~30s), no narration or live-action subject; renders to MP4 or transparent overlay. Longer / narrated / multi-scene → /general-video. Unclear → /hyperframes.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "heygen-com",
+        "repo": "hyperframes",
+        "repoUrl": "https://github.com/heygen-com/hyperframes.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "heygen-com-hyperframes-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from heygen-com/hyperframes.",
+      "author": "ASM (heygen-com/hyperframes)",
+      "createdAt": "2026-10-12T10:04:38.742Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "heygen-com",
+        "hyperframes"
+      ],
+      "skills": [
+        {
+          "name": "hyperframes",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes",
+          "description": "Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition. Also use it to inspect, diagnose, validate, preview, publish, or batch-render an existing HyperFrames project. Inputs may be a website URL, GitHub PR, Figma design or URL, text or brief, existing footage, or music. It resumes project state, captures intent when applicable, selects and installs the owning workflow, and routes domain capabilities. HyperFrames is the default output framework unless the user explicitly chooses another framework for the deliverable or asks only to record a browser session.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-cli",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
+          "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
           "version": "0.0.0"
         },
         {
           "name": "seam-craft",
           "installUrl": "github:heygen-com/hyperframes:.claude/skills/seam-craft",
           "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark films), when reasoning about why a transition opacity dip shows through, or when verifying the render-side mechanics of how overlapping scene wrappers blend. Covers the opaque stage-ground (#root background) white-flash guard and how the injector overlaps wrappers, holds final frames, ping-pongs tracks, and stamps lint-clean template code onto the master timeline. Does NOT contain the per-transition catalog — see the transition registry for individual transition entries.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "slideshow",
-          "installUrl": "github:heygen-com/hyperframes:skills/slideshow",
-          "description": "Author a HyperFrames slideshow — a presentation, pitch deck, or interactive deck with discrete slides, fragment reveals, branching, hotspot navigation, and built-in presenter mode with speaker notes; also converts an existing page into a deck. Output is a navigable deck, not a rendered MP4. If the user didn't explicitly ask for a slideshow, confirm before authoring. Unclear → /hyperframes.",
           "version": "0.0.0"
         }
       ],
@@ -6381,7 +6309,7 @@
       "name": "heygen-com-hyperframes-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-11T05:06:24.777Z",
+      "createdAt": "2026-10-12T10:04:38.742Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6519,7 +6447,7 @@
       "name": "heygen-com-hyperframes-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-11T05:06:24.777Z",
+      "createdAt": "2026-10-12T10:04:38.742Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6690,30 +6618,36 @@
     },
     {
       "version": 1,
-      "name": "heygen-com-hyperframes-marketing",
-      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from heygen-com/hyperframes.",
+      "name": "heygen-com-hyperframes-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-11T05:06:24.777Z",
+      "createdAt": "2026-10-12T10:04:38.742Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "marketing",
-        "growth",
-        "seo",
+        "devops",
+        "infra",
+        "automation",
         "heygen-com",
         "hyperframes"
       ],
       "skills": [
         {
-          "name": "changelog-video",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/changelog-video",
-          "description": "Turn a weekly changelog .md into a finished branded changelog video (square 1080, ~45-60s, Annie VO, animated brand background, mock-UI visualizations, lowkey captions). Use when the user provides a changelog/digest markdown and wants the weekly video, or says \"changelog video\". Self-contained — fonts, background, lexicon, and scripts ship in this skill.",
+          "name": "captions-overlay",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/captions-overlay",
+          "description": "Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, when deciding whether a phrase should be dropped, ride the verbatim rail, or be promoted to a scarce embedded climax, when laying out a composition that will carry captions (do NOT reserve a keep-out band), or when centering a composition on the true frame center under captions. Quotes the rail+embed model from embedded-captions and constraint #13 (captions overlay, keep-out band retired) from the product-launch-video scene agent. Applies ON TOP of embedded-captions.",
           "version": "0.0.0"
         },
         {
-          "name": "figma",
-          "installUrl": "github:heygen-com/hyperframes:skills/figma",
-          "description": "Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, storyboard sections → reconstructed motion (frames read as states, not slides) (REST/CLI), connector-assisted motion when available, and shaders from a connector or native export. Use when the user pastes a figma.com link or asks to bring a Figma design, frame, logo, brand, or animation into a video/composition.",
+          "name": "cut-the-curve",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/cut-the-curve",
+          "description": "The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curve, waterfall cut, rack-focus blur-cut) plus the two in-scene techniques — waterfall ENTRY (staggered arrival cascades for title cards / segment openers) and the nudge curve (slow-fast-slow three-phase group slides). Covers partial-travel (~12% of frame) velocity matching via mirrored power4 eases, the Z scale-sign rule, size-scaled blur (10px text / 18-20px full-frame), word-by-word staggered cuts, cascade pacing by element weight, and the 10/65/25 slide ratio. Read before authoring any transition, text-beat handoff, kinetic text entry, or group reposition. [depth, zoom, inverse-zoom, scale-sign, mirrored-zoom, rack-focus, pacing, velocity, cut-the-curve, waterfall, stagger, cascade, kinetic-text, title-card, segment-opener, nudge, slide, easing, group-motion, z-depth, motion-graphics, cinematic, transition, blur, directional-continuity]",
+          "version": "0.0.0"
+        },
+        {
+          "name": "embedded-captions",
+          "installUrl": "github:heygen-com/hyperframes:skills/embedded-captions",
+          "description": "Add captions or subtitles to an existing single-subject talking-head video without editing the footage. Use for plain verbatim captions, cinematic captions embedded behind the subject, VFX captions, “炸/特效/酷炫字幕,” or a named identity from the 35-style catalog. Route by visual identity, not by backend engine. The quiet `anchor` rail is the default; embed every word only when the user explicitly wants a fully cinematic treatment. The workflow runs locally end to end, including transcription and subject matting; split multi-shot footage before applying it.",
           "version": "0.0.0"
         },
         {
@@ -6723,9 +6657,27 @@
           "version": "0.0.0"
         },
         {
+          "name": "hyperframes",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes",
+          "description": "Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition. Also use it to inspect, diagnose, validate, preview, publish, or batch-render an existing HyperFrames project. Inputs may be a website URL, GitHub PR, Figma design or URL, text or brief, existing footage, or music. It resumes project state, captures intent when applicable, selects and installs the owning workflow, and routes domain capabilities. HyperFrames is the default output framework unless the user explicitly chooses another framework for the deliverable or asks only to record a browser session.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-animation",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-animation",
+          "description": "All animation knowledge for HyperFrames — atomic motion rules, multi-phase scene blueprints, scene transitions, broader motion-design techniques, AND the seven runtime adapters (GSAP default, plus Lottie, Three.js, Anime.js, CSS keyframes, Web Animations API, TypeGPU). Use for any motion or animation task: pick 2-4 rules and compose, or load a blueprint, or look up runtime-specific API (e.g. GSAP eases / Lottie player / Three.js mixer). Also covers auditing an existing composition's choreography (animation map) and 24 named text-animation effects. HyperFrames-native: single paused timeline, seek-safe, deterministic.",
+          "version": "0.0.0"
+        },
+        {
           "name": "hyperframes-audio",
           "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-audio",
           "description": "Use when audio already placed in a HyperFrames composition needs to be mixed: fade-in/fade-out, crossfade, track gain or volume, volume automation, ducking, a music bed that fights a voiceover (voiceover carve), effects on a track (EQ, compressor, limiter, gate, saturation, delay, reverb, chorus, phaser, bitcrush), automation envelopes drawn on a track's volume or any effect parameter, or one submix bus carrying a chain, a fader and an automation clock for several tracks at once (`<hf-audio-group>`). Don't use for sourcing or generating audio — finding BGM, SFX, or making a voiceover is `/media-use`. Don't use for clip timing or track layout, which is `/hyperframes-core`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-cli",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
+          "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
           "version": "0.0.0"
         },
         {
@@ -6759,9 +6711,9 @@
           "version": "0.0.0"
         },
         {
-          "name": "oversized-cursor",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/oversized-cursor",
-          "description": "House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene involves cursors or a pointer-led action, when kicking off a UI scene, when igniting a morph/transition/typing run with a click, or when a scene reads as static, dead, or stale and needs a cheap high-yield source of motion to carry the viewer's eye and segment them out of the stale state. Covers cursor size/look (incl. brand-motif cursors), the off-screen entry law, tip-targeting and the click tap, click-ignites-the-next-beat, and exit / cross-scene handoff.",
+          "name": "music-to-video",
+          "installUrl": "github:heygen-com/hyperframes:skills/music-to-video",
+          "description": "Turn a music track (an audio file, a video to pull audio from, or a track generated from a mood brief) into a beat-synced video — lyric video, slideshow, or kinetic promo. The music drives all pacing; any user-supplied images/videos are cut onto the same beat grid, and a complete video needs zero assets. Narrated pieces → the input-matched workflow (see /hyperframes). Unclear → /hyperframes.",
           "version": "0.0.0"
         },
         {
@@ -6771,9 +6723,171 @@
           "version": "0.0.0"
         },
         {
+          "name": "remotion-to-hyperframes",
+          "installUrl": "github:heygen-com/hyperframes:skills/remotion-to-hyperframes",
+          "description": "Port an existing Remotion (React) composition''s source to HyperFrames HTML. Use ONLY on an explicit ask to port/convert/migrate/translate a Remotion source — one-way, Remotion-only. A passing Remotion mention, reference-only code, or \"make something like my Remotion video\" is a fresh build (/general-video). Unclear → /hyperframes.",
+          "version": "0.0.0"
+        },
+        {
           "name": "seam-craft",
           "installUrl": "github:heygen-com/hyperframes:.claude/skills/seam-craft",
           "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark films), when reasoning about why a transition opacity dip shows through, or when verifying the render-side mechanics of how overlapping scene wrappers blend. Covers the opaque stage-ground (#root background) white-flash guard and how the injector overlaps wrappers, holds final frames, ping-pongs tracks, and stamps lint-clean template code onto the master timeline. Does NOT contain the per-transition catalog — see the transition registry for individual transition entries.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "slideshow",
+          "installUrl": "github:heygen-com/hyperframes:skills/slideshow",
+          "description": "Author a HyperFrames slideshow — a presentation, pitch deck, or interactive deck with discrete slides, fragment reveals, branching, hotspot navigation, and built-in presenter mode with speaker notes; also converts an existing page into a deck. Output is a navigable deck, not a rendered MP4. If the user didn't explicitly ask for a slideshow, confirm before authoring. Unclear → /hyperframes.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "heygen-com",
+        "repo": "hyperframes",
+        "repoUrl": "https://github.com/heygen-com/hyperframes.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "heygen-com-hyperframes-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from heygen-com/hyperframes.",
+      "author": "ASM (heygen-com/hyperframes)",
+      "createdAt": "2026-10-12T10:04:38.742Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
+        "heygen-com",
+        "hyperframes"
+      ],
+      "skills": [
+        {
+          "name": "captions-overlay",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/captions-overlay",
+          "description": "Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, when deciding whether a phrase should be dropped, ride the verbatim rail, or be promoted to a scarce embedded climax, when laying out a composition that will carry captions (do NOT reserve a keep-out band), or when centering a composition on the true frame center under captions. Quotes the rail+embed model from embedded-captions and constraint #13 (captions overlay, keep-out band retired) from the product-launch-video scene agent. Applies ON TOP of embedded-captions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "changelog-video",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/changelog-video",
+          "description": "Turn a weekly changelog .md into a finished branded changelog video (square 1080, ~45-60s, Annie VO, animated brand background, mock-UI visualizations, lowkey captions). Use when the user provides a changelog/digest markdown and wants the weekly video, or says \"changelog video\". Self-contained — fonts, background, lexicon, and scripts ship in this skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cuboid-carousel",
+          "installUrl": "github:heygen-com/hyperframes:registry/blocks/cuboid-carousel",
+          "description": "A chain of bevelled cuboids rides a travelling wave as a content carousel. HyperFrames block, 1920×1080, 6.666666666666667s, 40 variables.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cut-the-curve",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/cut-the-curve",
+          "description": "The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curve, waterfall cut, rack-focus blur-cut) plus the two in-scene techniques — waterfall ENTRY (staggered arrival cascades for title cards / segment openers) and the nudge curve (slow-fast-slow three-phase group slides). Covers partial-travel (~12% of frame) velocity matching via mirrored power4 eases, the Z scale-sign rule, size-scaled blur (10px text / 18-20px full-frame), word-by-word staggered cuts, cascade pacing by element weight, and the 10/65/25 slide ratio. Read before authoring any transition, text-beat handoff, kinetic text entry, or group reposition. [depth, zoom, inverse-zoom, scale-sign, mirrored-zoom, rack-focus, pacing, velocity, cut-the-curve, waterfall, stagger, cascade, kinetic-text, title-card, segment-opener, nudge, slide, easing, group-motion, z-depth, motion-graphics, cinematic, transition, blur, directional-continuity]",
+          "version": "0.0.0"
+        },
+        {
+          "name": "embedded-captions",
+          "installUrl": "github:heygen-com/hyperframes:skills/embedded-captions",
+          "description": "Add captions or subtitles to an existing single-subject talking-head video without editing the footage. Use for plain verbatim captions, cinematic captions embedded behind the subject, VFX captions, “炸/特效/酷炫字幕,” or a named identity from the 35-style catalog. Route by visual identity, not by backend engine. The quiet `anchor` rail is the default; embed every word only when the user explicitly wants a fully cinematic treatment. The workflow runs locally end to end, including transcription and subject matting; split multi-shot footage before applying it.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "faceless-explainer",
+          "installUrl": "github:heygen-com/hyperframes:skills/faceless-explainer",
+          "description": "Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there is no site or footage to capture, so the visuals are invented per scene (typography, abstract graphics, diagrams, data-viz). Use for topic explainers, concept breakdowns, how-tos, listicles. Not a video built from a website (/product-launch-video — promo or tour). Unclear → /hyperframes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "figma",
+          "installUrl": "github:heygen-com/hyperframes:skills/figma",
+          "description": "Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, storyboard sections → reconstructed motion (frames read as states, not slides) (REST/CLI), connector-assisted motion when available, and shaders from a connector or native export. Use when the user pastes a figma.com link or asks to bring a Figma design, frame, logo, brand, or animation into a video/composition.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes",
+          "description": "Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition. Also use it to inspect, diagnose, validate, preview, publish, or batch-render an existing HyperFrames project. Inputs may be a website URL, GitHub PR, Figma design or URL, text or brief, existing footage, or music. It resumes project state, captures intent when applicable, selects and installs the owning workflow, and routes domain capabilities. HyperFrames is the default output framework unless the user explicitly chooses another framework for the deliverable or asks only to record a browser session.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-audio",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-audio",
+          "description": "Use when audio already placed in a HyperFrames composition needs to be mixed: fade-in/fade-out, crossfade, track gain or volume, volume automation, ducking, a music bed that fights a voiceover (voiceover carve), effects on a track (EQ, compressor, limiter, gate, saturation, delay, reverb, chorus, phaser, bitcrush), automation envelopes drawn on a track's volume or any effect parameter, or one submix bus carrying a chain, a fader and an automation clock for several tracks at once (`<hf-audio-group>`). Don't use for sourcing or generating audio — finding BGM, SFX, or making a voiceover is `/media-use`. Don't use for clip timing or track layout, which is `/hyperframes-core`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-cli",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
+          "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-core",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-core",
+          "description": "The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timing attributes, `class=\"clip\"`, tracks, sub-compositions, variables, framework-owned media playback, deterministic-render rules, and validation. Read before writing composition HTML.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-keyframes",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-keyframes",
+          "description": "Use when a HyperFrames composition needs a punch-in, punch-out, zoom, reframe, Ken Burns treatment, camera move, visual match/whip handoff, or other seek-safe 2D/3D keyframes; also for GSAP, CSS keyframes, Anime.js, WAAPI, FLIP, paths, masks, SVG morph/draw, text trails, 3D depth, or `hyperframes keyframes` diagnostics. Don't use for broad scene strategy, brand design, media sourcing, captions, or general video planning.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-registry",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-registry",
+          "description": "Search, install, and wire registry blocks and components into HyperFrames compositions. Use BEFORE hand-building any named visual — whenever a brief, a user, or a storyboard names a look, effect, treatment, or transition such as CRT scanlines, glitch, chromatic aberration, film grain, a shimmer sweep, a chart, a code or terminal window, a map, or a confetti burst — because roughly 400 hosted items already cover many of them and the search ranks all of them with nothing installed, no project, and no account. Also use when running hyperframes add or hyperframes catalog, installing one item or every block matching a tag, wiring an installed item into index.html, or working with hyperframes.json. Covers discovery, install locations, block sub-composition wiring, component snippet merging, and authoring a new block or component to contribute upstream (idea → scaffold → validate → PR).",
+          "version": "0.0.0"
+        },
+        {
+          "name": "hyperframes-studio",
+          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-studio",
+          "description": "Use when working with a person on a HyperFrames project in Studio: first, whether their message asks for a change at all (questions, loose ideas and \"don't change anything\" get an answer and a plan, not an edit); for a new film, the plan, storyboard and build order that the HyperFrames launch films follow; and how the timeline should be laid out so it reads well (one caption track, one element kind per track, every scene a sub-composition) and where captions and key content may sit (safe zones). Don't use for how to perform an individual edit (split, trim, retime, volume, copy, swap): that is `creator-editing-recipes.md` in `/hyperframes-core`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "media-use",
+          "installUrl": "github:heygen-com/hyperframes:skills/media-use",
+          "description": "Agent Media OS for a HyperFrames project. Resolve BGM, SFX, image, icon, brand logo, voice, color grade, or LUT into a frozen local file or paste-ready block + ledger record (one verb, `resolve`); generate via TTS / music / image models when the catalog misses; produce voiceover, transcription, captions, and background removal through one shared audio engine; operate on media (cut / reframe / transform); and reuse assets across projects. Also use for vague feedback that real footage looks dark, flat, boring, should feel retro/camcorder/print/ASCII, needs privacy, or needs a media reveal. When the host app provides its own music or sound-effect tools, use those for music and sound effects; `resolve --type bgm|sfx` needs the heygen CLI. When `HEYGEN_API_BASE` is set, HeyGen calls go through that host with no CLI sign-in.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "motion-doctrine",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/motion-doctrine",
+          "description": "GATEWAY — load FIRST before composing any HyperFrames animation or video. The high-level motion law that makes a multi-scene video feel like ONE continuous camera move instead of a stack of independently-animated slides. Covers the vector law (how you exit determines how you enter, incl. the Z scale-sign rule), the film's current, carrier elements, causal motion, the Seam Gate (build-gate enforcement), the ban on idle wobble (motion must PERFORM, not breathe), stillness-before-climax, and the sustained-motion routes. Routes to the low-level technique skills (cut-the-curve — the full catalog incl. waterfall entry + nudge curve, oversized-cursor, seam-craft). These rules SUPERSEDE generic / upstream motion guidance. [continuity, direction, vector, momentum, seam, transition, ease, performance, idle-motion, narrative-motion, film-grammar]",
+          "version": "0.0.0"
+        },
+        {
+          "name": "motion-graphics",
+          "installUrl": "github:heygen-com/hyperframes:skills/motion-graphics",
+          "description": "A short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, chart/data-viz hit, logo sting / brand lockup, lower-third / callout / social overlay, animated map (highlight regions, connect places, zoom to a location), animated tweet / news-article / headline, webpage / UI animation (scroll, cursor, callouts), or fusing a real image's geometry into a chart. Usually under 10s (up to ~30s), no narration or live-action subject; renders to MP4 or transparent overlay. Longer / narrated / multi-scene → /general-video. Unclear → /hyperframes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "oversized-cursor",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/oversized-cursor",
+          "description": "House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene involves cursors or a pointer-led action, when kicking off a UI scene, when igniting a morph/transition/typing run with a click, or when a scene reads as static, dead, or stale and needs a cheap high-yield source of motion to carry the viewer's eye and segment them out of the stale state. Covers cursor size/look (incl. brand-motif cursors), the off-screen entry law, tip-targeting and the click tap, click-ignites-the-next-beat, and exit / cross-scene handoff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "pr-to-video",
+          "installUrl": "github:heygen-com/hyperframes:skills/pr-to-video",
+          "description": "Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-out repo) into a code-change explainer video — changelog, feature reveal, fix, or refactor walkthrough built from the diff, commits, and files: the input is a code change, not a website. Not a product promo (/product-launch-video) or a no-PR topic explainer (/faceless-explainer). Unclear → /hyperframes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "seam-craft",
+          "installUrl": "github:heygen-com/hyperframes:.claude/skills/seam-craft",
+          "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark films), when reasoning about why a transition opacity dip shows through, or when verifying the render-side mechanics of how overlapping scene wrappers blend. Covers the opaque stage-ground (#root background) white-flash guard and how the injector overlaps wrappers, holds final frames, ping-pongs tracks, and stamps lint-clean template code onto the master timeline. Does NOT contain the per-transition catalog — see the transition registry for individual transition entries.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "talking-head-recut",
+          "installUrl": "github:heygen-com/hyperframes:skills/talking-head-recut",
+          "description": "Package an existing talking-head / interview / podcast video with timed, designed GRAPHIC OVERLAY cards — kinetic titles, lower-thirds, data callouts, quotes, side panels, picture-in-picture — synced to the transcript, on a 16:9 / 9:16 / 4:5 canvas of your choice; the clip plays untouched underneath. Trigger on \"graphic overlays\", \"on-screen graphics\", \"package / dress up my video\". Not plain subtitles (/embedded-captions). Unclear → /hyperframes.",
           "version": "0.0.0"
         }
       ],
@@ -6789,7 +6903,7 @@
       "name": "heygen-com-hyperframes-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from heygen-com/hyperframes.",
       "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-11T05:06:24.777Z",
+      "createdAt": "2026-10-12T10:04:38.742Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6840,120 +6954,6 @@
           "name": "product-launch-video",
           "installUrl": "github:heygen-com/hyperframes:skills/product-launch-video",
           "description": "Turn a product or marketing URL, pasted script, or brief into a product launch / promo video — SaaS promos, feature reveals, product demos, app and company launches. Use when the user wants to market, launch, promote, or reveal a product; the default for any commercial URL. Site tours / showcases of a website route here too — the brief carries the show-it-as-is intent. Unclear → /hyperframes.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "heygen-com",
-        "repo": "hyperframes",
-        "repoUrl": "https://github.com/heygen-com/hyperframes.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "heygen-com-hyperframes-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from heygen-com/hyperframes.",
-      "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-11T05:06:24.777Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "research",
-        "academic",
-        "analysis",
-        "heygen-com",
-        "hyperframes"
-      ],
-      "skills": [
-        {
-          "name": "hyperframes",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes",
-          "description": "Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition. Also use it to inspect, diagnose, validate, preview, publish, or batch-render an existing HyperFrames project. Inputs may be a website URL, GitHub PR, Figma design or URL, text or brief, existing footage, or music. It resumes project state, captures intent when applicable, selects and installs the owning workflow, and routes domain capabilities. HyperFrames is the default output framework unless the user explicitly chooses another framework for the deliverable or asks only to record a browser session.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-cli",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
-          "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "seam-craft",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/seam-craft",
-          "description": "Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisites that make transitions composite correctly on the master timeline. Load when assembling the master timeline / index.html, when a white flash appears at a cut or crossfade seam (especially on dark films), when reasoning about why a transition opacity dip shows through, or when verifying the render-side mechanics of how overlapping scene wrappers blend. Covers the opaque stage-ground (#root background) white-flash guard and how the injector overlaps wrappers, holds final frames, ping-pongs tracks, and stamps lint-clean template code onto the master timeline. Does NOT contain the per-transition catalog — see the transition registry for individual transition entries.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "heygen-com",
-        "repo": "hyperframes",
-        "repoUrl": "https://github.com/heygen-com/hyperframes.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "heygen-com-hyperframes-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from heygen-com/hyperframes.",
-      "author": "ASM (heygen-com/hyperframes)",
-      "createdAt": "2026-10-11T05:06:24.777Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "writing",
-        "content",
-        "docs",
-        "heygen-com",
-        "hyperframes"
-      ],
-      "skills": [
-        {
-          "name": "captions-overlay",
-          "installUrl": "github:heygen-com/hyperframes:.claude/skills/captions-overlay",
-          "description": "Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and the rule that captions are an OVERLAY composited on top of the film, never a reserved bottom band you shift content up to avoid. Load when adding captions/subtitles to a talking-head or launch video, when deciding whether a phrase should be dropped, ride the verbatim rail, or be promoted to a scarce embedded climax, when laying out a composition that will carry captions (do NOT reserve a keep-out band), or when centering a composition on the true frame center under captions. Quotes the rail+embed model from embedded-captions and constraint #13 (captions overlay, keep-out band retired) from the product-launch-video scene agent. Applies ON TOP of embedded-captions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cuboid-carousel",
-          "installUrl": "github:heygen-com/hyperframes:registry/blocks/cuboid-carousel",
-          "description": "A chain of bevelled cuboids rides a travelling wave as a content carousel. HyperFrames block, 1920×1080, 6.666666666666667s, 40 variables.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "faceless-explainer",
-          "installUrl": "github:heygen-com/hyperframes:skills/faceless-explainer",
-          "description": "Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there is no site or footage to capture, so the visuals are invented per scene (typography, abstract graphics, diagrams, data-viz). Use for topic explainers, concept breakdowns, how-tos, listicles. Not a video built from a website (/product-launch-video — promo or tour). Unclear → /hyperframes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "figma",
-          "installUrl": "github:heygen-com/hyperframes:skills/figma",
-          "description": "Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, storyboard sections → reconstructed motion (frames read as states, not slides) (REST/CLI), connector-assisted motion when available, and shaders from a connector or native export. Use when the user pastes a figma.com link or asks to bring a Figma design, frame, logo, brand, or animation into a video/composition.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-cli",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-cli",
-          "description": "Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compare, preview, play, present, beats, keyframes, single or batch render, publish, cloud, cloudrun, feedback, lambda, doctor, browser, info, upgrade, skills, compositions, timeline, history, clean, docs, benchmark, telemetry, transcribe, auth, tts, and remove-background. Also use when diagnosing build or render failures. validate, inspect, and layout are deprecated aliases; use check. Covers local, HeyGen-hosted cloud, AWS Lambda, and Google Cloud Run rendering.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-core",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-core",
-          "description": "The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timing attributes, `class=\"clip\"`, tracks, sub-compositions, variables, framework-owned media playback, deterministic-render rules, and validation. Read before writing composition HTML.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "hyperframes-studio",
-          "installUrl": "github:heygen-com/hyperframes:skills/hyperframes-studio",
-          "description": "Use when working with a person on a HyperFrames project in Studio: first, whether their message asks for a change at all (questions, loose ideas and \"don't change anything\" get an answer and a plan, not an edit); for a new film, the plan, storyboard and build order that the HyperFrames launch films follow; and how the timeline should be laid out so it reads well (one caption track, one element kind per track, every scene a sub-composition) and where captions and key content may sit (safe zones). Don't use for how to perform an individual edit (split, trim, retime, volume, copy, swap): that is `creator-editing-recipes.md` in `/hyperframes-core`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "motion-graphics",
-          "installUrl": "github:heygen-com/hyperframes:skills/motion-graphics",
-          "description": "A short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, chart/data-viz hit, logo sting / brand lockup, lower-third / callout / social overlay, animated map (highlight regions, connect places, zoom to a location), animated tweet / news-article / headline, webpage / UI animation (scroll, cursor, callouts), or fusing a real image's geometry into a chart. Usually under 10s (up to ~30s), no narration or live-action subject; renders to MP4 or transparent overlay. Longer / narrated / multi-scene → /general-video. Unclear → /hyperframes.",
           "version": "0.0.0"
         }
       ],

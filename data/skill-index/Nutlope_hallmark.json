@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/Nutlope/hallmark.git",
   "owner": "Nutlope",
   "repo": "hallmark",
-  "updatedAt": "2026-10-11T05:06:57.232Z",
+  "updatedAt": "2026-10-12T10:05:03.871Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:57.191Z",
+        "evaluatedAt": "2026-10-12T10:05:03.837Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:57.191Z",
+          "evaluatedAt": "2026-10-12T10:05:03.837Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:57.191Z",
+          "evaluatedAt": "2026-10-12T10:05:03.837Z",
           "evaluatedVersion": "1.1.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/twostraws/Swift-Testing-Agent-Skill.git",
   "owner": "twostraws",
   "repo": "Swift-Testing-Agent-Skill",
-  "updatedAt": "2026-10-11T05:04:19.858Z",
+  "updatedAt": "2026-10-12T10:02:58.492Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:19.852Z",
+        "evaluatedAt": "2026-10-12T10:02:58.487Z",
         "evaluatedVersion": "1.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:19.852Z",
+          "evaluatedAt": "2026-10-12T10:02:58.487Z",
           "evaluatedVersion": "1.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:19.852Z",
+          "evaluatedAt": "2026-10-12T10:02:58.487Z",
           "evaluatedVersion": "1.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }
