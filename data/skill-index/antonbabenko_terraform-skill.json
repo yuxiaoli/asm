@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/antonbabenko/terraform-skill.git",
   "owner": "antonbabenko",
   "repo": "terraform-skill",
-  "updatedAt": "2026-10-11T05:06:30.423Z",
+  "updatedAt": "2026-10-12T10:04:42.733Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:30.415Z",
+        "evaluatedAt": "2026-10-12T10:04:42.726Z",
         "evaluatedVersion": "1.17.1"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:30.415Z",
+          "evaluatedAt": "2026-10-12T10:04:42.726Z",
           "evaluatedVersion": "1.17.1"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:30.415Z",
+          "evaluatedAt": "2026-10-12T10:04:42.726Z",
           "evaluatedVersion": "1.17.1"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "7e0a3d0babbb5ed5eeb599cd7dac8708866fdd13",
+  "sourceCommit": "ec288ad87a8b404b251f124b412ff90e79f87bc9",
   "repoUrl": "https://github.com/santifer/career-ops.git",
   "owner": "santifer",
   "repo": "career-ops",
-  "updatedAt": "2026-10-11T05:04:42.865Z",
+  "updatedAt": "2026-10-12T10:03:14.854Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "2348f68e3fb571f0ad79bcb0479d7178c5c2b12eb17149bb5eba7cf1589362c3",
+      "contentHash": "dea129f14f26202bb8f7fe52c68f15fc90e766fed10d301c186b3bd84c35b8fe",
       "sourcePath": ".agents/skills/career-ops/SKILL.md",
       "name": "career-ops",
       "description": "AI job search command center -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or JD, asks to scan portals, generate a CV/PDF, track applications, prepare for interviews, draft outreach/emails, or run any career-ops mode.",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:42.863Z",
+        "evaluatedAt": "2026-10-12T10:03:14.852Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:42.863Z",
+          "evaluatedAt": "2026-10-12T10:03:14.852Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:42.863Z",
+          "evaluatedAt": "2026-10-12T10:03:14.852Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

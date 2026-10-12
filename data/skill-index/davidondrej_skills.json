@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "387c2b8b7d581ab43b7300bac60e990bbd842f1f",
+  "sourceCommit": "686cd2970b6ee4f3b469283c350041dcf8025d51",
   "repoUrl": "https://github.com/davidondrej/skills.git",
   "owner": "davidondrej",
   "repo": "skills",
-  "updatedAt": "2026-10-11T05:06:36.840Z",
-  "skillCount": 58,
+  "updatedAt": "2026-10-12T10:04:47.825Z",
+  "skillCount": 57,
   "skills": [
     {
       "contentHash": "ec05ce1b138e5413cb8a9580734d4ec486c4b2009c9a5165a53f5033f498991a",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.218Z",
+        "evaluatedAt": "2026-10-12T10:04:47.421Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.220Z",
+          "evaluatedAt": "2026-10-12T10:04:47.422Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.220Z",
+          "evaluatedAt": "2026-10-12T10:04:47.422Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.219Z",
+        "evaluatedAt": "2026-10-12T10:04:47.420Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,13 +359,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "f3d8b16fb3995021a57ab2f0f2f64f90f3da435a97e83ec370b7ca09acf1af7f",
+      "contentHash": "bc4993a0e5bce9fb8002b33872f16165d74b65636e88a0d6341177128c7f4e76",
       "sourcePath": "skills/thinking-and-docs/ask-then-build/SKILL.md",
       "name": "ask-then-build",
       "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.218Z",
+        "evaluatedAt": "2026-10-12T10:04:47.420Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.219Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.219Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.218Z",
+        "evaluatedAt": "2026-10-12T10:04:47.419Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.219Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.219Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.220Z",
+        "evaluatedAt": "2026-10-12T10:04:47.419Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,13 +896,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "311dc762c6bdf92911ffb0c25eaeeaa739194096d623a8407c00022b2377d780",
+      "contentHash": "1f0cea3c213b342fed6a3247ab2fa79615106f694514e9832d679455d1dab5ed",
       "sourcePath": "skills/thinking-and-docs/before-building/SKILL.md",
       "name": "before-building",
       "description": "Fire the moment the user proposes a build. Instantly surface the 1-3 consequential choices hidden in their idea. Can also be invoked with /before-building.",
@@ -918,7 +918,7 @@
       "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/before-building",
       "relPath": "skills/thinking-and-docs/before-building",
       "verified": true,
-      "tokenCount": 216,
+      "tokenCount": 218,
       "evalSummary": {
         "overallScore": 48,
         "grade": "F",
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.221Z",
+        "evaluatedAt": "2026-10-12T10:04:47.419Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,13 +1075,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.421Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "3cb4bf0220785a9e6901db0e788bf54cbb8a7b69d76ce7a9521c80f316e85a84",
+      "contentHash": "676d5b4739ab5c805d7e730b902e1aaeb6cad7a27133cb6dccf7045811baa34f",
       "sourcePath": "skills/ops-and-setup/boat/SKILL.md",
       "name": "boat",
       "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.220Z",
+        "evaluatedAt": "2026-10-12T10:04:47.422Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.422Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,13 +1254,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.422Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "ab0ed9c1d81537312012b81cdbd26b7b8cdf8cc22ce75f671dd827bc5b4e3a20",
+      "contentHash": "3a57a3cd348aaf86c38b4400e0af867d5cb3632392755912d9d56a7bb4048150",
       "sourcePath": "skills/research-and-web/browser-harness/SKILL.md",
       "name": "browser-harness",
       "description": "Direct browser control via CDP. Use when the user wants to automate, scrape, test, or interact with web pages. Connects to the user's already-running Chrome.",
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.221Z",
+        "evaluatedAt": "2026-10-12T10:04:47.422Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.422Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.221Z",
+          "evaluatedAt": "2026-10-12T10:04:47.422Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.259Z",
+        "evaluatedAt": "2026-10-12T10:04:47.445Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.261Z",
+          "evaluatedAt": "2026-10-12T10:04:47.446Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.261Z",
+          "evaluatedAt": "2026-10-12T10:04:47.446Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.261Z",
+        "evaluatedAt": "2026-10-12T10:04:47.445Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.261Z",
+          "evaluatedAt": "2026-10-12T10:04:47.446Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,16 +1791,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.261Z",
+          "evaluatedAt": "2026-10-12T10:04:47.446Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "4774beda28dec0d648fc7f9bffd81287747ddd0c1dc70165240ef1042fbc78c5",
+      "contentHash": "afda332da8d37296f3976c6111ef07d8fb598f43c3fbab287f6973d34f83d891",
       "sourcePath": "skills/agent-orchestration/codex-subagent/SKILL.md",
       "name": "codex-subagent",
-      "description": "Launch OpenAI Codex CLI as a subagent (ChatGPT subscription auth, no API key). Use when delegating a self-contained coding task to Codex from another agent — parallel implementation work, a second opinion, or an independent verification pass.",
+      "description": "Launch OpenAI Codex CLI as a subagent (no API key). Use when delegating a self-contained coding task to Codex from another agent — parallel implementation work, a second opinion, or an independent verification pass.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -1813,7 +1813,7 @@
       "installUrl": "github:davidondrej/skills:skills/agent-orchestration/codex-subagent",
       "relPath": "skills/agent-orchestration/codex-subagent",
       "verified": true,
-      "tokenCount": 1253,
+      "tokenCount": 1247,
       "evalSummary": {
         "overallScore": 68,
         "grade": "C",
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.263Z",
+        "evaluatedAt": "2026-10-12T10:04:47.446Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.263Z",
+          "evaluatedAt": "2026-10-12T10:04:47.451Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,13 +1970,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.264Z",
+          "evaluatedAt": "2026-10-12T10:04:47.451Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "36ea8da2c06a691827117cd49f8bf2305efab6b5c3ba20a1a262a480b87e8023",
+      "contentHash": "f05de1728a5b2a3d9466eb70ddff2c647ead71fada85fa66f040184c791602c0",
       "sourcePath": "skills/ops-and-setup/create-readonly-db-role/SKILL.md",
       "name": "create-readonly-db-role",
       "description": "Set up read-only PostgreSQL access for agents. Use only when the user explicitly invokes /create-readonly-db-role.",
@@ -1992,7 +1992,7 @@
       "installUrl": "github:davidondrej/skills:skills/ops-and-setup/create-readonly-db-role",
       "relPath": "skills/ops-and-setup/create-readonly-db-role",
       "verified": true,
-      "tokenCount": 1433,
+      "tokenCount": 1485,
       "evalSummary": {
         "overallScore": 72,
         "grade": "C",
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.293Z",
+        "evaluatedAt": "2026-10-12T10:04:47.463Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.294Z",
+          "evaluatedAt": "2026-10-12T10:04:47.466Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.294Z",
+          "evaluatedAt": "2026-10-12T10:04:47.466Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.294Z",
+        "evaluatedAt": "2026-10-12T10:04:47.467Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.294Z",
+          "evaluatedAt": "2026-10-12T10:04:47.467Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.294Z",
+          "evaluatedAt": "2026-10-12T10:04:47.467Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.294Z",
+        "evaluatedAt": "2026-10-12T10:04:47.467Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.294Z",
+          "evaluatedAt": "2026-10-12T10:04:47.467Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,13 +2507,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.294Z",
+          "evaluatedAt": "2026-10-12T10:04:47.467Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "1c824417aeb2183b6e91b06a1e9ae95d4d7835018480afe98b55e538462ead33",
+      "contentHash": "b36e0ef361ffa0a9dd63ddc71d08ddd567230e5bab10f58b732d5d8973701ea2",
       "sourcePath": "skills/research-and-web/deep-research/SKILL.md",
       "name": "deep-research",
       "description": "Run deep research through DeepAPI and save a report with sources. Use when asked for deep research, DeepAPI research, or Perplexity deep research.",
@@ -2529,7 +2529,7 @@
       "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-research",
       "relPath": "skills/research-and-web/deep-research",
       "verified": true,
-      "tokenCount": 812,
+      "tokenCount": 782,
       "evalSummary": {
         "overallScore": 63,
         "grade": "D",
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.318Z",
+        "evaluatedAt": "2026-10-12T10:04:47.479Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.318Z",
+          "evaluatedAt": "2026-10-12T10:04:47.480Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,13 +2686,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.318Z",
+          "evaluatedAt": "2026-10-12T10:04:47.480Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "fdcc225185eb113fb12eaff2f50f2dd803ee5c0f109b266b910ac66d18c85d94",
+      "contentHash": "7c6ca2018266618816bdede818d2a365677b06eee63f0e68c1626910cbb228d4",
       "sourcePath": "skills/research-and-web/deep-scrape/SKILL.md",
       "name": "deep-scrape",
       "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
@@ -2708,7 +2708,7 @@
       "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
       "relPath": "skills/research-and-web/deep-scrape",
       "verified": true,
-      "tokenCount": 2343,
+      "tokenCount": 2389,
       "evalSummary": {
         "overallScore": 78,
         "grade": "C",
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.320Z",
+        "evaluatedAt": "2026-10-12T10:04:47.486Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.325Z",
+          "evaluatedAt": "2026-10-12T10:04:47.487Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,13 +2865,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.326Z",
+          "evaluatedAt": "2026-10-12T10:04:47.487Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "120bf1dc998cc7c6b3a8636fc00d8926ac6d5b02abe11471f86d06fc9d3dc3cb",
+      "contentHash": "0af723655686b05e0bd90100e9b37ec9d10c3772006da88ab2e79fa61c529861",
       "sourcePath": "skills/research-and-web/deepapi/SKILL.md",
       "name": "deepapi",
       "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.333Z",
+        "evaluatedAt": "2026-10-12T10:04:47.488Z",
         "evaluatedVersion": "0da3c1fcc437"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.333Z",
+          "evaluatedAt": "2026-10-12T10:04:47.492Z",
           "evaluatedVersion": "0da3c1fcc437"
         },
         "skill-best-practice": {
@@ -3044,7 +3044,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.334Z",
+          "evaluatedAt": "2026-10-12T10:04:47.492Z",
           "evaluatedVersion": "0da3c1fcc437"
         }
       }
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.340Z",
+        "evaluatedAt": "2026-10-12T10:04:47.492Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.341Z",
+          "evaluatedAt": "2026-10-12T10:04:47.492Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3223,13 +3223,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.341Z",
+          "evaluatedAt": "2026-10-12T10:04:47.492Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "11a5a6e1c58ec7800d256a0d75640b089f7967a84e1146cc570b48c419a7492a",
+      "contentHash": "279e5bcb8251054838580f103ec4a41a7be4d66860fa02b6f73d83057d46a4e6",
       "sourcePath": "skills/skill-authoring/distribute-skill-to-all-agents/SKILL.md",
       "name": "distribute-skill-to-all-agents",
       "description": "Distribute global skills across Codex, Claude Code, Pi, Hermes, and Cursor. Use for \"distribute this skill\", \"sync skills across agents\", or after creating or updating a global skill.",
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.342Z",
+        "evaluatedAt": "2026-10-12T10:04:47.497Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.343Z",
+          "evaluatedAt": "2026-10-12T10:04:47.497Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3402,7 +3402,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.343Z",
+          "evaluatedAt": "2026-10-12T10:04:47.497Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.346Z",
+        "evaluatedAt": "2026-10-12T10:04:47.499Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.347Z",
+          "evaluatedAt": "2026-10-12T10:04:47.499Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3581,7 +3581,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.347Z",
+          "evaluatedAt": "2026-10-12T10:04:47.499Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3669,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.364Z",
+        "evaluatedAt": "2026-10-12T10:04:47.511Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3742,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.365Z",
+          "evaluatedAt": "2026-10-12T10:04:47.514Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3760,13 +3760,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.365Z",
+          "evaluatedAt": "2026-10-12T10:04:47.514Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "ae680e7d787e0a95e7d9aa1f6db12e1786a0d85c8d3393e474319b6cbd2b9427",
+      "contentHash": "2d012e793fed9255ffe80dfea1a0ec91e178c0db327b502fd92499a6aef4a858",
       "sourcePath": "skills/agent-orchestration/fable-review/SKILL.md",
       "name": "fable-review",
       "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
@@ -3782,9 +3782,9 @@
       "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
       "relPath": "skills/agent-orchestration/fable-review",
       "verified": true,
-      "tokenCount": 410,
+      "tokenCount": 418,
       "evalSummary": {
-        "overallScore": 63,
+        "overallScore": 64,
         "grade": "D",
         "categories": [
           {
@@ -3802,7 +3802,7 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 3,
+            "score": 4,
             "max": 10
           },
           {
@@ -3848,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.372Z",
+        "evaluatedAt": "2026-10-12T10:04:47.514Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3857,7 +3857,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 63,
+          "overallScore": 64,
           "grade": "D",
           "categories": [
             {
@@ -3875,7 +3875,7 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 3,
+              "score": 4,
               "max": 10
             },
             {
@@ -3921,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.379Z",
+          "evaluatedAt": "2026-10-12T10:04:47.517Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3939,7 +3939,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.379Z",
+          "evaluatedAt": "2026-10-12T10:04:47.517Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4027,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.387Z",
+        "evaluatedAt": "2026-10-12T10:04:47.519Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4100,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.395Z",
+          "evaluatedAt": "2026-10-12T10:04:47.523Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4118,7 +4118,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.395Z",
+          "evaluatedAt": "2026-10-12T10:04:47.523Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4206,7 +4206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.396Z",
+        "evaluatedAt": "2026-10-12T10:04:47.523Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4279,7 +4279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.396Z",
+          "evaluatedAt": "2026-10-12T10:04:47.524Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4297,13 +4297,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.396Z",
+          "evaluatedAt": "2026-10-12T10:04:47.524Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "e1e09a301808c95fab66bbf10bd8c6aa13c793c0e9f22aae6509dd3a942dc40a",
+      "contentHash": "0660df579b302eaac6d402f1bcb3eac49481d85d059b36ebb4928fbd14974481",
       "sourcePath": "skills/research-and-web/fireflies-transcript/SKILL.md",
       "name": "fireflies-transcript",
       "description": "Fetch raw Fireflies.ai meeting transcripts. Use only when the user explicitly invokes /fireflies-transcript; for YouTube, use youtube-transcript.",
@@ -4319,7 +4319,7 @@
       "installUrl": "github:davidondrej/skills:skills/research-and-web/fireflies-transcript",
       "relPath": "skills/research-and-web/fireflies-transcript",
       "verified": true,
-      "tokenCount": 778,
+      "tokenCount": 792,
       "evalSummary": {
         "overallScore": 70,
         "grade": "C",
@@ -4385,7 +4385,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.397Z",
+        "evaluatedAt": "2026-10-12T10:04:47.528Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4458,7 +4458,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.397Z",
+          "evaluatedAt": "2026-10-12T10:04:47.528Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4476,7 +4476,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.397Z",
+          "evaluatedAt": "2026-10-12T10:04:47.528Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4564,7 +4564,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.412Z",
+        "evaluatedAt": "2026-10-12T10:04:47.538Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4637,7 +4637,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.413Z",
+          "evaluatedAt": "2026-10-12T10:04:47.538Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4655,7 +4655,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.413Z",
+          "evaluatedAt": "2026-10-12T10:04:47.538Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4743,7 +4743,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.436Z",
+        "evaluatedAt": "2026-10-12T10:04:47.549Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4816,7 +4816,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.443Z",
+          "evaluatedAt": "2026-10-12T10:04:47.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4834,16 +4834,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.443Z",
+          "evaluatedAt": "2026-10-12T10:04:47.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "bd641569158b319ee0f114b04cead921ce15a4fa7cd4e71de75c0329f6694cb1",
+      "contentHash": "e5446f7ff134b250fb7963c76117e2984eee13cce99cd67576475686997d568d",
       "sourcePath": "skills/ops-and-setup/global-agent-guardrails/SKILL.md",
       "name": "global-agent-guardrails",
-      "description": "Configure the shared guard against catastrophic shell commands in local AI agents. Use when changing block patterns, adding an agent or machine, or investigating why a command was or wasn't blocked.",
+      "description": "Configure a shared guard against catastrophic shell commands in local AI agents. Use when changing block patterns, adding an agent or machine, or investigating why a command was or wasn't blocked.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -4856,9 +4856,9 @@
       "installUrl": "github:davidondrej/skills:skills/ops-and-setup/global-agent-guardrails",
       "relPath": "skills/ops-and-setup/global-agent-guardrails",
       "verified": true,
-      "tokenCount": 1677,
+      "tokenCount": 1068,
       "evalSummary": {
-        "overallScore": 75,
+        "overallScore": 78,
         "grade": "C",
         "categories": [
           {
@@ -4888,7 +4888,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 7,
+            "score": 10,
             "max": 10
           },
           {
@@ -4922,7 +4922,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.443Z",
+        "evaluatedAt": "2026-10-12T10:04:47.550Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4931,7 +4931,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 75,
+          "overallScore": 78,
           "grade": "C",
           "categories": [
             {
@@ -4961,7 +4961,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 7,
+              "score": 10,
               "max": 10
             },
             {
@@ -4995,7 +4995,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.444Z",
+          "evaluatedAt": "2026-10-12T10:04:47.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5013,13 +5013,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.444Z",
+          "evaluatedAt": "2026-10-12T10:04:47.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "e6a2e1732d53d2a1d9edd07330c0a8f7f03c9a190d5eb7064e759d170e7da8e9",
+      "contentHash": "a61820a25b1452d29a2a8215046037457b2e6d87312f9025563e55d08fcd3118",
       "sourcePath": "skills/agent-orchestration/goal-loop/SKILL.md",
       "name": "goal-loop",
       "description": "Draft /goal prompts and explain persistent agent loops. Use for goal or Ralph loops, autonomous run setup, monitoring, and troubleshooting.",
@@ -5035,7 +5035,7 @@
       "installUrl": "github:davidondrej/skills:skills/agent-orchestration/goal-loop",
       "relPath": "skills/agent-orchestration/goal-loop",
       "verified": true,
-      "tokenCount": 2144,
+      "tokenCount": 2146,
       "evalSummary": {
         "overallScore": 76,
         "grade": "C",
@@ -5101,7 +5101,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.463Z",
+        "evaluatedAt": "2026-10-12T10:04:47.561Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5174,7 +5174,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.464Z",
+          "evaluatedAt": "2026-10-12T10:04:47.562Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5192,16 +5192,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.464Z",
+          "evaluatedAt": "2026-10-12T10:04:47.562Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "9ab9f5ba70b8f246ff6ca3f7a9f0020eec50f2c9d72af637fd4ccaca46f6344d",
+      "contentHash": "ecb44de9305fee6abfaba940aabac07720b000ba6a5dee97303a80891968cca2",
       "sourcePath": "skills/agent-orchestration/gpt-review/SKILL.md",
       "name": "gpt-review",
-      "description": "Launch an independent GPT code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
+      "description": "Launch an independent GPT-6.1-Sol Max code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -5214,10 +5214,10 @@
       "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
       "relPath": "skills/agent-orchestration/gpt-review",
       "verified": true,
-      "tokenCount": 414,
+      "tokenCount": 454,
       "evalSummary": {
-        "overallScore": 64,
-        "grade": "D",
+        "overallScore": 65,
+        "grade": "C",
         "categories": [
           {
             "id": "structure",
@@ -5234,7 +5234,7 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 4,
+            "score": 6,
             "max": 10
           },
           {
@@ -5246,7 +5246,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 7,
+            "score": 6,
             "max": 10
           },
           {
@@ -5280,7 +5280,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.465Z",
+        "evaluatedAt": "2026-10-12T10:04:47.563Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5289,8 +5289,8 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 64,
-          "grade": "D",
+          "overallScore": 65,
+          "grade": "C",
           "categories": [
             {
               "id": "structure",
@@ -5307,7 +5307,7 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 4,
+              "score": 6,
               "max": 10
             },
             {
@@ -5319,7 +5319,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 7,
+              "score": 6,
               "max": 10
             },
             {
@@ -5353,7 +5353,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.466Z",
+          "evaluatedAt": "2026-10-12T10:04:47.566Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5371,7 +5371,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.466Z",
+          "evaluatedAt": "2026-10-12T10:04:47.566Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5459,7 +5459,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.464Z",
+        "evaluatedAt": "2026-10-12T10:04:47.572Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5532,7 +5532,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.466Z",
+          "evaluatedAt": "2026-10-12T10:04:47.575Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5550,13 +5550,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.466Z",
+          "evaluatedAt": "2026-10-12T10:04:47.575Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "0fdf9afbfc0cf79c78d1c176619c776d7c115dee3a8cbc62f256974d5b9fd8bb",
+      "contentHash": "3697f0da48c32df2707c794aafb4c819b35a4eee0713a5b5c49f992593e096e7",
       "sourcePath": "skills/agent-orchestration/herdr/SKILL.md",
       "name": "herdr",
       "description": "Operate and coordinate AI agents in Herdr workspaces in Ghostty. Use when the user mentions Herdr or asks to inspect, message, wait for, or coordinate its agents. Excludes cmux and ordinary terminal sessions.",
@@ -5572,7 +5572,7 @@
       "installUrl": "github:davidondrej/skills:skills/agent-orchestration/herdr",
       "relPath": "skills/agent-orchestration/herdr",
       "verified": true,
-      "tokenCount": 2330,
+      "tokenCount": 2310,
       "evalSummary": {
         "overallScore": 70,
         "grade": "C",
@@ -5638,7 +5638,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.466Z",
+        "evaluatedAt": "2026-10-12T10:04:47.578Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5711,7 +5711,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.466Z",
+          "evaluatedAt": "2026-10-12T10:04:47.584Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5729,7 +5729,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.466Z",
+          "evaluatedAt": "2026-10-12T10:04:47.584Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5817,7 +5817,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.482Z",
+        "evaluatedAt": "2026-10-12T10:04:47.583Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5890,7 +5890,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.483Z",
+          "evaluatedAt": "2026-10-12T10:04:47.584Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5908,7 +5908,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.483Z",
+          "evaluatedAt": "2026-10-12T10:04:47.584Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5996,7 +5996,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.501Z",
+        "evaluatedAt": "2026-10-12T10:04:47.591Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6069,7 +6069,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.506Z",
+          "evaluatedAt": "2026-10-12T10:04:47.592Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6087,7 +6087,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.506Z",
+          "evaluatedAt": "2026-10-12T10:04:47.592Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6175,7 +6175,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.508Z",
+        "evaluatedAt": "2026-10-12T10:04:47.592Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6248,7 +6248,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.508Z",
+          "evaluatedAt": "2026-10-12T10:04:47.592Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6266,7 +6266,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.508Z",
+          "evaluatedAt": "2026-10-12T10:04:47.592Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6354,7 +6354,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.508Z",
+        "evaluatedAt": "2026-10-12T10:04:47.594Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6427,7 +6427,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.509Z",
+          "evaluatedAt": "2026-10-12T10:04:47.594Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6445,7 +6445,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.509Z",
+          "evaluatedAt": "2026-10-12T10:04:47.594Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6533,7 +6533,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.510Z",
+        "evaluatedAt": "2026-10-12T10:04:47.594Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6606,7 +6606,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.510Z",
+          "evaluatedAt": "2026-10-12T10:04:47.594Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6624,13 +6624,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.510Z",
+          "evaluatedAt": "2026-10-12T10:04:47.594Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "abf2365f9f85a51d6d8b1fa31b12cfdb78fb4696374afef06ccaf3d3cf2e536d",
+      "contentHash": "efb01cbf475de56b86e870309de6506d577433857c8f95c46771344ed0b29488",
       "sourcePath": "skills/research-and-web/online-shopping/SKILL.md",
       "name": "online-shopping",
       "description": "Research online purchases, prices, and shop trust. Use for buying advice, subscriptions, or shopping photos, links, and checkout screens.",
@@ -6646,9 +6646,9 @@
       "installUrl": "github:davidondrej/skills:skills/research-and-web/online-shopping",
       "relPath": "skills/research-and-web/online-shopping",
       "verified": true,
-      "tokenCount": 1675,
+      "tokenCount": 1665,
       "evalSummary": {
-        "overallScore": 66,
+        "overallScore": 65,
         "grade": "C",
         "categories": [
           {
@@ -6666,7 +6666,7 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 8,
+            "score": 7,
             "max": 10
           },
           {
@@ -6712,7 +6712,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.510Z",
+        "evaluatedAt": "2026-10-12T10:04:47.607Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6721,7 +6721,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 66,
+          "overallScore": 65,
           "grade": "C",
           "categories": [
             {
@@ -6739,7 +6739,7 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 8,
+              "score": 7,
               "max": 10
             },
             {
@@ -6785,7 +6785,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.510Z",
+          "evaluatedAt": "2026-10-12T10:04:47.607Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6803,7 +6803,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.510Z",
+          "evaluatedAt": "2026-10-12T10:04:47.607Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6891,7 +6891,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.530Z",
+        "evaluatedAt": "2026-10-12T10:04:47.614Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6964,7 +6964,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.531Z",
+          "evaluatedAt": "2026-10-12T10:04:47.614Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6982,7 +6982,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.531Z",
+          "evaluatedAt": "2026-10-12T10:04:47.614Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -7070,7 +7070,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.532Z",
+        "evaluatedAt": "2026-10-12T10:04:47.617Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -7143,7 +7143,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.532Z",
+          "evaluatedAt": "2026-10-12T10:04:47.621Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -7161,13 +7161,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.532Z",
+          "evaluatedAt": "2026-10-12T10:04:47.621Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "2753e8a6e0fd04582c4a081aaaab53062b7b8832757fb0ea1b5b2882663828dd",
+      "contentHash": "ee0191b81397fad76dad05e95393820c23ce90a284e69f6d0707df803543ddae",
       "sourcePath": "skills/ops-and-setup/prompt-for-others/SKILL.md",
       "name": "prompt-for-others",
       "description": "Write a prompt teammates can give their AI agents to apply a fix, upgrade, or setup change. Use only when the user explicitly invokes /prompt-for-others.",
@@ -7183,7 +7183,7 @@
       "installUrl": "github:davidondrej/skills:skills/ops-and-setup/prompt-for-others",
       "relPath": "skills/ops-and-setup/prompt-for-others",
       "verified": true,
-      "tokenCount": 779,
+      "tokenCount": 777,
       "evalSummary": {
         "overallScore": 77,
         "grade": "C",
@@ -7249,7 +7249,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.532Z",
+        "evaluatedAt": "2026-10-12T10:04:47.621Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -7322,7 +7322,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.532Z",
+          "evaluatedAt": "2026-10-12T10:04:47.623Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -7340,186 +7340,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.532Z",
-          "evaluatedVersion": "0.0.0"
-        }
-      }
-    },
-    {
-      "contentHash": "497df88db9a67202157b2e43e18ef49edfe0e98e653d12d8b59e124835bdfeec",
-      "sourcePath": "skills/skill-authoring/push-skills/SKILL.md",
-      "name": "push-skills",
-      "description": "Push skills and global AGENTS.md to the private repo and verify the public mirror. Use only when the user explicitly invokes /push-skills.",
-      "version": "0.0.0",
-      "license": "",
-      "creator": "",
-      "compatibility": "",
-      "allowedTools": [],
-      "tags": [],
-      "dependencies": [],
-      "modelInvocable": false,
-      "userInvocable": true,
-      "installUrl": "github:davidondrej/skills:skills/skill-authoring/push-skills",
-      "relPath": "skills/skill-authoring/push-skills",
-      "verified": true,
-      "tokenCount": 1416,
-      "evalSummary": {
-        "overallScore": 72,
-        "grade": "C",
-        "categories": [
-          {
-            "id": "structure",
-            "name": "Structure & completeness",
-            "score": 7,
-            "max": 10
-          },
-          {
-            "id": "description",
-            "name": "Description quality",
-            "score": 7,
-            "max": 10
-          },
-          {
-            "id": "prompt-engineering",
-            "name": "Prompt engineering",
-            "score": 9,
-            "max": 10
-          },
-          {
-            "id": "context-efficiency",
-            "name": "Context efficiency",
-            "score": 7,
-            "max": 10
-          },
-          {
-            "id": "safety",
-            "name": "Safety & guardrails",
-            "score": 7,
-            "max": 10
-          },
-          {
-            "id": "testability",
-            "name": "Testability",
-            "score": 5,
-            "max": 10
-          },
-          {
-            "id": "license",
-            "name": "License verification",
-            "score": 0,
-            "max": 10
-          },
-          {
-            "id": "naming",
-            "name": "Naming & conventions",
-            "score": 10,
-            "max": 10
-          },
-          {
-            "id": "pii",
-            "name": "PII detection",
-            "score": 10,
-            "max": 10
-          },
-          {
-            "id": "script-lint",
-            "name": "Script linting",
-            "score": 10,
-            "max": 10
-          }
-        ],
-        "evaluatedAt": "2026-10-11T05:06:36.564Z",
-        "evaluatedVersion": "0.0.0"
-      },
-      "evalSummaries": {
-        "quality": {
-          "providerId": "quality",
-          "providerVersion": "1.0.0",
-          "schemaVersion": 1,
-          "passed": true,
-          "overallScore": 72,
-          "grade": "C",
-          "categories": [
-            {
-              "id": "structure",
-              "name": "Structure & completeness",
-              "score": 7,
-              "max": 10
-            },
-            {
-              "id": "description",
-              "name": "Description quality",
-              "score": 7,
-              "max": 10
-            },
-            {
-              "id": "prompt-engineering",
-              "name": "Prompt engineering",
-              "score": 9,
-              "max": 10
-            },
-            {
-              "id": "context-efficiency",
-              "name": "Context efficiency",
-              "score": 7,
-              "max": 10
-            },
-            {
-              "id": "safety",
-              "name": "Safety & guardrails",
-              "score": 7,
-              "max": 10
-            },
-            {
-              "id": "testability",
-              "name": "Testability",
-              "score": 5,
-              "max": 10
-            },
-            {
-              "id": "license",
-              "name": "License verification",
-              "score": 0,
-              "max": 10
-            },
-            {
-              "id": "naming",
-              "name": "Naming & conventions",
-              "score": 10,
-              "max": 10
-            },
-            {
-              "id": "pii",
-              "name": "PII detection",
-              "score": 10,
-              "max": 10
-            },
-            {
-              "id": "script-lint",
-              "name": "Script linting",
-              "score": 10,
-              "max": 10
-            }
-          ],
-          "evaluatedAt": "2026-10-11T05:06:36.565Z",
-          "evaluatedVersion": "0.0.0"
-        },
-        "skill-best-practice": {
-          "providerId": "skill-best-practice",
-          "providerVersion": "1.2.0",
-          "schemaVersion": 1,
-          "passed": false,
-          "overallScore": 69,
-          "grade": "C",
-          "categories": [
-            {
-              "id": "validation",
-              "name": "Deterministic validation",
-              "score": 9,
-              "max": 13
-            }
-          ],
-          "evaluatedAt": "2026-10-11T05:06:36.565Z",
+          "evaluatedAt": "2026-10-12T10:04:47.623Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -7607,7 +7428,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.564Z",
+        "evaluatedAt": "2026-10-12T10:04:47.623Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -7680,7 +7501,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.565Z",
+          "evaluatedAt": "2026-10-12T10:04:47.627Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -7698,7 +7519,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.565Z",
+          "evaluatedAt": "2026-10-12T10:04:47.627Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -7786,7 +7607,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.585Z",
+        "evaluatedAt": "2026-10-12T10:04:47.627Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -7859,7 +7680,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.586Z",
+          "evaluatedAt": "2026-10-12T10:04:47.627Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -7877,7 +7698,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.586Z",
+          "evaluatedAt": "2026-10-12T10:04:47.627Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -7965,7 +7786,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.587Z",
+        "evaluatedAt": "2026-10-12T10:04:47.640Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -8038,7 +7859,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.587Z",
+          "evaluatedAt": "2026-10-12T10:04:47.642Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -8056,7 +7877,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.587Z",
+          "evaluatedAt": "2026-10-12T10:04:47.642Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -8144,7 +7965,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.609Z",
+        "evaluatedAt": "2026-10-12T10:04:47.649Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -8217,7 +8038,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.610Z",
+          "evaluatedAt": "2026-10-12T10:04:47.649Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -8235,7 +8056,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.609Z",
+          "evaluatedAt": "2026-10-12T10:04:47.649Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -8323,7 +8144,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.612Z",
+        "evaluatedAt": "2026-10-12T10:04:47.650Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -8396,7 +8217,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.612Z",
+          "evaluatedAt": "2026-10-12T10:04:47.651Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -8414,16 +8235,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.612Z",
+          "evaluatedAt": "2026-10-12T10:04:47.651Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "a348485ee29f99815f7fbf9fee76205f2d0a636578d1fbb03867844ae726963a",
+      "contentHash": "c669660a5eaf09a339854a58426ea8cbcba7f7eb18c5547c20b47258a9da6cd5",
       "sourcePath": "skills/agent-orchestration/reset-cursor-acp/SKILL.md",
       "name": "reset-cursor-acp",
-      "description": "Reset a stuck Cursor ACP thread in <chat-system> and reload its configuration. Use only when the user explicitly invokes /reset-cursor-acp.",
+      "description": "Reset a stuck Cursor ACP thread in a thread manager and reload its configuration. Use only when the user explicitly invokes /reset-cursor-acp.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -8436,9 +8257,9 @@
       "installUrl": "github:davidondrej/skills:skills/agent-orchestration/reset-cursor-acp",
       "relPath": "skills/agent-orchestration/reset-cursor-acp",
       "verified": true,
-      "tokenCount": 829,
+      "tokenCount": 883,
       "evalSummary": {
-        "overallScore": 66,
+        "overallScore": 68,
         "grade": "C",
         "categories": [
           {
@@ -8462,7 +8283,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 7,
+            "score": 9,
             "max": 10
           },
           {
@@ -8502,7 +8323,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.635Z",
+        "evaluatedAt": "2026-10-12T10:04:47.672Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -8511,7 +8332,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 66,
+          "overallScore": 68,
           "grade": "C",
           "categories": [
             {
@@ -8535,7 +8356,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 7,
+              "score": 9,
               "max": 10
             },
             {
@@ -8575,7 +8396,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.637Z",
+          "evaluatedAt": "2026-10-12T10:04:47.673Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -8583,17 +8404,17 @@
           "providerVersion": "1.2.0",
           "schemaVersion": 1,
           "passed": false,
-          "overallScore": 62,
-          "grade": "D",
+          "overallScore": 69,
+          "grade": "C",
           "categories": [
             {
               "id": "validation",
               "name": "Deterministic validation",
-              "score": 8,
+              "score": 9,
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.637Z",
+          "evaluatedAt": "2026-10-12T10:04:47.673Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -8681,7 +8502,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.638Z",
+        "evaluatedAt": "2026-10-12T10:04:47.673Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -8754,7 +8575,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.644Z",
+          "evaluatedAt": "2026-10-12T10:04:47.673Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -8772,16 +8593,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.644Z",
+          "evaluatedAt": "2026-10-12T10:04:47.673Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "c94a1da59cab80185d01b7ead3456737cfbc38c296685b1dedc08ba86f7bfe61",
+      "contentHash": "4974fadef63583ed7ea2b6b964592d3a67b1a74176ddcbee22c5d90ea7076ccb",
       "sourcePath": "skills/thinking-and-docs/save-idea/SKILL.md",
       "name": "save-idea",
-      "description": "Save ideas, observations, content topics, projects, and convictions in the ideas repo. Use when the user asks to capture an idea or insight. Adds to idea backlogs, not reminders or tasks.",
+      "description": "Save ideas, observations, content topics, projects, and convictions in <ideas-repo>. Use when the user asks to capture an idea or insight. Adds to idea backlogs, not reminders or tasks.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -8794,9 +8615,9 @@
       "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/save-idea",
       "relPath": "skills/thinking-and-docs/save-idea",
       "verified": true,
-      "tokenCount": 1461,
+      "tokenCount": 1479,
       "evalSummary": {
-        "overallScore": 66,
+        "overallScore": 71,
         "grade": "C",
         "categories": [
           {
@@ -8826,7 +8647,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 5,
+            "score": 10,
             "max": 10
           },
           {
@@ -8860,7 +8681,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.644Z",
+        "evaluatedAt": "2026-10-12T10:04:47.673Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -8869,7 +8690,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 66,
+          "overallScore": 71,
           "grade": "C",
           "categories": [
             {
@@ -8899,7 +8720,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 5,
+              "score": 10,
               "max": 10
             },
             {
@@ -8933,7 +8754,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.645Z",
+          "evaluatedAt": "2026-10-12T10:04:47.673Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -8941,26 +8762,26 @@
           "providerVersion": "1.2.0",
           "schemaVersion": 1,
           "passed": false,
-          "overallScore": 77,
+          "overallScore": 69,
           "grade": "C",
           "categories": [
             {
               "id": "validation",
               "name": "Deterministic validation",
-              "score": 10,
+              "score": 9,
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.645Z",
+          "evaluatedAt": "2026-10-12T10:04:47.673Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "7417a18d93b791642e62ad8c58b12d02eac930fdc6be4a13a0ec15e5df294077",
+      "contentHash": "25b1994f92bf2ea57e5af8c4ea2bd0a2eb9c1b669e5e167d8fa97f81bdb80d4b",
       "sourcePath": "skills/agent-orchestration/self-archive/SKILL.md",
       "name": "self-archive",
-      "description": "Archive the current Cloudroom thread and release its runtime. Use when the user explicitly asks to \"self-archive\", \"archive yourself\", or \"archive this thread\".",
+      "description": "Archive the current thread and release its runtime. Use when the user explicitly asks to \"self-archive\", \"archive yourself\", or \"archive this thread\".",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -8973,9 +8794,9 @@
       "installUrl": "github:davidondrej/skills:skills/agent-orchestration/self-archive",
       "relPath": "skills/agent-orchestration/self-archive",
       "verified": true,
-      "tokenCount": 241,
+      "tokenCount": 197,
       "evalSummary": {
-        "overallScore": 54,
+        "overallScore": 55,
         "grade": "D",
         "categories": [
           {
@@ -8993,7 +8814,7 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 4,
+            "score": 3,
             "max": 10
           },
           {
@@ -9005,7 +8826,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 2,
+            "score": 4,
             "max": 10
           },
           {
@@ -9039,7 +8860,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.655Z",
+        "evaluatedAt": "2026-10-12T10:04:47.674Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -9048,7 +8869,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 54,
+          "overallScore": 55,
           "grade": "D",
           "categories": [
             {
@@ -9066,7 +8887,7 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 4,
+              "score": 3,
               "max": 10
             },
             {
@@ -9078,7 +8899,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 2,
+              "score": 4,
               "max": 10
             },
             {
@@ -9112,7 +8933,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.656Z",
+          "evaluatedAt": "2026-10-12T10:04:47.674Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -9130,7 +8951,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.656Z",
+          "evaluatedAt": "2026-10-12T10:04:47.674Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -9218,7 +9039,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.656Z",
+        "evaluatedAt": "2026-10-12T10:04:47.700Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -9291,7 +9112,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.656Z",
+          "evaluatedAt": "2026-10-12T10:04:47.703Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -9309,13 +9130,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.656Z",
+          "evaluatedAt": "2026-10-12T10:04:47.703Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "9d4608ad8261646699a9a6b1a531e77790de6584d16a2864d996e9e86905e7f3",
+      "contentHash": "7d240f726284055a73d47419398b0e25962b051b85fd7440b01c8be89be23382",
       "sourcePath": "skills/thinking-and-docs/signal-from-expert/SKILL.md",
       "name": "signal-from-expert",
       "description": "Compare the user''s notes with an expert''s work on a topic. Return relevant exact quotes, source locations, and at least one gap in the user''s thinking. Use only when /signal-from-expert is explicitly invoked.",
@@ -9331,7 +9152,7 @@
       "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/signal-from-expert",
       "relPath": "skills/thinking-and-docs/signal-from-expert",
       "verified": true,
-      "tokenCount": 891,
+      "tokenCount": 881,
       "evalSummary": {
         "overallScore": 64,
         "grade": "D",
@@ -9397,7 +9218,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.705Z",
+        "evaluatedAt": "2026-10-12T10:04:47.703Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -9470,7 +9291,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.709Z",
+          "evaluatedAt": "2026-10-12T10:04:47.709Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -9488,7 +9309,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.709Z",
+          "evaluatedAt": "2026-10-12T10:04:47.709Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -9576,7 +9397,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.708Z",
+        "evaluatedAt": "2026-10-12T10:04:47.714Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -9649,7 +9470,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.721Z",
+          "evaluatedAt": "2026-10-12T10:04:47.714Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -9667,7 +9488,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.721Z",
+          "evaluatedAt": "2026-10-12T10:04:47.714Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -9755,7 +9576,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.722Z",
+        "evaluatedAt": "2026-10-12T10:04:47.714Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -9828,7 +9649,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.730Z",
+          "evaluatedAt": "2026-10-12T10:04:47.716Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -9846,13 +9667,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.730Z",
+          "evaluatedAt": "2026-10-12T10:04:47.716Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "fb9ec9f2fcfee6ebc2b26587647e0b12df51bd1c3d40e070f570f4e5988ed23a",
+      "contentHash": "3f6cc0d3faed2a22fefe279d99a3203b5ee706565b39e7bb19389809c1ef2bf7",
       "sourcePath": "skills/agent-orchestration/total-review/SKILL.md",
       "name": "total-review",
       "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
@@ -9868,9 +9689,9 @@
       "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
       "relPath": "skills/agent-orchestration/total-review",
       "verified": true,
-      "tokenCount": 668,
+      "tokenCount": 628,
       "evalSummary": {
-        "overallScore": 68,
+        "overallScore": 66,
         "grade": "C",
         "categories": [
           {
@@ -9894,7 +9715,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 9,
+            "score": 7,
             "max": 10
           },
           {
@@ -9934,7 +9755,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.733Z",
+        "evaluatedAt": "2026-10-12T10:04:47.716Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -9943,7 +9764,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 68,
+          "overallScore": 66,
           "grade": "C",
           "categories": [
             {
@@ -9967,7 +9788,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 9,
+              "score": 7,
               "max": 10
             },
             {
@@ -10007,7 +9828,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.734Z",
+          "evaluatedAt": "2026-10-12T10:04:47.716Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -10025,7 +9846,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.734Z",
+          "evaluatedAt": "2026-10-12T10:04:47.716Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -10113,7 +9934,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.735Z",
+        "evaluatedAt": "2026-10-12T10:04:47.717Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -10186,7 +10007,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.737Z",
+          "evaluatedAt": "2026-10-12T10:04:47.718Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -10204,7 +10025,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.737Z",
+          "evaluatedAt": "2026-10-12T10:04:47.718Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -10292,7 +10113,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:36.752Z",
+        "evaluatedAt": "2026-10-12T10:04:47.736Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -10365,7 +10186,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.752Z",
+          "evaluatedAt": "2026-10-12T10:04:47.736Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -10383,7 +10204,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:36.752Z",
+          "evaluatedAt": "2026-10-12T10:04:47.736Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -10392,766 +10213,10 @@
   "bundles": [
     {
       "version": 1,
-      "name": "davidondrej-skills-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from davidondrej/skills.",
-      "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "data",
-        "ai",
-        "agents",
-        "davidondrej",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "ask-then-build",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/ask-then-build",
-          "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "bb-cli",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-cli",
-          "description": "Use this when controlling bb. The bb CLI inspects and manages threads, environments, projects, machines, providers, skills, plugins, settings, terminals, and other BB services.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "bb-plugins",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-plugins",
-          "description": "Build, install, and debug bb plugins. Use when the user wants a bb plugin, a sidebar panel, a bb CLI subcommand, an agent tool, a theme, a provider, or to extend bb itself. For running threads and the core bb CLI, use bb-cli instead.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "boat",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/boat",
-          "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "browser-use",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-use",
-          "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cmux",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/cmux",
-          "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "codex-subagent",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/codex-subagent",
-          "description": "Launch OpenAI Codex CLI as a subagent (ChatGPT subscription auth, no API key). Use when delegating a self-contained coding task to Codex from another agent — parallel implementation work, a second opinion, or an independent verification pass.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "create-readonly-db-role",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/create-readonly-db-role",
-          "description": "Set up read-only PostgreSQL access for agents. Use only when the user explicitly invokes /create-readonly-db-role.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cua-driver",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
-          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "decisions",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/decisions",
-          "description": "Ask the agent to list all choices it made during the current work that it is not confident of. Manual-only; the user must ask for it by name.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deepapi",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deepapi",
-          "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
-          "version": "0da3c1fcc437"
-        },
-        {
-          "name": "distribute-skill-to-all-agents",
-          "installUrl": "github:davidondrej/skills:skills/skill-authoring/distribute-skill-to-all-agents",
-          "description": "Distribute global skills across Codex, Claude Code, Pi, Hermes, and Cursor. Use for \"distribute this skill\", \"sync skills across agents\", or after creating or updating a global skill.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "domain-checker",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/domain-checker",
-          "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "effective-agent-skills",
-          "installUrl": "github:davidondrej/skills:skills/skill-authoring/effective-agent-skills",
-          "description": "Write, review, and debug agent skills. Use when creating or editing SKILL.md files, improving skill structure, or diagnosing invocation and execution problems.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fable-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
-          "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fable-safe-prompt",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-safe-prompt",
-          "description": "Make minimal prompt edits to reduce false-positive refusals from Fable. Use only when the user explicitly invokes /fable-safe-prompt.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fireflies-transcript",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/fireflies-transcript",
-          "description": "Fetch raw Fireflies.ai meeting transcripts. Use only when the user explicitly invokes /fireflies-transcript; for YouTube, use youtube-transcript.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "git-worktree",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/git-worktree",
-          "description": "Use Git worktrees to isolate parallel coding tasks. Use when setting up a task checkout, working in a shared repo, or managing existing worktrees.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "github-outside-sandbox",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/github-outside-sandbox",
-          "description": "Run Git and GitHub CLI commands on the host when sandboxing blocks Keychain auth, network access, or .git writes. Use for gh auth, repo/PR operations, index.lock, or permission errors; covers execution context only.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "global-agent-guardrails",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/global-agent-guardrails",
-          "description": "Configure the shared guard against catastrophic shell commands in local AI agents. Use when changing block patterns, adding an agent or machine, or investigating why a command was or wasn't blocked.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "goal-loop",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/goal-loop",
-          "description": "Draft /goal prompts and explain persistent agent loops. Use for goal or Ralph loops, autonomous run setup, monitoring, and troubleshooting.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gpt-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
-          "description": "Launch an independent GPT code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "handoff",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/handoff",
-          "description": "Capture session context for a fresh agent. Use for handoffs, context limits, switching focus, ending sessions, or splitting work across sessions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "herdr",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/herdr",
-          "description": "Operate and coordinate AI agents in Herdr workspaces in Ghostty. Use when the user mentions Herdr or asks to inspect, message, wait for, or coordinate its agents. Excludes cmux and ordinary terminal sessions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "image-prompt",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/image-prompt",
-          "description": "Write four distinct prompts for AI image models. Use for image, thumbnail, banner, logo, or illustration prompts. Produces prompt text only.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "keep-track",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/keep-track",
-          "description": "Keep track of open topics and decisions. Use when the user says \"keep-track\" or asks to keep a running list of remaining items.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "larp-detector",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/larp-detector",
-          "description": "Skeptical review of outside contributions to public repos. Use when reviewing, ranking, or replying to public GitHub pull requests or issues from outside contributors, or when the user says \"larp-detector\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "nagent",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/nagent",
-          "description": "Launch a new bb worker thread with the right project, model, worktree, and task brief. Use for nagent, launching a bb session, or a standalone bb agent. Covers thread creation; use bb-cli for managing existing threads.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "new-grok-bot",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/new-grok-bot",
-          "description": "Design a Grok Bot role and create its setup prompt. Use only when the user explicitly invokes /new-grok-bot.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "openrouter",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/openrouter",
-          "description": "Design, build, debug, and optimize OpenRouter API integrations. Use for any OpenRouter API work, including models, reasoning, routing, media, tools, structured output, cost, or performance.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "persistent-localhost",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/persistent-localhost",
-          "description": "Manage persistent dev servers, APIs, and other local processes on a port using macOS LaunchAgents. Use when starting, stopping, restarting, inspecting, or troubleshooting local servers that should survive shell exit and restart after crashes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "prompt-for-others",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/prompt-for-others",
-          "description": "Write a prompt teammates can give their AI agents to apply a fix, upgrade, or setup change. Use only when the user explicitly invokes /prompt-for-others.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "push-skills",
-          "installUrl": "github:davidondrej/skills:skills/skill-authoring/push-skills",
-          "description": "Push skills and global AGENTS.md to the private repo and verify the public mirror. Use only when the user explicitly invokes /push-skills.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "remind",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/remind",
-          "description": "Rewrite the last response simpler and shorter in plain English, prefixed with a 3-5 sentence TLDR of the conversation so far. Manual-only, invoked as /remind.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "reset-cursor-acp",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/reset-cursor-acp",
-          "description": "Reset a stuck Cursor ACP thread in <chat-system> and reload its configuration. Use only when the user explicitly invokes /reset-cursor-acp.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "risky-changes",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
-          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "self-archive",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/self-archive",
-          "description": "Archive the current Cloudroom thread and release its runtime. Use when the user explicitly asks to \"self-archive\", \"archive yourself\", or \"archive this thread\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "setup-help",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/setup-help",
-          "description": "Guide setup one step at a time and show what remains. Use only when the user explicitly asks for it by name.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "total-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
-          "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "davidondrej",
-        "repo": "skills",
-        "repoUrl": "https://github.com/davidondrej/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "davidondrej-skills-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from davidondrej/skills.",
-      "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "davidondrej",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "adr-verbatim",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/adr-verbatim",
-          "description": "Record concise ADRs that preserve the user''s decisions without conversational noise. Use for \"adr-verbatim\", \"new ADR\", \"document that as an ADR\", \"record this decision\", or supplied ADR wording.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "anti-sleep",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/anti-sleep",
-          "description": "Keep a Mac awake for a set duration or while a process runs. Use only when the user explicitly invokes /anti-sleep.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ask-then-build",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/ask-then-build",
-          "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "boat",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/boat",
-          "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "browser-harness",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-harness",
-          "description": "Direct browser control via CDP. Use when the user wants to automate, scrape, test, or interact with web pages. Connects to the user's already-running Chrome.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "browser-use",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-use",
-          "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cmux",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/cmux",
-          "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "create-readonly-db-role",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/create-readonly-db-role",
-          "description": "Set up read-only PostgreSQL access for agents. Use only when the user explicitly invokes /create-readonly-db-role.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cua-driver",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
-          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "decisions",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/decisions",
-          "description": "Ask the agent to list all choices it made during the current work that it is not confident of. Manual-only; the user must ask for it by name.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "domain-checker",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/domain-checker",
-          "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fable-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
-          "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fable-safe-prompt",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-safe-prompt",
-          "description": "Make minimal prompt edits to reduce false-positive refusals from Fable. Use only when the user explicitly invokes /fable-safe-prompt.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fireflies-transcript",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/fireflies-transcript",
-          "description": "Fetch raw Fireflies.ai meeting transcripts. Use only when the user explicitly invokes /fireflies-transcript; for YouTube, use youtube-transcript.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gpt-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
-          "description": "Launch an independent GPT code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "keep-track",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/keep-track",
-          "description": "Keep track of open topics and decisions. Use when the user says \"keep-track\" or asks to keep a running list of remaining items.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "new-grok-bot",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/new-grok-bot",
-          "description": "Design a Grok Bot role and create its setup prompt. Use only when the user explicitly invokes /new-grok-bot.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "prompt-for-others",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/prompt-for-others",
-          "description": "Write a prompt teammates can give their AI agents to apply a fix, upgrade, or setup change. Use only when the user explicitly invokes /prompt-for-others.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "push-skills",
-          "installUrl": "github:davidondrej/skills:skills/skill-authoring/push-skills",
-          "description": "Push skills and global AGENTS.md to the private repo and verify the public mirror. Use only when the user explicitly invokes /push-skills.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "read-all-adrs",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/read-all-adrs",
-          "description": "Read every ADR markdown file in the project's docs/adr/ folder so you have full context on past decisions. Use only when the user explicitly calls it.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "repo-sync",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/repo-sync",
-          "description": "Manage automatic Git syncing on macOS with repo-sync. Use only when the user explicitly invokes /repo-sync.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "reset-cursor-acp",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/reset-cursor-acp",
-          "description": "Reset a stuck Cursor ACP thread in <chat-system> and reload its configuration. Use only when the user explicitly invokes /reset-cursor-acp.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "risky-changes",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
-          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "self-archive",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/self-archive",
-          "description": "Archive the current Cloudroom thread and release its runtime. Use when the user explicitly asks to \"self-archive\", \"archive yourself\", or \"archive this thread\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "setup-help",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/setup-help",
-          "description": "Guide setup one step at a time and show what remains. Use only when the user explicitly asks for it by name.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "signal-from-expert",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/signal-from-expert",
-          "description": "Compare the user''s notes with an expert''s work on a topic. Return relevant exact quotes, source locations, and at least one gap in the user''s thinking. Use only when /signal-from-expert is explicitly invoked.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "stop-overthinking",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/stop-overthinking",
-          "description": "Manually-invoked skill that stops overthinking and forces a short, practical decision. Use only when the user explicitly invokes stop-overthinking.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "total-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
-          "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "varied-search",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/varied-search",
-          "description": "Research a topic across the web, GitHub, and X/Twitter with DeepAPI and produce a concise Markdown report. Use for varied-search or requests to compare web coverage, relevant repositories, and social discussion.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "who-is-this",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/who-is-this",
-          "description": "Research a person''s public track record and give a short credibility assessment. Use only when the user explicitly invokes /who-is-this.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "davidondrej",
-        "repo": "skills",
-        "repoUrl": "https://github.com/davidondrej/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "davidondrej-skills-engineering",
-      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from davidondrej/skills.",
-      "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "engineering",
-        "coding",
-        "testing",
-        "davidondrej",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "ask-then-build",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/ask-then-build",
-          "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "bb-cli",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-cli",
-          "description": "Use this when controlling bb. The bb CLI inspects and manages threads, environments, projects, machines, providers, skills, plugins, settings, terminals, and other BB services.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "bb-plugins",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-plugins",
-          "description": "Build, install, and debug bb plugins. Use when the user wants a bb plugin, a sidebar panel, a bb CLI subcommand, an agent tool, a theme, a provider, or to extend bb itself. For running threads and the core bb CLI, use bb-cli instead.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "before-building",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/before-building",
-          "description": "Fire the moment the user proposes a build. Instantly surface the 1-3 consequential choices hidden in their idea. Can also be invoked with /before-building.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "boat",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/boat",
-          "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "browser-harness",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-harness",
-          "description": "Direct browser control via CDP. Use when the user wants to automate, scrape, test, or interact with web pages. Connects to the user's already-running Chrome.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "browser-use",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-use",
-          "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "codex-subagent",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/codex-subagent",
-          "description": "Launch OpenAI Codex CLI as a subagent (ChatGPT subscription auth, no API key). Use when delegating a self-contained coding task to Codex from another agent — parallel implementation work, a second opinion, or an independent verification pass.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cua-driver",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
-          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-research",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-research",
-          "description": "Run deep research through DeepAPI and save a report with sources. Use when asked for deep research, DeepAPI research, or Perplexity deep research.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-scrape",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
-          "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deepapi",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deepapi",
-          "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
-          "version": "0da3c1fcc437"
-        },
-        {
-          "name": "distribute-skill-to-all-agents",
-          "installUrl": "github:davidondrej/skills:skills/skill-authoring/distribute-skill-to-all-agents",
-          "description": "Distribute global skills across Codex, Claude Code, Pi, Hermes, and Cursor. Use for \"distribute this skill\", \"sync skills across agents\", or after creating or updating a global skill.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "domain-checker",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/domain-checker",
-          "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "effective-agent-skills",
-          "installUrl": "github:davidondrej/skills:skills/skill-authoring/effective-agent-skills",
-          "description": "Write, review, and debug agent skills. Use when creating or editing SKILL.md files, improving skill structure, or diagnosing invocation and execution problems.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fable-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
-          "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "file-tree",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/file-tree",
-          "description": "Manually-invoked skill that prints a nice file tree of the current topic in a code block. Use when the user says \"file-tree\" or \"file tree\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "git-worktree",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/git-worktree",
-          "description": "Use Git worktrees to isolate parallel coding tasks. Use when setting up a task checkout, working in a shared repo, or managing existing worktrees.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "github-outside-sandbox",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/github-outside-sandbox",
-          "description": "Run Git and GitHub CLI commands on the host when sandboxing blocks Keychain auth, network access, or .git writes. Use for gh auth, repo/PR operations, index.lock, or permission errors; covers execution context only.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gpt-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
-          "description": "Launch an independent GPT code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "larp-detector",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/larp-detector",
-          "description": "Skeptical review of outside contributions to public repos. Use when reviewing, ranking, or replying to public GitHub pull requests or issues from outside contributors, or when the user says \"larp-detector\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "nagent",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/nagent",
-          "description": "Launch a new bb worker thread with the right project, model, worktree, and task brief. Use for nagent, launching a bb session, or a standalone bb agent. Covers thread creation; use bb-cli for managing existing threads.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "openrouter",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/openrouter",
-          "description": "Design, build, debug, and optimize OpenRouter API integrations. Use for any OpenRouter API work, including models, reasoning, routing, media, tools, structured output, cost, or performance.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "persistent-localhost",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/persistent-localhost",
-          "description": "Manage persistent dev servers, APIs, and other local processes on a port using macOS LaunchAgents. Use when starting, stopping, restarting, inspecting, or troubleshooting local servers that should survive shell exit and restart after crashes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "rename-process",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/rename-process",
-          "description": "Coordinate project or repository renames and moves involving Git, BB, services, or multiple machines. Preserve work and history while updating operational paths. Excludes ordinary file, code-symbol, and thread-title renames.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "risky-changes",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
-          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "total-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
-          "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "varied-search",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/varied-search",
-          "description": "Research a topic across the web, GitHub, and X/Twitter with DeepAPI and produce a concise Markdown report. Use for varied-search or requests to compare web coverage, relevant repositories, and social discussion.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "davidondrej",
-        "repo": "skills",
-        "repoUrl": "https://github.com/davidondrej/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "davidondrej-skills-frontend-design",
-      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from davidondrej/skills.",
-      "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "frontend",
-        "design",
-        "ui",
-        "davidondrej",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "ask-then-build",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/ask-then-build",
-          "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "bb-plugins",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-plugins",
-          "description": "Build, install, and debug bb plugins. Use when the user wants a bb plugin, a sidebar panel, a bb CLI subcommand, an agent tool, a theme, a provider, or to extend bb itself. For running threads and the core bb CLI, use bb-cli instead.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "before-building",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/before-building",
-          "description": "Fire the moment the user proposes a build. Instantly surface the 1-3 consequential choices hidden in their idea. Can also be invoked with /before-building.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cmux",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/cmux",
-          "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cua-driver",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
-          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-scrape",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
-          "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deepapi",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deepapi",
-          "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
-          "version": "0da3c1fcc437"
-        },
-        {
-          "name": "designs",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/designs",
-          "description": "Show 4 better, new design options as separate real image renders. Use for \"designs\" or when the user asks for new design ideas.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "herdr",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/herdr",
-          "description": "Operate and coordinate AI agents in Herdr workspaces in Ghostty. Use when the user mentions Herdr or asks to inspect, message, wait for, or coordinate its agents. Excludes cmux and ordinary terminal sessions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "image-prompt",
-          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/image-prompt",
-          "description": "Write four distinct prompts for AI image models. Use for image, thumbnail, banner, logo, or illustration prompts. Produces prompt text only.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "new-grok-bot",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/new-grok-bot",
-          "description": "Design a Grok Bot role and create its setup prompt. Use only when the user explicitly invokes /new-grok-bot.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "openrouter",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/openrouter",
-          "description": "Design, build, debug, and optimize OpenRouter API integrations. Use for any OpenRouter API work, including models, reasoning, routing, media, tools, structured output, cost, or performance.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "setup-help",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/setup-help",
-          "description": "Guide setup one step at a time and show what remains. Use only when the user explicitly asks for it by name.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "davidondrej",
-        "repo": "skills",
-        "repoUrl": "https://github.com/davidondrej/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "davidondrej-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from davidondrej/skills.",
       "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
+      "createdAt": "2026-10-12T10:04:47.825Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -11202,232 +10267,10 @@
     },
     {
       "version": 1,
-      "name": "davidondrej-skills-mobile",
-      "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from davidondrej/skills.",
-      "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "mobile",
-        "ios",
-        "swift",
-        "davidondrej",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "cmux",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/cmux",
-          "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "persistent-localhost",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/persistent-localhost",
-          "description": "Manage persistent dev servers, APIs, and other local processes on a port using macOS LaunchAgents. Use when starting, stopping, restarting, inspecting, or troubleshooting local servers that should survive shell exit and restart after crashes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "repo-sync",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/repo-sync",
-          "description": "Manage automatic Git syncing on macOS with repo-sync. Use only when the user explicitly invokes /repo-sync.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "davidondrej",
-        "repo": "skills",
-        "repoUrl": "https://github.com/davidondrej/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "davidondrej-skills-product-business",
-      "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from davidondrej/skills.",
-      "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "product",
-        "business",
-        "planning",
-        "davidondrej",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "boat",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/boat",
-          "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cua-driver",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
-          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-scrape",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
-          "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "risky-changes",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
-          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "davidondrej",
-        "repo": "skills",
-        "repoUrl": "https://github.com/davidondrej/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "davidondrej-skills-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from davidondrej/skills.",
-      "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "research",
-        "academic",
-        "analysis",
-        "davidondrej",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "browser-harness",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-harness",
-          "description": "Direct browser control via CDP. Use when the user wants to automate, scrape, test, or interact with web pages. Connects to the user's already-running Chrome.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "browser-use",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-use",
-          "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "cua-driver",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
-          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-research",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-research",
-          "description": "Run deep research through DeepAPI and save a report with sources. Use when asked for deep research, DeepAPI research, or Perplexity deep research.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-scrape",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
-          "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deepapi",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/deepapi",
-          "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
-          "version": "0da3c1fcc437"
-        },
-        {
-          "name": "domain-checker",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/domain-checker",
-          "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "effective-agent-skills",
-          "installUrl": "github:davidondrej/skills:skills/skill-authoring/effective-agent-skills",
-          "description": "Write, review, and debug agent skills. Use when creating or editing SKILL.md files, improving skill structure, or diagnosing invocation and execution problems.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fable-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
-          "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "fireflies-transcript",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/fireflies-transcript",
-          "description": "Fetch raw Fireflies.ai meeting transcripts. Use only when the user explicitly invokes /fireflies-transcript; for YouTube, use youtube-transcript.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "gpt-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
-          "description": "Launch an independent GPT code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "larp-detector",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/larp-detector",
-          "description": "Skeptical review of outside contributions to public repos. Use when reviewing, ranking, or replying to public GitHub pull requests or issues from outside contributors, or when the user says \"larp-detector\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "online-shopping",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/online-shopping",
-          "description": "Research online purchases, prices, and shop trust. Use for buying advice, subscriptions, or shopping photos, links, and checkout screens.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "push-skills",
-          "installUrl": "github:davidondrej/skills:skills/skill-authoring/push-skills",
-          "description": "Push skills and global AGENTS.md to the private repo and verify the public mirror. Use only when the user explicitly invokes /push-skills.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "risky-changes",
-          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
-          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "total-review",
-          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
-          "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "varied-search",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/varied-search",
-          "description": "Research a topic across the web, GitHub, and X/Twitter with DeepAPI and produce a concise Markdown report. Use for varied-search or requests to compare web coverage, relevant repositories, and social discussion.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "who-is-this",
-          "installUrl": "github:davidondrej/skills:skills/research-and-web/who-is-this",
-          "description": "Research a person''s public track record and give a short credibility assessment. Use only when the user explicitly invokes /who-is-this.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "davidondrej",
-        "repo": "skills",
-        "repoUrl": "https://github.com/davidondrej/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "davidondrej-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from davidondrej/skills.",
       "author": "ASM (davidondrej/skills)",
-      "createdAt": "2026-10-11T05:06:36.840Z",
+      "createdAt": "2026-10-12T10:04:47.825Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -11537,7 +10380,7 @@
         {
           "name": "save-idea",
           "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/save-idea",
-          "description": "Save ideas, observations, content topics, projects, and convictions in the ideas repo. Use when the user asks to capture an idea or insight. Adds to idea backlogs, not reminders or tasks.",
+          "description": "Save ideas, observations, content topics, projects, and convictions in <ideas-repo>. Use when the user asks to capture an idea or insight. Adds to idea backlogs, not reminders or tasks.",
           "version": "0.0.0"
         },
         {
@@ -11556,6 +10399,966 @@
           "name": "teach",
           "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/teach",
           "description": "Teach the user a new skill or concept, within this workspace.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "davidondrej",
+        "repo": "skills",
+        "repoUrl": "https://github.com/davidondrej/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "davidondrej-skills-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from davidondrej/skills.",
+      "author": "ASM (davidondrej/skills)",
+      "createdAt": "2026-10-12T10:04:47.825Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "davidondrej",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "browser-harness",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-harness",
+          "description": "Direct browser control via CDP. Use when the user wants to automate, scrape, test, or interact with web pages. Connects to the user's already-running Chrome.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "browser-use",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-use",
+          "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cua-driver",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
+          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-research",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-research",
+          "description": "Run deep research through DeepAPI and save a report with sources. Use when asked for deep research, DeepAPI research, or Perplexity deep research.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-scrape",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
+          "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deepapi",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deepapi",
+          "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
+          "version": "0da3c1fcc437"
+        },
+        {
+          "name": "domain-checker",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/domain-checker",
+          "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "effective-agent-skills",
+          "installUrl": "github:davidondrej/skills:skills/skill-authoring/effective-agent-skills",
+          "description": "Write, review, and debug agent skills. Use when creating or editing SKILL.md files, improving skill structure, or diagnosing invocation and execution problems.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fable-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
+          "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fireflies-transcript",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/fireflies-transcript",
+          "description": "Fetch raw Fireflies.ai meeting transcripts. Use only when the user explicitly invokes /fireflies-transcript; for YouTube, use youtube-transcript.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gpt-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
+          "description": "Launch an independent GPT-6.1-Sol Max code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "larp-detector",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/larp-detector",
+          "description": "Skeptical review of outside contributions to public repos. Use when reviewing, ranking, or replying to public GitHub pull requests or issues from outside contributors, or when the user says \"larp-detector\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "online-shopping",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/online-shopping",
+          "description": "Research online purchases, prices, and shop trust. Use for buying advice, subscriptions, or shopping photos, links, and checkout screens.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "risky-changes",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
+          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "total-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
+          "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "varied-search",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/varied-search",
+          "description": "Research a topic across the web, GitHub, and X/Twitter with DeepAPI and produce a concise Markdown report. Use for varied-search or requests to compare web coverage, relevant repositories, and social discussion.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "who-is-this",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/who-is-this",
+          "description": "Research a person''s public track record and give a short credibility assessment. Use only when the user explicitly invokes /who-is-this.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "davidondrej",
+        "repo": "skills",
+        "repoUrl": "https://github.com/davidondrej/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "davidondrej-skills-engineering",
+      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from davidondrej/skills.",
+      "author": "ASM (davidondrej/skills)",
+      "createdAt": "2026-10-12T10:04:47.825Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "engineering",
+        "coding",
+        "testing",
+        "davidondrej",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "ask-then-build",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/ask-then-build",
+          "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "bb-cli",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-cli",
+          "description": "Use this when controlling bb. The bb CLI inspects and manages threads, environments, projects, machines, providers, skills, plugins, settings, terminals, and other BB services.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "bb-plugins",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-plugins",
+          "description": "Build, install, and debug bb plugins. Use when the user wants a bb plugin, a sidebar panel, a bb CLI subcommand, an agent tool, a theme, a provider, or to extend bb itself. For running threads and the core bb CLI, use bb-cli instead.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "before-building",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/before-building",
+          "description": "Fire the moment the user proposes a build. Instantly surface the 1-3 consequential choices hidden in their idea. Can also be invoked with /before-building.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "boat",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/boat",
+          "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "browser-harness",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-harness",
+          "description": "Direct browser control via CDP. Use when the user wants to automate, scrape, test, or interact with web pages. Connects to the user's already-running Chrome.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "browser-use",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-use",
+          "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "codex-subagent",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/codex-subagent",
+          "description": "Launch OpenAI Codex CLI as a subagent (no API key). Use when delegating a self-contained coding task to Codex from another agent — parallel implementation work, a second opinion, or an independent verification pass.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cua-driver",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
+          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-research",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-research",
+          "description": "Run deep research through DeepAPI and save a report with sources. Use when asked for deep research, DeepAPI research, or Perplexity deep research.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-scrape",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
+          "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deepapi",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deepapi",
+          "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
+          "version": "0da3c1fcc437"
+        },
+        {
+          "name": "distribute-skill-to-all-agents",
+          "installUrl": "github:davidondrej/skills:skills/skill-authoring/distribute-skill-to-all-agents",
+          "description": "Distribute global skills across Codex, Claude Code, Pi, Hermes, and Cursor. Use for \"distribute this skill\", \"sync skills across agents\", or after creating or updating a global skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "domain-checker",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/domain-checker",
+          "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "effective-agent-skills",
+          "installUrl": "github:davidondrej/skills:skills/skill-authoring/effective-agent-skills",
+          "description": "Write, review, and debug agent skills. Use when creating or editing SKILL.md files, improving skill structure, or diagnosing invocation and execution problems.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fable-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
+          "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "file-tree",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/file-tree",
+          "description": "Manually-invoked skill that prints a nice file tree of the current topic in a code block. Use when the user says \"file-tree\" or \"file tree\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "git-worktree",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/git-worktree",
+          "description": "Use Git worktrees to isolate parallel coding tasks. Use when setting up a task checkout, working in a shared repo, or managing existing worktrees.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "github-outside-sandbox",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/github-outside-sandbox",
+          "description": "Run Git and GitHub CLI commands on the host when sandboxing blocks Keychain auth, network access, or .git writes. Use for gh auth, repo/PR operations, index.lock, or permission errors; covers execution context only.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gpt-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
+          "description": "Launch an independent GPT-6.1-Sol Max code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "larp-detector",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/larp-detector",
+          "description": "Skeptical review of outside contributions to public repos. Use when reviewing, ranking, or replying to public GitHub pull requests or issues from outside contributors, or when the user says \"larp-detector\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "nagent",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/nagent",
+          "description": "Launch a new bb worker thread with the right project, model, worktree, and task brief. Use for nagent, launching a bb session, or a standalone bb agent. Covers thread creation; use bb-cli for managing existing threads.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "openrouter",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/openrouter",
+          "description": "Design, build, debug, and optimize OpenRouter API integrations. Use for any OpenRouter API work, including models, reasoning, routing, media, tools, structured output, cost, or performance.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "persistent-localhost",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/persistent-localhost",
+          "description": "Manage persistent dev servers, APIs, and other local processes on a port using macOS LaunchAgents. Use when starting, stopping, restarting, inspecting, or troubleshooting local servers that should survive shell exit and restart after crashes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "rename-process",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/rename-process",
+          "description": "Coordinate project or repository renames and moves involving Git, BB, services, or multiple machines. Preserve work and history while updating operational paths. Excludes ordinary file, code-symbol, and thread-title renames.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "risky-changes",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
+          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "total-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
+          "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "varied-search",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/varied-search",
+          "description": "Research a topic across the web, GitHub, and X/Twitter with DeepAPI and produce a concise Markdown report. Use for varied-search or requests to compare web coverage, relevant repositories, and social discussion.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "davidondrej",
+        "repo": "skills",
+        "repoUrl": "https://github.com/davidondrej/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "davidondrej-skills-frontend-design",
+      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from davidondrej/skills.",
+      "author": "ASM (davidondrej/skills)",
+      "createdAt": "2026-10-12T10:04:47.825Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "frontend",
+        "design",
+        "ui",
+        "davidondrej",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "ask-then-build",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/ask-then-build",
+          "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "bb-plugins",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-plugins",
+          "description": "Build, install, and debug bb plugins. Use when the user wants a bb plugin, a sidebar panel, a bb CLI subcommand, an agent tool, a theme, a provider, or to extend bb itself. For running threads and the core bb CLI, use bb-cli instead.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "before-building",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/before-building",
+          "description": "Fire the moment the user proposes a build. Instantly surface the 1-3 consequential choices hidden in their idea. Can also be invoked with /before-building.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cmux",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/cmux",
+          "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cua-driver",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
+          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-scrape",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
+          "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deepapi",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deepapi",
+          "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
+          "version": "0da3c1fcc437"
+        },
+        {
+          "name": "designs",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/designs",
+          "description": "Show 4 better, new design options as separate real image renders. Use for \"designs\" or when the user asks for new design ideas.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "herdr",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/herdr",
+          "description": "Operate and coordinate AI agents in Herdr workspaces in Ghostty. Use when the user mentions Herdr or asks to inspect, message, wait for, or coordinate its agents. Excludes cmux and ordinary terminal sessions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "image-prompt",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/image-prompt",
+          "description": "Write four distinct prompts for AI image models. Use for image, thumbnail, banner, logo, or illustration prompts. Produces prompt text only.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "new-grok-bot",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/new-grok-bot",
+          "description": "Design a Grok Bot role and create its setup prompt. Use only when the user explicitly invokes /new-grok-bot.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "openrouter",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/openrouter",
+          "description": "Design, build, debug, and optimize OpenRouter API integrations. Use for any OpenRouter API work, including models, reasoning, routing, media, tools, structured output, cost, or performance.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "setup-help",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/setup-help",
+          "description": "Guide setup one step at a time and show what remains. Use only when the user explicitly asks for it by name.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "davidondrej",
+        "repo": "skills",
+        "repoUrl": "https://github.com/davidondrej/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "davidondrej-skills-mobile",
+      "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from davidondrej/skills.",
+      "author": "ASM (davidondrej/skills)",
+      "createdAt": "2026-10-12T10:04:47.825Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "mobile",
+        "ios",
+        "swift",
+        "davidondrej",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "cmux",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/cmux",
+          "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "persistent-localhost",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/persistent-localhost",
+          "description": "Manage persistent dev servers, APIs, and other local processes on a port using macOS LaunchAgents. Use when starting, stopping, restarting, inspecting, or troubleshooting local servers that should survive shell exit and restart after crashes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "repo-sync",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/repo-sync",
+          "description": "Manage automatic Git syncing on macOS with repo-sync. Use only when the user explicitly invokes /repo-sync.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "davidondrej",
+        "repo": "skills",
+        "repoUrl": "https://github.com/davidondrej/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "davidondrej-skills-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from davidondrej/skills.",
+      "author": "ASM (davidondrej/skills)",
+      "createdAt": "2026-10-12T10:04:47.825Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "devops",
+        "infra",
+        "automation",
+        "davidondrej",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "adr-verbatim",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/adr-verbatim",
+          "description": "Record concise ADRs that preserve the user''s decisions without conversational noise. Use for \"adr-verbatim\", \"new ADR\", \"document that as an ADR\", \"record this decision\", or supplied ADR wording.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "anti-sleep",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/anti-sleep",
+          "description": "Keep a Mac awake for a set duration or while a process runs. Use only when the user explicitly invokes /anti-sleep.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "ask-then-build",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/ask-then-build",
+          "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "boat",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/boat",
+          "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "browser-harness",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-harness",
+          "description": "Direct browser control via CDP. Use when the user wants to automate, scrape, test, or interact with web pages. Connects to the user's already-running Chrome.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "browser-use",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-use",
+          "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cmux",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/cmux",
+          "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "create-readonly-db-role",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/create-readonly-db-role",
+          "description": "Set up read-only PostgreSQL access for agents. Use only when the user explicitly invokes /create-readonly-db-role.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cua-driver",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
+          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "decisions",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/decisions",
+          "description": "Ask the agent to list all choices it made during the current work that it is not confident of. Manual-only; the user must ask for it by name.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "domain-checker",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/domain-checker",
+          "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fable-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
+          "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fable-safe-prompt",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-safe-prompt",
+          "description": "Make minimal prompt edits to reduce false-positive refusals from Fable. Use only when the user explicitly invokes /fable-safe-prompt.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fireflies-transcript",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/fireflies-transcript",
+          "description": "Fetch raw Fireflies.ai meeting transcripts. Use only when the user explicitly invokes /fireflies-transcript; for YouTube, use youtube-transcript.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gpt-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
+          "description": "Launch an independent GPT-6.1-Sol Max code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "keep-track",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/keep-track",
+          "description": "Keep track of open topics and decisions. Use when the user says \"keep-track\" or asks to keep a running list of remaining items.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "new-grok-bot",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/new-grok-bot",
+          "description": "Design a Grok Bot role and create its setup prompt. Use only when the user explicitly invokes /new-grok-bot.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "prompt-for-others",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/prompt-for-others",
+          "description": "Write a prompt teammates can give their AI agents to apply a fix, upgrade, or setup change. Use only when the user explicitly invokes /prompt-for-others.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "read-all-adrs",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/read-all-adrs",
+          "description": "Read every ADR markdown file in the project's docs/adr/ folder so you have full context on past decisions. Use only when the user explicitly calls it.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "repo-sync",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/repo-sync",
+          "description": "Manage automatic Git syncing on macOS with repo-sync. Use only when the user explicitly invokes /repo-sync.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "reset-cursor-acp",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/reset-cursor-acp",
+          "description": "Reset a stuck Cursor ACP thread in a thread manager and reload its configuration. Use only when the user explicitly invokes /reset-cursor-acp.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "risky-changes",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
+          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "self-archive",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/self-archive",
+          "description": "Archive the current thread and release its runtime. Use when the user explicitly asks to \"self-archive\", \"archive yourself\", or \"archive this thread\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "setup-help",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/setup-help",
+          "description": "Guide setup one step at a time and show what remains. Use only when the user explicitly asks for it by name.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "signal-from-expert",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/signal-from-expert",
+          "description": "Compare the user''s notes with an expert''s work on a topic. Return relevant exact quotes, source locations, and at least one gap in the user''s thinking. Use only when /signal-from-expert is explicitly invoked.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "stop-overthinking",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/stop-overthinking",
+          "description": "Manually-invoked skill that stops overthinking and forces a short, practical decision. Use only when the user explicitly invokes stop-overthinking.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "total-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
+          "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "varied-search",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/varied-search",
+          "description": "Research a topic across the web, GitHub, and X/Twitter with DeepAPI and produce a concise Markdown report. Use for varied-search or requests to compare web coverage, relevant repositories, and social discussion.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "who-is-this",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/who-is-this",
+          "description": "Research a person''s public track record and give a short credibility assessment. Use only when the user explicitly invokes /who-is-this.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "davidondrej",
+        "repo": "skills",
+        "repoUrl": "https://github.com/davidondrej/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "davidondrej-skills-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from davidondrej/skills.",
+      "author": "ASM (davidondrej/skills)",
+      "createdAt": "2026-10-12T10:04:47.825Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
+        "davidondrej",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "ask-then-build",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/ask-then-build",
+          "description": "Clarify a feature, change, or refactor through questions, then write a build prompt for another agent. Use for /ask-then-build or requests to ask questions before producing an implementation prompt.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "bb-cli",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-cli",
+          "description": "Use this when controlling bb. The bb CLI inspects and manages threads, environments, projects, machines, providers, skills, plugins, settings, terminals, and other BB services.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "bb-plugins",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/bb-plugins",
+          "description": "Build, install, and debug bb plugins. Use when the user wants a bb plugin, a sidebar panel, a bb CLI subcommand, an agent tool, a theme, a provider, or to extend bb itself. For running threads and the core bb CLI, use bb-cli instead.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "boat",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/boat",
+          "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "browser-use",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/browser-use",
+          "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cmux",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/cmux",
+          "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "codex-subagent",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/codex-subagent",
+          "description": "Launch OpenAI Codex CLI as a subagent (no API key). Use when delegating a self-contained coding task to Codex from another agent — parallel implementation work, a second opinion, or an independent verification pass.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "create-readonly-db-role",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/create-readonly-db-role",
+          "description": "Set up read-only PostgreSQL access for agents. Use only when the user explicitly invokes /create-readonly-db-role.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cua-driver",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
+          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "decisions",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/decisions",
+          "description": "Ask the agent to list all choices it made during the current work that it is not confident of. Manual-only; the user must ask for it by name.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deepapi",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deepapi",
+          "description": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also use it to navigate and act on public websites, draft and send safe email, and generate images.",
+          "version": "0da3c1fcc437"
+        },
+        {
+          "name": "distribute-skill-to-all-agents",
+          "installUrl": "github:davidondrej/skills:skills/skill-authoring/distribute-skill-to-all-agents",
+          "description": "Distribute global skills across Codex, Claude Code, Pi, Hermes, and Cursor. Use for \"distribute this skill\", \"sync skills across agents\", or after creating or updating a global skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "domain-checker",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/domain-checker",
+          "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "effective-agent-skills",
+          "installUrl": "github:davidondrej/skills:skills/skill-authoring/effective-agent-skills",
+          "description": "Write, review, and debug agent skills. Use when creating or editing SKILL.md files, improving skill structure, or diagnosing invocation and execution problems.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fable-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-review",
+          "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fable-safe-prompt",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/fable-safe-prompt",
+          "description": "Make minimal prompt edits to reduce false-positive refusals from Fable. Use only when the user explicitly invokes /fable-safe-prompt.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "fireflies-transcript",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/fireflies-transcript",
+          "description": "Fetch raw Fireflies.ai meeting transcripts. Use only when the user explicitly invokes /fireflies-transcript; for YouTube, use youtube-transcript.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "git-worktree",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/git-worktree",
+          "description": "Use Git worktrees to isolate parallel coding tasks. Use when setting up a task checkout, working in a shared repo, or managing existing worktrees.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "github-outside-sandbox",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/github-outside-sandbox",
+          "description": "Run Git and GitHub CLI commands on the host when sandboxing blocks Keychain auth, network access, or .git writes. Use for gh auth, repo/PR operations, index.lock, or permission errors; covers execution context only.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "global-agent-guardrails",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/global-agent-guardrails",
+          "description": "Configure a shared guard against catastrophic shell commands in local AI agents. Use when changing block patterns, adding an agent or machine, or investigating why a command was or wasn't blocked.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "goal-loop",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/goal-loop",
+          "description": "Draft /goal prompts and explain persistent agent loops. Use for goal or Ralph loops, autonomous run setup, monitoring, and troubleshooting.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gpt-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/gpt-review",
+          "description": "Launch an independent GPT-6.1-Sol Max code review and return it verbatim. Use only when the user explicitly invokes /gpt-review.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "handoff",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/handoff",
+          "description": "Capture session context for a fresh agent. Use for handoffs, context limits, switching focus, ending sessions, or splitting work across sessions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "herdr",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/herdr",
+          "description": "Operate and coordinate AI agents in Herdr workspaces in Ghostty. Use when the user mentions Herdr or asks to inspect, message, wait for, or coordinate its agents. Excludes cmux and ordinary terminal sessions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "image-prompt",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/image-prompt",
+          "description": "Write four distinct prompts for AI image models. Use for image, thumbnail, banner, logo, or illustration prompts. Produces prompt text only.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "keep-track",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/keep-track",
+          "description": "Keep track of open topics and decisions. Use when the user says \"keep-track\" or asks to keep a running list of remaining items.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "larp-detector",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/larp-detector",
+          "description": "Skeptical review of outside contributions to public repos. Use when reviewing, ranking, or replying to public GitHub pull requests or issues from outside contributors, or when the user says \"larp-detector\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "nagent",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/nagent",
+          "description": "Launch a new bb worker thread with the right project, model, worktree, and task brief. Use for nagent, launching a bb session, or a standalone bb agent. Covers thread creation; use bb-cli for managing existing threads.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "new-grok-bot",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/new-grok-bot",
+          "description": "Design a Grok Bot role and create its setup prompt. Use only when the user explicitly invokes /new-grok-bot.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "openrouter",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/openrouter",
+          "description": "Design, build, debug, and optimize OpenRouter API integrations. Use for any OpenRouter API work, including models, reasoning, routing, media, tools, structured output, cost, or performance.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "persistent-localhost",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/persistent-localhost",
+          "description": "Manage persistent dev servers, APIs, and other local processes on a port using macOS LaunchAgents. Use when starting, stopping, restarting, inspecting, or troubleshooting local servers that should survive shell exit and restart after crashes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "prompt-for-others",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/prompt-for-others",
+          "description": "Write a prompt teammates can give their AI agents to apply a fix, upgrade, or setup change. Use only when the user explicitly invokes /prompt-for-others.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "remind",
+          "installUrl": "github:davidondrej/skills:skills/thinking-and-docs/remind",
+          "description": "Rewrite the last response simpler and shorter in plain English, prefixed with a 3-5 sentence TLDR of the conversation so far. Manual-only, invoked as /remind.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "reset-cursor-acp",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/reset-cursor-acp",
+          "description": "Reset a stuck Cursor ACP thread in a thread manager and reload its configuration. Use only when the user explicitly invokes /reset-cursor-acp.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "risky-changes",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
+          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "self-archive",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/self-archive",
+          "description": "Archive the current thread and release its runtime. Use when the user explicitly asks to \"self-archive\", \"archive yourself\", or \"archive this thread\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "setup-help",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/setup-help",
+          "description": "Guide setup one step at a time and show what remains. Use only when the user explicitly asks for it by name.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "total-review",
+          "installUrl": "github:davidondrej/skills:skills/agent-orchestration/total-review",
+          "description": "Run Fable and GPT reviews, then combine their findings for the user''s approval. Use only when the user explicitly invokes /total-review.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "davidondrej",
+        "repo": "skills",
+        "repoUrl": "https://github.com/davidondrej/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "davidondrej-skills-product-business",
+      "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from davidondrej/skills.",
+      "author": "ASM (davidondrej/skills)",
+      "createdAt": "2026-10-12T10:04:47.825Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "product",
+        "business",
+        "planning",
+        "davidondrej",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "boat",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/boat",
+          "description": "Manage Boat (boat.dev, formerly Box by Ascii) cloud sandboxes via API, CLI, and SSH. Use for provisioning, environments, secrets, templates, snapshots, stop/resume/fork, or running BB and coding agents on Boat.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "cua-driver",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/cua-driver",
+          "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-scrape",
+          "installUrl": "github:davidondrej/skills:skills/research-and-web/deep-scrape",
+          "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "risky-changes",
+          "installUrl": "github:davidondrej/skills:skills/ops-and-setup/risky-changes",
+          "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
           "version": "0.0.0"
         }
       ],

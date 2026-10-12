@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/blader/humanizer.git",
   "owner": "blader",
   "repo": "humanizer",
-  "updatedAt": "2026-10-11T05:06:54.129Z",
+  "updatedAt": "2026-10-12T10:05:01.022Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:54.085Z",
+        "evaluatedAt": "2026-10-12T10:05:00.988Z",
         "evaluatedVersion": "3.1.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:54.085Z",
+          "evaluatedAt": "2026-10-12T10:05:00.988Z",
           "evaluatedVersion": "3.1.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:54.085Z",
+          "evaluatedAt": "2026-10-12T10:05:00.988Z",
           "evaluatedVersion": "3.1.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }
