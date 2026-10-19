@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "3dfdfae2f9fc6d401be4ca84eaa2c74cd7b7f2e4",
+  "sourceCommit": "6807b9c33d8f76255e3f685cd25e69c29c57cd42",
   "repoUrl": "https://github.com/zarazhangrui/follow-builders.git",
   "owner": "zarazhangrui",
   "repo": "follow-builders",
-  "updatedAt": "2026-10-11T05:06:35.625Z",
+  "updatedAt": "2026-10-19T08:22:44.364Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:35.614Z",
+        "evaluatedAt": "2026-10-19T08:22:44.354Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:35.614Z",
+          "evaluatedAt": "2026-10-19T08:22:44.354Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:35.614Z",
+          "evaluatedAt": "2026-10-19T08:22:44.354Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

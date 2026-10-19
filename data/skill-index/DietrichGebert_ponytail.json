@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "9b58c1ffb790c075ca32e70a89cf1d80588f4abf",
+  "sourceCommit": "09c434ab73ca43761c5d8b0c5d341926c2fba710",
   "repoUrl": "https://github.com/DietrichGebert/ponytail.git",
   "owner": "DietrichGebert",
   "repo": "ponytail",
-  "updatedAt": "2026-10-11T05:07:03.449Z",
+  "updatedAt": "2026-10-19T08:23:16.413Z",
   "skillCount": 6,
   "skills": [
     {
-      "contentHash": "ba68ff26239c3c3b05b2a9a47ee0d9a6b93a69639a2555ec87a5d44bffaf2f0c",
+      "contentHash": "9badd22a32e19cb884e46dfa8d3aae82bb81dfa5484105b8b4f0262df823a509",
       "sourcePath": "skills/ponytail/SKILL.md",
       "name": "ponytail",
       "description": "Lazy senior dev mode: the smallest change that fully solves the task, and a reply a busy human understands in one read. Use on any coding task (writing, fixing, refactoring, reviewing, choosing dependencies) and when the user says \"ponytail\", \"be lazy\", \"simplest solution\", \"yagni\", or complains about over-engineering or bloat. Levels: lite, full (default), ultra.",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:03.442Z",
+        "evaluatedAt": "2026-10-19T08:23:16.408Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.442Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.442Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:03.442Z",
+        "evaluatedAt": "2026-10-19T08:23:16.407Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.443Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,13 +359,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.443Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "63168f0e1475affb1211bc004261aa51a037f79e484571aae484bf27fe4d17c2",
+      "contentHash": "b5ec2762f6ba8c4af9ea7173aa6c9f91b88655a25e43f9de0264f6ce8722b25f",
       "sourcePath": "skills/ponytail-debt/SKILL.md",
       "name": "ponytail-debt",
       "description": "List every `shortcut:` comment (and older `ponytail:` ones) as a debt ledger. One-shot report, changes nothing. Use for \"ponytail debt\", \"what did ponytail defer\", \"list the shortcuts\", /ponytail-debt.",
@@ -381,9 +381,9 @@
       "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-debt",
       "relPath": "skills/ponytail-debt",
       "verified": true,
-      "tokenCount": 514,
+      "tokenCount": 515,
       "evalSummary": {
-        "overallScore": 56,
+        "overallScore": 59,
         "grade": "D",
         "categories": [
           {
@@ -413,7 +413,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 2,
+            "score": 5,
             "max": 10
           },
           {
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:03.442Z",
+        "evaluatedAt": "2026-10-19T08:23:16.408Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -456,7 +456,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 56,
+          "overallScore": 59,
           "grade": "D",
           "categories": [
             {
@@ -486,7 +486,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 2,
+              "score": 5,
               "max": 10
             },
             {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.443Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,13 +538,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.443Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "60e05eaf65e8e404c8975a944eda9d3ed4ae3345478b3550b0e74570982c187e",
+      "contentHash": "231034a896d6762e4b5c8468287083422c56b499119976ec9f76821f7d083090",
       "sourcePath": "skills/ponytail-gain/SKILL.md",
       "name": "ponytail-gain",
       "description": "Show ponytail's measured savings (code, cost, speed) from the benchmark. One-shot display. Use for /ponytail-gain, \"what does ponytail save\", \"ponytail impact\".",
@@ -560,7 +560,7 @@
       "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-gain",
       "relPath": "skills/ponytail-gain",
       "verified": true,
-      "tokenCount": 649,
+      "tokenCount": 638,
       "evalSummary": {
         "overallScore": 62,
         "grade": "D",
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:03.442Z",
+        "evaluatedAt": "2026-10-19T08:23:16.408Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.442Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,13 +717,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.442Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "2927276bc9c10221ce8bcf80adb798db130cd70eb33a95db91ab3a0d105f5109",
+      "contentHash": "86ab0ce0af70cbeeeef499d5c884873b393f87f86401dcc45553662ce2c1eff9",
       "sourcePath": "skills/ponytail-help/SKILL.md",
       "name": "ponytail-help",
       "description": "Quick reference for ponytail levels, skills and commands. One-shot display. Use for /ponytail-help, \"ponytail help\", \"how do I use ponytail\".",
@@ -739,7 +739,7 @@
       "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-help",
       "relPath": "skills/ponytail-help",
       "verified": true,
-      "tokenCount": 781,
+      "tokenCount": 871,
       "evalSummary": {
         "overallScore": 60,
         "grade": "D",
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:03.442Z",
+        "evaluatedAt": "2026-10-19T08:23:16.408Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.442Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.442Z",
+          "evaluatedAt": "2026-10-19T08:23:16.408Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:03.443Z",
+        "evaluatedAt": "2026-10-19T08:23:16.409Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.443Z",
+          "evaluatedAt": "2026-10-19T08:23:16.409Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:03.443Z",
+          "evaluatedAt": "2026-10-19T08:23:16.409Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1084,16 +1084,16 @@
   "bundles": [
     {
       "version": 1,
-      "name": "dietrichgebert-ponytail-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from DietrichGebert/ponytail.",
+      "name": "dietrichgebert-ponytail-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from DietrichGebert/ponytail.",
       "author": "ASM (DietrichGebert/ponytail)",
-      "createdAt": "2026-10-11T05:07:03.449Z",
+      "createdAt": "2026-10-19T08:23:16.413Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "research",
+        "academic",
+        "analysis",
         "dietrichgebert",
         "ponytail"
       ],
@@ -1108,24 +1108,6 @@
           "name": "ponytail-audit",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-audit",
           "description": "Quality audit of a whole repo: bugs, security holes, what breaks under real load, risky code without tests, slow paths, and what to delete, merge or split. Ranked, each finding explained in plain English. One-shot report, changes nothing. Use for \"audit this codebase\", \"review the whole repo\", \"find bloat\", \"what can I delete\", /ponytail-audit.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ponytail-debt",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-debt",
-          "description": "List every `shortcut:` comment (and older `ponytail:` ones) as a debt ledger. One-shot report, changes nothing. Use for \"ponytail debt\", \"what did ponytail defer\", \"list the shortcuts\", /ponytail-debt.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ponytail-gain",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-gain",
-          "description": "Show ponytail's measured savings (code, cost, speed) from the benchmark. One-shot display. Use for /ponytail-gain, \"what does ponytail save\", \"ponytail impact\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ponytail-help",
-          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-help",
-          "description": "Quick reference for ponytail levels, skills and commands. One-shot display. Use for /ponytail-help, \"ponytail help\", \"how do I use ponytail\".",
           "version": "0.0.0"
         },
         {
@@ -1147,7 +1129,7 @@
       "name": "dietrichgebert-ponytail-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from DietrichGebert/ponytail.",
       "author": "ASM (DietrichGebert/ponytail)",
-      "createdAt": "2026-10-11T05:07:03.449Z",
+      "createdAt": "2026-10-19T08:23:16.413Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1192,16 +1174,16 @@
     },
     {
       "version": 1,
-      "name": "dietrichgebert-ponytail-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from DietrichGebert/ponytail.",
+      "name": "dietrichgebert-ponytail-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from DietrichGebert/ponytail.",
       "author": "ASM (DietrichGebert/ponytail)",
-      "createdAt": "2026-10-11T05:07:03.449Z",
+      "createdAt": "2026-10-19T08:23:16.413Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "research",
-        "academic",
-        "analysis",
+        "data",
+        "ai",
+        "agents",
         "dietrichgebert",
         "ponytail"
       ],
@@ -1216,6 +1198,24 @@
           "name": "ponytail-audit",
           "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-audit",
           "description": "Quality audit of a whole repo: bugs, security holes, what breaks under real load, risky code without tests, slow paths, and what to delete, merge or split. Ranked, each finding explained in plain English. One-shot report, changes nothing. Use for \"audit this codebase\", \"review the whole repo\", \"find bloat\", \"what can I delete\", /ponytail-audit.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "ponytail-debt",
+          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-debt",
+          "description": "List every `shortcut:` comment (and older `ponytail:` ones) as a debt ledger. One-shot report, changes nothing. Use for \"ponytail debt\", \"what did ponytail defer\", \"list the shortcuts\", /ponytail-debt.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "ponytail-gain",
+          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-gain",
+          "description": "Show ponytail's measured savings (code, cost, speed) from the benchmark. One-shot display. Use for /ponytail-gain, \"what does ponytail save\", \"ponytail impact\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "ponytail-help",
+          "installUrl": "github:DietrichGebert/ponytail:skills/ponytail-help",
+          "description": "Quick reference for ponytail levels, skills and commands. One-shot display. Use for /ponytail-help, \"ponytail help\", \"how do I use ponytail\".",
           "version": "0.0.0"
         },
         {
