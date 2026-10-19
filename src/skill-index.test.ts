@@ -17,7 +17,7 @@ import {
   getBundledIndexDir,
   getIndexDir,
 } from "./config";
-import type { IndexedSkill } from "./utils/types";
+import type { IndexedSkill, RepoIndex } from "./utils/types";
 
 // These tests exercise loadAllIndices/searchSkills/etc. against the bundled
 // index that ships with the package (data/skill-index/). The user index dir
@@ -375,35 +375,48 @@ describe("Index resource integrity", () => {
     }
   });
 
-  it("indexes emilkowalski/skills with expected skills and install URLs", async () => {
+  it("indexes emilkowalski/skills with consistent identities and install URLs", async () => {
     const indices = await loadAllIndices();
-    const emil = indices.find(
+    const matches = indices.filter(
       (idx) => idx.owner === "emilkowalski" && idx.repo === "skills",
     );
-    expect(emil).toBeDefined();
-    expect(emil!.skillCount).toBe(14);
-    const names = new Set(emil!.skills.map((s) => s.name));
-    expect(names).toEqual(
-      new Set([
-        "emil-design-eng",
-        "review-animations",
-        "animation-vocabulary",
-        "apple-design",
-        "find-animation-opportunities",
-        "improve-animations",
-        "pick-ui-library",
-        "prototype",
-        "animate",
-        "animate-expo",
-        "ask-sonner",
-        "write-swift",
-        "mobile-native",
-        "break-ui",
+    expect(matches).toHaveLength(1);
+    const [emil] = matches;
+    // Weekly refreshes may add skills. Validate the catalog contract rather
+    // than freezing the upstream repository's count or complete name set.
+    expect(emil.skillCount).toBeGreaterThan(0);
+    expect(emil.skillCount).toBe(emil.skills.length);
+    expect(new Set(emil.skills.map((skill) => skill.relPath)).size).toBe(
+      emil.skills.length,
+    );
+    for (const skill of emil.skills) {
+      expect(skill.name.trim()).not.toBe("");
+      expect(skill.relPath).not.toContain("\\");
+      expect(
+        skill.relPath
+          .split("/")
+          .some((segment) => !segment || segment === "." || segment === ".."),
+      ).toBe(false);
+      expect(skill.installUrl).toBe(
+        `github:emilkowalski/skills:${skill.relPath}`,
+      );
+    }
+    // Keep stable sentinels and their exact paths; allowing additions must
+    // not turn an accidentally empty or unrelated catalog into a pass.
+    expect(emil.skills).toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({
+          name: "emil-design-eng",
+          relPath: "skills/emil-design-eng",
+          installUrl: "github:emilkowalski/skills:skills/emil-design-eng",
+        }),
+        expect.objectContaining({
+          name: "review-animations",
+          relPath: "skills/review-animations",
+          installUrl: "github:emilkowalski/skills:skills/review-animations",
+        }),
       ]),
     );
-    for (const skill of emil!.skills) {
-      expect(skill.installUrl).toMatch(/^github:emilkowalski\/skills:/);
-    }
   });
 
   it("discovers emil-design-eng via search without duplicate repo entries", async () => {
@@ -454,6 +467,130 @@ function fixtureCatalog(
     repo: { owner: e.owner, repo: e.repo },
   }));
 }
+
+describe("loadAllIndices after a catalog refresh", () => {
+  const fixturePath = join(
+    getIndexDir(),
+    "catalog-refresh-fixture_skills.json",
+  );
+  const repository = {
+    owner: "catalog-refresh-fixture",
+    repo: "skills",
+    repoUrl: "https://github.com/catalog-refresh-fixture/skills.git",
+    updatedAt: "2026-01-01T00:00:00.000Z",
+  };
+
+  beforeEach(async () => {
+    await mkdir(getIndexDir(), { recursive: true });
+    _resetMemo();
+  });
+
+  afterEach(async () => {
+    await rm(fixturePath, { force: true });
+    _resetMemo();
+  });
+
+  it("retains existing entries and discovers a skill added by a refresh", async () => {
+    const original: RepoIndex = {
+      ...repository,
+      skillCount: 2,
+      skills: [
+        {
+          ...fixtureSkill("catalog-refresh-anchor", "skills/first"),
+          installUrl: "github:catalog-refresh-fixture/skills:skills/first",
+        },
+        {
+          ...fixtureSkill("catalog-refresh-peer", "skills/second"),
+          installUrl: "github:catalog-refresh-fixture/skills:skills/second",
+        },
+      ],
+    };
+    await writeFile(fixturePath, JSON.stringify(original), "utf-8");
+    const before = (await loadAllIndices()).filter(
+      (index) =>
+        index.owner === repository.owner && index.repo === repository.repo,
+    );
+    expect(before).toHaveLength(1);
+    expect(before[0].skillCount).toBe(2);
+    expect(
+      before[0].skills.map(({ name, relPath, installUrl }) => ({
+        name,
+        relPath,
+        installUrl,
+      })),
+    ).toEqual([
+      {
+        name: "catalog-refresh-anchor",
+        relPath: "skills/first",
+        installUrl: "github:catalog-refresh-fixture/skills:skills/first",
+      },
+      {
+        name: "catalog-refresh-peer",
+        relPath: "skills/second",
+        installUrl: "github:catalog-refresh-fixture/skills:skills/second",
+      },
+    ]);
+    const totalBefore = await getTotalSkillCount();
+
+    const refreshed: RepoIndex = {
+      ...original,
+      skillCount: 3,
+      skills: [
+        ...original.skills,
+        {
+          ...fixtureSkill("asmfixtureaddition7341", "collections/new-skill"),
+          installUrl:
+            "github:catalog-refresh-fixture/skills:collections/new-skill",
+        },
+      ],
+    };
+    await writeFile(fixturePath, JSON.stringify(refreshed), "utf-8");
+    // A refresh is observed on the next cold load, not by disk watching.
+    _resetMemo();
+    const after = (await loadAllIndices()).filter(
+      (index) =>
+        index.owner === repository.owner && index.repo === repository.repo,
+    );
+    expect(after).toHaveLength(1);
+    expect(after[0].skillCount).toBe(3);
+    expect(
+      after[0].skills.map(({ name, relPath, installUrl }) => ({
+        name,
+        relPath,
+        installUrl,
+      })),
+    ).toEqual([
+      {
+        name: "catalog-refresh-anchor",
+        relPath: "skills/first",
+        installUrl: "github:catalog-refresh-fixture/skills:skills/first",
+      },
+      {
+        name: "catalog-refresh-peer",
+        relPath: "skills/second",
+        installUrl: "github:catalog-refresh-fixture/skills:skills/second",
+      },
+      {
+        name: "asmfixtureaddition7341",
+        relPath: "collections/new-skill",
+        installUrl:
+          "github:catalog-refresh-fixture/skills:collections/new-skill",
+      },
+    ]);
+    expect(await getTotalSkillCount()).toBe(totalBefore + 1);
+    const hits = (await searchSkills("asmfixtureaddition7341", 20)).filter(
+      (result) =>
+        result.repo.owner === repository.owner &&
+        result.repo.repo === repository.repo,
+    );
+    expect(hits).toHaveLength(1);
+    expect(hits[0].skill).toMatchObject({
+      name: "asmfixtureaddition7341",
+      relPath: "collections/new-skill",
+      installUrl: "github:catalog-refresh-fixture/skills:collections/new-skill",
+    });
+  });
+});
 
 describe("resolveIndexedSkillByName (issue #422)", () => {
   const catalog = fixtureCatalog([
