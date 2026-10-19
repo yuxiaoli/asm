@@ -1,16 +1,16 @@
 {
-  "sourceCommit": "7e0a3d0babbb5ed5eeb599cd7dac8708866fdd13",
+  "sourceCommit": "34665f9942dcf975bce51a9ca262ef12e15c18dc",
   "repoUrl": "https://github.com/santifer/career-ops.git",
   "owner": "santifer",
   "repo": "career-ops",
-  "updatedAt": "2026-10-11T05:04:42.865Z",
+  "updatedAt": "2026-10-19T08:20:43.700Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "2348f68e3fb571f0ad79bcb0479d7178c5c2b12eb17149bb5eba7cf1589362c3",
+      "contentHash": "52c3752c9798706f8ece97372779693979233c4a973602def1659160f7dac6ce",
       "sourcePath": ".agents/skills/career-ops/SKILL.md",
       "name": "career-ops",
-      "description": "AI job search command center -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or JD, asks to scan portals, generate a CV/PDF, track applications, prepare for interviews, draft outreach/emails, or run any career-ops mode.",
+      "description": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or JD, asks to scan portals, generate a CV/PDF, track applications, prepare for interviews, draft outreach/emails, or run any career-ops mode.",
       "version": "0.0.0",
       "license": "MIT",
       "creator": "",
@@ -23,7 +23,7 @@
       "installUrl": "github:santifer/career-ops:.claude/skills/career-ops",
       "relPath": ".claude/skills/career-ops",
       "verified": true,
-      "tokenCount": 4130,
+      "tokenCount": 5192,
       "evalSummary": {
         "overallScore": 79,
         "grade": "C",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:42.863Z",
+        "evaluatedAt": "2026-10-19T08:20:43.696Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:42.863Z",
+          "evaluatedAt": "2026-10-19T08:20:43.696Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:42.863Z",
+          "evaluatedAt": "2026-10-19T08:20:43.697Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

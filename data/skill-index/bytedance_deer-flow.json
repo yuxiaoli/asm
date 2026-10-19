@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "2f4f4d4b6cdb3d0b98465f2333aca0e063fb6371",
+  "sourceCommit": "bf2cb0e1dfa16f9f6562c04d59dece90e5a524f1",
   "repoUrl": "https://github.com/bytedance/deer-flow.git",
   "owner": "bytedance",
   "repo": "deer-flow",
-  "updatedAt": "2026-10-11T05:04:57.498Z",
+  "updatedAt": "2026-10-19T08:20:59.762Z",
   "skillCount": 27,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.634Z",
+        "evaluatedAt": "2026-10-19T08:20:58.932Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.939Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.939Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.631Z",
+        "evaluatedAt": "2026-10-19T08:20:58.940Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.631Z",
+        "evaluatedAt": "2026-10-19T08:20:58.932Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.939Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.939Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.631Z",
+        "evaluatedAt": "2026-10-19T08:20:58.939Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.631Z",
+        "evaluatedAt": "2026-10-19T08:20:58.940Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.634Z",
+        "evaluatedAt": "2026-10-19T08:20:58.939Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.631Z",
+        "evaluatedAt": "2026-10-19T08:20:58.939Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,13 +1254,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "d9383f31df40250c7dd58b31f3518bc80c95f670eada6e8222c7925d80a0b3a1",
+      "contentHash": "9ed71eb8af12b559619473ac875bbe08f9904c46a19ed03194531587111d7ebe",
       "sourcePath": "skills/public/data-analysis/SKILL.md",
       "name": "data-analysis",
       "description": "Use this skill when the user uploads Excel (.xlsx/.xls) or CSV files and wants to perform data analysis, generate statistics, create summaries, pivot tables, SQL queries, or any form of structured data exploration. Supports multi-sheet Excel workbooks, aggregation, filtering, joins, and exporting results to CSV/JSON/Markdown.",
@@ -1276,7 +1276,7 @@
       "installUrl": "github:bytedance/deer-flow:skills/public/data-analysis",
       "relPath": "skills/public/data-analysis",
       "verified": true,
-      "tokenCount": 2321,
+      "tokenCount": 2658,
       "evalSummary": {
         "overallScore": 68,
         "grade": "C",
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.634Z",
+        "evaluatedAt": "2026-10-19T08:20:58.939Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.634Z",
+          "evaluatedAt": "2026-10-19T08:20:58.940Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.712Z",
+        "evaluatedAt": "2026-10-19T08:20:59.012Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.715Z",
+          "evaluatedAt": "2026-10-19T08:20:59.012Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.715Z",
+          "evaluatedAt": "2026-10-19T08:20:59.012Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.712Z",
+        "evaluatedAt": "2026-10-19T08:20:59.010Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.715Z",
+          "evaluatedAt": "2026-10-19T08:20:59.012Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.715Z",
+          "evaluatedAt": "2026-10-19T08:20:59.012Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.715Z",
+        "evaluatedAt": "2026-10-19T08:20:59.012Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.715Z",
+          "evaluatedAt": "2026-10-19T08:20:59.013Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.715Z",
+          "evaluatedAt": "2026-10-19T08:20:59.013Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.750Z",
+        "evaluatedAt": "2026-10-19T08:20:59.042Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.752Z",
+          "evaluatedAt": "2026-10-19T08:20:59.045Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.751Z",
+          "evaluatedAt": "2026-10-19T08:20:59.045Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.753Z",
+        "evaluatedAt": "2026-10-19T08:20:59.055Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.768Z",
+          "evaluatedAt": "2026-10-19T08:20:59.059Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.768Z",
+          "evaluatedAt": "2026-10-19T08:20:59.059Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.785Z",
+        "evaluatedAt": "2026-10-19T08:20:59.068Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.786Z",
+          "evaluatedAt": "2026-10-19T08:20:59.070Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,7 +2507,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.786Z",
+          "evaluatedAt": "2026-10-19T08:20:59.070Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.786Z",
+        "evaluatedAt": "2026-10-19T08:20:59.069Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.793Z",
+          "evaluatedAt": "2026-10-19T08:20:59.071Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,7 +2686,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.793Z",
+          "evaluatedAt": "2026-10-19T08:20:59.071Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.793Z",
+        "evaluatedAt": "2026-10-19T08:20:59.074Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.793Z",
+          "evaluatedAt": "2026-10-19T08:20:59.074Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.793Z",
+          "evaluatedAt": "2026-10-19T08:20:59.074Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.793Z",
+        "evaluatedAt": "2026-10-19T08:20:59.074Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.795Z",
+          "evaluatedAt": "2026-10-19T08:20:59.074Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3044,7 +3044,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.795Z",
+          "evaluatedAt": "2026-10-19T08:20:59.074Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.796Z",
+        "evaluatedAt": "2026-10-19T08:20:59.104Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.802Z",
+          "evaluatedAt": "2026-10-19T08:20:59.105Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3223,7 +3223,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.802Z",
+          "evaluatedAt": "2026-10-19T08:20:59.105Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.895Z",
+        "evaluatedAt": "2026-10-19T08:20:59.155Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.897Z",
+          "evaluatedAt": "2026-10-19T08:20:59.156Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3402,7 +3402,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.897Z",
+          "evaluatedAt": "2026-10-19T08:20:59.156Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.897Z",
+        "evaluatedAt": "2026-10-19T08:20:59.156Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.898Z",
+          "evaluatedAt": "2026-10-19T08:20:59.157Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3581,7 +3581,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.899Z",
+          "evaluatedAt": "2026-10-19T08:20:59.157Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3671,7 +3671,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.899Z",
+        "evaluatedAt": "2026-10-19T08:20:59.157Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3744,7 +3744,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.905Z",
+          "evaluatedAt": "2026-10-19T08:20:59.157Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3762,7 +3762,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.905Z",
+          "evaluatedAt": "2026-10-19T08:20:59.157Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3850,7 +3850,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.913Z",
+        "evaluatedAt": "2026-10-19T08:20:59.191Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3923,7 +3923,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.919Z",
+          "evaluatedAt": "2026-10-19T08:20:59.196Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3941,7 +3941,7 @@
               "max": 2
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.919Z",
+          "evaluatedAt": "2026-10-19T08:20:59.196Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4029,7 +4029,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.940Z",
+        "evaluatedAt": "2026-10-19T08:20:59.199Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4102,7 +4102,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.943Z",
+          "evaluatedAt": "2026-10-19T08:20:59.200Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4120,7 +4120,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.943Z",
+          "evaluatedAt": "2026-10-19T08:20:59.200Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4208,7 +4208,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.943Z",
+        "evaluatedAt": "2026-10-19T08:20:59.200Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4281,7 +4281,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.944Z",
+          "evaluatedAt": "2026-10-19T08:20:59.200Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4299,7 +4299,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.944Z",
+          "evaluatedAt": "2026-10-19T08:20:59.200Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4387,7 +4387,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:56.945Z",
+        "evaluatedAt": "2026-10-19T08:20:59.222Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4460,7 +4460,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.947Z",
+          "evaluatedAt": "2026-10-19T08:20:59.222Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4478,7 +4478,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:56.947Z",
+          "evaluatedAt": "2026-10-19T08:20:59.222Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -4566,7 +4566,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:57.007Z",
+        "evaluatedAt": "2026-10-19T08:20:59.254Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4639,7 +4639,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:57.027Z",
+          "evaluatedAt": "2026-10-19T08:20:59.259Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4657,7 +4657,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:57.026Z",
+          "evaluatedAt": "2026-10-19T08:20:59.259Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4745,7 +4745,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:57.041Z",
+        "evaluatedAt": "2026-10-19T08:20:59.294Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4818,7 +4818,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:57.041Z",
+          "evaluatedAt": "2026-10-19T08:20:59.296Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4836,7 +4836,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:57.041Z",
+          "evaluatedAt": "2026-10-19T08:20:59.296Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -4845,10 +4845,544 @@
   "bundles": [
     {
       "version": 1,
+      "name": "bytedance-deer-flow-marketing",
+      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from bytedance/deer-flow.",
+      "author": "ASM (bytedance/deer-flow)",
+      "createdAt": "2026-10-19T08:20:59.762Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "marketing",
+        "growth",
+        "seo",
+        "bytedance",
+        "deer-flow"
+      ],
+      "skills": [
+        {
+          "name": "consulting-analysis",
+          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
+          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "systematic-literature-review",
+          "installUrl": "github:bytedance/deer-flow:skills/public/systematic-literature-review",
+          "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "bytedance",
+        "repo": "deer-flow",
+        "repoUrl": "https://github.com/bytedance/deer-flow.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "bytedance-deer-flow-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from bytedance/deer-flow.",
+      "author": "ASM (bytedance/deer-flow)",
+      "createdAt": "2026-10-19T08:20:59.762Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "writing",
+        "content",
+        "docs",
+        "bytedance",
+        "deer-flow"
+      ],
+      "skills": [
+        {
+          "name": "academic-paper-review",
+          "installUrl": "github:bytedance/deer-flow:skills/public/academic-paper-review",
+          "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "blocking-io-guard",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/blocking-io-guard",
+          "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "code-documentation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/code-documentation",
+          "description": "Use this skill when the user requests to generate, create, or improve documentation for code, APIs, libraries, repositories, or software projects. Supports README generation, API reference documentation, inline code comments, architecture documentation, changelog generation, and developer guides. Trigger on requests like \"document this code\", \"create a README\", \"generate API docs\", \"write developer guide\", or when analyzing codebases for documentation purposes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "consulting-analysis",
+          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
+          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-research",
+          "installUrl": "github:bytedance/deer-flow:skills/public/deep-research",
+          "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deerflow-maintainer-orchestrator",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/deerflow-maintainer-orchestrator",
+          "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "image-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/image-generation",
+          "description": "Use this skill when the user requests to generate, create, imagine, or visualize images including characters, scenes, products, or any visual content. Supports structured prompts and reference images for guided generation.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "newsletter-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/newsletter-generation",
+          "description": "Use this skill when the user requests to generate, create, write, or draft a newsletter, email digest, weekly roundup, industry briefing, or curated content summary. Supports topic-based research, content curation from multiple sources, and professional formatting for email or web distribution. Trigger on requests like \"create a newsletter about X\", \"write a weekly digest\", \"generate a tech roundup\", or \"curate news about Y\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "podcast-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/podcast-generation",
+          "description": "Use this skill when the user requests to generate, create, or produce podcasts from text content. Converts written content into a two-host conversational podcast audio format with natural dialogue.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "systematic-literature-review",
+          "installUrl": "github:bytedance/deer-flow:skills/public/systematic-literature-review",
+          "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "bytedance",
+        "repo": "deer-flow",
+        "repoUrl": "https://github.com/bytedance/deer-flow.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "bytedance-deer-flow-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from bytedance/deer-flow.",
+      "author": "ASM (bytedance/deer-flow)",
+      "createdAt": "2026-10-19T08:20:59.762Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "bytedance",
+        "deer-flow"
+      ],
+      "skills": [
+        {
+          "name": "academic-paper-review",
+          "installUrl": "github:bytedance/deer-flow:skills/public/academic-paper-review",
+          "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "blocking-io-guard",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/blocking-io-guard",
+          "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "claude-to-deerflow",
+          "installUrl": "github:bytedance/deer-flow:skills/public/claude-to-deerflow",
+          "description": "Interact with DeerFlow AI agent platform via its HTTP API. Use this skill when the user wants to send messages or questions to DeerFlow for research/analysis, start a DeerFlow conversation thread, check DeerFlow status or health, list available models/skills/agents in DeerFlow, manage DeerFlow memory, upload files to DeerFlow threads, or delegate complex research tasks to DeerFlow. Also use when the user mentions deerflow, deer flow, or wants to run a deep research task that DeerFlow can handle.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "consulting-analysis",
+          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
+          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "data-analysis",
+          "installUrl": "github:bytedance/deer-flow:skills/public/data-analysis",
+          "description": "Use this skill when the user uploads Excel (.xlsx/.xls) or CSV files and wants to perform data analysis, generate statistics, create summaries, pivot tables, SQL queries, or any form of structured data exploration. Supports multi-sheet Excel workbooks, aggregation, filtering, joins, and exporting results to CSV/JSON/Markdown.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-research",
+          "installUrl": "github:bytedance/deer-flow:skills/public/deep-research",
+          "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deerflow-maintainer-orchestrator",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/deerflow-maintainer-orchestrator",
+          "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "engineer-system-change",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/engineer-system-change",
+          "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "github-deep-research",
+          "installUrl": "github:bytedance/deer-flow:skills/public/github-deep-research",
+          "description": "Conduct multi-round deep research on any GitHub Repo. Use when users request comprehensive analysis, timeline reconstruction, competitive analysis, or in-depth investigation of GitHub. Produces structured markdown reports with executive summaries, chronological timelines, metrics analysis, and Mermaid diagrams. Triggers on Github repository URL or open source projects.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "newsletter-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/newsletter-generation",
+          "description": "Use this skill when the user requests to generate, create, write, or draft a newsletter, email digest, weekly roundup, industry briefing, or curated content summary. Supports topic-based research, content curation from multiple sources, and professional formatting for email or web distribution. Trigger on requests like \"create a newsletter about X\", \"write a weekly digest\", \"generate a tech roundup\", or \"curate news about Y\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "skill-creator",
+          "installUrl": "github:bytedance/deer-flow:skills/public/skill-creator",
+          "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "skill-reviewer",
+          "installUrl": "github:bytedance/deer-flow:skills/public/skill-reviewer",
+          "description": "Reviews DeerFlow skill packages for readiness, triggers, safety boundaries, resources, and evidence. Invoke when users ask to audit, grade, or production-check an existing skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "smoke-test",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/smoke-test",
+          "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "systematic-literature-review",
+          "installUrl": "github:bytedance/deer-flow:skills/public/systematic-literature-review",
+          "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "vercel-deploy",
+          "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
+          "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "web-design-guidelines",
+          "installUrl": "github:bytedance/deer-flow:skills/public/web-design-guidelines",
+          "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "bytedance",
+        "repo": "deer-flow",
+        "repoUrl": "https://github.com/bytedance/deer-flow.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "bytedance-deer-flow-engineering",
+      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from bytedance/deer-flow.",
+      "author": "ASM (bytedance/deer-flow)",
+      "createdAt": "2026-10-19T08:20:59.762Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "engineering",
+        "coding",
+        "testing",
+        "bytedance",
+        "deer-flow"
+      ],
+      "skills": [
+        {
+          "name": "academic-paper-review",
+          "installUrl": "github:bytedance/deer-flow:skills/public/academic-paper-review",
+          "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "blocking-io-guard",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/blocking-io-guard",
+          "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "chart-visualization",
+          "installUrl": "github:bytedance/deer-flow:skills/public/chart-visualization",
+          "description": "This skill should be used when the user wants to visualize data. It intelligently selects the most suitable chart type from 26 available options, extracts parameters based on detailed specifications, and generates a chart image using a JavaScript script.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "claude-to-deerflow",
+          "installUrl": "github:bytedance/deer-flow:skills/public/claude-to-deerflow",
+          "description": "Interact with DeerFlow AI agent platform via its HTTP API. Use this skill when the user wants to send messages or questions to DeerFlow for research/analysis, start a DeerFlow conversation thread, check DeerFlow status or health, list available models/skills/agents in DeerFlow, manage DeerFlow memory, upload files to DeerFlow threads, or delegate complex research tasks to DeerFlow. Also use when the user mentions deerflow, deer flow, or wants to run a deep research task that DeerFlow can handle.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "code-documentation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/code-documentation",
+          "description": "Use this skill when the user requests to generate, create, or improve documentation for code, APIs, libraries, repositories, or software projects. Supports README generation, API reference documentation, inline code comments, architecture documentation, changelog generation, and developer guides. Trigger on requests like \"document this code\", \"create a README\", \"generate API docs\", \"write developer guide\", or when analyzing codebases for documentation purposes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deerflow-maintainer-orchestrator",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/deerflow-maintainer-orchestrator",
+          "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "engineer-system-change",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/engineer-system-change",
+          "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "frontend-design",
+          "installUrl": "github:bytedance/deer-flow:skills/public/frontend-design",
+          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "music-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/music-generation",
+          "description": "Use this skill when the user requests to generate, create, compose, or produce music or songs — background music, theme songs, jingles, or instrumental tracks. Generates a song from a style/mood prompt and optional lyrics via the MiniMax music API.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "skill-creator",
+          "installUrl": "github:bytedance/deer-flow:skills/public/skill-creator",
+          "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "skill-reviewer",
+          "installUrl": "github:bytedance/deer-flow:skills/public/skill-reviewer",
+          "description": "Reviews DeerFlow skill packages for readiness, triggers, safety boundaries, resources, and evidence. Invoke when users ask to audit, grade, or production-check an existing skill.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "smoke-test",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/smoke-test",
+          "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "systematic-literature-review",
+          "installUrl": "github:bytedance/deer-flow:skills/public/systematic-literature-review",
+          "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "vercel-deploy",
+          "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
+          "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "web-design-guidelines",
+          "installUrl": "github:bytedance/deer-flow:skills/public/web-design-guidelines",
+          "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "bytedance",
+        "repo": "deer-flow",
+        "repoUrl": "https://github.com/bytedance/deer-flow.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "bytedance-deer-flow-frontend-design",
+      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from bytedance/deer-flow.",
+      "author": "ASM (bytedance/deer-flow)",
+      "createdAt": "2026-10-19T08:20:59.762Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "frontend",
+        "design",
+        "ui",
+        "bytedance",
+        "deer-flow"
+      ],
+      "skills": [
+        {
+          "name": "chart-visualization",
+          "installUrl": "github:bytedance/deer-flow:skills/public/chart-visualization",
+          "description": "This skill should be used when the user wants to visualize data. It intelligently selects the most suitable chart type from 26 available options, extracts parameters based on detailed specifications, and generates a chart image using a JavaScript script.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "code-documentation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/code-documentation",
+          "description": "Use this skill when the user requests to generate, create, or improve documentation for code, APIs, libraries, repositories, or software projects. Supports README generation, API reference documentation, inline code comments, architecture documentation, changelog generation, and developer guides. Trigger on requests like \"document this code\", \"create a README\", \"generate API docs\", \"write developer guide\", or when analyzing codebases for documentation purposes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "consulting-analysis",
+          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
+          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-research",
+          "installUrl": "github:bytedance/deer-flow:skills/public/deep-research",
+          "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deerflow-maintainer-orchestrator",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/deerflow-maintainer-orchestrator",
+          "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "engineer-system-change",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/engineer-system-change",
+          "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "frontend-design",
+          "installUrl": "github:bytedance/deer-flow:skills/public/frontend-design",
+          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "image-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/image-generation",
+          "description": "Use this skill when the user requests to generate, create, imagine, or visualize images including characters, scenes, products, or any visual content. Supports structured prompts and reference images for guided generation.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "music-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/music-generation",
+          "description": "Use this skill when the user requests to generate, create, compose, or produce music or songs — background music, theme songs, jingles, or instrumental tracks. Generates a song from a style/mood prompt and optional lyrics via the MiniMax music API.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "ppt-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/ppt-generation",
+          "description": "Use this skill when the user requests to generate, create, or make presentations (PPT/PPTX). Creates visually rich slides by generating images for each slide and composing them into a PowerPoint file.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "smoke-test",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/smoke-test",
+          "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "vercel-deploy",
+          "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
+          "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "video-generation",
+          "installUrl": "github:bytedance/deer-flow:skills/public/video-generation",
+          "description": "Use this skill when the user requests to generate, create, or imagine videos. Supports structured prompts and reference image for guided generation.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "web-design-guidelines",
+          "installUrl": "github:bytedance/deer-flow:skills/public/web-design-guidelines",
+          "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "bytedance",
+        "repo": "deer-flow",
+        "repoUrl": "https://github.com/bytedance/deer-flow.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "bytedance-deer-flow-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from bytedance/deer-flow.",
+      "author": "ASM (bytedance/deer-flow)",
+      "createdAt": "2026-10-19T08:20:59.762Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "devops",
+        "infra",
+        "automation",
+        "bytedance",
+        "deer-flow"
+      ],
+      "skills": [
+        {
+          "name": "academic-paper-review",
+          "installUrl": "github:bytedance/deer-flow:skills/public/academic-paper-review",
+          "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "blocking-io-guard",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/blocking-io-guard",
+          "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "chart-visualization",
+          "installUrl": "github:bytedance/deer-flow:skills/public/chart-visualization",
+          "description": "This skill should be used when the user wants to visualize data. It intelligently selects the most suitable chart type from 26 available options, extracts parameters based on detailed specifications, and generates a chart image using a JavaScript script.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "consulting-analysis",
+          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
+          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "deep-research",
+          "installUrl": "github:bytedance/deer-flow:skills/public/deep-research",
+          "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "engineer-system-change",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/engineer-system-change",
+          "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "smoke-test",
+          "installUrl": "github:bytedance/deer-flow:.agent/skills/smoke-test",
+          "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "vercel-deploy",
+          "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
+          "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "bytedance",
+        "repo": "deer-flow",
+        "repoUrl": "https://github.com/bytedance/deer-flow.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
       "name": "bytedance-deer-flow-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-11T05:04:57.498Z",
+      "createdAt": "2026-10-19T08:20:59.762Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4989,340 +5523,10 @@
     },
     {
       "version": 1,
-      "name": "bytedance-deer-flow-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from bytedance/deer-flow.",
-      "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-11T05:04:57.498Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "bytedance",
-        "deer-flow"
-      ],
-      "skills": [
-        {
-          "name": "academic-paper-review",
-          "installUrl": "github:bytedance/deer-flow:skills/public/academic-paper-review",
-          "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "blocking-io-guard",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/blocking-io-guard",
-          "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "chart-visualization",
-          "installUrl": "github:bytedance/deer-flow:skills/public/chart-visualization",
-          "description": "This skill should be used when the user wants to visualize data. It intelligently selects the most suitable chart type from 26 available options, extracts parameters based on detailed specifications, and generates a chart image using a JavaScript script.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "consulting-analysis",
-          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
-          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-research",
-          "installUrl": "github:bytedance/deer-flow:skills/public/deep-research",
-          "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "engineer-system-change",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/engineer-system-change",
-          "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "smoke-test",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/smoke-test",
-          "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "vercel-deploy",
-          "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
-          "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
-          "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "bytedance",
-        "repo": "deer-flow",
-        "repoUrl": "https://github.com/bytedance/deer-flow.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "bytedance-deer-flow-engineering",
-      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from bytedance/deer-flow.",
-      "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-11T05:04:57.498Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "engineering",
-        "coding",
-        "testing",
-        "bytedance",
-        "deer-flow"
-      ],
-      "skills": [
-        {
-          "name": "academic-paper-review",
-          "installUrl": "github:bytedance/deer-flow:skills/public/academic-paper-review",
-          "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "blocking-io-guard",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/blocking-io-guard",
-          "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "chart-visualization",
-          "installUrl": "github:bytedance/deer-flow:skills/public/chart-visualization",
-          "description": "This skill should be used when the user wants to visualize data. It intelligently selects the most suitable chart type from 26 available options, extracts parameters based on detailed specifications, and generates a chart image using a JavaScript script.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "claude-to-deerflow",
-          "installUrl": "github:bytedance/deer-flow:skills/public/claude-to-deerflow",
-          "description": "Interact with DeerFlow AI agent platform via its HTTP API. Use this skill when the user wants to send messages or questions to DeerFlow for research/analysis, start a DeerFlow conversation thread, check DeerFlow status or health, list available models/skills/agents in DeerFlow, manage DeerFlow memory, upload files to DeerFlow threads, or delegate complex research tasks to DeerFlow. Also use when the user mentions deerflow, deer flow, or wants to run a deep research task that DeerFlow can handle.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "code-documentation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/code-documentation",
-          "description": "Use this skill when the user requests to generate, create, or improve documentation for code, APIs, libraries, repositories, or software projects. Supports README generation, API reference documentation, inline code comments, architecture documentation, changelog generation, and developer guides. Trigger on requests like \"document this code\", \"create a README\", \"generate API docs\", \"write developer guide\", or when analyzing codebases for documentation purposes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deerflow-maintainer-orchestrator",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/deerflow-maintainer-orchestrator",
-          "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "engineer-system-change",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/engineer-system-change",
-          "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "frontend-design",
-          "installUrl": "github:bytedance/deer-flow:skills/public/frontend-design",
-          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "music-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/music-generation",
-          "description": "Use this skill when the user requests to generate, create, compose, or produce music or songs — background music, theme songs, jingles, or instrumental tracks. Generates a song from a style/mood prompt and optional lyrics via the MiniMax music API.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "skill-creator",
-          "installUrl": "github:bytedance/deer-flow:skills/public/skill-creator",
-          "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "skill-reviewer",
-          "installUrl": "github:bytedance/deer-flow:skills/public/skill-reviewer",
-          "description": "Reviews DeerFlow skill packages for readiness, triggers, safety boundaries, resources, and evidence. Invoke when users ask to audit, grade, or production-check an existing skill.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "smoke-test",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/smoke-test",
-          "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "systematic-literature-review",
-          "installUrl": "github:bytedance/deer-flow:skills/public/systematic-literature-review",
-          "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "vercel-deploy",
-          "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
-          "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "web-design-guidelines",
-          "installUrl": "github:bytedance/deer-flow:skills/public/web-design-guidelines",
-          "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
-          "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "bytedance",
-        "repo": "deer-flow",
-        "repoUrl": "https://github.com/bytedance/deer-flow.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "bytedance-deer-flow-frontend-design",
-      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from bytedance/deer-flow.",
-      "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-11T05:04:57.498Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "frontend",
-        "design",
-        "ui",
-        "bytedance",
-        "deer-flow"
-      ],
-      "skills": [
-        {
-          "name": "chart-visualization",
-          "installUrl": "github:bytedance/deer-flow:skills/public/chart-visualization",
-          "description": "This skill should be used when the user wants to visualize data. It intelligently selects the most suitable chart type from 26 available options, extracts parameters based on detailed specifications, and generates a chart image using a JavaScript script.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "code-documentation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/code-documentation",
-          "description": "Use this skill when the user requests to generate, create, or improve documentation for code, APIs, libraries, repositories, or software projects. Supports README generation, API reference documentation, inline code comments, architecture documentation, changelog generation, and developer guides. Trigger on requests like \"document this code\", \"create a README\", \"generate API docs\", \"write developer guide\", or when analyzing codebases for documentation purposes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "consulting-analysis",
-          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
-          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-research",
-          "installUrl": "github:bytedance/deer-flow:skills/public/deep-research",
-          "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deerflow-maintainer-orchestrator",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/deerflow-maintainer-orchestrator",
-          "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "engineer-system-change",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/engineer-system-change",
-          "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "frontend-design",
-          "installUrl": "github:bytedance/deer-flow:skills/public/frontend-design",
-          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "image-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/image-generation",
-          "description": "Use this skill when the user requests to generate, create, imagine, or visualize images including characters, scenes, products, or any visual content. Supports structured prompts and reference images for guided generation.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "music-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/music-generation",
-          "description": "Use this skill when the user requests to generate, create, compose, or produce music or songs — background music, theme songs, jingles, or instrumental tracks. Generates a song from a style/mood prompt and optional lyrics via the MiniMax music API.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ppt-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/ppt-generation",
-          "description": "Use this skill when the user requests to generate, create, or make presentations (PPT/PPTX). Creates visually rich slides by generating images for each slide and composing them into a PowerPoint file.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "smoke-test",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/smoke-test",
-          "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "vercel-deploy",
-          "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
-          "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "video-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/video-generation",
-          "description": "Use this skill when the user requests to generate, create, or imagine videos. Supports structured prompts and reference image for guided generation.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "web-design-guidelines",
-          "installUrl": "github:bytedance/deer-flow:skills/public/web-design-guidelines",
-          "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
-          "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "bytedance",
-        "repo": "deer-flow",
-        "repoUrl": "https://github.com/bytedance/deer-flow.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "bytedance-deer-flow-marketing",
-      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from bytedance/deer-flow.",
-      "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-11T05:04:57.498Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "marketing",
-        "growth",
-        "seo",
-        "bytedance",
-        "deer-flow"
-      ],
-      "skills": [
-        {
-          "name": "consulting-analysis",
-          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
-          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "systematic-literature-review",
-          "installUrl": "github:bytedance/deer-flow:skills/public/systematic-literature-review",
-          "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "bytedance",
-        "repo": "deer-flow",
-        "repoUrl": "https://github.com/bytedance/deer-flow.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "bytedance-deer-flow-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-11T05:04:57.498Z",
+      "createdAt": "2026-10-19T08:20:59.762Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5368,210 +5572,6 @@
           "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
           "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
           "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "bytedance",
-        "repo": "deer-flow",
-        "repoUrl": "https://github.com/bytedance/deer-flow.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "bytedance-deer-flow-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from bytedance/deer-flow.",
-      "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-11T05:04:57.498Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "research",
-        "academic",
-        "analysis",
-        "bytedance",
-        "deer-flow"
-      ],
-      "skills": [
-        {
-          "name": "academic-paper-review",
-          "installUrl": "github:bytedance/deer-flow:skills/public/academic-paper-review",
-          "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "blocking-io-guard",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/blocking-io-guard",
-          "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "claude-to-deerflow",
-          "installUrl": "github:bytedance/deer-flow:skills/public/claude-to-deerflow",
-          "description": "Interact with DeerFlow AI agent platform via its HTTP API. Use this skill when the user wants to send messages or questions to DeerFlow for research/analysis, start a DeerFlow conversation thread, check DeerFlow status or health, list available models/skills/agents in DeerFlow, manage DeerFlow memory, upload files to DeerFlow threads, or delegate complex research tasks to DeerFlow. Also use when the user mentions deerflow, deer flow, or wants to run a deep research task that DeerFlow can handle.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "consulting-analysis",
-          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
-          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "data-analysis",
-          "installUrl": "github:bytedance/deer-flow:skills/public/data-analysis",
-          "description": "Use this skill when the user uploads Excel (.xlsx/.xls) or CSV files and wants to perform data analysis, generate statistics, create summaries, pivot tables, SQL queries, or any form of structured data exploration. Supports multi-sheet Excel workbooks, aggregation, filtering, joins, and exporting results to CSV/JSON/Markdown.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-research",
-          "installUrl": "github:bytedance/deer-flow:skills/public/deep-research",
-          "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deerflow-maintainer-orchestrator",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/deerflow-maintainer-orchestrator",
-          "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "engineer-system-change",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/engineer-system-change",
-          "description": "Evaluate and carry out non-trivial software-system changes from first principles. Use when assessing RFCs, issues, designs, features, refactors, migrations, dependency changes, or proposed fields, events, APIs, modules, and services whose need, consumers, system fit, validation, or rollback require scrutiny. Read the actual system, identify the concrete problem and named semantic consumers, choose the smallest sufficient solution, reject pseudo-requirements and speculative abstractions, and require evidence proportional to risk. Do not use for mechanical edits, source-code explanation, or a dedicated review of an already-complete diff.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "github-deep-research",
-          "installUrl": "github:bytedance/deer-flow:skills/public/github-deep-research",
-          "description": "Conduct multi-round deep research on any GitHub Repo. Use when users request comprehensive analysis, timeline reconstruction, competitive analysis, or in-depth investigation of GitHub. Produces structured markdown reports with executive summaries, chronological timelines, metrics analysis, and Mermaid diagrams. Triggers on Github repository URL or open source projects.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "newsletter-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/newsletter-generation",
-          "description": "Use this skill when the user requests to generate, create, write, or draft a newsletter, email digest, weekly roundup, industry briefing, or curated content summary. Supports topic-based research, content curation from multiple sources, and professional formatting for email or web distribution. Trigger on requests like \"create a newsletter about X\", \"write a weekly digest\", \"generate a tech roundup\", or \"curate news about Y\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "skill-creator",
-          "installUrl": "github:bytedance/deer-flow:skills/public/skill-creator",
-          "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "skill-reviewer",
-          "installUrl": "github:bytedance/deer-flow:skills/public/skill-reviewer",
-          "description": "Reviews DeerFlow skill packages for readiness, triggers, safety boundaries, resources, and evidence. Invoke when users ask to audit, grade, or production-check an existing skill.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "smoke-test",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/smoke-test",
-          "description": "End-to-end smoke test skill for DeerFlow. Guides through: 1) Pulling latest code, 2) Docker OR Local installation and deployment (user preference, default to Local if Docker network issues), 3) Service availability verification, 4) Health check, 5) Final test report. Use when the user says \"run smoke test\", \"smoke test deployment\", \"verify installation\", \"test service availability\", \"end-to-end test\", or similar.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "systematic-literature-review",
-          "installUrl": "github:bytedance/deer-flow:skills/public/systematic-literature-review",
-          "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "vercel-deploy",
-          "installUrl": "github:bytedance/deer-flow:skills/public/vercel-deploy",
-          "description": "Deploy applications and websites to Vercel. Use this skill when the user requests deployment actions such as \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", \"Deploy and give me the link\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "web-design-guidelines",
-          "installUrl": "github:bytedance/deer-flow:skills/public/web-design-guidelines",
-          "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
-          "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "bytedance",
-        "repo": "deer-flow",
-        "repoUrl": "https://github.com/bytedance/deer-flow.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "bytedance-deer-flow-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from bytedance/deer-flow.",
-      "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-11T05:04:57.498Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "writing",
-        "content",
-        "docs",
-        "bytedance",
-        "deer-flow"
-      ],
-      "skills": [
-        {
-          "name": "academic-paper-review",
-          "installUrl": "github:bytedance/deer-flow:skills/public/academic-paper-review",
-          "description": "Use this skill when the user requests to review, analyze, critique, or summarize academic papers, research articles, preprints, or scientific publications. Supports comprehensive structured reviews covering methodology assessment, contribution evaluation, literature positioning, and constructive feedback generation. Trigger on queries involving paper URLs, uploaded PDFs, arXiv links, or requests like \"review this paper\", \"analyze this research\", \"summarize this study\", or \"write a peer review\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "blocking-io-guard",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/blocking-io-guard",
-          "description": "Ensure async-path backend code that could block the asyncio event loop is protected by a teeth-verified runtime anchor in tests/blocking_io/. Use when changing backend Python under app/, packages/harness/deerflow/, or scripts/, when running a blocking-IO triage round over the whole repo, or when a reviewer/CI asks for blocking-IO coverage. Runs a deterministic scan (changed-lines or full-repo), routes each candidate, drafts/extends an anchor, and proves it fails when the blocking IO regresses.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "code-documentation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/code-documentation",
-          "description": "Use this skill when the user requests to generate, create, or improve documentation for code, APIs, libraries, repositories, or software projects. Supports README generation, API reference documentation, inline code comments, architecture documentation, changelog generation, and developer guides. Trigger on requests like \"document this code\", \"create a README\", \"generate API docs\", \"write developer guide\", or when analyzing codebases for documentation purposes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "consulting-analysis",
-          "installUrl": "github:bytedance/deer-flow:skills/public/consulting-analysis",
-          "description": "Use this skill when the user requests to generate, create, or write professional research reports including but not limited to market analysis, consumer insights, brand analysis, financial analysis, industry research, competitive intelligence, investment due diligence, or any consulting-grade analytical report. This skill operates in two phases — (1) generating a structured analysis framework with chapter skeleton, data query requirements, and analysis logic, and (2) after data collection by other skills, producing the final consulting-grade report with structured narratives, embedded charts, and strategic insights.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deep-research",
-          "installUrl": "github:bytedance/deer-flow:skills/public/deep-research",
-          "description": "Use this skill instead of WebSearch for ANY question requiring web research. Trigger on queries like \"what is X\", \"explain X\", \"compare X and Y\", \"research X\", or before content generation tasks. Provides systematic multi-angle research methodology instead of single superficial searches. Use this proactively when the user's question needs online information.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "deerflow-maintainer-orchestrator",
-          "installUrl": "github:bytedance/deer-flow:.agent/skills/deerflow-maintainer-orchestrator",
-          "description": "Use when a DeerFlow maintainer needs comment-only GitHub issue or PR handling: resolve issue/PR scopes with gh, analyze issues, post or draft issue comments, perform PR review comments, review PR or issue batches, compare competing PRs that target the same issue, give fix strategy, risk classification, and validation guidance. Intended for maintainers and trusted local agents, not general contributors.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "image-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/image-generation",
-          "description": "Use this skill when the user requests to generate, create, imagine, or visualize images including characters, scenes, products, or any visual content. Supports structured prompts and reference images for guided generation.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "newsletter-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/newsletter-generation",
-          "description": "Use this skill when the user requests to generate, create, write, or draft a newsletter, email digest, weekly roundup, industry briefing, or curated content summary. Supports topic-based research, content curation from multiple sources, and professional formatting for email or web distribution. Trigger on requests like \"create a newsletter about X\", \"write a weekly digest\", \"generate a tech roundup\", or \"curate news about Y\".",
-          "version": "0.0.0"
-        },
-        {
-          "name": "podcast-generation",
-          "installUrl": "github:bytedance/deer-flow:skills/public/podcast-generation",
-          "description": "Use this skill when the user requests to generate, create, or produce podcasts from text content. Converts written content into a two-host conversational podcast audio format with natural dialogue.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "systematic-literature-review",
-          "installUrl": "github:bytedance/deer-flow:skills/public/systematic-literature-review",
-          "description": "Use this skill when the user wants a systematic literature review, survey, or synthesis across multiple academic papers on a topic. Also covers annotated bibliographies and cross-paper comparisons. Searches arXiv and outputs reports in APA, IEEE, or BibTeX format. Not for single-paper tasks — use academic-paper-review for reviewing one paper.",
-          "version": "0.0.0"
         }
       ],
       "sourceRepo": {
