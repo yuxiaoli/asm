@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "e8a175de22ae1e49370fc144c1f3bb9aeedf988d",
+  "sourceCommit": "2d228630ba1446365f614a108cb8252f1feda202",
   "repoUrl": "https://github.com/emilkowalski/skills.git",
   "owner": "emilkowalski",
   "repo": "skills",
-  "updatedAt": "2026-10-11T05:06:37.453Z",
-  "skillCount": 14,
+  "updatedAt": "2026-10-19T08:22:46.332Z",
+  "skillCount": 15,
   "skills": [
     {
       "contentHash": "b8ede161270458e6ae2e45e8a1985373515d4c63de5568ddb0f9012d7634356c",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.379Z",
+        "evaluatedAt": "2026-10-19T08:22:46.261Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.375Z",
+        "evaluatedAt": "2026-10-19T08:22:46.259Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,186 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "ceb9dd3fe912615830f725a0120ccf8d012d15a6218001a5cd6c15d38e39a957",
+      "sourcePath": "skills/animation-performance/SKILL.md",
+      "name": "animation-performance",
+      "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:emilkowalski/skills:skills/animation-performance",
+      "relPath": "skills/animation-performance",
+      "verified": true,
+      "tokenCount": 4283,
+      "evalSummary": {
+        "overallScore": 65,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 65,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.375Z",
+        "evaluatedAt": "2026-10-19T08:22:46.259Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.375Z",
+        "evaluatedAt": "2026-10-19T08:22:46.259Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.375Z",
+        "evaluatedAt": "2026-10-19T08:22:46.258Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.379Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.379Z",
+        "evaluatedAt": "2026-10-19T08:22:46.258Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedAt": "2026-10-19T08:22:46.261Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.379Z",
+        "evaluatedAt": "2026-10-19T08:22:46.261Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedAt": "2026-10-19T08:22:46.262Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedAt": "2026-10-19T08:22:46.262Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1342,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.379Z",
+        "evaluatedAt": "2026-10-19T08:22:46.297Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedAt": "2026-10-19T08:22:46.300Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.380Z",
+          "evaluatedAt": "2026-10-19T08:22:46.300Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.421Z",
+        "evaluatedAt": "2026-10-19T08:22:46.300Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.424Z",
+          "evaluatedAt": "2026-10-19T08:22:46.308Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.424Z",
+          "evaluatedAt": "2026-10-19T08:22:46.308Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.435Z",
+        "evaluatedAt": "2026-10-19T08:22:46.308Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.436Z",
+          "evaluatedAt": "2026-10-19T08:22:46.312Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.436Z",
+          "evaluatedAt": "2026-10-19T08:22:46.312Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.434Z",
+        "evaluatedAt": "2026-10-19T08:22:46.312Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.436Z",
+          "evaluatedAt": "2026-10-19T08:22:46.313Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.436Z",
+          "evaluatedAt": "2026-10-19T08:22:46.313Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.436Z",
+        "evaluatedAt": "2026-10-19T08:22:46.314Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.438Z",
+          "evaluatedAt": "2026-10-19T08:22:46.317Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.438Z",
+          "evaluatedAt": "2026-10-19T08:22:46.317Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.440Z",
+        "evaluatedAt": "2026-10-19T08:22:46.317Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.441Z",
+          "evaluatedAt": "2026-10-19T08:22:46.320Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2507,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.441Z",
+          "evaluatedAt": "2026-10-19T08:22:46.320Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2416,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:06:37.441Z",
+        "evaluatedAt": "2026-10-19T08:22:46.321Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.441Z",
+          "evaluatedAt": "2026-10-19T08:22:46.322Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,7 +2686,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:06:37.441Z",
+          "evaluatedAt": "2026-10-19T08:22:46.322Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2516,16 +2695,16 @@
   "bundles": [
     {
       "version": 1,
-      "name": "emilkowalski-skills-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from emilkowalski/skills.",
+      "name": "emilkowalski-skills-marketing",
+      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-11T05:06:37.453Z",
+      "createdAt": "2026-10-19T08:22:46.332Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "marketing",
+        "growth",
+        "seo",
         "emilkowalski",
         "skills"
       ],
@@ -2537,15 +2716,105 @@
           "version": "0.0.0"
         },
         {
-          "name": "apple-design",
-          "installUrl": "github:emilkowalski/skills:skills/apple-design",
-          "description": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI, spring animations, drag/swipe/sheet interactions, momentum and interruptible transitions, translucent materials and depth, typography (optical sizing, tracking, leading), reduced-motion, or the design foundations (feedback, spatial consistency, restraint) behind Apple-style interfaces.",
+          "name": "mobile-native",
+          "installUrl": "github:emilkowalski/skills:skills/mobile-native",
+          "description": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels installed. Covers sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, pull-to-refresh hijacking scroll, content under the notch, long-press selecting button text, carousels that scroll the wrong way, mismatched status bars, and the rule that you test on real hardware. Use when a web app is being built for or reviewed on mobile, when something \"works in Chrome but feels wrong on my phone\", when building a PWA, a bottom sheet, a carousel, a full-screen layout, or any touch interaction. For motion itself use animate; for React Native use animate-expo.",
           "version": "0.0.0"
         },
         {
-          "name": "ask-sonner",
-          "installUrl": "github:emilkowalski/skills:skills/ask-sonner",
-          "description": "Guide to Sonner, the React toast library — install and wire up the Toaster, pick the right toast() call, promise and loading toasts, updating, dismissing and persisting toasts, styling, theming and icons, positioning and multiple toasters. Use when working with Sonner or troubleshooting it — toasts that don't appear, appear twice, lose their styles, ignore Tailwind classes, sit behind a modal, or don't follow dark mode.",
+          "name": "write-swift",
+          "installUrl": "github:emilkowalski/skills:skills/write-swift",
+          "description": "How to write modern Swift well — modeling with value types, Swift 6 data-race safety and approachable concurrency (@concurrent, main-actor-by-default, actors, task groups), protocols and generics (some vs any), API design, performance and ARC, Swift Testing, macros, and the modern language features agents don't know about yet. Use when writing, reviewing, or migrating Swift, or when a concurrency error, a hang, a data race, a retain cycle, or a performance problem needs fixing.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "emilkowalski",
+        "repo": "skills",
+        "repoUrl": "https://github.com/emilkowalski/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "emilkowalski-skills-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from emilkowalski/skills.",
+      "author": "ASM (emilkowalski/skills)",
+      "createdAt": "2026-10-19T08:22:46.332Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "writing",
+        "content",
+        "docs",
+        "emilkowalski",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "animate",
+          "installUrl": "github:emilkowalski/skills:skills/animate",
+          "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. Writes the implementation. Use when asked to animate something, add motion, make a component feel alive, or build a transition. For critiquing existing motion use review-animations; for auditing a whole codebase use improve-animations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "animate-expo",
+          "installUrl": "github:emilkowalski/skills:skills/animate-expo",
+          "description": "Build animations in React Native and Expo, making the decisions in the order that determines whether they feel right — should it animate, which thread it runs on, which properties, spring or timing, how the gesture hands off, how it degrades. Writes the implementation with Reanimated, Gesture Handler, Expo Router and expo-haptics. Use when animating anything in an Expo app, adding gestures, sheets, screen transitions, press feedback or haptics, or fixing motion that stutters on device. For web animation use `animate`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mobile-native",
+          "installUrl": "github:emilkowalski/skills:skills/mobile-native",
+          "description": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels installed. Covers sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, pull-to-refresh hijacking scroll, content under the notch, long-press selecting button text, carousels that scroll the wrong way, mismatched status bars, and the rule that you test on real hardware. Use when a web app is being built for or reviewed on mobile, when something \"works in Chrome but feels wrong on my phone\", when building a PWA, a bottom sheet, a carousel, a full-screen layout, or any touch interaction. For motion itself use animate; for React Native use animate-expo.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "write-swift",
+          "installUrl": "github:emilkowalski/skills:skills/write-swift",
+          "description": "How to write modern Swift well — modeling with value types, Swift 6 data-race safety and approachable concurrency (@concurrent, main-actor-by-default, actors, task groups), protocols and generics (some vs any), API design, performance and ARC, Swift Testing, macros, and the modern language features agents don't know about yet. Use when writing, reviewing, or migrating Swift, or when a concurrency error, a hang, a data race, a retain cycle, or a performance problem needs fixing.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "emilkowalski",
+        "repo": "skills",
+        "repoUrl": "https://github.com/emilkowalski/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "emilkowalski-skills-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from emilkowalski/skills.",
+      "author": "ASM (emilkowalski/skills)",
+      "createdAt": "2026-10-19T08:22:46.332Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "emilkowalski",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "animate",
+          "installUrl": "github:emilkowalski/skills:skills/animate",
+          "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. Writes the implementation. Use when asked to animate something, add motion, make a component feel alive, or build a transition. For critiquing existing motion use review-animations; for auditing a whole codebase use improve-animations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "animation-performance",
+          "installUrl": "github:emilkowalski/skills:skills/animation-performance",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "apple-design",
+          "installUrl": "github:emilkowalski/skills:skills/apple-design",
+          "description": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI, spring animations, drag/swipe/sheet interactions, momentum and interruptible transitions, translucent materials and depth, typography (optical sizing, tracking, leading), reduced-motion, or the design foundations (feedback, spatial consistency, restraint) behind Apple-style interfaces.",
           "version": "0.0.0"
         },
         {
@@ -2555,15 +2824,21 @@
           "version": "0.0.0"
         },
         {
-          "name": "emil-design-eng",
-          "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
-          "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
+          "name": "find-animation-opportunities",
+          "installUrl": "github:emilkowalski/skills:skills/find-animation-opportunities",
+          "description": "Search a codebase or UI for places that don't animate but should, and reject everything that shouldn't. Read-only; it proposes motion with exact values, it does not implement it. Use when the user asks \"what could be animated here?\" or wants to \"make this feel more alive\". For fixing existing animations, use improve-animations or review-animations instead.",
           "version": "0.0.0"
         },
         {
           "name": "improve-animations",
           "installUrl": "github:emilkowalski/skills:skills/improve-animations",
           "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained implementation plans for other agents (or cheaper models) to execute. Read-only on source code — it plans improvements, it does not apply them. Use when the user asks to \"improve the animations\", \"audit the motion\", \"make this app feel better\", or wants a roadmap of animation fixes rather than a review of a single diff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mobile-native",
+          "installUrl": "github:emilkowalski/skills:skills/mobile-native",
+          "description": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels installed. Covers sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, pull-to-refresh hijacking scroll, content under the notch, long-press selecting button text, carousels that scroll the wrong way, mismatched status bars, and the rule that you test on real hardware. Use when a web app is being built for or reviewed on mobile, when something \"works in Chrome but feels wrong on my phone\", when building a PWA, a bottom sheet, a carousel, a full-screen layout, or any touch interaction. For motion itself use animate; for React Native use animate-expo.",
           "version": "0.0.0"
         },
         {
@@ -2588,64 +2863,10 @@
     },
     {
       "version": 1,
-      "name": "emilkowalski-skills-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from emilkowalski/skills.",
-      "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-11T05:06:37.453Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "emilkowalski",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "animate",
-          "installUrl": "github:emilkowalski/skills:skills/animate",
-          "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. Writes the implementation. Use when asked to animate something, add motion, make a component feel alive, or build a transition. For critiquing existing motion use review-animations; for auditing a whole codebase use improve-animations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "animate-expo",
-          "installUrl": "github:emilkowalski/skills:skills/animate-expo",
-          "description": "Build animations in React Native and Expo, making the decisions in the order that determines whether they feel right — should it animate, which thread it runs on, which properties, spring or timing, how the gesture hands off, how it degrades. Writes the implementation with Reanimated, Gesture Handler, Expo Router and expo-haptics. Use when animating anything in an Expo app, adding gestures, sheets, screen transitions, press feedback or haptics, or fixing motion that stutters on device. For web animation use `animate`.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "emil-design-eng",
-          "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
-          "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "pick-ui-library",
-          "installUrl": "github:emilkowalski/skills:skills/pick-ui-library",
-          "description": "Pick the right library for a given frontend task from a curated, opinionated list — numbers, OTP inputs, charts, command menus, virtualization, drag and drop, toasts, state, styling, and more. Only runs when explicitly invoked; it does not trigger on its own.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "prototype",
-          "installUrl": "github:emilkowalski/skills:skills/prototype",
-          "description": "Build multiple genuinely different versions of a UI piece you describe, rendered behind a visual picker so you can flip through them live and promote the one that feels right. Only runs when explicitly invoked; it does not trigger on its own.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "emilkowalski",
-        "repo": "skills",
-        "repoUrl": "https://github.com/emilkowalski/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "emilkowalski-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-11T05:06:37.453Z",
+      "createdAt": "2026-10-19T08:22:46.332Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2666,6 +2887,12 @@
           "name": "animate-expo",
           "installUrl": "github:emilkowalski/skills:skills/animate-expo",
           "description": "Build animations in React Native and Expo, making the decisions in the order that determines whether they feel right — should it animate, which thread it runs on, which properties, spring or timing, how the gesture hands off, how it degrades. Writes the implementation with Reanimated, Gesture Handler, Expo Router and expo-haptics. Use when animating anything in an Expo app, adding gestures, sheets, screen transitions, press feedback or haptics, or fixing motion that stutters on device. For web animation use `animate`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "animation-performance",
+          "installUrl": "github:emilkowalski/skills:skills/animation-performance",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2741,7 +2968,7 @@
       "name": "emilkowalski-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-11T05:06:37.453Z",
+      "createdAt": "2026-10-19T08:22:46.332Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2762,6 +2989,12 @@
           "name": "animate-expo",
           "installUrl": "github:emilkowalski/skills:skills/animate-expo",
           "description": "Build animations in React Native and Expo, making the decisions in the order that determines whether they feel right — should it animate, which thread it runs on, which properties, spring or timing, how the gesture hands off, how it degrades. Writes the implementation with Reanimated, Gesture Handler, Expo Router and expo-haptics. Use when animating anything in an Expo app, adding gestures, sheets, screen transitions, press feedback or haptics, or fixing motion that stutters on device. For web animation use `animate`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "animation-performance",
+          "installUrl": "github:emilkowalski/skills:skills/animation-performance",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2840,52 +3073,10 @@
     },
     {
       "version": 1,
-      "name": "emilkowalski-skills-marketing",
-      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from emilkowalski/skills.",
-      "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-11T05:06:37.453Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "marketing",
-        "growth",
-        "seo",
-        "emilkowalski",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "animation-vocabulary",
-          "installUrl": "github:emilkowalski/skills:skills/animation-vocabulary",
-          "description": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a popover opens\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding). Use when the user asks \"what's it called when…\", or describes a motion effect without knowing its name and wants the right word to prompt an AI or designer with. For naming an effect, not designing or building one.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mobile-native",
-          "installUrl": "github:emilkowalski/skills:skills/mobile-native",
-          "description": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels installed. Covers sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, pull-to-refresh hijacking scroll, content under the notch, long-press selecting button text, carousels that scroll the wrong way, mismatched status bars, and the rule that you test on real hardware. Use when a web app is being built for or reviewed on mobile, when something \"works in Chrome but feels wrong on my phone\", when building a PWA, a bottom sheet, a carousel, a full-screen layout, or any touch interaction. For motion itself use animate; for React Native use animate-expo.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "write-swift",
-          "installUrl": "github:emilkowalski/skills:skills/write-swift",
-          "description": "How to write modern Swift well — modeling with value types, Swift 6 data-race safety and approachable concurrency (@concurrent, main-actor-by-default, actors, task groups), protocols and generics (some vs any), API design, performance and ARC, Swift Testing, macros, and the modern language features agents don't know about yet. Use when writing, reviewing, or migrating Swift, or when a concurrency error, a hang, a data race, a retain cycle, or a performance problem needs fixing.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "emilkowalski",
-        "repo": "skills",
-        "repoUrl": "https://github.com/emilkowalski/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "emilkowalski-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-11T05:06:37.453Z",
+      "createdAt": "2026-10-19T08:22:46.332Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2924,88 +3115,16 @@
     },
     {
       "version": 1,
-      "name": "emilkowalski-skills-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from emilkowalski/skills.",
+      "name": "emilkowalski-skills-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-11T05:06:37.453Z",
+      "createdAt": "2026-10-19T08:22:46.332Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "research",
-        "academic",
-        "analysis",
-        "emilkowalski",
-        "skills"
-      ],
-      "skills": [
-        {
-          "name": "animate",
-          "installUrl": "github:emilkowalski/skills:skills/animate",
-          "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. Writes the implementation. Use when asked to animate something, add motion, make a component feel alive, or build a transition. For critiquing existing motion use review-animations; for auditing a whole codebase use improve-animations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "apple-design",
-          "installUrl": "github:emilkowalski/skills:skills/apple-design",
-          "description": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI, spring animations, drag/swipe/sheet interactions, momentum and interruptible transitions, translucent materials and depth, typography (optical sizing, tracking, leading), reduced-motion, or the design foundations (feedback, spatial consistency, restraint) behind Apple-style interfaces.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "break-ui",
-          "installUrl": "github:emilkowalski/skills:skills/break-ui",
-          "description": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts, zero items, long labels, non-Latin text, emoji, extreme numbers — then render it behind a \"Demo data / Worst case\" toggle and report everything that broke, with the fix for each. Use when the user asks to stress-test, break, or find edge cases in a component or screen, or to \"try the worst case\". For visual design critique use emil-design-eng; for motion use review-animations.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "find-animation-opportunities",
-          "installUrl": "github:emilkowalski/skills:skills/find-animation-opportunities",
-          "description": "Search a codebase or UI for places that don't animate but should, and reject everything that shouldn't. Read-only; it proposes motion with exact values, it does not implement it. Use when the user asks \"what could be animated here?\" or wants to \"make this feel more alive\". For fixing existing animations, use improve-animations or review-animations instead.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "improve-animations",
-          "installUrl": "github:emilkowalski/skills:skills/improve-animations",
-          "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained implementation plans for other agents (or cheaper models) to execute. Read-only on source code — it plans improvements, it does not apply them. Use when the user asks to \"improve the animations\", \"audit the motion\", \"make this app feel better\", or wants a roadmap of animation fixes rather than a review of a single diff.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mobile-native",
-          "installUrl": "github:emilkowalski/skills:skills/mobile-native",
-          "description": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels installed. Covers sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, pull-to-refresh hijacking scroll, content under the notch, long-press selecting button text, carousels that scroll the wrong way, mismatched status bars, and the rule that you test on real hardware. Use when a web app is being built for or reviewed on mobile, when something \"works in Chrome but feels wrong on my phone\", when building a PWA, a bottom sheet, a carousel, a full-screen layout, or any touch interaction. For motion itself use animate; for React Native use animate-expo.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "review-animations",
-          "installUrl": "github:emilkowalski/skills:skills/review-animations",
-          "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "write-swift",
-          "installUrl": "github:emilkowalski/skills:skills/write-swift",
-          "description": "How to write modern Swift well — modeling with value types, Swift 6 data-race safety and approachable concurrency (@concurrent, main-actor-by-default, actors, task groups), protocols and generics (some vs any), API design, performance and ARC, Swift Testing, macros, and the modern language features agents don't know about yet. Use when writing, reviewing, or migrating Swift, or when a concurrency error, a hang, a data race, a retain cycle, or a performance problem needs fixing.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "emilkowalski",
-        "repo": "skills",
-        "repoUrl": "https://github.com/emilkowalski/skills.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "emilkowalski-skills-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from emilkowalski/skills.",
-      "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-11T05:06:37.453Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "writing",
-        "content",
-        "docs",
+        "devops",
+        "infra",
+        "automation",
         "emilkowalski",
         "skills"
       ],
@@ -3023,9 +3142,99 @@
           "version": "0.0.0"
         },
         {
-          "name": "mobile-native",
-          "installUrl": "github:emilkowalski/skills:skills/mobile-native",
-          "description": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels installed. Covers sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, pull-to-refresh hijacking scroll, content under the notch, long-press selecting button text, carousels that scroll the wrong way, mismatched status bars, and the rule that you test on real hardware. Use when a web app is being built for or reviewed on mobile, when something \"works in Chrome but feels wrong on my phone\", when building a PWA, a bottom sheet, a carousel, a full-screen layout, or any touch interaction. For motion itself use animate; for React Native use animate-expo.",
+          "name": "animation-performance",
+          "installUrl": "github:emilkowalski/skills:skills/animation-performance",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "emil-design-eng",
+          "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
+          "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "pick-ui-library",
+          "installUrl": "github:emilkowalski/skills:skills/pick-ui-library",
+          "description": "Pick the right library for a given frontend task from a curated, opinionated list — numbers, OTP inputs, charts, command menus, virtualization, drag and drop, toasts, state, styling, and more. Only runs when explicitly invoked; it does not trigger on its own.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "prototype",
+          "installUrl": "github:emilkowalski/skills:skills/prototype",
+          "description": "Build multiple genuinely different versions of a UI piece you describe, rendered behind a visual picker so you can flip through them live and promote the one that feels right. Only runs when explicitly invoked; it does not trigger on its own.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "emilkowalski",
+        "repo": "skills",
+        "repoUrl": "https://github.com/emilkowalski/skills.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "emilkowalski-skills-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from emilkowalski/skills.",
+      "author": "ASM (emilkowalski/skills)",
+      "createdAt": "2026-10-19T08:22:46.332Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
+        "emilkowalski",
+        "skills"
+      ],
+      "skills": [
+        {
+          "name": "animation-performance",
+          "installUrl": "github:emilkowalski/skills:skills/animation-performance",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "animation-vocabulary",
+          "installUrl": "github:emilkowalski/skills:skills/animation-vocabulary",
+          "description": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a popover opens\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding). Use when the user asks \"what's it called when…\", or describes a motion effect without knowing its name and wants the right word to prompt an AI or designer with. For naming an effect, not designing or building one.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "apple-design",
+          "installUrl": "github:emilkowalski/skills:skills/apple-design",
+          "description": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI, spring animations, drag/swipe/sheet interactions, momentum and interruptible transitions, translucent materials and depth, typography (optical sizing, tracking, leading), reduced-motion, or the design foundations (feedback, spatial consistency, restraint) behind Apple-style interfaces.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "ask-sonner",
+          "installUrl": "github:emilkowalski/skills:skills/ask-sonner",
+          "description": "Guide to Sonner, the React toast library — install and wire up the Toaster, pick the right toast() call, promise and loading toasts, updating, dismissing and persisting toasts, styling, theming and icons, positioning and multiple toasters. Use when working with Sonner or troubleshooting it — toasts that don't appear, appear twice, lose their styles, ignore Tailwind classes, sit behind a modal, or don't follow dark mode.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "break-ui",
+          "installUrl": "github:emilkowalski/skills:skills/break-ui",
+          "description": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts, zero items, long labels, non-Latin text, emoji, extreme numbers — then render it behind a \"Demo data / Worst case\" toggle and report everything that broke, with the fix for each. Use when the user asks to stress-test, break, or find edge cases in a component or screen, or to \"try the worst case\". For visual design critique use emil-design-eng; for motion use review-animations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "emil-design-eng",
+          "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
+          "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "improve-animations",
+          "installUrl": "github:emilkowalski/skills:skills/improve-animations",
+          "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained implementation plans for other agents (or cheaper models) to execute. Read-only on source code — it plans improvements, it does not apply them. Use when the user asks to \"improve the animations\", \"audit the motion\", \"make this app feel better\", or wants a roadmap of animation fixes rather than a review of a single diff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "review-animations",
+          "installUrl": "github:emilkowalski/skills:skills/review-animations",
+          "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.",
           "version": "0.0.0"
         },
         {

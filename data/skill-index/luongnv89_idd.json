@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "5ad22eb552ad7024fba5650d7fbd1b6fca76f2b9",
+  "sourceCommit": "770aa36183d42e090b5db6e96ed0dafb2af32258",
   "repoUrl": "https://github.com/luongnv89/idd.git",
   "owner": "luongnv89",
   "repo": "idd",
-  "updatedAt": "2026-10-11T05:04:13.847Z",
+  "updatedAt": "2026-10-19T08:20:12.640Z",
   "skillCount": 8,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:12.900Z",
+        "evaluatedAt": "2026-10-19T08:20:11.771Z",
         "evaluatedVersion": "2.9.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "2.9.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "2.9.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:12.892Z",
+        "evaluatedAt": "2026-10-19T08:20:11.767Z",
         "evaluatedVersion": "0.5.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.900Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.5.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.900Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.5.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:12.892Z",
+        "evaluatedAt": "2026-10-19T08:20:11.768Z",
         "evaluatedVersion": "0.7.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.900Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.7.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.900Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.7.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:12.892Z",
+        "evaluatedAt": "2026-10-19T08:20:11.767Z",
         "evaluatedVersion": "0.10.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.900Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.10.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.900Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.10.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:12.901Z",
+        "evaluatedAt": "2026-10-19T08:20:11.767Z",
         "evaluatedVersion": "2.9.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "2.9.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "2.9.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:12.901Z",
+        "evaluatedAt": "2026-10-19T08:20:11.767Z",
         "evaluatedVersion": "0.20.1"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.20.1"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.20.1"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:12.901Z",
+        "evaluatedAt": "2026-10-19T08:20:11.771Z",
         "evaluatedVersion": "0.7.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.7.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "0.7.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:12.900Z",
+        "evaluatedAt": "2026-10-19T08:20:11.771Z",
         "evaluatedVersion": "2.3.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "2.3.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:12.901Z",
+          "evaluatedAt": "2026-10-19T08:20:11.771Z",
           "evaluatedVersion": "2.3.0"
         }
       }
@@ -1442,16 +1442,16 @@
   "bundles": [
     {
       "version": 1,
-      "name": "luongnv89-idd-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/idd.",
+      "name": "luongnv89-idd-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/idd.",
       "author": "ASM (luongnv89/idd)",
-      "createdAt": "2026-10-11T05:04:13.847Z",
+      "createdAt": "2026-10-19T08:20:12.640Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "research",
+        "academic",
+        "analysis",
         "luongnv89",
         "idd"
       ],
@@ -1461,12 +1461,6 @@
           "installUrl": "github:luongnv89/idd:skills/auto-pilot",
           "description": "Run an autonomous triage-resolve-review-merge loop to auto-pilot the GitHub issue backlog, resolving everything until done with zero prompts. Don't use for single-issue work (/issue-resolver), triage (/issue-triage), or PR review (/issue-pr-review).",
           "version": "2.9.0"
-        },
-        {
-          "name": "init-idd",
-          "installUrl": "github:luongnv89/idd:skills/init-idd",
-          "description": "Generate a .idd.yml by auto-detecting a repo's stack, test runner, and size. Use to init, setup, or configure IDD Stack, or set up IDD. Don't use for editing an existing .idd.yml, creating issues (use /issue-creator), or plain git/npm init.",
-          "version": "0.5.0"
         },
         {
           "name": "issue-analysis",
@@ -1508,52 +1502,10 @@
     },
     {
       "version": 1,
-      "name": "luongnv89-idd-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from luongnv89/idd.",
-      "author": "ASM (luongnv89/idd)",
-      "createdAt": "2026-10-11T05:04:13.847Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "luongnv89",
-        "idd"
-      ],
-      "skills": [
-        {
-          "name": "issue-pr-review",
-          "installUrl": "github:luongnv89/idd:skills/issue-pr-review",
-          "description": "Review a PR end-to-end with CI checks, fix cycles, and optional auto-merge. Use for PR review, cleanup, or readiness checks. Don't use for creating PRs, raw issue analysis, or non-PR code review.",
-          "version": "2.9.0"
-        },
-        {
-          "name": "issue-resolver",
-          "installUrl": "github:luongnv89/idd:skills/issue-resolver",
-          "description": "Create an atomic PR closing a GitHub issue end-to-end via a 6-step pipeline. Use to resolve, fix, or implement issue #N. Don't use for analysis without fixing (/issue-analysis), reviewing a PR (/issue-pr-review), or bulk backlog work (/auto-pilot).",
-          "version": "0.20.1"
-        },
-        {
-          "name": "issue-triage",
-          "installUrl": "github:luongnv89/idd:skills/issue-triage",
-          "description": "Scan open GitHub issues for dependencies, priority, parallel work, and staleness. Use to prioritize the backlog or pick what to do next. Don't use for one-issue analysis (/issue-analysis), resolving (/issue-resolver), or creating (/issue-creator).",
-          "version": "0.7.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "luongnv89",
-        "repo": "idd",
-        "repoUrl": "https://github.com/luongnv89/idd.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "luongnv89-idd-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from luongnv89/idd.",
       "author": "ASM (luongnv89/idd)",
-      "createdAt": "2026-10-11T05:04:13.847Z",
+      "createdAt": "2026-10-19T08:20:12.640Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1604,16 +1556,58 @@
     },
     {
       "version": 1,
-      "name": "luongnv89-idd-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/idd.",
+      "name": "luongnv89-idd-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from luongnv89/idd.",
       "author": "ASM (luongnv89/idd)",
-      "createdAt": "2026-10-11T05:04:13.847Z",
+      "createdAt": "2026-10-19T08:20:12.640Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "research",
-        "academic",
-        "analysis",
+        "devops",
+        "infra",
+        "automation",
+        "luongnv89",
+        "idd"
+      ],
+      "skills": [
+        {
+          "name": "issue-pr-review",
+          "installUrl": "github:luongnv89/idd:skills/issue-pr-review",
+          "description": "Review a PR end-to-end with CI checks, fix cycles, and optional auto-merge. Use for PR review, cleanup, or readiness checks. Don't use for creating PRs, raw issue analysis, or non-PR code review.",
+          "version": "2.9.0"
+        },
+        {
+          "name": "issue-resolver",
+          "installUrl": "github:luongnv89/idd:skills/issue-resolver",
+          "description": "Create an atomic PR closing a GitHub issue end-to-end via a 6-step pipeline. Use to resolve, fix, or implement issue #N. Don't use for analysis without fixing (/issue-analysis), reviewing a PR (/issue-pr-review), or bulk backlog work (/auto-pilot).",
+          "version": "0.20.1"
+        },
+        {
+          "name": "issue-triage",
+          "installUrl": "github:luongnv89/idd:skills/issue-triage",
+          "description": "Scan open GitHub issues for dependencies, priority, parallel work, and staleness. Use to prioritize the backlog or pick what to do next. Don't use for one-issue analysis (/issue-analysis), resolving (/issue-resolver), or creating (/issue-creator).",
+          "version": "0.7.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "luongnv89",
+        "repo": "idd",
+        "repoUrl": "https://github.com/luongnv89/idd.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "luongnv89-idd-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/idd.",
+      "author": "ASM (luongnv89/idd)",
+      "createdAt": "2026-10-19T08:20:12.640Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
         "luongnv89",
         "idd"
       ],
@@ -1623,6 +1617,12 @@
           "installUrl": "github:luongnv89/idd:skills/auto-pilot",
           "description": "Run an autonomous triage-resolve-review-merge loop to auto-pilot the GitHub issue backlog, resolving everything until done with zero prompts. Don't use for single-issue work (/issue-resolver), triage (/issue-triage), or PR review (/issue-pr-review).",
           "version": "2.9.0"
+        },
+        {
+          "name": "init-idd",
+          "installUrl": "github:luongnv89/idd:skills/init-idd",
+          "description": "Generate a .idd.yml by auto-detecting a repo's stack, test runner, and size. Use to init, setup, or configure IDD Stack, or set up IDD. Don't use for editing an existing .idd.yml, creating issues (use /issue-creator), or plain git/npm init.",
+          "version": "0.5.0"
         },
         {
           "name": "issue-analysis",

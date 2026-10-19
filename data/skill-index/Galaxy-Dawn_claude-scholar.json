@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git",
   "owner": "Galaxy-Dawn",
   "repo": "claude-scholar",
-  "updatedAt": "2026-10-11T05:04:52.066Z",
+  "updatedAt": "2026-10-19T08:20:53.575Z",
   "skillCount": 45,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.812Z",
+        "evaluatedAt": "2026-10-19T08:20:52.422Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.426Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.426Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.810Z",
+        "evaluatedAt": "2026-10-19T08:20:52.422Z",
         "evaluatedVersion": "1.2.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.426Z",
           "evaluatedVersion": "1.2.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.426Z",
           "evaluatedVersion": "1.2.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.810Z",
+        "evaluatedAt": "2026-10-19T08:20:52.427Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -631,7 +631,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.810Z",
+        "evaluatedAt": "2026-10-19T08:20:52.422Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -704,7 +704,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.426Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -722,7 +722,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.426Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -810,7 +810,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.809Z",
+        "evaluatedAt": "2026-10-19T08:20:52.427Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -883,7 +883,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -901,7 +901,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.812Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -989,7 +989,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.812Z",
+        "evaluatedAt": "2026-10-19T08:20:52.427Z",
         "evaluatedVersion": "0.2.0"
       },
       "evalSummaries": {
@@ -1062,7 +1062,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.813Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "0.2.0"
         },
         "skill-best-practice": {
@@ -1080,7 +1080,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.813Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "0.2.0"
         }
       }
@@ -1172,7 +1172,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.812Z",
+        "evaluatedAt": "2026-10-19T08:20:52.427Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1245,7 +1245,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.813Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1263,7 +1263,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.813Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1351,7 +1351,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.812Z",
+        "evaluatedAt": "2026-10-19T08:20:52.427Z",
         "evaluatedVersion": "0.5.1"
       },
       "evalSummaries": {
@@ -1424,7 +1424,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.813Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "0.5.1"
         },
         "skill-best-practice": {
@@ -1442,7 +1442,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.813Z",
+          "evaluatedAt": "2026-10-19T08:20:52.427Z",
           "evaluatedVersion": "0.5.1"
         }
       }
@@ -1530,7 +1530,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.890Z",
+        "evaluatedAt": "2026-10-19T08:20:52.466Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1603,7 +1603,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.901Z",
+          "evaluatedAt": "2026-10-19T08:20:52.476Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1621,7 +1621,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.901Z",
+          "evaluatedAt": "2026-10-19T08:20:52.476Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1709,7 +1709,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:50.992Z",
+        "evaluatedAt": "2026-10-19T08:20:52.620Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -1782,7 +1782,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.993Z",
+          "evaluatedAt": "2026-10-19T08:20:52.621Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -1800,7 +1800,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:50.993Z",
+          "evaluatedAt": "2026-10-19T08:20:52.621Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -1888,7 +1888,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.049Z",
+        "evaluatedAt": "2026-10-19T08:20:52.695Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1961,7 +1961,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.050Z",
+          "evaluatedAt": "2026-10-19T08:20:52.696Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1979,7 +1979,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.050Z",
+          "evaluatedAt": "2026-10-19T08:20:52.696Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2067,7 +2067,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.051Z",
+        "evaluatedAt": "2026-10-19T08:20:52.710Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -2140,7 +2140,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.056Z",
+          "evaluatedAt": "2026-10-19T08:20:52.711Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -2158,7 +2158,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.056Z",
+          "evaluatedAt": "2026-10-19T08:20:52.711Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -2246,7 +2246,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.106Z",
+        "evaluatedAt": "2026-10-19T08:20:52.723Z",
         "evaluatedVersion": "1.2.0"
       },
       "evalSummaries": {
@@ -2319,7 +2319,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.119Z",
+          "evaluatedAt": "2026-10-19T08:20:52.726Z",
           "evaluatedVersion": "1.2.0"
         },
         "skill-best-practice": {
@@ -2337,7 +2337,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.119Z",
+          "evaluatedAt": "2026-10-19T08:20:52.726Z",
           "evaluatedVersion": "1.2.0"
         }
       }
@@ -2425,7 +2425,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.121Z",
+        "evaluatedAt": "2026-10-19T08:20:52.747Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -2498,7 +2498,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.133Z",
+          "evaluatedAt": "2026-10-19T08:20:52.748Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -2516,7 +2516,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.133Z",
+          "evaluatedAt": "2026-10-19T08:20:52.748Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -2604,7 +2604,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.157Z",
+        "evaluatedAt": "2026-10-19T08:20:52.777Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -2677,7 +2677,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.160Z",
+          "evaluatedAt": "2026-10-19T08:20:52.778Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -2695,7 +2695,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.160Z",
+          "evaluatedAt": "2026-10-19T08:20:52.778Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -2783,7 +2783,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.162Z",
+        "evaluatedAt": "2026-10-19T08:20:52.778Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -2856,7 +2856,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.167Z",
+          "evaluatedAt": "2026-10-19T08:20:52.778Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -2874,7 +2874,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.167Z",
+          "evaluatedAt": "2026-10-19T08:20:52.778Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -2962,7 +2962,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.167Z",
+        "evaluatedAt": "2026-10-19T08:20:52.813Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -3035,7 +3035,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.168Z",
+          "evaluatedAt": "2026-10-19T08:20:52.815Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -3053,7 +3053,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.168Z",
+          "evaluatedAt": "2026-10-19T08:20:52.815Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -3159,7 +3159,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.214Z",
+        "evaluatedAt": "2026-10-19T08:20:52.825Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3232,7 +3232,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.221Z",
+          "evaluatedAt": "2026-10-19T08:20:52.825Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3250,7 +3250,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.221Z",
+          "evaluatedAt": "2026-10-19T08:20:52.825Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -3338,7 +3338,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.236Z",
+        "evaluatedAt": "2026-10-19T08:20:52.860Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3411,7 +3411,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.239Z",
+          "evaluatedAt": "2026-10-19T08:20:52.861Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3429,7 +3429,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.239Z",
+          "evaluatedAt": "2026-10-19T08:20:52.861Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3517,7 +3517,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.239Z",
+        "evaluatedAt": "2026-10-19T08:20:52.861Z",
         "evaluatedVersion": "5.0.2"
       },
       "evalSummaries": {
@@ -3590,7 +3590,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.244Z",
+          "evaluatedAt": "2026-10-19T08:20:52.861Z",
           "evaluatedVersion": "5.0.2"
         },
         "skill-best-practice": {
@@ -3608,7 +3608,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.245Z",
+          "evaluatedAt": "2026-10-19T08:20:52.861Z",
           "evaluatedVersion": "5.0.2"
         }
       }
@@ -3696,7 +3696,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.275Z",
+        "evaluatedAt": "2026-10-19T08:20:52.895Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -3769,7 +3769,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.275Z",
+          "evaluatedAt": "2026-10-19T08:20:52.896Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -3787,7 +3787,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.275Z",
+          "evaluatedAt": "2026-10-19T08:20:52.896Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -3875,7 +3875,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.296Z",
+        "evaluatedAt": "2026-10-19T08:20:52.904Z",
         "evaluatedVersion": "0.2.0"
       },
       "evalSummaries": {
@@ -3948,7 +3948,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.296Z",
+          "evaluatedAt": "2026-10-19T08:20:52.914Z",
           "evaluatedVersion": "0.2.0"
         },
         "skill-best-practice": {
@@ -3966,7 +3966,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.296Z",
+          "evaluatedAt": "2026-10-19T08:20:52.914Z",
           "evaluatedVersion": "0.2.0"
         }
       }
@@ -4054,7 +4054,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.314Z",
+        "evaluatedAt": "2026-10-19T08:20:52.916Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4127,7 +4127,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.315Z",
+          "evaluatedAt": "2026-10-19T08:20:52.917Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4145,7 +4145,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.315Z",
+          "evaluatedAt": "2026-10-19T08:20:52.918Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4233,7 +4233,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.337Z",
+        "evaluatedAt": "2026-10-19T08:20:52.930Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4306,7 +4306,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.337Z",
+          "evaluatedAt": "2026-10-19T08:20:52.931Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4324,7 +4324,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.337Z",
+          "evaluatedAt": "2026-10-19T08:20:52.931Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -4412,7 +4412,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.353Z",
+        "evaluatedAt": "2026-10-19T08:20:52.944Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4485,7 +4485,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.353Z",
+          "evaluatedAt": "2026-10-19T08:20:52.944Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4503,7 +4503,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.353Z",
+          "evaluatedAt": "2026-10-19T08:20:52.944Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4591,7 +4591,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.372Z",
+        "evaluatedAt": "2026-10-19T08:20:52.965Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4664,7 +4664,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.372Z",
+          "evaluatedAt": "2026-10-19T08:20:52.966Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4682,7 +4682,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.372Z",
+          "evaluatedAt": "2026-10-19T08:20:52.966Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4770,7 +4770,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.410Z",
+        "evaluatedAt": "2026-10-19T08:20:52.997Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -4843,7 +4843,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.410Z",
+          "evaluatedAt": "2026-10-19T08:20:52.998Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -4861,7 +4861,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.410Z",
+          "evaluatedAt": "2026-10-19T08:20:52.998Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -4949,7 +4949,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.483Z",
+        "evaluatedAt": "2026-10-19T08:20:53.070Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -5022,7 +5022,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.484Z",
+          "evaluatedAt": "2026-10-19T08:20:53.070Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -5040,7 +5040,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.484Z",
+          "evaluatedAt": "2026-10-19T08:20:53.070Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -5128,7 +5128,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.484Z",
+        "evaluatedAt": "2026-10-19T08:20:53.070Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -5201,7 +5201,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.484Z",
+          "evaluatedAt": "2026-10-19T08:20:53.070Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -5219,7 +5219,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.484Z",
+          "evaluatedAt": "2026-10-19T08:20:53.070Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -5307,7 +5307,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.532Z",
+        "evaluatedAt": "2026-10-19T08:20:53.087Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -5380,7 +5380,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.533Z",
+          "evaluatedAt": "2026-10-19T08:20:53.087Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -5398,7 +5398,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.533Z",
+          "evaluatedAt": "2026-10-19T08:20:53.087Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -5486,7 +5486,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.533Z",
+        "evaluatedAt": "2026-10-19T08:20:53.114Z",
         "evaluatedVersion": "0.2.0"
       },
       "evalSummaries": {
@@ -5559,7 +5559,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.535Z",
+          "evaluatedAt": "2026-10-19T08:20:53.116Z",
           "evaluatedVersion": "0.2.0"
         },
         "skill-best-practice": {
@@ -5577,7 +5577,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.535Z",
+          "evaluatedAt": "2026-10-19T08:20:53.116Z",
           "evaluatedVersion": "0.2.0"
         }
       }
@@ -5665,7 +5665,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.568Z",
+        "evaluatedAt": "2026-10-19T08:20:53.119Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -5738,7 +5738,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.569Z",
+          "evaluatedAt": "2026-10-19T08:20:53.121Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -5756,7 +5756,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.569Z",
+          "evaluatedAt": "2026-10-19T08:20:53.121Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -5851,7 +5851,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.594Z",
+        "evaluatedAt": "2026-10-19T08:20:53.162Z",
         "evaluatedVersion": "0.2.0"
       },
       "evalSummaries": {
@@ -5924,7 +5924,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.594Z",
+          "evaluatedAt": "2026-10-19T08:20:53.164Z",
           "evaluatedVersion": "0.2.0"
         },
         "skill-best-practice": {
@@ -5942,7 +5942,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.594Z",
+          "evaluatedAt": "2026-10-19T08:20:53.164Z",
           "evaluatedVersion": "0.2.0"
         }
       }
@@ -6035,7 +6035,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.625Z",
+        "evaluatedAt": "2026-10-19T08:20:53.165Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -6108,7 +6108,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.625Z",
+          "evaluatedAt": "2026-10-19T08:20:53.166Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -6126,7 +6126,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.625Z",
+          "evaluatedAt": "2026-10-19T08:20:53.166Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -6220,7 +6220,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.647Z",
+        "evaluatedAt": "2026-10-19T08:20:53.202Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -6293,7 +6293,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.647Z",
+          "evaluatedAt": "2026-10-19T08:20:53.202Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -6311,7 +6311,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.647Z",
+          "evaluatedAt": "2026-10-19T08:20:53.202Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -6399,7 +6399,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.667Z",
+        "evaluatedAt": "2026-10-19T08:20:53.218Z",
         "evaluatedVersion": "0.2.0"
       },
       "evalSummaries": {
@@ -6472,7 +6472,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.667Z",
+          "evaluatedAt": "2026-10-19T08:20:53.218Z",
           "evaluatedVersion": "0.2.0"
         },
         "skill-best-practice": {
@@ -6490,7 +6490,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.667Z",
+          "evaluatedAt": "2026-10-19T08:20:53.218Z",
           "evaluatedVersion": "0.2.0"
         }
       }
@@ -6578,7 +6578,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.683Z",
+        "evaluatedAt": "2026-10-19T08:20:53.235Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -6651,7 +6651,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.684Z",
+          "evaluatedAt": "2026-10-19T08:20:53.237Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -6669,7 +6669,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.684Z",
+          "evaluatedAt": "2026-10-19T08:20:53.237Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -6757,7 +6757,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.696Z",
+        "evaluatedAt": "2026-10-19T08:20:53.239Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -6830,7 +6830,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.697Z",
+          "evaluatedAt": "2026-10-19T08:20:53.239Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -6848,7 +6848,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.697Z",
+          "evaluatedAt": "2026-10-19T08:20:53.239Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -6936,7 +6936,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.718Z",
+        "evaluatedAt": "2026-10-19T08:20:53.256Z",
         "evaluatedVersion": "0.2.0"
       },
       "evalSummaries": {
@@ -7009,7 +7009,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.741Z",
+          "evaluatedAt": "2026-10-19T08:20:53.260Z",
           "evaluatedVersion": "0.2.0"
         },
         "skill-best-practice": {
@@ -7027,7 +7027,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.741Z",
+          "evaluatedAt": "2026-10-19T08:20:53.260Z",
           "evaluatedVersion": "0.2.0"
         }
       }
@@ -7115,7 +7115,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.753Z",
+        "evaluatedAt": "2026-10-19T08:20:53.269Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -7188,7 +7188,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.761Z",
+          "evaluatedAt": "2026-10-19T08:20:53.284Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -7206,7 +7206,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.761Z",
+          "evaluatedAt": "2026-10-19T08:20:53.284Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -7294,7 +7294,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.762Z",
+        "evaluatedAt": "2026-10-19T08:20:53.328Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -7367,7 +7367,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.773Z",
+          "evaluatedAt": "2026-10-19T08:20:53.334Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -7385,7 +7385,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.773Z",
+          "evaluatedAt": "2026-10-19T08:20:53.334Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -7473,7 +7473,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.762Z",
+        "evaluatedAt": "2026-10-19T08:20:53.334Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -7546,7 +7546,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.773Z",
+          "evaluatedAt": "2026-10-19T08:20:53.334Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -7564,7 +7564,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.773Z",
+          "evaluatedAt": "2026-10-19T08:20:53.334Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -7652,7 +7652,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.874Z",
+        "evaluatedAt": "2026-10-19T08:20:53.378Z",
         "evaluatedVersion": "0.1.0"
       },
       "evalSummaries": {
@@ -7725,7 +7725,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.874Z",
+          "evaluatedAt": "2026-10-19T08:20:53.381Z",
           "evaluatedVersion": "0.1.0"
         },
         "skill-best-practice": {
@@ -7743,7 +7743,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.874Z",
+          "evaluatedAt": "2026-10-19T08:20:53.381Z",
           "evaluatedVersion": "0.1.0"
         }
       }
@@ -7836,7 +7836,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.876Z",
+        "evaluatedAt": "2026-10-19T08:20:53.412Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -7909,7 +7909,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.877Z",
+          "evaluatedAt": "2026-10-19T08:20:53.416Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -7927,7 +7927,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.877Z",
+          "evaluatedAt": "2026-10-19T08:20:53.416Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -8015,7 +8015,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:51.893Z",
+        "evaluatedAt": "2026-10-19T08:20:53.419Z",
         "evaluatedVersion": "0.3.0"
       },
       "evalSummaries": {
@@ -8088,7 +8088,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.894Z",
+          "evaluatedAt": "2026-10-19T08:20:53.419Z",
           "evaluatedVersion": "0.3.0"
         },
         "skill-best-practice": {
@@ -8106,7 +8106,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:51.894Z",
+          "evaluatedAt": "2026-10-19T08:20:53.419Z",
           "evaluatedVersion": "0.3.0"
         }
       }
@@ -8115,10 +8115,952 @@
   "bundles": [
     {
       "version": 1,
+      "name": "galaxy-dawn-claude-scholar-marketing",
+      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from Galaxy-Dawn/claude-scholar.",
+      "author": "ASM (Galaxy-Dawn/claude-scholar)",
+      "createdAt": "2026-10-19T08:20:53.575Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "marketing",
+        "growth",
+        "seo",
+        "galaxy-dawn",
+        "claude-scholar"
+      ],
+      "skills": [
+        {
+          "name": "kaggle-learner",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/kaggle-learner",
+          "description": "This skill should be used when the user asks to \"learn from Kaggle\", \"study Kaggle solutions\", \"analyze Kaggle competitions\", or mentions Kaggle competition URLs. Provides access to extracted knowledge from winning Kaggle solutions across NLP, CV, time series, tabular, and multimodal domains.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "skill-quality-reviewer",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-quality-reviewer",
+          "description": "This skill should be used when the user asks to \"analyze skill quality\", \"evaluate this skill\", \"review skill quality\", \"check my skill\", or \"generate quality report\". Evaluates local skills across description quality, content organization, writing style, and structural integrity.",
+          "version": "0.1.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Galaxy-Dawn",
+        "repo": "claude-scholar",
+        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "galaxy-dawn-claude-scholar-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from Galaxy-Dawn/claude-scholar.",
+      "author": "ASM (Galaxy-Dawn/claude-scholar)",
+      "createdAt": "2026-10-19T08:20:53.575Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "writing",
+        "content",
+        "docs",
+        "galaxy-dawn",
+        "claude-scholar"
+      ],
+      "skills": [
+        {
+          "name": "citation-verification",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/citation-verification",
+          "description": "This skill provides reference guidance for citation verification in academic writing. Use when the user asks about \"citation verification best practices\", \"how to verify references\", \"preventing fake citations\", or needs guidance on citation accuracy. This skill supports ml-paper-writing by providing detailed verification principles and common error patterns.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "code-review-excellence",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/code-review-excellence",
+          "description": "This skill should be used when the user asks to review a diff or pull request, write review comments, audit code quality, establish review standards, or improve how a team performs code review.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "command-development",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/command-development",
+          "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "daily-coding",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-coding",
+          "description": "Use for everyday coding tasks that involve writing or modifying source code.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "daily-paper-generator",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-paper-generator",
+          "description": "Use when the user asks to generate daily paper digests on a general topic. This skill supports both arXiv and bioRxiv (or either one), then produces structured Chinese/English summaries for selected papers.",
+          "version": "0.5.1"
+        },
+        {
+          "name": "doc-coauthoring",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/doc-coauthoring",
+          "description": "This skill should be used when the user asks to co-author documentation, draft a proposal, write a technical spec, create a decision doc or RFC, or structure a substantial document through iterative collaboration and reader testing.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "expression-skill",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/expression-skill",
+          "description": "This skill should be used when the user asks for efficient communication, task reports, file-operation summaries, research discussion, study-note synthesis, planning, writing feedback, or responses that need conclusion-first structure, concrete evidence, risk disclosure, and useful next steps.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "ml-paper-writing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ml-paper-writing",
+          "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, conducting literature reviews, finding related work, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, citation verification workflows, and paper discovery/evaluation criteria.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nature-polishing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-polishing",
+          "description": "Polish, restructure, or translate academic prose into Nature-leaning English using writing-strategy principles, curated Nature/Nature Communications article patterns, and phrase-level support from Academic Phrasebank. Use whenever the user asks to polish a manuscript paragraph, abstract, introduction, results, discussion, conclusion, title, methods section, or Chinese academic draft for publication-quality English.",
+          "version": "5.0.2"
+        },
+        {
+          "name": "nature-response",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-response",
+          "description": "Draft, audit, or revise point-by-point reviewer response letters for Nature-family manuscript revisions. Use when the user provides reviewer comments, editor decision letters, revision notes, response drafts, or asks how to respond to major/minor revision requests, rebuttal letters, response to reviewers, peer-review reports, 审稿意见回复, 逐点回复, 修回信, 大修回复, 小修回复, or 如何回复 reviewer.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "nature-writing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-writing",
+          "description": "Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, results narrative, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "obsidian-literature-workflow",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
+          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "obsidian-source-ingestion",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-source-ingestion",
+          "description": "Use this skill to ingest external materials into the current project-scoped Obsidian KB as source notes under Sources/Papers, Sources/Web, Sources/Docs, Sources/Data, Sources/Interviews, or Sources/Notes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "paper-self-review",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/paper-self-review",
+          "description": "This skill should be used when the user asks to \"review paper quality\", \"check paper completeness\", \"validate paper structure\", \"self-review before submission\", \"audit claims\", \"check overclaiming\", \"verify whether results support claims\", or mentions systematic paper quality checking. Provides comprehensive quality assurance checklist for academic papers.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "post-acceptance",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/post-acceptance",
+          "description": "This skill should be used when the user asks to \"prepare conference presentation\", \"create presentation slides\", \"design poster\", \"make academic poster\", \"write promotion content\", \"create Twitter thread\", or mentions post-acceptance conference preparation. Provides comprehensive workflow for presentation, poster, and promotion content creation.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "publication-chart-skill",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/publication-chart-skill",
+          "description": "This skill should be used when the user asks for a publication-quality scientific figure or table, wants help choosing the right chart for results, needs a paper-ready pubfig or pubtab workflow, wants a figure + companion table for a results section, wants an Excel sheet turned into publication-ready LaTeX, or wants an existing scientific figure/table reviewed and upgraded.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "results-report",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-report",
+          "description": "This skill should be used when the user asks to \"write an experiment report\", \"summarize experimental results\", \"do experiment retrospection\", \"write a results report\", \"写实验总结报告\", \"写实验复盘\", or mentions turning completed experiment artifacts into a structured, decision-oriented research report. It assumes strict analysis should come from `results-analysis` first.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "review-response",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/review-response",
+          "description": "Systematic review response workflow from comment analysis to professional rebuttal writing. Use when the user asks to \"write rebuttal\", \"respond to reviewers\", \"draft review response\", or \"analyze review comments\". Improves paper acceptance rates.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "skill-quality-reviewer",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-quality-reviewer",
+          "description": "This skill should be used when the user asks to \"analyze skill quality\", \"evaluate this skill\", \"review skill quality\", \"check my skill\", or \"generate quality report\". Evaluates local skills across description quality, content organization, writing style, and structural integrity.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "writing-anti-ai",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/writing-anti-ai",
+          "description": "This skill should be used when the user asks to \"remove AI writing patterns\", \"humanize this text\", \"make this sound more natural\", \"remove AI-generated traces\", \"fix robotic writing\", or needs to eliminate AI writing patterns from prose. Supports both English and Chinese text. Based on Wikipedia's \"Signs of AI writing\" guide, detects and fixes inflated symbolism, promotional language, superficial -ing analyses, vague attributions, AI vocabulary, negative parallelisms, and excessive conjunctive phrases.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "zotero-obsidian-bridge",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/zotero-obsidian-bridge",
+          "description": "Use this skill when Zotero is the literature source of truth and the project KB should receive source notes under Sources/Papers plus project-linked synthesis in Knowledge and Writing.",
+          "version": "0.3.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Galaxy-Dawn",
+        "repo": "claude-scholar",
+        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "galaxy-dawn-claude-scholar-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from Galaxy-Dawn/claude-scholar.",
+      "author": "ASM (Galaxy-Dawn/claude-scholar)",
+      "createdAt": "2026-10-19T08:20:53.575Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "galaxy-dawn",
+        "claude-scholar"
+      ],
+      "skills": [
+        {
+          "name": "agent-identifier",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/agent-identifier",
+          "description": "Use when creating or configuring Claude Code agents and their frontmatter.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "architecture-design",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/architecture-design",
+          "description": "Use only when creating new registrable ML components that require Factory or Registry patterns.",
+          "version": "1.2.0"
+        },
+        {
+          "name": "bug-detective",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/bug-detective",
+          "description": "This skill should be used when the user asks to \"debug this\", \"fix this error\", \"investigate this bug\", \"troubleshoot this issue\", \"find the problem\", \"something is broken\", \"this isn't working\", \"why is this failing\", or reports errors/exceptions/bugs. Provides systematic debugging workflow and common error patterns.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "citation-verification",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/citation-verification",
+          "description": "This skill provides reference guidance for citation verification in academic writing. Use when the user asks about \"citation verification best practices\", \"how to verify references\", \"preventing fake citations\", or needs guidance on citation accuracy. This skill supports ml-paper-writing by providing detailed verification principles and common error patterns.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "code-review-excellence",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/code-review-excellence",
+          "description": "This skill should be used when the user asks to review a diff or pull request, write review comments, audit code quality, establish review standards, or improve how a team performs code review.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "command-development",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/command-development",
+          "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "daily-coding",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-coding",
+          "description": "Use for everyday coding tasks that involve writing or modifying source code.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "daily-paper-generator",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-paper-generator",
+          "description": "Use when the user asks to generate daily paper digests on a general topic. This skill supports both arXiv and bioRxiv (or either one), then produces structured Chinese/English summaries for selected papers.",
+          "version": "0.5.1"
+        },
+        {
+          "name": "defuddle",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/defuddle",
+          "description": "Extract clean Markdown from web pages. In the KB workflow, use it as a utility under obsidian-source-ingestion.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "doc-coauthoring",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/doc-coauthoring",
+          "description": "This skill should be used when the user asks to co-author documentation, draft a proposal, write a technical spec, create a decision doc or RFC, or structure a substantial document through iterative collaboration and reader testing.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "expression-skill",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/expression-skill",
+          "description": "This skill should be used when the user asks for efficient communication, task reports, file-operation summaries, research discussion, study-note synthesis, planning, writing feedback, or responses that need conclusion-first structure, concrete evidence, risk disclosure, and useful next steps.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "frontend-design",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/frontend-design",
+          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "git-workflow",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/git-workflow",
+          "description": "This skill should be used when the user asks to \"create git commit\", \"manage branches\", \"follow git workflow\", \"use Conventional Commits\", \"handle merge conflicts\", or asks about git branching strategies, version control best practices, pull request workflows. Provides comprehensive Git workflow guidance for team collaboration.",
+          "version": "1.2.0"
+        },
+        {
+          "name": "hook-development",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/hook-development",
+          "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "kaggle-learner",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/kaggle-learner",
+          "description": "This skill should be used when the user asks to \"learn from Kaggle\", \"study Kaggle solutions\", \"analyze Kaggle competitions\", or mentions Kaggle competition URLs. Provides access to extracted knowledge from winning Kaggle solutions across NLP, CV, time series, tabular, and multimodal domains.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "latex-conference-template-organizer",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/latex-conference-template-organizer",
+          "description": "Organize messy conference LaTeX template .zip files into clean Overleaf-ready structure. Use when the user asks to \"organize LaTeX template\", \"clean up .zip template\", or \"prepare Overleaf submission template\".",
+          "version": "0.1.0"
+        },
+        {
+          "name": "mcp-integration",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/mcp-integration",
+          "description": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"configure MCP in plugin\", \"use .mcp.json\", \"set up Model Context Protocol\", \"connect external service\", mentions \"${CLAUDE_PLUGIN_ROOT} with MCP\", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "ml-paper-writing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ml-paper-writing",
+          "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, conducting literature reviews, finding related work, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, citation verification workflows, and paper discovery/evaluation criteria.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nature-data",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-data",
+          "description": "Prepare, audit, or revise Nature-ready Data Availability statements, data repository plans, dataset citations, and FAIR metadata checklists for manuscripts. Use when the user asks about Nature data availability, research data sharing, repository selection, accession numbers, restricted or sensitive data, source data, supplementary datasets, DataCite-style dataset references, FAIR metadata for academic publication, or Chinese-to-English data availability wording for Chinese-speaking authors preparing Nature-family submissions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "nature-polishing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-polishing",
+          "description": "Polish, restructure, or translate academic prose into Nature-leaning English using writing-strategy principles, curated Nature/Nature Communications article patterns, and phrase-level support from Academic Phrasebank. Use whenever the user asks to polish a manuscript paragraph, abstract, introduction, results, discussion, conclusion, title, methods section, or Chinese academic draft for publication-quality English.",
+          "version": "5.0.2"
+        },
+        {
+          "name": "nature-response",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-response",
+          "description": "Draft, audit, or revise point-by-point reviewer response letters for Nature-family manuscript revisions. Use when the user provides reviewer comments, editor decision letters, revision notes, response drafts, or asks how to respond to major/minor revision requests, rebuttal letters, response to reviewers, peer-review reports, 审稿意见回复, 逐点回复, 修回信, 大修回复, 小修回复, or 如何回复 reviewer.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "nature-writing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-writing",
+          "description": "Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, results narrative, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "obsidian-kb-artifacts",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-kb-artifacts",
+          "description": "Use this skill for Obsidian-native formatting and derived artifacts such as Markdown formatting, wikilinks, registry tables, canvas files, optional Bases, CLI operations, and link repair. This skill does not decide knowledge routing.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "obsidian-literature-workflow",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
+          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "obsidian-project-kb-core",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-project-kb-core",
+          "description": "Use this as the main Claude Scholar skill for a vault-first, project-scoped Obsidian research knowledge base rooted at Research/{project-slug}/. It owns bootstrap, routing, daily logging, hub/plan/index maintenance, registry updates, lifecycle actions, and lint orchestration.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "obsidian-source-ingestion",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-source-ingestion",
+          "description": "Use this skill to ingest external materials into the current project-scoped Obsidian KB as source notes under Sources/Papers, Sources/Web, Sources/Docs, Sources/Data, Sources/Interviews, or Sources/Notes.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "paper-self-review",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/paper-self-review",
+          "description": "This skill should be used when the user asks to \"review paper quality\", \"check paper completeness\", \"validate paper structure\", \"self-review before submission\", \"audit claims\", \"check overclaiming\", \"verify whether results support claims\", or mentions systematic paper quality checking. Provides comprehensive quality assurance checklist for academic papers.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "planning-with-files",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/planning-with-files",
+          "description": "Use this by default for non-trivial multi-step work that needs persistent planning, progress tracking, or durable notes on disk. Trigger when a task will likely span multiple tool calls, research steps, verification loops, or enough context that the plan should not live only in transient chat memory.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "plugin-structure",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/plugin-structure",
+          "description": "This skill should be used when the user asks to \"create a plugin\", \"scaffold a plugin\", \"understand plugin structure\", \"organize plugin components\", \"set up plugin.json\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"add commands/agents/skills/hooks\", \"configure auto-discovery\", or needs guidance on plugin directory layout, manifest configuration, component organization, file naming conventions, or Claude Code plugin architecture best practices.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "post-acceptance",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/post-acceptance",
+          "description": "This skill should be used when the user asks to \"prepare conference presentation\", \"create presentation slides\", \"design poster\", \"make academic poster\", \"write promotion content\", \"create Twitter thread\", or mentions post-acceptance conference preparation. Provides comprehensive workflow for presentation, poster, and promotion content creation.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "publication-chart-skill",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/publication-chart-skill",
+          "description": "This skill should be used when the user asks for a publication-quality scientific figure or table, wants help choosing the right chart for results, needs a paper-ready pubfig or pubtab workflow, wants a figure + companion table for a results section, wants an Excel sheet turned into publication-ready LaTeX, or wants an existing scientific figure/table reviewed and upgraded.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "research-ideation",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
+          "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "results-analysis",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-analysis",
+          "description": "This skill should be used when the user asks to \"analyze experimental results\", \"run strict statistical analysis\", \"compare model performance\", \"generate scientific figures\", \"check significance\", \"do ablation analysis\", or mentions interpreting experiment data with rigorous statistics and visualization. It focuses on strict analysis bundles, not Results-section prose.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "results-report",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-report",
+          "description": "This skill should be used when the user asks to \"write an experiment report\", \"summarize experimental results\", \"do experiment retrospection\", \"write a results report\", \"写实验总结报告\", \"写实验复盘\", or mentions turning completed experiment artifacts into a structured, decision-oriented research report. It assumes strict analysis should come from `results-analysis` first.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "review-response",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/review-response",
+          "description": "Systematic review response workflow from comment analysis to professional rebuttal writing. Use when the user asks to \"write rebuttal\", \"respond to reviewers\", \"draft review response\", or \"analyze review comments\". Improves paper acceptance rates.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "skill-development",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-development",
+          "description": "This skill should be used when the user asks to create a new skill, repair an existing skill, improve trigger descriptions, reorganize skill structure, or make a Claude skill more reusable and internally consistent.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "skill-improver",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-improver",
+          "description": "This skill should be used when the user asks to \"apply skill improvements\", \"update skill from plan\", \"execute improvement plan\", \"fix skill issues\", \"implement skill recommendations\", or mentions applying improvements from quality review reports. Reads improvement-plan-{name}.md files generated by skill-quality-reviewer and intelligently merges and executes the suggested changes to improve Claude Skills quality.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "skill-quality-reviewer",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-quality-reviewer",
+          "description": "This skill should be used when the user asks to \"analyze skill quality\", \"evaluate this skill\", \"review skill quality\", \"check my skill\", or \"generate quality report\". Evaluates local skills across description quality, content organization, writing style, and structural integrity.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "ui-ux-pro-max",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ui-ux-pro-max",
+          "description": "This skill should be used when the user asks to design or review a UI, create a landing page or dashboard, choose colors or typography, improve accessibility, or implement polished frontend interfaces with a clear design system.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "uv-package-manager",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/uv-package-manager",
+          "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "verification-loop",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/verification-loop",
+          "description": "This skill should be used when the user asks to \"verify code\", \"run verification\", \"check quality\", \"validate changes\", or before creating a PR. Provides comprehensive verification including build, type check, lint, tests, security scan, and diff review.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "web-design-reviewer",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/web-design-reviewer",
+          "description": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and layout breakage, then performs fixes at the source code level.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "webapp-testing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/webapp-testing",
+          "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "writing-anti-ai",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/writing-anti-ai",
+          "description": "This skill should be used when the user asks to \"remove AI writing patterns\", \"humanize this text\", \"make this sound more natural\", \"remove AI-generated traces\", \"fix robotic writing\", or needs to eliminate AI writing patterns from prose. Supports both English and Chinese text. Based on Wikipedia's \"Signs of AI writing\" guide, detects and fixes inflated symbolism, promotional language, superficial -ing analyses, vague attributions, AI vocabulary, negative parallelisms, and excessive conjunctive phrases.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "zotero-obsidian-bridge",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/zotero-obsidian-bridge",
+          "description": "Use this skill when Zotero is the literature source of truth and the project KB should receive source notes under Sources/Papers plus project-linked synthesis in Knowledge and Writing.",
+          "version": "0.3.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Galaxy-Dawn",
+        "repo": "claude-scholar",
+        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "galaxy-dawn-claude-scholar-engineering",
+      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from Galaxy-Dawn/claude-scholar.",
+      "author": "ASM (Galaxy-Dawn/claude-scholar)",
+      "createdAt": "2026-10-19T08:20:53.575Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "engineering",
+        "coding",
+        "testing",
+        "galaxy-dawn",
+        "claude-scholar"
+      ],
+      "skills": [
+        {
+          "name": "agent-identifier",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/agent-identifier",
+          "description": "Use when creating or configuring Claude Code agents and their frontmatter.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "architecture-design",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/architecture-design",
+          "description": "Use only when creating new registrable ML components that require Factory or Registry patterns.",
+          "version": "1.2.0"
+        },
+        {
+          "name": "bug-detective",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/bug-detective",
+          "description": "This skill should be used when the user asks to \"debug this\", \"fix this error\", \"investigate this bug\", \"troubleshoot this issue\", \"find the problem\", \"something is broken\", \"this isn't working\", \"why is this failing\", or reports errors/exceptions/bugs. Provides systematic debugging workflow and common error patterns.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "code-review-excellence",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/code-review-excellence",
+          "description": "This skill should be used when the user asks to review a diff or pull request, write review comments, audit code quality, establish review standards, or improve how a team performs code review.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "command-development",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/command-development",
+          "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "daily-coding",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-coding",
+          "description": "Use for everyday coding tasks that involve writing or modifying source code.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "doc-coauthoring",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/doc-coauthoring",
+          "description": "This skill should be used when the user asks to co-author documentation, draft a proposal, write a technical spec, create a decision doc or RFC, or structure a substantial document through iterative collaboration and reader testing.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "frontend-design",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/frontend-design",
+          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "hook-development",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/hook-development",
+          "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "mcp-integration",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/mcp-integration",
+          "description": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"configure MCP in plugin\", \"use .mcp.json\", \"set up Model Context Protocol\", \"connect external service\", mentions \"${CLAUDE_PLUGIN_ROOT} with MCP\", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "ml-paper-writing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ml-paper-writing",
+          "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, conducting literature reviews, finding related work, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, citation verification workflows, and paper discovery/evaluation criteria.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nature-response",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-response",
+          "description": "Draft, audit, or revise point-by-point reviewer response letters for Nature-family manuscript revisions. Use when the user provides reviewer comments, editor decision letters, revision notes, response drafts, or asks how to respond to major/minor revision requests, rebuttal letters, response to reviewers, peer-review reports, 审稿意见回复, 逐点回复, 修回信, 大修回复, 小修回复, or 如何回复 reviewer.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "nature-writing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-writing",
+          "description": "Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, results narrative, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "obsidian-kb-artifacts",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-kb-artifacts",
+          "description": "Use this skill for Obsidian-native formatting and derived artifacts such as Markdown formatting, wikilinks, registry tables, canvas files, optional Bases, CLI operations, and link repair. This skill does not decide knowledge routing.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "obsidian-literature-workflow",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
+          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "paper-self-review",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/paper-self-review",
+          "description": "This skill should be used when the user asks to \"review paper quality\", \"check paper completeness\", \"validate paper structure\", \"self-review before submission\", \"audit claims\", \"check overclaiming\", \"verify whether results support claims\", or mentions systematic paper quality checking. Provides comprehensive quality assurance checklist for academic papers.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "plugin-structure",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/plugin-structure",
+          "description": "This skill should be used when the user asks to \"create a plugin\", \"scaffold a plugin\", \"understand plugin structure\", \"organize plugin components\", \"set up plugin.json\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"add commands/agents/skills/hooks\", \"configure auto-discovery\", or needs guidance on plugin directory layout, manifest configuration, component organization, file naming conventions, or Claude Code plugin architecture best practices.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "publication-chart-skill",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/publication-chart-skill",
+          "description": "This skill should be used when the user asks for a publication-quality scientific figure or table, wants help choosing the right chart for results, needs a paper-ready pubfig or pubtab workflow, wants a figure + companion table for a results section, wants an Excel sheet turned into publication-ready LaTeX, or wants an existing scientific figure/table reviewed and upgraded.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "research-ideation",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
+          "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "review-response",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/review-response",
+          "description": "Systematic review response workflow from comment analysis to professional rebuttal writing. Use when the user asks to \"write rebuttal\", \"respond to reviewers\", \"draft review response\", or \"analyze review comments\". Improves paper acceptance rates.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "skill-improver",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-improver",
+          "description": "This skill should be used when the user asks to \"apply skill improvements\", \"update skill from plan\", \"execute improvement plan\", \"fix skill issues\", \"implement skill recommendations\", or mentions applying improvements from quality review reports. Reads improvement-plan-{name}.md files generated by skill-quality-reviewer and intelligently merges and executes the suggested changes to improve Claude Skills quality.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "skill-quality-reviewer",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-quality-reviewer",
+          "description": "This skill should be used when the user asks to \"analyze skill quality\", \"evaluate this skill\", \"review skill quality\", \"check my skill\", or \"generate quality report\". Evaluates local skills across description quality, content organization, writing style, and structural integrity.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "ui-ux-pro-max",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ui-ux-pro-max",
+          "description": "This skill should be used when the user asks to design or review a UI, create a landing page or dashboard, choose colors or typography, improve accessibility, or implement polished frontend interfaces with a clear design system.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "uv-package-manager",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/uv-package-manager",
+          "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "verification-loop",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/verification-loop",
+          "description": "This skill should be used when the user asks to \"verify code\", \"run verification\", \"check quality\", \"validate changes\", or before creating a PR. Provides comprehensive verification including build, type check, lint, tests, security scan, and diff review.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "web-design-reviewer",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/web-design-reviewer",
+          "description": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and layout breakage, then performs fixes at the source code level.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "webapp-testing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/webapp-testing",
+          "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+          "version": "0.1.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Galaxy-Dawn",
+        "repo": "claude-scholar",
+        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "galaxy-dawn-claude-scholar-frontend-design",
+      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from Galaxy-Dawn/claude-scholar.",
+      "author": "ASM (Galaxy-Dawn/claude-scholar)",
+      "createdAt": "2026-10-19T08:20:53.575Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "frontend",
+        "design",
+        "ui",
+        "galaxy-dawn",
+        "claude-scholar"
+      ],
+      "skills": [
+        {
+          "name": "architecture-design",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/architecture-design",
+          "description": "Use only when creating new registrable ML components that require Factory or Registry patterns.",
+          "version": "1.2.0"
+        },
+        {
+          "name": "citation-verification",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/citation-verification",
+          "description": "This skill provides reference guidance for citation verification in academic writing. Use when the user asks about \"citation verification best practices\", \"how to verify references\", \"preventing fake citations\", or needs guidance on citation accuracy. This skill supports ml-paper-writing by providing detailed verification principles and common error patterns.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "command-development",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/command-development",
+          "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "frontend-design",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/frontend-design",
+          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "git-workflow",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/git-workflow",
+          "description": "This skill should be used when the user asks to \"create git commit\", \"manage branches\", \"follow git workflow\", \"use Conventional Commits\", \"handle merge conflicts\", or asks about git branching strategies, version control best practices, pull request workflows. Provides comprehensive Git workflow guidance for team collaboration.",
+          "version": "1.2.0"
+        },
+        {
+          "name": "hook-development",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/hook-development",
+          "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "mcp-integration",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/mcp-integration",
+          "description": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"configure MCP in plugin\", \"use .mcp.json\", \"set up Model Context Protocol\", \"connect external service\", mentions \"${CLAUDE_PLUGIN_ROOT} with MCP\", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "nature-writing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-writing",
+          "description": "Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, results narrative, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "obsidian-literature-workflow",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
+          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "plugin-structure",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/plugin-structure",
+          "description": "This skill should be used when the user asks to \"create a plugin\", \"scaffold a plugin\", \"understand plugin structure\", \"organize plugin components\", \"set up plugin.json\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"add commands/agents/skills/hooks\", \"configure auto-discovery\", or needs guidance on plugin directory layout, manifest configuration, component organization, file naming conventions, or Claude Code plugin architecture best practices.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "post-acceptance",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/post-acceptance",
+          "description": "This skill should be used when the user asks to \"prepare conference presentation\", \"create presentation slides\", \"design poster\", \"make academic poster\", \"write promotion content\", \"create Twitter thread\", or mentions post-acceptance conference preparation. Provides comprehensive workflow for presentation, poster, and promotion content creation.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "research-ideation",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
+          "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "results-analysis",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-analysis",
+          "description": "This skill should be used when the user asks to \"analyze experimental results\", \"run strict statistical analysis\", \"compare model performance\", \"generate scientific figures\", \"check significance\", \"do ablation analysis\", or mentions interpreting experiment data with rigorous statistics and visualization. It focuses on strict analysis bundles, not Results-section prose.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "ui-ux-pro-max",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ui-ux-pro-max",
+          "description": "This skill should be used when the user asks to design or review a UI, create a landing page or dashboard, choose colors or typography, improve accessibility, or implement polished frontend interfaces with a clear design system.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "verification-loop",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/verification-loop",
+          "description": "This skill should be used when the user asks to \"verify code\", \"run verification\", \"check quality\", \"validate changes\", or before creating a PR. Provides comprehensive verification including build, type check, lint, tests, security scan, and diff review.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "web-design-reviewer",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/web-design-reviewer",
+          "description": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and layout breakage, then performs fixes at the source code level.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "webapp-testing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/webapp-testing",
+          "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "writing-anti-ai",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/writing-anti-ai",
+          "description": "This skill should be used when the user asks to \"remove AI writing patterns\", \"humanize this text\", \"make this sound more natural\", \"remove AI-generated traces\", \"fix robotic writing\", or needs to eliminate AI writing patterns from prose. Supports both English and Chinese text. Based on Wikipedia's \"Signs of AI writing\" guide, detects and fixes inflated symbolism, promotional language, superficial -ing analyses, vague attributions, AI vocabulary, negative parallelisms, and excessive conjunctive phrases.",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Galaxy-Dawn",
+        "repo": "claude-scholar",
+        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "galaxy-dawn-claude-scholar-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Galaxy-Dawn/claude-scholar.",
+      "author": "ASM (Galaxy-Dawn/claude-scholar)",
+      "createdAt": "2026-10-19T08:20:53.575Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "devops",
+        "infra",
+        "automation",
+        "galaxy-dawn",
+        "claude-scholar"
+      ],
+      "skills": [
+        {
+          "name": "bug-detective",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/bug-detective",
+          "description": "This skill should be used when the user asks to \"debug this\", \"fix this error\", \"investigate this bug\", \"troubleshoot this issue\", \"find the problem\", \"something is broken\", \"this isn't working\", \"why is this failing\", or reports errors/exceptions/bugs. Provides systematic debugging workflow and common error patterns.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "citation-verification",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/citation-verification",
+          "description": "This skill provides reference guidance for citation verification in academic writing. Use when the user asks about \"citation verification best practices\", \"how to verify references\", \"preventing fake citations\", or needs guidance on citation accuracy. This skill supports ml-paper-writing by providing detailed verification principles and common error patterns.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "defuddle",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/defuddle",
+          "description": "Extract clean Markdown from web pages. In the KB workflow, use it as a utility under obsidian-source-ingestion.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "doc-coauthoring",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/doc-coauthoring",
+          "description": "This skill should be used when the user asks to co-author documentation, draft a proposal, write a technical spec, create a decision doc or RFC, or structure a substantial document through iterative collaboration and reader testing.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "expression-skill",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/expression-skill",
+          "description": "This skill should be used when the user asks for efficient communication, task reports, file-operation summaries, research discussion, study-note synthesis, planning, writing feedback, or responses that need conclusion-first structure, concrete evidence, risk disclosure, and useful next steps.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "git-workflow",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/git-workflow",
+          "description": "This skill should be used when the user asks to \"create git commit\", \"manage branches\", \"follow git workflow\", \"use Conventional Commits\", \"handle merge conflicts\", or asks about git branching strategies, version control best practices, pull request workflows. Provides comprehensive Git workflow guidance for team collaboration.",
+          "version": "1.2.0"
+        },
+        {
+          "name": "ml-paper-writing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ml-paper-writing",
+          "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, conducting literature reviews, finding related work, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, citation verification workflows, and paper discovery/evaluation criteria.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nature-data",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-data",
+          "description": "Prepare, audit, or revise Nature-ready Data Availability statements, data repository plans, dataset citations, and FAIR metadata checklists for manuscripts. Use when the user asks about Nature data availability, research data sharing, repository selection, accession numbers, restricted or sensitive data, source data, supplementary datasets, DataCite-style dataset references, FAIR metadata for academic publication, or Chinese-to-English data availability wording for Chinese-speaking authors preparing Nature-family submissions.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "nature-polishing",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-polishing",
+          "description": "Polish, restructure, or translate academic prose into Nature-leaning English using writing-strategy principles, curated Nature/Nature Communications article patterns, and phrase-level support from Academic Phrasebank. Use whenever the user asks to polish a manuscript paragraph, abstract, introduction, results, discussion, conclusion, title, methods section, or Chinese academic draft for publication-quality English.",
+          "version": "5.0.2"
+        },
+        {
+          "name": "nature-response",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-response",
+          "description": "Draft, audit, or revise point-by-point reviewer response letters for Nature-family manuscript revisions. Use when the user provides reviewer comments, editor decision letters, revision notes, response drafts, or asks how to respond to major/minor revision requests, rebuttal letters, response to reviewers, peer-review reports, 审稿意见回复, 逐点回复, 修回信, 大修回复, 小修回复, or 如何回复 reviewer.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "obsidian-kb-artifacts",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-kb-artifacts",
+          "description": "Use this skill for Obsidian-native formatting and derived artifacts such as Markdown formatting, wikilinks, registry tables, canvas files, optional Bases, CLI operations, and link repair. This skill does not decide knowledge routing.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "obsidian-literature-workflow",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
+          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "post-acceptance",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/post-acceptance",
+          "description": "This skill should be used when the user asks to \"prepare conference presentation\", \"create presentation slides\", \"design poster\", \"make academic poster\", \"write promotion content\", \"create Twitter thread\", or mentions post-acceptance conference preparation. Provides comprehensive workflow for presentation, poster, and promotion content creation.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "publication-chart-skill",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/publication-chart-skill",
+          "description": "This skill should be used when the user asks for a publication-quality scientific figure or table, wants help choosing the right chart for results, needs a paper-ready pubfig or pubtab workflow, wants a figure + companion table for a results section, wants an Excel sheet turned into publication-ready LaTeX, or wants an existing scientific figure/table reviewed and upgraded.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "research-ideation",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
+          "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "results-analysis",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-analysis",
+          "description": "This skill should be used when the user asks to \"analyze experimental results\", \"run strict statistical analysis\", \"compare model performance\", \"generate scientific figures\", \"check significance\", \"do ablation analysis\", or mentions interpreting experiment data with rigorous statistics and visualization. It focuses on strict analysis bundles, not Results-section prose.",
+          "version": "0.2.0"
+        },
+        {
+          "name": "results-report",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-report",
+          "description": "This skill should be used when the user asks to \"write an experiment report\", \"summarize experimental results\", \"do experiment retrospection\", \"write a results report\", \"写实验总结报告\", \"写实验复盘\", or mentions turning completed experiment artifacts into a structured, decision-oriented research report. It assumes strict analysis should come from `results-analysis` first.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "review-response",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/review-response",
+          "description": "Systematic review response workflow from comment analysis to professional rebuttal writing. Use when the user asks to \"write rebuttal\", \"respond to reviewers\", \"draft review response\", or \"analyze review comments\". Improves paper acceptance rates.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "uv-package-manager",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/uv-package-manager",
+          "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+          "version": "0.1.0"
+        },
+        {
+          "name": "writing-anti-ai",
+          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/writing-anti-ai",
+          "description": "This skill should be used when the user asks to \"remove AI writing patterns\", \"humanize this text\", \"make this sound more natural\", \"remove AI-generated traces\", \"fix robotic writing\", or needs to eliminate AI writing patterns from prose. Supports both English and Chinese text. Based on Wikipedia's \"Signs of AI writing\" guide, detects and fixes inflated symbolism, promotional language, superficial -ing analyses, vague attributions, AI vocabulary, negative parallelisms, and excessive conjunctive phrases.",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "Galaxy-Dawn",
+        "repo": "claude-scholar",
+        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
       "name": "galaxy-dawn-claude-scholar-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from Galaxy-Dawn/claude-scholar.",
       "author": "ASM (Galaxy-Dawn/claude-scholar)",
-      "createdAt": "2026-10-11T05:04:52.066Z",
+      "createdAt": "2026-10-19T08:20:53.575Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8409,508 +9351,10 @@
     },
     {
       "version": 1,
-      "name": "galaxy-dawn-claude-scholar-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from Galaxy-Dawn/claude-scholar.",
-      "author": "ASM (Galaxy-Dawn/claude-scholar)",
-      "createdAt": "2026-10-11T05:04:52.066Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "galaxy-dawn",
-        "claude-scholar"
-      ],
-      "skills": [
-        {
-          "name": "bug-detective",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/bug-detective",
-          "description": "This skill should be used when the user asks to \"debug this\", \"fix this error\", \"investigate this bug\", \"troubleshoot this issue\", \"find the problem\", \"something is broken\", \"this isn't working\", \"why is this failing\", or reports errors/exceptions/bugs. Provides systematic debugging workflow and common error patterns.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "citation-verification",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/citation-verification",
-          "description": "This skill provides reference guidance for citation verification in academic writing. Use when the user asks about \"citation verification best practices\", \"how to verify references\", \"preventing fake citations\", or needs guidance on citation accuracy. This skill supports ml-paper-writing by providing detailed verification principles and common error patterns.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "defuddle",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/defuddle",
-          "description": "Extract clean Markdown from web pages. In the KB workflow, use it as a utility under obsidian-source-ingestion.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "doc-coauthoring",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/doc-coauthoring",
-          "description": "This skill should be used when the user asks to co-author documentation, draft a proposal, write a technical spec, create a decision doc or RFC, or structure a substantial document through iterative collaboration and reader testing.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "expression-skill",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/expression-skill",
-          "description": "This skill should be used when the user asks for efficient communication, task reports, file-operation summaries, research discussion, study-note synthesis, planning, writing feedback, or responses that need conclusion-first structure, concrete evidence, risk disclosure, and useful next steps.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "git-workflow",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/git-workflow",
-          "description": "This skill should be used when the user asks to \"create git commit\", \"manage branches\", \"follow git workflow\", \"use Conventional Commits\", \"handle merge conflicts\", or asks about git branching strategies, version control best practices, pull request workflows. Provides comprehensive Git workflow guidance for team collaboration.",
-          "version": "1.2.0"
-        },
-        {
-          "name": "ml-paper-writing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ml-paper-writing",
-          "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, conducting literature reviews, finding related work, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, citation verification workflows, and paper discovery/evaluation criteria.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "nature-data",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-data",
-          "description": "Prepare, audit, or revise Nature-ready Data Availability statements, data repository plans, dataset citations, and FAIR metadata checklists for manuscripts. Use when the user asks about Nature data availability, research data sharing, repository selection, accession numbers, restricted or sensitive data, source data, supplementary datasets, DataCite-style dataset references, FAIR metadata for academic publication, or Chinese-to-English data availability wording for Chinese-speaking authors preparing Nature-family submissions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "nature-polishing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-polishing",
-          "description": "Polish, restructure, or translate academic prose into Nature-leaning English using writing-strategy principles, curated Nature/Nature Communications article patterns, and phrase-level support from Academic Phrasebank. Use whenever the user asks to polish a manuscript paragraph, abstract, introduction, results, discussion, conclusion, title, methods section, or Chinese academic draft for publication-quality English.",
-          "version": "5.0.2"
-        },
-        {
-          "name": "nature-response",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-response",
-          "description": "Draft, audit, or revise point-by-point reviewer response letters for Nature-family manuscript revisions. Use when the user provides reviewer comments, editor decision letters, revision notes, response drafts, or asks how to respond to major/minor revision requests, rebuttal letters, response to reviewers, peer-review reports, 审稿意见回复, 逐点回复, 修回信, 大修回复, 小修回复, or 如何回复 reviewer.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "obsidian-kb-artifacts",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-kb-artifacts",
-          "description": "Use this skill for Obsidian-native formatting and derived artifacts such as Markdown formatting, wikilinks, registry tables, canvas files, optional Bases, CLI operations, and link repair. This skill does not decide knowledge routing.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "obsidian-literature-workflow",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
-          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "post-acceptance",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/post-acceptance",
-          "description": "This skill should be used when the user asks to \"prepare conference presentation\", \"create presentation slides\", \"design poster\", \"make academic poster\", \"write promotion content\", \"create Twitter thread\", or mentions post-acceptance conference preparation. Provides comprehensive workflow for presentation, poster, and promotion content creation.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "publication-chart-skill",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/publication-chart-skill",
-          "description": "This skill should be used when the user asks for a publication-quality scientific figure or table, wants help choosing the right chart for results, needs a paper-ready pubfig or pubtab workflow, wants a figure + companion table for a results section, wants an Excel sheet turned into publication-ready LaTeX, or wants an existing scientific figure/table reviewed and upgraded.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "research-ideation",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
-          "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "results-analysis",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-analysis",
-          "description": "This skill should be used when the user asks to \"analyze experimental results\", \"run strict statistical analysis\", \"compare model performance\", \"generate scientific figures\", \"check significance\", \"do ablation analysis\", or mentions interpreting experiment data with rigorous statistics and visualization. It focuses on strict analysis bundles, not Results-section prose.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "results-report",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-report",
-          "description": "This skill should be used when the user asks to \"write an experiment report\", \"summarize experimental results\", \"do experiment retrospection\", \"write a results report\", \"写实验总结报告\", \"写实验复盘\", or mentions turning completed experiment artifacts into a structured, decision-oriented research report. It assumes strict analysis should come from `results-analysis` first.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "review-response",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/review-response",
-          "description": "Systematic review response workflow from comment analysis to professional rebuttal writing. Use when the user asks to \"write rebuttal\", \"respond to reviewers\", \"draft review response\", or \"analyze review comments\". Improves paper acceptance rates.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "uv-package-manager",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/uv-package-manager",
-          "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "writing-anti-ai",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/writing-anti-ai",
-          "description": "This skill should be used when the user asks to \"remove AI writing patterns\", \"humanize this text\", \"make this sound more natural\", \"remove AI-generated traces\", \"fix robotic writing\", or needs to eliminate AI writing patterns from prose. Supports both English and Chinese text. Based on Wikipedia's \"Signs of AI writing\" guide, detects and fixes inflated symbolism, promotional language, superficial -ing analyses, vague attributions, AI vocabulary, negative parallelisms, and excessive conjunctive phrases.",
-          "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Galaxy-Dawn",
-        "repo": "claude-scholar",
-        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "galaxy-dawn-claude-scholar-engineering",
-      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from Galaxy-Dawn/claude-scholar.",
-      "author": "ASM (Galaxy-Dawn/claude-scholar)",
-      "createdAt": "2026-10-11T05:04:52.066Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "engineering",
-        "coding",
-        "testing",
-        "galaxy-dawn",
-        "claude-scholar"
-      ],
-      "skills": [
-        {
-          "name": "agent-identifier",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/agent-identifier",
-          "description": "Use when creating or configuring Claude Code agents and their frontmatter.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "architecture-design",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/architecture-design",
-          "description": "Use only when creating new registrable ML components that require Factory or Registry patterns.",
-          "version": "1.2.0"
-        },
-        {
-          "name": "bug-detective",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/bug-detective",
-          "description": "This skill should be used when the user asks to \"debug this\", \"fix this error\", \"investigate this bug\", \"troubleshoot this issue\", \"find the problem\", \"something is broken\", \"this isn't working\", \"why is this failing\", or reports errors/exceptions/bugs. Provides systematic debugging workflow and common error patterns.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "code-review-excellence",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/code-review-excellence",
-          "description": "This skill should be used when the user asks to review a diff or pull request, write review comments, audit code quality, establish review standards, or improve how a team performs code review.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "command-development",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/command-development",
-          "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "daily-coding",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-coding",
-          "description": "Use for everyday coding tasks that involve writing or modifying source code.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "doc-coauthoring",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/doc-coauthoring",
-          "description": "This skill should be used when the user asks to co-author documentation, draft a proposal, write a technical spec, create a decision doc or RFC, or structure a substantial document through iterative collaboration and reader testing.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "frontend-design",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/frontend-design",
-          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "hook-development",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/hook-development",
-          "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "mcp-integration",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/mcp-integration",
-          "description": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"configure MCP in plugin\", \"use .mcp.json\", \"set up Model Context Protocol\", \"connect external service\", mentions \"${CLAUDE_PLUGIN_ROOT} with MCP\", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "ml-paper-writing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ml-paper-writing",
-          "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, conducting literature reviews, finding related work, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, citation verification workflows, and paper discovery/evaluation criteria.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "nature-response",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-response",
-          "description": "Draft, audit, or revise point-by-point reviewer response letters for Nature-family manuscript revisions. Use when the user provides reviewer comments, editor decision letters, revision notes, response drafts, or asks how to respond to major/minor revision requests, rebuttal letters, response to reviewers, peer-review reports, 审稿意见回复, 逐点回复, 修回信, 大修回复, 小修回复, or 如何回复 reviewer.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "nature-writing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-writing",
-          "description": "Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, results narrative, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "obsidian-kb-artifacts",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-kb-artifacts",
-          "description": "Use this skill for Obsidian-native formatting and derived artifacts such as Markdown formatting, wikilinks, registry tables, canvas files, optional Bases, CLI operations, and link repair. This skill does not decide knowledge routing.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "obsidian-literature-workflow",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
-          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "paper-self-review",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/paper-self-review",
-          "description": "This skill should be used when the user asks to \"review paper quality\", \"check paper completeness\", \"validate paper structure\", \"self-review before submission\", \"audit claims\", \"check overclaiming\", \"verify whether results support claims\", or mentions systematic paper quality checking. Provides comprehensive quality assurance checklist for academic papers.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "plugin-structure",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/plugin-structure",
-          "description": "This skill should be used when the user asks to \"create a plugin\", \"scaffold a plugin\", \"understand plugin structure\", \"organize plugin components\", \"set up plugin.json\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"add commands/agents/skills/hooks\", \"configure auto-discovery\", or needs guidance on plugin directory layout, manifest configuration, component organization, file naming conventions, or Claude Code plugin architecture best practices.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "publication-chart-skill",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/publication-chart-skill",
-          "description": "This skill should be used when the user asks for a publication-quality scientific figure or table, wants help choosing the right chart for results, needs a paper-ready pubfig or pubtab workflow, wants a figure + companion table for a results section, wants an Excel sheet turned into publication-ready LaTeX, or wants an existing scientific figure/table reviewed and upgraded.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "research-ideation",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
-          "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "review-response",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/review-response",
-          "description": "Systematic review response workflow from comment analysis to professional rebuttal writing. Use when the user asks to \"write rebuttal\", \"respond to reviewers\", \"draft review response\", or \"analyze review comments\". Improves paper acceptance rates.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "skill-improver",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-improver",
-          "description": "This skill should be used when the user asks to \"apply skill improvements\", \"update skill from plan\", \"execute improvement plan\", \"fix skill issues\", \"implement skill recommendations\", or mentions applying improvements from quality review reports. Reads improvement-plan-{name}.md files generated by skill-quality-reviewer and intelligently merges and executes the suggested changes to improve Claude Skills quality.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "skill-quality-reviewer",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-quality-reviewer",
-          "description": "This skill should be used when the user asks to \"analyze skill quality\", \"evaluate this skill\", \"review skill quality\", \"check my skill\", or \"generate quality report\". Evaluates local skills across description quality, content organization, writing style, and structural integrity.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "ui-ux-pro-max",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ui-ux-pro-max",
-          "description": "This skill should be used when the user asks to design or review a UI, create a landing page or dashboard, choose colors or typography, improve accessibility, or implement polished frontend interfaces with a clear design system.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "uv-package-manager",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/uv-package-manager",
-          "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "verification-loop",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/verification-loop",
-          "description": "This skill should be used when the user asks to \"verify code\", \"run verification\", \"check quality\", \"validate changes\", or before creating a PR. Provides comprehensive verification including build, type check, lint, tests, security scan, and diff review.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "web-design-reviewer",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/web-design-reviewer",
-          "description": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and layout breakage, then performs fixes at the source code level.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "webapp-testing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/webapp-testing",
-          "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
-          "version": "0.1.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Galaxy-Dawn",
-        "repo": "claude-scholar",
-        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "galaxy-dawn-claude-scholar-frontend-design",
-      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from Galaxy-Dawn/claude-scholar.",
-      "author": "ASM (Galaxy-Dawn/claude-scholar)",
-      "createdAt": "2026-10-11T05:04:52.066Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "frontend",
-        "design",
-        "ui",
-        "galaxy-dawn",
-        "claude-scholar"
-      ],
-      "skills": [
-        {
-          "name": "architecture-design",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/architecture-design",
-          "description": "Use only when creating new registrable ML components that require Factory or Registry patterns.",
-          "version": "1.2.0"
-        },
-        {
-          "name": "citation-verification",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/citation-verification",
-          "description": "This skill provides reference guidance for citation verification in academic writing. Use when the user asks about \"citation verification best practices\", \"how to verify references\", \"preventing fake citations\", or needs guidance on citation accuracy. This skill supports ml-paper-writing by providing detailed verification principles and common error patterns.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "command-development",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/command-development",
-          "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "frontend-design",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/frontend-design",
-          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "git-workflow",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/git-workflow",
-          "description": "This skill should be used when the user asks to \"create git commit\", \"manage branches\", \"follow git workflow\", \"use Conventional Commits\", \"handle merge conflicts\", or asks about git branching strategies, version control best practices, pull request workflows. Provides comprehensive Git workflow guidance for team collaboration.",
-          "version": "1.2.0"
-        },
-        {
-          "name": "hook-development",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/hook-development",
-          "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "mcp-integration",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/mcp-integration",
-          "description": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"configure MCP in plugin\", \"use .mcp.json\", \"set up Model Context Protocol\", \"connect external service\", mentions \"${CLAUDE_PLUGIN_ROOT} with MCP\", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "nature-writing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-writing",
-          "description": "Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, results narrative, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "obsidian-literature-workflow",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
-          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "plugin-structure",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/plugin-structure",
-          "description": "This skill should be used when the user asks to \"create a plugin\", \"scaffold a plugin\", \"understand plugin structure\", \"organize plugin components\", \"set up plugin.json\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"add commands/agents/skills/hooks\", \"configure auto-discovery\", or needs guidance on plugin directory layout, manifest configuration, component organization, file naming conventions, or Claude Code plugin architecture best practices.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "post-acceptance",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/post-acceptance",
-          "description": "This skill should be used when the user asks to \"prepare conference presentation\", \"create presentation slides\", \"design poster\", \"make academic poster\", \"write promotion content\", \"create Twitter thread\", or mentions post-acceptance conference preparation. Provides comprehensive workflow for presentation, poster, and promotion content creation.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "research-ideation",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
-          "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "results-analysis",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-analysis",
-          "description": "This skill should be used when the user asks to \"analyze experimental results\", \"run strict statistical analysis\", \"compare model performance\", \"generate scientific figures\", \"check significance\", \"do ablation analysis\", or mentions interpreting experiment data with rigorous statistics and visualization. It focuses on strict analysis bundles, not Results-section prose.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "ui-ux-pro-max",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ui-ux-pro-max",
-          "description": "This skill should be used when the user asks to design or review a UI, create a landing page or dashboard, choose colors or typography, improve accessibility, or implement polished frontend interfaces with a clear design system.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "verification-loop",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/verification-loop",
-          "description": "This skill should be used when the user asks to \"verify code\", \"run verification\", \"check quality\", \"validate changes\", or before creating a PR. Provides comprehensive verification including build, type check, lint, tests, security scan, and diff review.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "web-design-reviewer",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/web-design-reviewer",
-          "description": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and layout breakage, then performs fixes at the source code level.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "webapp-testing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/webapp-testing",
-          "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "writing-anti-ai",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/writing-anti-ai",
-          "description": "This skill should be used when the user asks to \"remove AI writing patterns\", \"humanize this text\", \"make this sound more natural\", \"remove AI-generated traces\", \"fix robotic writing\", or needs to eliminate AI writing patterns from prose. Supports both English and Chinese text. Based on Wikipedia's \"Signs of AI writing\" guide, detects and fixes inflated symbolism, promotional language, superficial -ing analyses, vague attributions, AI vocabulary, negative parallelisms, and excessive conjunctive phrases.",
-          "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Galaxy-Dawn",
-        "repo": "claude-scholar",
-        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "galaxy-dawn-claude-scholar-marketing",
-      "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from Galaxy-Dawn/claude-scholar.",
-      "author": "ASM (Galaxy-Dawn/claude-scholar)",
-      "createdAt": "2026-10-11T05:04:52.066Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "marketing",
-        "growth",
-        "seo",
-        "galaxy-dawn",
-        "claude-scholar"
-      ],
-      "skills": [
-        {
-          "name": "kaggle-learner",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/kaggle-learner",
-          "description": "This skill should be used when the user asks to \"learn from Kaggle\", \"study Kaggle solutions\", \"analyze Kaggle competitions\", or mentions Kaggle competition URLs. Provides access to extracted knowledge from winning Kaggle solutions across NLP, CV, time series, tabular, and multimodal domains.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "skill-quality-reviewer",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-quality-reviewer",
-          "description": "This skill should be used when the user asks to \"analyze skill quality\", \"evaluate this skill\", \"review skill quality\", \"check my skill\", or \"generate quality report\". Evaluates local skills across description quality, content organization, writing style, and structural integrity.",
-          "version": "0.1.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Galaxy-Dawn",
-        "repo": "claude-scholar",
-        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "galaxy-dawn-claude-scholar-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from Galaxy-Dawn/claude-scholar.",
       "author": "ASM (Galaxy-Dawn/claude-scholar)",
-      "createdAt": "2026-10-11T05:04:52.066Z",
+      "createdAt": "2026-10-19T08:20:53.575Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8950,450 +9394,6 @@
           "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
           "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
           "version": "0.1.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Galaxy-Dawn",
-        "repo": "claude-scholar",
-        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "galaxy-dawn-claude-scholar-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from Galaxy-Dawn/claude-scholar.",
-      "author": "ASM (Galaxy-Dawn/claude-scholar)",
-      "createdAt": "2026-10-11T05:04:52.066Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "research",
-        "academic",
-        "analysis",
-        "galaxy-dawn",
-        "claude-scholar"
-      ],
-      "skills": [
-        {
-          "name": "agent-identifier",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/agent-identifier",
-          "description": "Use when creating or configuring Claude Code agents and their frontmatter.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "architecture-design",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/architecture-design",
-          "description": "Use only when creating new registrable ML components that require Factory or Registry patterns.",
-          "version": "1.2.0"
-        },
-        {
-          "name": "bug-detective",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/bug-detective",
-          "description": "This skill should be used when the user asks to \"debug this\", \"fix this error\", \"investigate this bug\", \"troubleshoot this issue\", \"find the problem\", \"something is broken\", \"this isn't working\", \"why is this failing\", or reports errors/exceptions/bugs. Provides systematic debugging workflow and common error patterns.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "citation-verification",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/citation-verification",
-          "description": "This skill provides reference guidance for citation verification in academic writing. Use when the user asks about \"citation verification best practices\", \"how to verify references\", \"preventing fake citations\", or needs guidance on citation accuracy. This skill supports ml-paper-writing by providing detailed verification principles and common error patterns.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "code-review-excellence",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/code-review-excellence",
-          "description": "This skill should be used when the user asks to review a diff or pull request, write review comments, audit code quality, establish review standards, or improve how a team performs code review.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "command-development",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/command-development",
-          "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "daily-coding",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-coding",
-          "description": "Use for everyday coding tasks that involve writing or modifying source code.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "daily-paper-generator",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-paper-generator",
-          "description": "Use when the user asks to generate daily paper digests on a general topic. This skill supports both arXiv and bioRxiv (or either one), then produces structured Chinese/English summaries for selected papers.",
-          "version": "0.5.1"
-        },
-        {
-          "name": "defuddle",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/defuddle",
-          "description": "Extract clean Markdown from web pages. In the KB workflow, use it as a utility under obsidian-source-ingestion.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "doc-coauthoring",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/doc-coauthoring",
-          "description": "This skill should be used when the user asks to co-author documentation, draft a proposal, write a technical spec, create a decision doc or RFC, or structure a substantial document through iterative collaboration and reader testing.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "expression-skill",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/expression-skill",
-          "description": "This skill should be used when the user asks for efficient communication, task reports, file-operation summaries, research discussion, study-note synthesis, planning, writing feedback, or responses that need conclusion-first structure, concrete evidence, risk disclosure, and useful next steps.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "frontend-design",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/frontend-design",
-          "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "git-workflow",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/git-workflow",
-          "description": "This skill should be used when the user asks to \"create git commit\", \"manage branches\", \"follow git workflow\", \"use Conventional Commits\", \"handle merge conflicts\", or asks about git branching strategies, version control best practices, pull request workflows. Provides comprehensive Git workflow guidance for team collaboration.",
-          "version": "1.2.0"
-        },
-        {
-          "name": "hook-development",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/hook-development",
-          "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "kaggle-learner",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/kaggle-learner",
-          "description": "This skill should be used when the user asks to \"learn from Kaggle\", \"study Kaggle solutions\", \"analyze Kaggle competitions\", or mentions Kaggle competition URLs. Provides access to extracted knowledge from winning Kaggle solutions across NLP, CV, time series, tabular, and multimodal domains.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "latex-conference-template-organizer",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/latex-conference-template-organizer",
-          "description": "Organize messy conference LaTeX template .zip files into clean Overleaf-ready structure. Use when the user asks to \"organize LaTeX template\", \"clean up .zip template\", or \"prepare Overleaf submission template\".",
-          "version": "0.1.0"
-        },
-        {
-          "name": "mcp-integration",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/mcp-integration",
-          "description": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"configure MCP in plugin\", \"use .mcp.json\", \"set up Model Context Protocol\", \"connect external service\", mentions \"${CLAUDE_PLUGIN_ROOT} with MCP\", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "ml-paper-writing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ml-paper-writing",
-          "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, conducting literature reviews, finding related work, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, citation verification workflows, and paper discovery/evaluation criteria.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "nature-data",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-data",
-          "description": "Prepare, audit, or revise Nature-ready Data Availability statements, data repository plans, dataset citations, and FAIR metadata checklists for manuscripts. Use when the user asks about Nature data availability, research data sharing, repository selection, accession numbers, restricted or sensitive data, source data, supplementary datasets, DataCite-style dataset references, FAIR metadata for academic publication, or Chinese-to-English data availability wording for Chinese-speaking authors preparing Nature-family submissions.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "nature-polishing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-polishing",
-          "description": "Polish, restructure, or translate academic prose into Nature-leaning English using writing-strategy principles, curated Nature/Nature Communications article patterns, and phrase-level support from Academic Phrasebank. Use whenever the user asks to polish a manuscript paragraph, abstract, introduction, results, discussion, conclusion, title, methods section, or Chinese academic draft for publication-quality English.",
-          "version": "5.0.2"
-        },
-        {
-          "name": "nature-response",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-response",
-          "description": "Draft, audit, or revise point-by-point reviewer response letters for Nature-family manuscript revisions. Use when the user provides reviewer comments, editor decision letters, revision notes, response drafts, or asks how to respond to major/minor revision requests, rebuttal letters, response to reviewers, peer-review reports, 审稿意见回复, 逐点回复, 修回信, 大修回复, 小修回复, or 如何回复 reviewer.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "nature-writing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-writing",
-          "description": "Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, results narrative, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "obsidian-kb-artifacts",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-kb-artifacts",
-          "description": "Use this skill for Obsidian-native formatting and derived artifacts such as Markdown formatting, wikilinks, registry tables, canvas files, optional Bases, CLI operations, and link repair. This skill does not decide knowledge routing.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "obsidian-literature-workflow",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
-          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "obsidian-project-kb-core",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-project-kb-core",
-          "description": "Use this as the main Claude Scholar skill for a vault-first, project-scoped Obsidian research knowledge base rooted at Research/{project-slug}/. It owns bootstrap, routing, daily logging, hub/plan/index maintenance, registry updates, lifecycle actions, and lint orchestration.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "obsidian-source-ingestion",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-source-ingestion",
-          "description": "Use this skill to ingest external materials into the current project-scoped Obsidian KB as source notes under Sources/Papers, Sources/Web, Sources/Docs, Sources/Data, Sources/Interviews, or Sources/Notes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "paper-self-review",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/paper-self-review",
-          "description": "This skill should be used when the user asks to \"review paper quality\", \"check paper completeness\", \"validate paper structure\", \"self-review before submission\", \"audit claims\", \"check overclaiming\", \"verify whether results support claims\", or mentions systematic paper quality checking. Provides comprehensive quality assurance checklist for academic papers.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "planning-with-files",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/planning-with-files",
-          "description": "Use this by default for non-trivial multi-step work that needs persistent planning, progress tracking, or durable notes on disk. Trigger when a task will likely span multiple tool calls, research steps, verification loops, or enough context that the plan should not live only in transient chat memory.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "plugin-structure",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/plugin-structure",
-          "description": "This skill should be used when the user asks to \"create a plugin\", \"scaffold a plugin\", \"understand plugin structure\", \"organize plugin components\", \"set up plugin.json\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"add commands/agents/skills/hooks\", \"configure auto-discovery\", or needs guidance on plugin directory layout, manifest configuration, component organization, file naming conventions, or Claude Code plugin architecture best practices.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "post-acceptance",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/post-acceptance",
-          "description": "This skill should be used when the user asks to \"prepare conference presentation\", \"create presentation slides\", \"design poster\", \"make academic poster\", \"write promotion content\", \"create Twitter thread\", or mentions post-acceptance conference preparation. Provides comprehensive workflow for presentation, poster, and promotion content creation.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "publication-chart-skill",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/publication-chart-skill",
-          "description": "This skill should be used when the user asks for a publication-quality scientific figure or table, wants help choosing the right chart for results, needs a paper-ready pubfig or pubtab workflow, wants a figure + companion table for a results section, wants an Excel sheet turned into publication-ready LaTeX, or wants an existing scientific figure/table reviewed and upgraded.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "research-ideation",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/research-ideation",
-          "description": "This skill should be used when the user asks to \"brainstorm research ideas\", \"use 5W1H framework\", \"identify research gaps\", \"conduct gap analysis\", \"start research project\", \"conduct literature review\", \"define research question\", \"select research method\", \"plan research\", or mentions research project initiation phase. Provides comprehensive guidance for research startup workflow from idea generation to planning.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "results-analysis",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-analysis",
-          "description": "This skill should be used when the user asks to \"analyze experimental results\", \"run strict statistical analysis\", \"compare model performance\", \"generate scientific figures\", \"check significance\", \"do ablation analysis\", or mentions interpreting experiment data with rigorous statistics and visualization. It focuses on strict analysis bundles, not Results-section prose.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "results-report",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-report",
-          "description": "This skill should be used when the user asks to \"write an experiment report\", \"summarize experimental results\", \"do experiment retrospection\", \"write a results report\", \"写实验总结报告\", \"写实验复盘\", or mentions turning completed experiment artifacts into a structured, decision-oriented research report. It assumes strict analysis should come from `results-analysis` first.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "review-response",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/review-response",
-          "description": "Systematic review response workflow from comment analysis to professional rebuttal writing. Use when the user asks to \"write rebuttal\", \"respond to reviewers\", \"draft review response\", or \"analyze review comments\". Improves paper acceptance rates.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "skill-development",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-development",
-          "description": "This skill should be used when the user asks to create a new skill, repair an existing skill, improve trigger descriptions, reorganize skill structure, or make a Claude skill more reusable and internally consistent.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "skill-improver",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-improver",
-          "description": "This skill should be used when the user asks to \"apply skill improvements\", \"update skill from plan\", \"execute improvement plan\", \"fix skill issues\", \"implement skill recommendations\", or mentions applying improvements from quality review reports. Reads improvement-plan-{name}.md files generated by skill-quality-reviewer and intelligently merges and executes the suggested changes to improve Claude Skills quality.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "skill-quality-reviewer",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-quality-reviewer",
-          "description": "This skill should be used when the user asks to \"analyze skill quality\", \"evaluate this skill\", \"review skill quality\", \"check my skill\", or \"generate quality report\". Evaluates local skills across description quality, content organization, writing style, and structural integrity.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "ui-ux-pro-max",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ui-ux-pro-max",
-          "description": "This skill should be used when the user asks to design or review a UI, create a landing page or dashboard, choose colors or typography, improve accessibility, or implement polished frontend interfaces with a clear design system.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "uv-package-manager",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/uv-package-manager",
-          "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "verification-loop",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/verification-loop",
-          "description": "This skill should be used when the user asks to \"verify code\", \"run verification\", \"check quality\", \"validate changes\", or before creating a PR. Provides comprehensive verification including build, type check, lint, tests, security scan, and diff review.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "web-design-reviewer",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/web-design-reviewer",
-          "description": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and layout breakage, then performs fixes at the source code level.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "webapp-testing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/webapp-testing",
-          "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "writing-anti-ai",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/writing-anti-ai",
-          "description": "This skill should be used when the user asks to \"remove AI writing patterns\", \"humanize this text\", \"make this sound more natural\", \"remove AI-generated traces\", \"fix robotic writing\", or needs to eliminate AI writing patterns from prose. Supports both English and Chinese text. Based on Wikipedia's \"Signs of AI writing\" guide, detects and fixes inflated symbolism, promotional language, superficial -ing analyses, vague attributions, AI vocabulary, negative parallelisms, and excessive conjunctive phrases.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "zotero-obsidian-bridge",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/zotero-obsidian-bridge",
-          "description": "Use this skill when Zotero is the literature source of truth and the project KB should receive source notes under Sources/Papers plus project-linked synthesis in Knowledge and Writing.",
-          "version": "0.3.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "Galaxy-Dawn",
-        "repo": "claude-scholar",
-        "repoUrl": "https://github.com/Galaxy-Dawn/claude-scholar.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "galaxy-dawn-claude-scholar-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from Galaxy-Dawn/claude-scholar.",
-      "author": "ASM (Galaxy-Dawn/claude-scholar)",
-      "createdAt": "2026-10-11T05:04:52.066Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "writing",
-        "content",
-        "docs",
-        "galaxy-dawn",
-        "claude-scholar"
-      ],
-      "skills": [
-        {
-          "name": "citation-verification",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/citation-verification",
-          "description": "This skill provides reference guidance for citation verification in academic writing. Use when the user asks about \"citation verification best practices\", \"how to verify references\", \"preventing fake citations\", or needs guidance on citation accuracy. This skill supports ml-paper-writing by providing detailed verification principles and common error patterns.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "code-review-excellence",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/code-review-excellence",
-          "description": "This skill should be used when the user asks to review a diff or pull request, write review comments, audit code quality, establish review standards, or improve how a team performs code review.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "command-development",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/command-development",
-          "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "daily-coding",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-coding",
-          "description": "Use for everyday coding tasks that involve writing or modifying source code.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "daily-paper-generator",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/daily-paper-generator",
-          "description": "Use when the user asks to generate daily paper digests on a general topic. This skill supports both arXiv and bioRxiv (or either one), then produces structured Chinese/English summaries for selected papers.",
-          "version": "0.5.1"
-        },
-        {
-          "name": "doc-coauthoring",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/doc-coauthoring",
-          "description": "This skill should be used when the user asks to co-author documentation, draft a proposal, write a technical spec, create a decision doc or RFC, or structure a substantial document through iterative collaboration and reader testing.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "expression-skill",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/expression-skill",
-          "description": "This skill should be used when the user asks for efficient communication, task reports, file-operation summaries, research discussion, study-note synthesis, planning, writing feedback, or responses that need conclusion-first structure, concrete evidence, risk disclosure, and useful next steps.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "ml-paper-writing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/ml-paper-writing",
-          "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, conducting literature reviews, finding related work, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, citation verification workflows, and paper discovery/evaluation criteria.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "nature-polishing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-polishing",
-          "description": "Polish, restructure, or translate academic prose into Nature-leaning English using writing-strategy principles, curated Nature/Nature Communications article patterns, and phrase-level support from Academic Phrasebank. Use whenever the user asks to polish a manuscript paragraph, abstract, introduction, results, discussion, conclusion, title, methods section, or Chinese academic draft for publication-quality English.",
-          "version": "5.0.2"
-        },
-        {
-          "name": "nature-response",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-response",
-          "description": "Draft, audit, or revise point-by-point reviewer response letters for Nature-family manuscript revisions. Use when the user provides reviewer comments, editor decision letters, revision notes, response drafts, or asks how to respond to major/minor revision requests, rebuttal letters, response to reviewers, peer-review reports, 审稿意见回复, 逐点回复, 修回信, 大修回复, 小修回复, or 如何回复 reviewer.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "nature-writing",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/nature-writing",
-          "description": "Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, results narrative, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "obsidian-literature-workflow",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-literature-workflow",
-          "description": "Use this skill for project-scoped literature review built on Sources/Papers, with synthesis landing in Knowledge, writing handoff in Writing, and the default literature canvas under Maps/literature.canvas.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "obsidian-source-ingestion",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/obsidian-source-ingestion",
-          "description": "Use this skill to ingest external materials into the current project-scoped Obsidian KB as source notes under Sources/Papers, Sources/Web, Sources/Docs, Sources/Data, Sources/Interviews, or Sources/Notes.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "paper-self-review",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/paper-self-review",
-          "description": "This skill should be used when the user asks to \"review paper quality\", \"check paper completeness\", \"validate paper structure\", \"self-review before submission\", \"audit claims\", \"check overclaiming\", \"verify whether results support claims\", or mentions systematic paper quality checking. Provides comprehensive quality assurance checklist for academic papers.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "post-acceptance",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/post-acceptance",
-          "description": "This skill should be used when the user asks to \"prepare conference presentation\", \"create presentation slides\", \"design poster\", \"make academic poster\", \"write promotion content\", \"create Twitter thread\", or mentions post-acceptance conference preparation. Provides comprehensive workflow for presentation, poster, and promotion content creation.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "publication-chart-skill",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/publication-chart-skill",
-          "description": "This skill should be used when the user asks for a publication-quality scientific figure or table, wants help choosing the right chart for results, needs a paper-ready pubfig or pubtab workflow, wants a figure + companion table for a results section, wants an Excel sheet turned into publication-ready LaTeX, or wants an existing scientific figure/table reviewed and upgraded.",
-          "version": "0.2.0"
-        },
-        {
-          "name": "results-report",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/results-report",
-          "description": "This skill should be used when the user asks to \"write an experiment report\", \"summarize experimental results\", \"do experiment retrospection\", \"write a results report\", \"写实验总结报告\", \"写实验复盘\", or mentions turning completed experiment artifacts into a structured, decision-oriented research report. It assumes strict analysis should come from `results-analysis` first.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "review-response",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/review-response",
-          "description": "Systematic review response workflow from comment analysis to professional rebuttal writing. Use when the user asks to \"write rebuttal\", \"respond to reviewers\", \"draft review response\", or \"analyze review comments\". Improves paper acceptance rates.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "skill-quality-reviewer",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/skill-quality-reviewer",
-          "description": "This skill should be used when the user asks to \"analyze skill quality\", \"evaluate this skill\", \"review skill quality\", \"check my skill\", or \"generate quality report\". Evaluates local skills across description quality, content organization, writing style, and structural integrity.",
-          "version": "0.1.0"
-        },
-        {
-          "name": "writing-anti-ai",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/writing-anti-ai",
-          "description": "This skill should be used when the user asks to \"remove AI writing patterns\", \"humanize this text\", \"make this sound more natural\", \"remove AI-generated traces\", \"fix robotic writing\", or needs to eliminate AI writing patterns from prose. Supports both English and Chinese text. Based on Wikipedia's \"Signs of AI writing\" guide, detects and fixes inflated symbolism, promotional language, superficial -ing analyses, vague attributions, AI vocabulary, negative parallelisms, and excessive conjunctive phrases.",
-          "version": "1.0.0"
-        },
-        {
-          "name": "zotero-obsidian-bridge",
-          "installUrl": "github:Galaxy-Dawn/claude-scholar:skills/zotero-obsidian-bridge",
-          "description": "Use this skill when Zotero is the literature source of truth and the project KB should receive source notes under Sources/Papers plus project-linked synthesis in Knowledge and Writing.",
-          "version": "0.3.0"
         }
       ],
       "sourceRepo": {

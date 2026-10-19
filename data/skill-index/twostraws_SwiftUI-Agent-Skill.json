@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "f9800713b24580bc444931949aad4519128605e8",
+  "sourceCommit": "ce32af1693b9e78a7d22ff48001c97a304d32063",
   "repoUrl": "https://github.com/twostraws/SwiftUI-Agent-Skill.git",
   "owner": "twostraws",
   "repo": "SwiftUI-Agent-Skill",
-  "updatedAt": "2026-10-11T05:04:18.986Z",
+  "updatedAt": "2026-10-19T08:20:17.816Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "c88c396456ccd3e1feb18070283352fd8db1c92c0a64ae59d7fe0032674c0129",
+      "contentHash": "fc62139e262bd364cbbcab9b9f97557cd3fd6d2d4f73c4fab039d562fc324643",
       "sourcePath": "swiftui-pro/SKILL.md",
       "name": "swiftui-pro",
       "description": "Comprehensively reviews SwiftUI code for best practices on modern APIs, maintainability, and performance. Use when reading, writing, or reviewing SwiftUI projects.",
@@ -23,7 +23,7 @@
       "installUrl": "github:twostraws/SwiftUI-Agent-Skill:swiftui-pro",
       "relPath": "swiftui-pro",
       "verified": true,
-      "tokenCount": 1556,
+      "tokenCount": 1560,
       "evalSummary": {
         "overallScore": 79,
         "grade": "C",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:18.975Z",
+        "evaluatedAt": "2026-10-19T08:20:17.808Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:18.975Z",
+          "evaluatedAt": "2026-10-19T08:20:17.808Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:18.975Z",
+          "evaluatedAt": "2026-10-19T08:20:17.808Z",
           "evaluatedVersion": "2.0.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "19da710a1a019d39d6f0b14e4f3cc786c8ff53f1",
+  "sourceCommit": "a92811ce75ad4041cbb34858997c94714590f183",
   "repoUrl": "https://github.com/luongnv89/asm.git",
   "owner": "luongnv89",
   "repo": "asm",
-  "updatedAt": "2026-10-11T05:03:06.473Z",
+  "updatedAt": "2026-10-19T08:19:09.109Z",
   "skillCount": 10,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.600Z",
+        "evaluatedAt": "2026-10-19T08:19:08.329Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.601Z",
+          "evaluatedAt": "2026-10-19T08:19:08.330Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.601Z",
+          "evaluatedAt": "2026-10-19T08:19:08.331Z",
           "evaluatedVersion": "1.4.0"
         }
       }
@@ -271,7 +271,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.581Z",
+        "evaluatedAt": "2026-10-19T08:19:08.313Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -344,7 +344,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.582Z",
+          "evaluatedAt": "2026-10-19T08:19:08.315Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -362,7 +362,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.584Z",
+          "evaluatedAt": "2026-10-19T08:19:08.316Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -450,7 +450,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.584Z",
+        "evaluatedAt": "2026-10-19T08:19:08.314Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -523,7 +523,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.585Z",
+          "evaluatedAt": "2026-10-19T08:19:08.317Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -541,7 +541,7 @@
               "max": 1
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.585Z",
+          "evaluatedAt": "2026-10-19T08:19:08.317Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -636,7 +636,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.636Z",
+        "evaluatedAt": "2026-10-19T08:19:08.361Z",
         "evaluatedVersion": "1.3.0"
       },
       "evalSummaries": {
@@ -709,7 +709,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.639Z",
+          "evaluatedAt": "2026-10-19T08:19:08.361Z",
           "evaluatedVersion": "1.3.0"
         },
         "skill-best-practice": {
@@ -727,7 +727,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.639Z",
+          "evaluatedAt": "2026-10-19T08:19:08.361Z",
           "evaluatedVersion": "1.3.0"
         }
       }
@@ -815,7 +815,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:06.043Z",
+        "evaluatedAt": "2026-10-19T08:19:08.726Z",
         "evaluatedVersion": "2.1.0"
       },
       "evalSummaries": {
@@ -888,7 +888,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:06.043Z",
+          "evaluatedAt": "2026-10-19T08:19:08.726Z",
           "evaluatedVersion": "2.1.0"
         },
         "skill-best-practice": {
@@ -906,7 +906,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:06.043Z",
+          "evaluatedAt": "2026-10-19T08:19:08.726Z",
           "evaluatedVersion": "2.1.0"
         }
       }
@@ -1003,7 +1003,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.624Z",
+        "evaluatedAt": "2026-10-19T08:19:08.347Z",
         "evaluatedVersion": "2.2.0"
       },
       "evalSummaries": {
@@ -1076,7 +1076,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.626Z",
+          "evaluatedAt": "2026-10-19T08:19:08.349Z",
           "evaluatedVersion": "2.2.0"
         },
         "skill-best-practice": {
@@ -1094,7 +1094,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.626Z",
+          "evaluatedAt": "2026-10-19T08:19:08.349Z",
           "evaluatedVersion": "2.2.0"
         }
       }
@@ -1191,7 +1191,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.626Z",
+        "evaluatedAt": "2026-10-19T08:19:08.347Z",
         "evaluatedVersion": "1.3.0"
       },
       "evalSummaries": {
@@ -1264,7 +1264,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.627Z",
+          "evaluatedAt": "2026-10-19T08:19:08.349Z",
           "evaluatedVersion": "1.3.0"
         },
         "skill-best-practice": {
@@ -1282,7 +1282,7 @@
               "max": 16
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.627Z",
+          "evaluatedAt": "2026-10-19T08:19:08.349Z",
           "evaluatedVersion": "1.3.0"
         }
       }
@@ -1377,7 +1377,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.730Z",
+        "evaluatedAt": "2026-10-19T08:19:08.451Z",
         "evaluatedVersion": "1.0.1"
       },
       "evalSummaries": {
@@ -1450,7 +1450,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.730Z",
+          "evaluatedAt": "2026-10-19T08:19:08.451Z",
           "evaluatedVersion": "1.0.1"
         },
         "skill-best-practice": {
@@ -1468,7 +1468,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.731Z",
+          "evaluatedAt": "2026-10-19T08:19:08.451Z",
           "evaluatedVersion": "1.0.1"
         }
       }
@@ -1563,7 +1563,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.654Z",
+        "evaluatedAt": "2026-10-19T08:19:08.374Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -1636,7 +1636,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.655Z",
+          "evaluatedAt": "2026-10-19T08:19:08.374Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -1654,7 +1654,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.655Z",
+          "evaluatedAt": "2026-10-19T08:19:08.374Z",
           "evaluatedVersion": "1.1.0"
         }
       }
@@ -1745,7 +1745,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:03:05.636Z",
+        "evaluatedAt": "2026-10-19T08:19:08.356Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1818,7 +1818,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.639Z",
+          "evaluatedAt": "2026-10-19T08:19:08.356Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1836,7 +1836,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-11T05:03:05.639Z",
+          "evaluatedAt": "2026-10-19T08:19:08.356Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1845,25 +1845,25 @@
   "bundles": [
     {
       "version": 1,
-      "name": "luongnv89-asm-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/asm.",
+      "name": "luongnv89-asm-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-11T05:03:06.473Z",
+      "createdAt": "2026-10-19T08:19:09.109Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
+        "writing",
+        "content",
+        "docs",
         "luongnv89",
         "asm"
       ],
       "skills": [
         {
-          "name": "find-me-skills",
-          "installUrl": "github:luongnv89/asm:skills/find-me-skills",
-          "description": "Find Agent Skills for a goal the user cannot name yet, then export an installable bundle. Use when they ask which skills fit a project. Don't use for installing named skills, authoring skills, or catalog maintenance.",
-          "version": "1.4.0"
+          "name": "skill-creator",
+          "installUrl": "github:luongnv89/asm:skills/skill-creator",
+          "description": "Create a skill or bring an existing one up to the same standard (validate + asm eval fix loop); run evals, tune triggering. Use when authoring, fixing, or retrofitting a skill. Don't use for invoking skills, writing prose, or Python scaffolds.",
+          "version": "2.1.0"
         },
         {
           "name": "skill-install-improved",
@@ -1881,10 +1881,46 @@
     },
     {
       "version": 1,
+      "name": "luongnv89-asm-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/asm.",
+      "author": "ASM (luongnv89/asm)",
+      "createdAt": "2026-10-19T08:19:09.109Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "luongnv89",
+        "asm"
+      ],
+      "skills": [
+        {
+          "name": "skill-shortener",
+          "installUrl": "github:luongnv89/asm:skills/skill-shortener",
+          "description": "Refactor a too-long SKILL.md by progressive disclosure: measure token cost, classify every section KEEP/CUT/MOVE, shorten the body into references/ and scripts/, verify nothing was lost. Don't use for authoring new skills, eval retrofits, or prose.",
+          "version": "1.0.1"
+        },
+        {
+          "name": "well-formed",
+          "installUrl": "github:luongnv89/asm:tests/fixtures/skills/well-formed",
+          "description": "Review pull request diffs for code smells, style issues, and safety problems before merging.",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "luongnv89",
+        "repo": "asm",
+        "repoUrl": "https://github.com/luongnv89/asm.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
       "name": "luongnv89-asm-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-11T05:03:06.473Z",
+      "createdAt": "2026-10-19T08:19:09.109Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1940,61 +1976,25 @@
     },
     {
       "version": 1,
-      "name": "luongnv89-asm-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/asm.",
+      "name": "luongnv89-asm-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-11T05:03:06.473Z",
+      "createdAt": "2026-10-19T08:19:09.109Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "research",
-        "academic",
-        "analysis",
+        "data",
+        "ai",
+        "agents",
         "luongnv89",
         "asm"
       ],
       "skills": [
         {
-          "name": "skill-shortener",
-          "installUrl": "github:luongnv89/asm:skills/skill-shortener",
-          "description": "Refactor a too-long SKILL.md by progressive disclosure: measure token cost, classify every section KEEP/CUT/MOVE, shorten the body into references/ and scripts/, verify nothing was lost. Don't use for authoring new skills, eval retrofits, or prose.",
-          "version": "1.0.1"
-        },
-        {
-          "name": "well-formed",
-          "installUrl": "github:luongnv89/asm:tests/fixtures/skills/well-formed",
-          "description": "Review pull request diffs for code smells, style issues, and safety problems before merging.",
-          "version": "1.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "luongnv89",
-        "repo": "asm",
-        "repoUrl": "https://github.com/luongnv89/asm.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "luongnv89-asm-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from luongnv89/asm.",
-      "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-11T05:03:06.473Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "writing",
-        "content",
-        "docs",
-        "luongnv89",
-        "asm"
-      ],
-      "skills": [
-        {
-          "name": "skill-creator",
-          "installUrl": "github:luongnv89/asm:skills/skill-creator",
-          "description": "Create a skill or bring an existing one up to the same standard (validate + asm eval fix loop); run evals, tune triggering. Use when authoring, fixing, or retrofitting a skill. Don't use for invoking skills, writing prose, or Python scaffolds.",
-          "version": "2.1.0"
+          "name": "find-me-skills",
+          "installUrl": "github:luongnv89/asm:skills/find-me-skills",
+          "description": "Find Agent Skills for a goal the user cannot name yet, then export an installable bundle. Use when they ask which skills fit a project. Don't use for installing named skills, authoring skills, or catalog maintenance.",
+          "version": "1.4.0"
         },
         {
           "name": "skill-install-improved",

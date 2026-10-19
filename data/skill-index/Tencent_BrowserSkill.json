@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "63c16570ae4d6be54df386098ed14119cc3115b8",
+  "sourceCommit": "d9a78aed47874459ae1e44523a597e42dd9acf99",
   "repoUrl": "https://github.com/Tencent/BrowserSkill.git",
   "owner": "Tencent",
   "repo": "BrowserSkill",
-  "updatedAt": "2026-10-11T05:07:15.889Z",
+  "updatedAt": "2026-10-19T08:23:29.974Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "67d3930198c5e1e106f4c059836cae96ea4bfc9ca8d9061353cf809eee66edc3",
+      "contentHash": "a338f79a6eef3cd7f05e3d565c589b942b424da564c62af99e5c3aac8f072d66",
       "sourcePath": "crates/bsk-cli/skill/SKILL.md",
       "name": "browser-skill",
       "description": "Automate the user's logged-in Chromium browser: read pages, fill forms, scrape data, operate tabs, test a UI, or debug a website. Requires the bsk CLI and browser extension.",
@@ -23,7 +23,7 @@
       "installUrl": "github:Tencent/BrowserSkill:crates/bsk-cli/skill",
       "relPath": "crates/bsk-cli/skill",
       "verified": true,
-      "tokenCount": 1994,
+      "tokenCount": 1983,
       "evalSummary": {
         "overallScore": 69,
         "grade": "C",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:15.885Z",
+        "evaluatedAt": "2026-10-19T08:23:29.969Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:15.885Z",
+          "evaluatedAt": "2026-10-19T08:23:29.969Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,11 +180,10 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:15.885Z",
+          "evaluatedAt": "2026-10-19T08:23:29.969Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

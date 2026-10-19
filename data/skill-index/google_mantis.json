@@ -1,14 +1,14 @@
 {
-  "sourceCommit": "2b3bbdcbb8d259d1777b89dcfa3c8e87615ccc80",
+  "sourceCommit": "f7cbeb3aeeae72effbbc3704df8928e4664c8164",
   "repoUrl": "https://github.com/google/mantis.git",
   "owner": "google",
   "repo": "mantis",
-  "updatedAt": "2026-10-11T05:07:18.220Z",
+  "updatedAt": "2026-10-19T08:23:32.640Z",
   "skillCount": 21,
   "skills": [
     {
       "contentHash": "54346a95c066b3bb326bb5be104977a52cfda6629e5eac0be0062958b51aeadd",
-      "sourcePath": "mantis-advise/SKILL.md",
+      "sourcePath": "skills/mantis-advise/SKILL.md",
       "name": "mantis-advise",
       "description": "Proactive security advisor and architectural remediation assistant for secure code development. Use to query threat models, historical vulnerability lineages, verified patch patterns, triaged false positives, and learned trajectory invariants before code edits or to generate architectural remediation plans for confirmed findings. Don't use for automated multi-pass red-team exploitation or fuzzing.",
       "version": "0.0.0",
@@ -20,8 +20,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-advise",
-      "relPath": "mantis-advise",
+      "installUrl": "github:google/mantis:skills/mantis-advise",
+      "relPath": "skills/mantis-advise",
       "verified": true,
       "tokenCount": 2133,
       "evalSummary": {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.040Z",
+        "evaluatedAt": "2026-10-19T08:23:32.485Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,14 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "ba3bdd4da77a1a59b369c1425c64eea6e542b068ff497fa25c220af34bb0edd0",
-      "sourcePath": "mantis-architecture/SKILL.md",
+      "sourcePath": "skills/mantis-architecture/SKILL.md",
       "name": "mantis-architecture",
       "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
       "version": "0.0.0",
@@ -199,8 +199,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-architecture",
-      "relPath": "mantis-architecture",
+      "installUrl": "github:google/mantis:skills/mantis-architecture",
+      "relPath": "skills/mantis-architecture",
       "verified": true,
       "tokenCount": 6363,
       "evalSummary": {
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.036Z",
+        "evaluatedAt": "2026-10-19T08:23:32.485Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,14 +359,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "c4eb14c114e308ed9f0147397be8b72cb2a5bb837177918e518d83f0c8c9e29b",
-      "sourcePath": "mantis-calibrate/SKILL.md",
+      "sourcePath": "skills/mantis-calibrate/SKILL.md",
       "name": "mantis-calibrate",
       "description": "Calculates the final risk score based on empirical evidence and architectural impact. Use when findings have been fully processed by previous stages and you need to append final risk scores to the finding files. Don't use for discovering new vulnerabilities or writing patches.",
       "version": "0.0.0",
@@ -378,8 +378,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-calibrate",
-      "relPath": "mantis-calibrate",
+      "installUrl": "github:google/mantis:skills/mantis-calibrate",
+      "relPath": "skills/mantis-calibrate",
       "verified": true,
       "tokenCount": 13412,
       "evalSummary": {
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.035Z",
+        "evaluatedAt": "2026-10-19T08:23:32.485Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,14 +538,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "0705f2b167e1159a4f7acaa7dd9132c1b9104125d08c723b535f00368215e2f3",
-      "sourcePath": "mantis-chain/SKILL.md",
+      "sourcePath": "skills/mantis-chain/SKILL.md",
       "name": "mantis-chain",
       "description": "Analyzes individual security findings to identify and construct complex exploit chains. Use after validation stages to see if multiple low-severity bugs can be combined into a higher impact vulnerability. Don't use for initial codebase auditing or writing patch code.",
       "version": "0.0.0",
@@ -557,8 +557,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-chain",
-      "relPath": "mantis-chain",
+      "installUrl": "github:google/mantis:skills/mantis-chain",
+      "relPath": "skills/mantis-chain",
       "verified": true,
       "tokenCount": 7425,
       "evalSummary": {
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.035Z",
+        "evaluatedAt": "2026-10-19T08:23:32.485Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,13 +717,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "8547c0f1485c3a01f2741bd377b82444e2892d0dcfb935917bd1c4507a5ee948",
+      "contentHash": "7f00cd90de458cd39b5a6f4b6f035bc84341d066f77452b52bed121e58d63266",
       "sourcePath": "reference/skills/mantis-configure/SKILL.md",
       "name": "mantis-configure",
       "description": "Configures and validates Mantis pipeline environments, sandbox mechanisms, and AI models. Use to set up workflow.json, auto-detect host capabilities, switch between sandboxes (static-only, gvisor, microsandbox, gce), select AI models, and run fast 1-2s preflight tests. Don't use for scanning source code or running attack campaigns.",
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.035Z",
+        "evaluatedAt": "2026-10-19T08:23:32.485Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,14 +896,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "7ac57e4e1bb72018880f8c6b68ffe04a57f13da15a8418ba8759ff81a9c5228c",
-      "sourcePath": "mantis-critic/SKILL.md",
+      "sourcePath": "skills/mantis-critic/SKILL.md",
       "name": "mantis-critic",
       "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
       "version": "0.0.0",
@@ -915,8 +915,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-critic",
-      "relPath": "mantis-critic",
+      "installUrl": "github:google/mantis:skills/mantis-critic",
+      "relPath": "skills/mantis-critic",
       "verified": true,
       "tokenCount": 5219,
       "evalSummary": {
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.040Z",
+        "evaluatedAt": "2026-10-19T08:23:32.484Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,14 +1075,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "4cc3dd33a392ca62bc6685444e6f35bb626daf058c5cc727c3eef258cb5e2d29",
-      "sourcePath": "mantis-dedupe/SKILL.md",
+      "sourcePath": "skills/mantis-dedupe/SKILL.md",
       "name": "mantis-dedupe",
       "description": "Consolidates raw security findings to eliminate redundant reports. Use when raw findings have been generated by the researcher and need consolidation before review. Don't use for initial code auditing or patch generation.",
       "version": "0.0.0",
@@ -1094,8 +1094,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-dedupe",
-      "relPath": "mantis-dedupe",
+      "installUrl": "github:google/mantis:skills/mantis-dedupe",
+      "relPath": "skills/mantis-dedupe",
       "verified": true,
       "tokenCount": 6421,
       "evalSummary": {
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.040Z",
+        "evaluatedAt": "2026-10-19T08:23:32.484Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,14 +1254,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "ef777063f09b17e5c72bbc692eeaad70b436f0b9708dbb1ebc493addd459617b",
-      "sourcePath": "mantis-history/SKILL.md",
+      "sourcePath": "skills/mantis-history/SKILL.md",
       "name": "mantis-history",
       "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
       "version": "0.0.0",
@@ -1273,8 +1273,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-history",
-      "relPath": "mantis-history",
+      "installUrl": "github:google/mantis:skills/mantis-history",
+      "relPath": "skills/mantis-history",
       "verified": true,
       "tokenCount": 3789,
       "evalSummary": {
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.040Z",
+        "evaluatedAt": "2026-10-19T08:23:32.486Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,13 +1433,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.040Z",
+          "evaluatedAt": "2026-10-19T08:23:32.486Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "7bbb0d5afc95f118c96b3db9dcfcddc8b63311406bfd4e0438284bc9881a2e1d",
+      "contentHash": "2ba207880de4f633eb7446a37ac322e32b3fec2fddc25aa3c928f63ac42ddda9",
       "sourcePath": "reference/skills/mantis-launch/SKILL.md",
       "name": "mantis-launch",
       "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.109Z",
+        "evaluatedAt": "2026-10-19T08:23:32.551Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.119Z",
+          "evaluatedAt": "2026-10-19T08:23:32.553Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,14 +1612,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.119Z",
+          "evaluatedAt": "2026-10-19T08:23:32.553Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "7b6c7d74025924f4487dfa53b762591728537baf8e17734d6e791af2d375c79a",
-      "sourcePath": "mantis-meta-agent/SKILL.md",
+      "sourcePath": "skills/mantis-meta-agent/SKILL.md",
       "name": "mantis-meta-agent",
       "description": "Acts as the persistent supervisor, launching and monitoring the automated review campaign. Use when running a long-running, continuous security review campaign that needs autonomous coordination. Don't use for executing individual review stages directly.",
       "version": "0.0.0",
@@ -1631,8 +1631,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-meta-agent",
-      "relPath": "mantis-meta-agent",
+      "installUrl": "github:google/mantis:skills/mantis-meta-agent",
+      "relPath": "skills/mantis-meta-agent",
       "verified": true,
       "tokenCount": 12787,
       "evalSummary": {
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.104Z",
+        "evaluatedAt": "2026-10-19T08:23:32.547Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.109Z",
+          "evaluatedAt": "2026-10-19T08:23:32.551Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,14 +1791,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.109Z",
+          "evaluatedAt": "2026-10-19T08:23:32.551Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "c14701e02eb6c8784a19132ab1ebfab7ddcf4e408853794ac4be50faf31a6fe0",
-      "sourcePath": "mantis-patch/SKILL.md",
+      "sourcePath": "skills/mantis-patch/SKILL.md",
       "name": "mantis-patch",
       "description": "Generates minimal security fixes using transactional isolation (shadow directories or file backups), applies patches, and verifies them. Use when security findings are successfully reproduced and need patches applied and verified. Don't use for initial vulnerability research or reproduction payload generation.",
       "version": "0.0.0",
@@ -1810,8 +1810,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-patch",
-      "relPath": "mantis-patch",
+      "installUrl": "github:google/mantis:skills/mantis-patch",
+      "relPath": "skills/mantis-patch",
       "verified": true,
       "tokenCount": 14972,
       "evalSummary": {
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.119Z",
+        "evaluatedAt": "2026-10-19T08:23:32.547Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.551Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,14 +1970,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.551Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "8297dc5e587293f9c3a72102f002311cadb267369ca14b40503133825adbd030",
-      "sourcePath": "mantis-pipeline-adapter/SKILL.md",
+      "sourcePath": "skills/mantis-pipeline-adapter/SKILL.md",
       "name": "mantis-pipeline-adapter",
       "description": "Interactively guides the design and implementation of custom deterministic orchestrator harnesses. Use when a user wants to build their own pipeline to wrap and run Mantis skills reliably. Don't use for executing the default pipeline directly.",
       "version": "0.0.0",
@@ -1989,8 +1989,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-pipeline-adapter",
-      "relPath": "mantis-pipeline-adapter",
+      "installUrl": "github:google/mantis:skills/mantis-pipeline-adapter",
+      "relPath": "skills/mantis-pipeline-adapter",
       "verified": true,
       "tokenCount": 19548,
       "evalSummary": {
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.120Z",
+        "evaluatedAt": "2026-10-19T08:23:32.547Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.551Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,14 +2149,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.551Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "8ca2bbd05e4ceafe26411259325100965cf8f4ecdd77e6f5cc33814eff3a44e9",
-      "sourcePath": "mantis-plan/SKILL.md",
+      "sourcePath": "skills/mantis-plan/SKILL.md",
       "name": "mantis-plan",
       "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
       "version": "0.0.0",
@@ -2168,8 +2168,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-plan",
-      "relPath": "mantis-plan",
+      "installUrl": "github:google/mantis:skills/mantis-plan",
+      "relPath": "skills/mantis-plan",
       "verified": true,
       "tokenCount": 10782,
       "evalSummary": {
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.119Z",
+        "evaluatedAt": "2026-10-19T08:23:32.553Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.555Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,14 +2328,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.555Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "cd9b985a9199a6848c122e1788e25525b6ba8c436be441a0fb5217356255e444",
-      "sourcePath": "mantis-reflect/SKILL.md",
+      "sourcePath": "skills/mantis-reflect/SKILL.md",
       "name": "mantis-reflect",
       "description": "Extracts learnings from execution trajectories at the end of a Mantis loop. Use to parse agent conversations, extract successes, failures, and false assumptions, and append them to workspace/learnings.jsonl. Don't use for analyzing source code or writing patches.",
       "version": "0.0.0",
@@ -2347,8 +2347,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-reflect",
-      "relPath": "mantis-reflect",
+      "installUrl": "github:google/mantis:skills/mantis-reflect",
+      "relPath": "skills/mantis-reflect",
       "verified": true,
       "tokenCount": 3116,
       "evalSummary": {
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.119Z",
+        "evaluatedAt": "2026-10-19T08:23:32.551Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.554Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,14 +2507,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.554Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "c80192b51c35d9f56a4953262b156a48b0fa1c3fa65b18b94359cd31b739cb5e",
-      "sourcePath": "mantis-report/SKILL.md",
+      "sourcePath": "skills/mantis-report/SKILL.md",
       "name": "mantis-report",
       "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
       "version": "0.0.0",
@@ -2526,8 +2526,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-report",
-      "relPath": "mantis-report",
+      "installUrl": "github:google/mantis:skills/mantis-report",
+      "relPath": "skills/mantis-report",
       "verified": true,
       "tokenCount": 8160,
       "evalSummary": {
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.119Z",
+        "evaluatedAt": "2026-10-19T08:23:32.555Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.555Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,14 +2686,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.120Z",
+          "evaluatedAt": "2026-10-19T08:23:32.555Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "b5b704b9cbc8131c281d7f628b37a35d956284db1d3d89a845e4154b0b57ba05",
-      "sourcePath": "mantis-reproduce/SKILL.md",
+      "sourcePath": "skills/mantis-reproduce/SKILL.md",
       "name": "mantis-reproduce",
       "description": "Generates and runs crash reproducers to verify security flaws. Use when viable findings exist and you need to write and execute a script or payload to verify the crash. Don't use for code auditing or patching.",
       "version": "0.0.0",
@@ -2705,8 +2705,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-reproduce",
-      "relPath": "mantis-reproduce",
+      "installUrl": "github:google/mantis:skills/mantis-reproduce",
+      "relPath": "skills/mantis-reproduce",
       "verified": true,
       "tokenCount": 13892,
       "evalSummary": {
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.152Z",
+        "evaluatedAt": "2026-10-19T08:23:32.578Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.152Z",
+          "evaluatedAt": "2026-10-19T08:23:32.581Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,14 +2865,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.152Z",
+          "evaluatedAt": "2026-10-19T08:23:32.581Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "3f8203e26347f4ecb764d009beac741d381067beca46c2e1d26257b19291418b",
-      "sourcePath": "mantis-researcher/SKILL.md",
+      "sourcePath": "skills/mantis-researcher/SKILL.md",
       "name": "mantis-researcher",
       "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
       "version": "0.0.0",
@@ -2884,8 +2884,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-researcher",
-      "relPath": "mantis-researcher",
+      "installUrl": "github:google/mantis:skills/mantis-researcher",
+      "relPath": "skills/mantis-researcher",
       "verified": true,
       "tokenCount": 7871,
       "evalSummary": {
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.198Z",
+        "evaluatedAt": "2026-10-19T08:23:32.620Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.204Z",
+          "evaluatedAt": "2026-10-19T08:23:32.624Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3044,14 +3044,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.204Z",
+          "evaluatedAt": "2026-10-19T08:23:32.624Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "3c0a274abc317cdfcb274336a85b6f75566b92258b03c60d43fcb4562e59fe6d",
-      "sourcePath": "mantis-review/SKILL.md",
+      "sourcePath": "skills/mantis-review/SKILL.md",
       "name": "mantis-review",
       "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
       "version": "0.0.0",
@@ -3063,8 +3063,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-review",
-      "relPath": "mantis-review",
+      "installUrl": "github:google/mantis:skills/mantis-review",
+      "relPath": "skills/mantis-review",
       "verified": true,
       "tokenCount": 7943,
       "evalSummary": {
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.205Z",
+        "evaluatedAt": "2026-10-19T08:23:32.624Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.206Z",
+          "evaluatedAt": "2026-10-19T08:23:32.626Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3223,14 +3223,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.206Z",
+          "evaluatedAt": "2026-10-19T08:23:32.626Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "5a65e55890846a1592a044bd9c117579305030f4c442daf79f3b6a9b3befe9bc",
-      "sourcePath": "mantis-structural-index/SKILL.md",
+      "sourcePath": "skills/mantis-structural-index/SKILL.md",
       "name": "mantis-structural-index",
       "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
       "version": "0.0.0",
@@ -3242,8 +3242,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-structural-index",
-      "relPath": "mantis-structural-index",
+      "installUrl": "github:google/mantis:skills/mantis-structural-index",
+      "relPath": "skills/mantis-structural-index",
       "verified": true,
       "tokenCount": 10676,
       "evalSummary": {
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.204Z",
+        "evaluatedAt": "2026-10-19T08:23:32.626Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.206Z",
+          "evaluatedAt": "2026-10-19T08:23:32.627Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3402,14 +3402,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.206Z",
+          "evaluatedAt": "2026-10-19T08:23:32.627Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "14438dbb6800e0f13986c5b49960a2a923c2c9206992a713682ce3bdaa98969a",
-      "sourcePath": "mantis-summarize/SKILL.md",
+      "sourcePath": "skills/mantis-summarize/SKILL.md",
       "name": "mantis-summarize",
       "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
       "version": "0.0.0",
@@ -3421,8 +3421,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-summarize",
-      "relPath": "mantis-summarize",
+      "installUrl": "github:google/mantis:skills/mantis-summarize",
+      "relPath": "skills/mantis-summarize",
       "verified": true,
       "tokenCount": 2712,
       "evalSummary": {
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.204Z",
+        "evaluatedAt": "2026-10-19T08:23:32.625Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.205Z",
+          "evaluatedAt": "2026-10-19T08:23:32.627Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3581,14 +3581,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.205Z",
+          "evaluatedAt": "2026-10-19T08:23:32.627Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
       "contentHash": "ced15d440489566553627a6415edaec7a8d11abef2a88a7cb204c17a31ed0a59",
-      "sourcePath": "mantis-threat-model/SKILL.md",
+      "sourcePath": "skills/mantis-threat-model/SKILL.md",
       "name": "mantis-threat-model",
       "description": "Synthesizes trust boundaries, attack surfaces, and attacker profiles into a living threat model. Use as Stage B of the Knowledge Base generation process, reading architecture and entity definitions from the KB. Don't use for analyzing source code or extracting raw learnings from JSONL files.",
       "version": "0.0.0",
@@ -3600,8 +3600,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:google/mantis:mantis-threat-model",
-      "relPath": "mantis-threat-model",
+      "installUrl": "github:google/mantis:skills/mantis-threat-model",
+      "relPath": "skills/mantis-threat-model",
       "verified": true,
       "tokenCount": 3912,
       "evalSummary": {
@@ -3669,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:07:18.206Z",
+        "evaluatedAt": "2026-10-19T08:23:32.627Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3742,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.206Z",
+          "evaluatedAt": "2026-10-19T08:23:32.627Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3760,7 +3760,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:07:18.206Z",
+          "evaluatedAt": "2026-10-19T08:23:32.627Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3769,382 +3769,10 @@
   "bundles": [
     {
       "version": 1,
-      "name": "google-mantis-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from google/mantis.",
-      "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-11T05:07:18.220Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "data",
-        "ai",
-        "agents",
-        "google",
-        "mantis"
-      ],
-      "skills": [
-        {
-          "name": "mantis-advise",
-          "installUrl": "github:google/mantis:mantis-advise",
-          "description": "Proactive security advisor and architectural remediation assistant for secure code development. Use to query threat models, historical vulnerability lineages, verified patch patterns, triaged false positives, and learned trajectory invariants before code edits or to generate architectural remediation plans for confirmed findings. Don't use for automated multi-pass red-team exploitation or fuzzing.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-architecture",
-          "installUrl": "github:google/mantis:mantis-architecture",
-          "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-chain",
-          "installUrl": "github:google/mantis:mantis-chain",
-          "description": "Analyzes individual security findings to identify and construct complex exploit chains. Use after validation stages to see if multiple low-severity bugs can be combined into a higher impact vulnerability. Don't use for initial codebase auditing or writing patch code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-configure",
-          "installUrl": "github:google/mantis:reference/skills/mantis-configure",
-          "description": "Configures and validates Mantis pipeline environments, sandbox mechanisms, and AI models. Use to set up workflow.json, auto-detect host capabilities, switch between sandboxes (static-only, gvisor, microsandbox, gce), select AI models, and run fast 1-2s preflight tests. Don't use for scanning source code or running attack campaigns.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-history",
-          "installUrl": "github:google/mantis:mantis-history",
-          "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-launch",
-          "installUrl": "github:google/mantis:reference/skills/mantis-launch",
-          "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-meta-agent",
-          "installUrl": "github:google/mantis:mantis-meta-agent",
-          "description": "Acts as the persistent supervisor, launching and monitoring the automated review campaign. Use when running a long-running, continuous security review campaign that needs autonomous coordination. Don't use for executing individual review stages directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-plan",
-          "installUrl": "github:google/mantis:mantis-plan",
-          "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-reflect",
-          "installUrl": "github:google/mantis:mantis-reflect",
-          "description": "Extracts learnings from execution trajectories at the end of a Mantis loop. Use to parse agent conversations, extract successes, failures, and false assumptions, and append them to workspace/learnings.jsonl. Don't use for analyzing source code or writing patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-report",
-          "installUrl": "github:google/mantis:mantis-report",
-          "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-researcher",
-          "installUrl": "github:google/mantis:mantis-researcher",
-          "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-review",
-          "installUrl": "github:google/mantis:mantis-review",
-          "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-structural-index",
-          "installUrl": "github:google/mantis:mantis-structural-index",
-          "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-summarize",
-          "installUrl": "github:google/mantis:mantis-summarize",
-          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-threat-model",
-          "installUrl": "github:google/mantis:mantis-threat-model",
-          "description": "Synthesizes trust boundaries, attack surfaces, and attacker profiles into a living threat model. Use as Stage B of the Knowledge Base generation process, reading architecture and entity definitions from the KB. Don't use for analyzing source code or extracting raw learnings from JSONL files.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "google",
-        "repo": "mantis",
-        "repoUrl": "https://github.com/google/mantis.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "google-mantis-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from google/mantis.",
-      "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-11T05:07:18.220Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
-        "google",
-        "mantis"
-      ],
-      "skills": [
-        {
-          "name": "mantis-configure",
-          "installUrl": "github:google/mantis:reference/skills/mantis-configure",
-          "description": "Configures and validates Mantis pipeline environments, sandbox mechanisms, and AI models. Use to set up workflow.json, auto-detect host capabilities, switch between sandboxes (static-only, gvisor, microsandbox, gce), select AI models, and run fast 1-2s preflight tests. Don't use for scanning source code or running attack campaigns.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-critic",
-          "installUrl": "github:google/mantis:mantis-critic",
-          "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-launch",
-          "installUrl": "github:google/mantis:reference/skills/mantis-launch",
-          "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-pipeline-adapter",
-          "installUrl": "github:google/mantis:mantis-pipeline-adapter",
-          "description": "Interactively guides the design and implementation of custom deterministic orchestrator harnesses. Use when a user wants to build their own pipeline to wrap and run Mantis skills reliably. Don't use for executing the default pipeline directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-report",
-          "installUrl": "github:google/mantis:mantis-report",
-          "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-review",
-          "installUrl": "github:google/mantis:mantis-review",
-          "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-summarize",
-          "installUrl": "github:google/mantis:mantis-summarize",
-          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "google",
-        "repo": "mantis",
-        "repoUrl": "https://github.com/google/mantis.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "google-mantis-engineering",
-      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from google/mantis.",
-      "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-11T05:07:18.220Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "engineering",
-        "coding",
-        "testing",
-        "google",
-        "mantis"
-      ],
-      "skills": [
-        {
-          "name": "mantis-advise",
-          "installUrl": "github:google/mantis:mantis-advise",
-          "description": "Proactive security advisor and architectural remediation assistant for secure code development. Use to query threat models, historical vulnerability lineages, verified patch patterns, triaged false positives, and learned trajectory invariants before code edits or to generate architectural remediation plans for confirmed findings. Don't use for automated multi-pass red-team exploitation or fuzzing.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-architecture",
-          "installUrl": "github:google/mantis:mantis-architecture",
-          "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-chain",
-          "installUrl": "github:google/mantis:mantis-chain",
-          "description": "Analyzes individual security findings to identify and construct complex exploit chains. Use after validation stages to see if multiple low-severity bugs can be combined into a higher impact vulnerability. Don't use for initial codebase auditing or writing patch code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-configure",
-          "installUrl": "github:google/mantis:reference/skills/mantis-configure",
-          "description": "Configures and validates Mantis pipeline environments, sandbox mechanisms, and AI models. Use to set up workflow.json, auto-detect host capabilities, switch between sandboxes (static-only, gvisor, microsandbox, gce), select AI models, and run fast 1-2s preflight tests. Don't use for scanning source code or running attack campaigns.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-critic",
-          "installUrl": "github:google/mantis:mantis-critic",
-          "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-dedupe",
-          "installUrl": "github:google/mantis:mantis-dedupe",
-          "description": "Consolidates raw security findings to eliminate redundant reports. Use when raw findings have been generated by the researcher and need consolidation before review. Don't use for initial code auditing or patch generation.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-history",
-          "installUrl": "github:google/mantis:mantis-history",
-          "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-launch",
-          "installUrl": "github:google/mantis:reference/skills/mantis-launch",
-          "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-meta-agent",
-          "installUrl": "github:google/mantis:mantis-meta-agent",
-          "description": "Acts as the persistent supervisor, launching and monitoring the automated review campaign. Use when running a long-running, continuous security review campaign that needs autonomous coordination. Don't use for executing individual review stages directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-pipeline-adapter",
-          "installUrl": "github:google/mantis:mantis-pipeline-adapter",
-          "description": "Interactively guides the design and implementation of custom deterministic orchestrator harnesses. Use when a user wants to build their own pipeline to wrap and run Mantis skills reliably. Don't use for executing the default pipeline directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-plan",
-          "installUrl": "github:google/mantis:mantis-plan",
-          "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-reflect",
-          "installUrl": "github:google/mantis:mantis-reflect",
-          "description": "Extracts learnings from execution trajectories at the end of a Mantis loop. Use to parse agent conversations, extract successes, failures, and false assumptions, and append them to workspace/learnings.jsonl. Don't use for analyzing source code or writing patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-report",
-          "installUrl": "github:google/mantis:mantis-report",
-          "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-reproduce",
-          "installUrl": "github:google/mantis:mantis-reproduce",
-          "description": "Generates and runs crash reproducers to verify security flaws. Use when viable findings exist and you need to write and execute a script or payload to verify the crash. Don't use for code auditing or patching.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-researcher",
-          "installUrl": "github:google/mantis:mantis-researcher",
-          "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-review",
-          "installUrl": "github:google/mantis:mantis-review",
-          "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-structural-index",
-          "installUrl": "github:google/mantis:mantis-structural-index",
-          "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-summarize",
-          "installUrl": "github:google/mantis:mantis-summarize",
-          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-threat-model",
-          "installUrl": "github:google/mantis:mantis-threat-model",
-          "description": "Synthesizes trust boundaries, attack surfaces, and attacker profiles into a living threat model. Use as Stage B of the Knowledge Base generation process, reading architecture and entity definitions from the KB. Don't use for analyzing source code or extracting raw learnings from JSONL files.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "google",
-        "repo": "mantis",
-        "repoUrl": "https://github.com/google/mantis.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "google-mantis-frontend-design",
-      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from google/mantis.",
-      "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-11T05:07:18.220Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "frontend",
-        "design",
-        "ui",
-        "google",
-        "mantis"
-      ],
-      "skills": [
-        {
-          "name": "mantis-architecture",
-          "installUrl": "github:google/mantis:mantis-architecture",
-          "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-critic",
-          "installUrl": "github:google/mantis:mantis-critic",
-          "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-history",
-          "installUrl": "github:google/mantis:mantis-history",
-          "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-pipeline-adapter",
-          "installUrl": "github:google/mantis:mantis-pipeline-adapter",
-          "description": "Interactively guides the design and implementation of custom deterministic orchestrator harnesses. Use when a user wants to build their own pipeline to wrap and run Mantis skills reliably. Don't use for executing the default pipeline directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-structural-index",
-          "installUrl": "github:google/mantis:mantis-structural-index",
-          "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "google",
-        "repo": "mantis",
-        "repoUrl": "https://github.com/google/mantis.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
       "name": "google-mantis-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-11T05:07:18.220Z",
+      "createdAt": "2026-10-19T08:23:32.640Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4169,175 +3797,25 @@
         },
         {
           "name": "mantis-meta-agent",
-          "installUrl": "github:google/mantis:mantis-meta-agent",
+          "installUrl": "github:google/mantis:skills/mantis-meta-agent",
           "description": "Acts as the persistent supervisor, launching and monitoring the automated review campaign. Use when running a long-running, continuous security review campaign that needs autonomous coordination. Don't use for executing individual review stages directly.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-plan",
-          "installUrl": "github:google/mantis:mantis-plan",
+          "installUrl": "github:google/mantis:skills/mantis-plan",
           "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-structural-index",
-          "installUrl": "github:google/mantis:mantis-structural-index",
+          "installUrl": "github:google/mantis:skills/mantis-structural-index",
           "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-summarize",
-          "installUrl": "github:google/mantis:mantis-summarize",
-          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "google",
-        "repo": "mantis",
-        "repoUrl": "https://github.com/google/mantis.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "google-mantis-product-business",
-      "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from google/mantis.",
-      "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-11T05:07:18.220Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "product",
-        "business",
-        "planning",
-        "google",
-        "mantis"
-      ],
-      "skills": [
-        {
-          "name": "mantis-critic",
-          "installUrl": "github:google/mantis:mantis-critic",
-          "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-patch",
-          "installUrl": "github:google/mantis:mantis-patch",
-          "description": "Generates minimal security fixes using transactional isolation (shadow directories or file backups), applies patches, and verifies them. Use when security findings are successfully reproduced and need patches applied and verified. Don't use for initial vulnerability research or reproduction payload generation.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-researcher",
-          "installUrl": "github:google/mantis:mantis-researcher",
-          "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-summarize",
-          "installUrl": "github:google/mantis:mantis-summarize",
-          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "google",
-        "repo": "mantis",
-        "repoUrl": "https://github.com/google/mantis.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "google-mantis-research",
-      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from google/mantis.",
-      "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-11T05:07:18.220Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "research",
-        "academic",
-        "analysis",
-        "google",
-        "mantis"
-      ],
-      "skills": [
-        {
-          "name": "mantis-architecture",
-          "installUrl": "github:google/mantis:mantis-architecture",
-          "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-dedupe",
-          "installUrl": "github:google/mantis:mantis-dedupe",
-          "description": "Consolidates raw security findings to eliminate redundant reports. Use when raw findings have been generated by the researcher and need consolidation before review. Don't use for initial code auditing or patch generation.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-history",
-          "installUrl": "github:google/mantis:mantis-history",
-          "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-launch",
-          "installUrl": "github:google/mantis:reference/skills/mantis-launch",
-          "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-meta-agent",
-          "installUrl": "github:google/mantis:mantis-meta-agent",
-          "description": "Acts as the persistent supervisor, launching and monitoring the automated review campaign. Use when running a long-running, continuous security review campaign that needs autonomous coordination. Don't use for executing individual review stages directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-patch",
-          "installUrl": "github:google/mantis:mantis-patch",
-          "description": "Generates minimal security fixes using transactional isolation (shadow directories or file backups), applies patches, and verifies them. Use when security findings are successfully reproduced and need patches applied and verified. Don't use for initial vulnerability research or reproduction payload generation.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-plan",
-          "installUrl": "github:google/mantis:mantis-plan",
-          "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-report",
-          "installUrl": "github:google/mantis:mantis-report",
-          "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-reproduce",
-          "installUrl": "github:google/mantis:mantis-reproduce",
-          "description": "Generates and runs crash reproducers to verify security flaws. Use when viable findings exist and you need to write and execute a script or payload to verify the crash. Don't use for code auditing or patching.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-researcher",
-          "installUrl": "github:google/mantis:mantis-researcher",
-          "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-review",
-          "installUrl": "github:google/mantis:mantis-review",
-          "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-structural-index",
-          "installUrl": "github:google/mantis:mantis-structural-index",
-          "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "mantis-summarize",
-          "installUrl": "github:google/mantis:mantis-summarize",
+          "installUrl": "github:google/mantis:skills/mantis-summarize",
           "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
           "version": "0.0.0"
         }
@@ -4354,7 +3832,7 @@
       "name": "google-mantis-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-11T05:07:18.220Z",
+      "createdAt": "2026-10-19T08:23:32.640Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4367,67 +3845,589 @@
       "skills": [
         {
           "name": "mantis-calibrate",
-          "installUrl": "github:google/mantis:mantis-calibrate",
+          "installUrl": "github:google/mantis:skills/mantis-calibrate",
           "description": "Calculates the final risk score based on empirical evidence and architectural impact. Use when findings have been fully processed by previous stages and you need to append final risk scores to the finding files. Don't use for discovering new vulnerabilities or writing patches.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-chain",
-          "installUrl": "github:google/mantis:mantis-chain",
+          "installUrl": "github:google/mantis:skills/mantis-chain",
           "description": "Analyzes individual security findings to identify and construct complex exploit chains. Use after validation stages to see if multiple low-severity bugs can be combined into a higher impact vulnerability. Don't use for initial codebase auditing or writing patch code.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-critic",
-          "installUrl": "github:google/mantis:mantis-critic",
+          "installUrl": "github:google/mantis:skills/mantis-critic",
           "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-history",
-          "installUrl": "github:google/mantis:mantis-history",
+          "installUrl": "github:google/mantis:skills/mantis-history",
           "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-plan",
-          "installUrl": "github:google/mantis:mantis-plan",
+          "installUrl": "github:google/mantis:skills/mantis-plan",
           "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-reflect",
-          "installUrl": "github:google/mantis:mantis-reflect",
+          "installUrl": "github:google/mantis:skills/mantis-reflect",
           "description": "Extracts learnings from execution trajectories at the end of a Mantis loop. Use to parse agent conversations, extract successes, failures, and false assumptions, and append them to workspace/learnings.jsonl. Don't use for analyzing source code or writing patches.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-report",
-          "installUrl": "github:google/mantis:mantis-report",
+          "installUrl": "github:google/mantis:skills/mantis-report",
           "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-reproduce",
-          "installUrl": "github:google/mantis:mantis-reproduce",
+          "installUrl": "github:google/mantis:skills/mantis-reproduce",
           "description": "Generates and runs crash reproducers to verify security flaws. Use when viable findings exist and you need to write and execute a script or payload to verify the crash. Don't use for code auditing or patching.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-researcher",
-          "installUrl": "github:google/mantis:mantis-researcher",
+          "installUrl": "github:google/mantis:skills/mantis-researcher",
           "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-structural-index",
-          "installUrl": "github:google/mantis:mantis-structural-index",
+          "installUrl": "github:google/mantis:skills/mantis-structural-index",
           "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
           "version": "0.0.0"
         },
         {
           "name": "mantis-summarize",
-          "installUrl": "github:google/mantis:mantis-summarize",
+          "installUrl": "github:google/mantis:skills/mantis-summarize",
+          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "google",
+        "repo": "mantis",
+        "repoUrl": "https://github.com/google/mantis.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "google-mantis-research",
+      "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from google/mantis.",
+      "author": "ASM (google/mantis)",
+      "createdAt": "2026-10-19T08:23:32.640Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "research",
+        "academic",
+        "analysis",
+        "google",
+        "mantis"
+      ],
+      "skills": [
+        {
+          "name": "mantis-architecture",
+          "installUrl": "github:google/mantis:skills/mantis-architecture",
+          "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-dedupe",
+          "installUrl": "github:google/mantis:skills/mantis-dedupe",
+          "description": "Consolidates raw security findings to eliminate redundant reports. Use when raw findings have been generated by the researcher and need consolidation before review. Don't use for initial code auditing or patch generation.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-history",
+          "installUrl": "github:google/mantis:skills/mantis-history",
+          "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-launch",
+          "installUrl": "github:google/mantis:reference/skills/mantis-launch",
+          "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-meta-agent",
+          "installUrl": "github:google/mantis:skills/mantis-meta-agent",
+          "description": "Acts as the persistent supervisor, launching and monitoring the automated review campaign. Use when running a long-running, continuous security review campaign that needs autonomous coordination. Don't use for executing individual review stages directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-patch",
+          "installUrl": "github:google/mantis:skills/mantis-patch",
+          "description": "Generates minimal security fixes using transactional isolation (shadow directories or file backups), applies patches, and verifies them. Use when security findings are successfully reproduced and need patches applied and verified. Don't use for initial vulnerability research or reproduction payload generation.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-plan",
+          "installUrl": "github:google/mantis:skills/mantis-plan",
+          "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-report",
+          "installUrl": "github:google/mantis:skills/mantis-report",
+          "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-reproduce",
+          "installUrl": "github:google/mantis:skills/mantis-reproduce",
+          "description": "Generates and runs crash reproducers to verify security flaws. Use when viable findings exist and you need to write and execute a script or payload to verify the crash. Don't use for code auditing or patching.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-researcher",
+          "installUrl": "github:google/mantis:skills/mantis-researcher",
+          "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-review",
+          "installUrl": "github:google/mantis:skills/mantis-review",
+          "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-structural-index",
+          "installUrl": "github:google/mantis:skills/mantis-structural-index",
+          "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-summarize",
+          "installUrl": "github:google/mantis:skills/mantis-summarize",
+          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "google",
+        "repo": "mantis",
+        "repoUrl": "https://github.com/google/mantis.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "google-mantis-engineering",
+      "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from google/mantis.",
+      "author": "ASM (google/mantis)",
+      "createdAt": "2026-10-19T08:23:32.640Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "engineering",
+        "coding",
+        "testing",
+        "google",
+        "mantis"
+      ],
+      "skills": [
+        {
+          "name": "mantis-advise",
+          "installUrl": "github:google/mantis:skills/mantis-advise",
+          "description": "Proactive security advisor and architectural remediation assistant for secure code development. Use to query threat models, historical vulnerability lineages, verified patch patterns, triaged false positives, and learned trajectory invariants before code edits or to generate architectural remediation plans for confirmed findings. Don't use for automated multi-pass red-team exploitation or fuzzing.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-architecture",
+          "installUrl": "github:google/mantis:skills/mantis-architecture",
+          "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-chain",
+          "installUrl": "github:google/mantis:skills/mantis-chain",
+          "description": "Analyzes individual security findings to identify and construct complex exploit chains. Use after validation stages to see if multiple low-severity bugs can be combined into a higher impact vulnerability. Don't use for initial codebase auditing or writing patch code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-configure",
+          "installUrl": "github:google/mantis:reference/skills/mantis-configure",
+          "description": "Configures and validates Mantis pipeline environments, sandbox mechanisms, and AI models. Use to set up workflow.json, auto-detect host capabilities, switch between sandboxes (static-only, gvisor, microsandbox, gce), select AI models, and run fast 1-2s preflight tests. Don't use for scanning source code or running attack campaigns.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-critic",
+          "installUrl": "github:google/mantis:skills/mantis-critic",
+          "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-dedupe",
+          "installUrl": "github:google/mantis:skills/mantis-dedupe",
+          "description": "Consolidates raw security findings to eliminate redundant reports. Use when raw findings have been generated by the researcher and need consolidation before review. Don't use for initial code auditing or patch generation.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-history",
+          "installUrl": "github:google/mantis:skills/mantis-history",
+          "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-launch",
+          "installUrl": "github:google/mantis:reference/skills/mantis-launch",
+          "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-meta-agent",
+          "installUrl": "github:google/mantis:skills/mantis-meta-agent",
+          "description": "Acts as the persistent supervisor, launching and monitoring the automated review campaign. Use when running a long-running, continuous security review campaign that needs autonomous coordination. Don't use for executing individual review stages directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-pipeline-adapter",
+          "installUrl": "github:google/mantis:skills/mantis-pipeline-adapter",
+          "description": "Interactively guides the design and implementation of custom deterministic orchestrator harnesses. Use when a user wants to build their own pipeline to wrap and run Mantis skills reliably. Don't use for executing the default pipeline directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-plan",
+          "installUrl": "github:google/mantis:skills/mantis-plan",
+          "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-reflect",
+          "installUrl": "github:google/mantis:skills/mantis-reflect",
+          "description": "Extracts learnings from execution trajectories at the end of a Mantis loop. Use to parse agent conversations, extract successes, failures, and false assumptions, and append them to workspace/learnings.jsonl. Don't use for analyzing source code or writing patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-report",
+          "installUrl": "github:google/mantis:skills/mantis-report",
+          "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-reproduce",
+          "installUrl": "github:google/mantis:skills/mantis-reproduce",
+          "description": "Generates and runs crash reproducers to verify security flaws. Use when viable findings exist and you need to write and execute a script or payload to verify the crash. Don't use for code auditing or patching.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-researcher",
+          "installUrl": "github:google/mantis:skills/mantis-researcher",
+          "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-review",
+          "installUrl": "github:google/mantis:skills/mantis-review",
+          "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-structural-index",
+          "installUrl": "github:google/mantis:skills/mantis-structural-index",
+          "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-summarize",
+          "installUrl": "github:google/mantis:skills/mantis-summarize",
+          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-threat-model",
+          "installUrl": "github:google/mantis:skills/mantis-threat-model",
+          "description": "Synthesizes trust boundaries, attack surfaces, and attacker profiles into a living threat model. Use as Stage B of the Knowledge Base generation process, reading architecture and entity definitions from the KB. Don't use for analyzing source code or extracting raw learnings from JSONL files.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "google",
+        "repo": "mantis",
+        "repoUrl": "https://github.com/google/mantis.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "google-mantis-frontend-design",
+      "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from google/mantis.",
+      "author": "ASM (google/mantis)",
+      "createdAt": "2026-10-19T08:23:32.640Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "frontend",
+        "design",
+        "ui",
+        "google",
+        "mantis"
+      ],
+      "skills": [
+        {
+          "name": "mantis-architecture",
+          "installUrl": "github:google/mantis:skills/mantis-architecture",
+          "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-critic",
+          "installUrl": "github:google/mantis:skills/mantis-critic",
+          "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-history",
+          "installUrl": "github:google/mantis:skills/mantis-history",
+          "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-pipeline-adapter",
+          "installUrl": "github:google/mantis:skills/mantis-pipeline-adapter",
+          "description": "Interactively guides the design and implementation of custom deterministic orchestrator harnesses. Use when a user wants to build their own pipeline to wrap and run Mantis skills reliably. Don't use for executing the default pipeline directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-structural-index",
+          "installUrl": "github:google/mantis:skills/mantis-structural-index",
+          "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "google",
+        "repo": "mantis",
+        "repoUrl": "https://github.com/google/mantis.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "google-mantis-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from google/mantis.",
+      "author": "ASM (google/mantis)",
+      "createdAt": "2026-10-19T08:23:32.640Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "devops",
+        "infra",
+        "automation",
+        "google",
+        "mantis"
+      ],
+      "skills": [
+        {
+          "name": "mantis-configure",
+          "installUrl": "github:google/mantis:reference/skills/mantis-configure",
+          "description": "Configures and validates Mantis pipeline environments, sandbox mechanisms, and AI models. Use to set up workflow.json, auto-detect host capabilities, switch between sandboxes (static-only, gvisor, microsandbox, gce), select AI models, and run fast 1-2s preflight tests. Don't use for scanning source code or running attack campaigns.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-critic",
+          "installUrl": "github:google/mantis:skills/mantis-critic",
+          "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-launch",
+          "installUrl": "github:google/mantis:reference/skills/mantis-launch",
+          "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-pipeline-adapter",
+          "installUrl": "github:google/mantis:skills/mantis-pipeline-adapter",
+          "description": "Interactively guides the design and implementation of custom deterministic orchestrator harnesses. Use when a user wants to build their own pipeline to wrap and run Mantis skills reliably. Don't use for executing the default pipeline directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-report",
+          "installUrl": "github:google/mantis:skills/mantis-report",
+          "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-review",
+          "installUrl": "github:google/mantis:skills/mantis-review",
+          "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-summarize",
+          "installUrl": "github:google/mantis:skills/mantis-summarize",
+          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "google",
+        "repo": "mantis",
+        "repoUrl": "https://github.com/google/mantis.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "google-mantis-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from google/mantis.",
+      "author": "ASM (google/mantis)",
+      "createdAt": "2026-10-19T08:23:32.640Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
+        "google",
+        "mantis"
+      ],
+      "skills": [
+        {
+          "name": "mantis-advise",
+          "installUrl": "github:google/mantis:skills/mantis-advise",
+          "description": "Proactive security advisor and architectural remediation assistant for secure code development. Use to query threat models, historical vulnerability lineages, verified patch patterns, triaged false positives, and learned trajectory invariants before code edits or to generate architectural remediation plans for confirmed findings. Don't use for automated multi-pass red-team exploitation or fuzzing.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-architecture",
+          "installUrl": "github:google/mantis:skills/mantis-architecture",
+          "description": "Synthesizes raw learnings and codebase analysis into an interlinked Markdown Knowledge Base (KB). Use at the beginning of a loop to build or update architecture.md, entities, and vulnerabilities. Don't use for generating threat models or formulating execution plans.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-chain",
+          "installUrl": "github:google/mantis:skills/mantis-chain",
+          "description": "Analyzes individual security findings to identify and construct complex exploit chains. Use after validation stages to see if multiple low-severity bugs can be combined into a higher impact vulnerability. Don't use for initial codebase auditing or writing patch code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-configure",
+          "installUrl": "github:google/mantis:reference/skills/mantis-configure",
+          "description": "Configures and validates Mantis pipeline environments, sandbox mechanisms, and AI models. Use to set up workflow.json, auto-detect host capabilities, switch between sandboxes (static-only, gvisor, microsandbox, gce), select AI models, and run fast 1-2s preflight tests. Don't use for scanning source code or running attack campaigns.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-history",
+          "installUrl": "github:google/mantis:skills/mantis-history",
+          "description": "Analyzes the repository's version control system (VCS) history to extract past vulnerabilities, security fixes, and vulnerability patterns. Use as an initial pre-processing step to build a historical vulnerabilities database (workspace/historical_learnings.jsonl) that informs subsequent stages about past issues and fixes. Don't use for code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-launch",
+          "installUrl": "github:google/mantis:reference/skills/mantis-launch",
+          "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-meta-agent",
+          "installUrl": "github:google/mantis:skills/mantis-meta-agent",
+          "description": "Acts as the persistent supervisor, launching and monitoring the automated review campaign. Use when running a long-running, continuous security review campaign that needs autonomous coordination. Don't use for executing individual review stages directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-plan",
+          "installUrl": "github:google/mantis:skills/mantis-plan",
+          "description": "Formulates a targeted defensive security reviewing plan based on the active threat model and historical learnings. Use when starting a security review campaign to map the codebase boundaries and generate a roadmap (workspace/plan.json). Don't use for executing code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-reflect",
+          "installUrl": "github:google/mantis:skills/mantis-reflect",
+          "description": "Extracts learnings from execution trajectories at the end of a Mantis loop. Use to parse agent conversations, extract successes, failures, and false assumptions, and append them to workspace/learnings.jsonl. Don't use for analyzing source code or writing patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-report",
+          "installUrl": "github:google/mantis:skills/mantis-report",
+          "description": "Generates a human-readable security review packet compiled from confirmed findings and exploit chains. Use at the end of a review cycle to produce stakeholder-facing documentation. Don't use for auditing code or verifying patches directly.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-researcher",
+          "installUrl": "github:google/mantis:skills/mantis-researcher",
+          "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-review",
+          "installUrl": "github:google/mantis:skills/mantis-review",
+          "description": "Independently reviews findings and filters out false positives. Use when consolidated findings need validation against the actual source code. Don't use for reproducing crashes or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-structural-index",
+          "installUrl": "github:google/mantis:skills/mantis-structural-index",
+          "description": "Builds a content-addressed semantic-unit index from source code for structural context. Use when a pinned or live codebase is available and structural cross-reference data would improve research quality. Don't use for findings analysis, patching, or reporting.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-summarize",
+          "installUrl": "github:google/mantis:skills/mantis-summarize",
+          "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-threat-model",
+          "installUrl": "github:google/mantis:skills/mantis-threat-model",
+          "description": "Synthesizes trust boundaries, attack surfaces, and attacker profiles into a living threat model. Use as Stage B of the Knowledge Base generation process, reading architecture and entity definitions from the KB. Don't use for analyzing source code or extracting raw learnings from JSONL files.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "google",
+        "repo": "mantis",
+        "repoUrl": "https://github.com/google/mantis.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "google-mantis-product-business",
+      "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from google/mantis.",
+      "author": "ASM (google/mantis)",
+      "createdAt": "2026-10-19T08:23:32.640Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "product",
+        "business",
+        "planning",
+        "google",
+        "mantis"
+      ],
+      "skills": [
+        {
+          "name": "mantis-critic",
+          "installUrl": "github:google/mantis:skills/mantis-critic",
+          "description": "Assesses the production viability of findings, filtering out debug-only features and assertion traps. Use when findings have been validated and you need to confirm they are triggerable in production release builds (with assertions disabled). Don't use for writing reproduction scripts or patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-patch",
+          "installUrl": "github:google/mantis:skills/mantis-patch",
+          "description": "Generates minimal security fixes using transactional isolation (shadow directories or file backups), applies patches, and verifies them. Use when security findings are successfully reproduced and need patches applied and verified. Don't use for initial vulnerability research or reproduction payload generation.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-researcher",
+          "installUrl": "github:google/mantis:skills/mantis-researcher",
+          "description": "Audits production source code files based on the strategy in workspace/plan.json. Use when a review plan exists and you need to perform static analysis and deep-dive reviews of targeted files. Don't use for planning, deduplicating, or writing patches.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "mantis-summarize",
+          "installUrl": "github:google/mantis:skills/mantis-summarize",
           "description": "Pre-processes the repository by generating security-focused summaries (mantis-summary.md) for each directory to make planning and research more efficient. Use when starting a review campaign to map the codebase before threat modeling and planning. Don't use for executing code reviews, writing test scripts, or patching code.",
           "version": "0.0.0"
         }

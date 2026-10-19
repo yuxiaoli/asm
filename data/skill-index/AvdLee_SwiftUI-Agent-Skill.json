@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/AvdLee/SwiftUI-Agent-Skill.git",
   "owner": "AvdLee",
   "repo": "SwiftUI-Agent-Skill",
-  "updatedAt": "2026-10-11T05:04:21.469Z",
+  "updatedAt": "2026-10-19T08:20:20.655Z",
   "skillCount": 2,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:20.896Z",
+        "evaluatedAt": "2026-10-19T08:20:20.158Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:20.897Z",
+          "evaluatedAt": "2026-10-19T08:20:20.159Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:20.897Z",
+          "evaluatedAt": "2026-10-19T08:20:20.159Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-11T05:04:20.897Z",
+        "evaluatedAt": "2026-10-19T08:20:20.159Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:20.897Z",
+          "evaluatedAt": "2026-10-19T08:20:20.160Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-11T05:04:20.897Z",
+          "evaluatedAt": "2026-10-19T08:20:20.161Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -368,52 +368,16 @@
   "bundles": [
     {
       "version": 1,
-      "name": "avdlee-swiftui-agent-skill-data-ai",
-      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
+      "name": "avdlee-swiftui-agent-skill-writing",
+      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
       "author": "ASM (AvdLee/SwiftUI-Agent-Skill)",
-      "createdAt": "2026-10-11T05:04:21.469Z",
+      "createdAt": "2026-10-19T08:20:20.655Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "data",
-        "ai",
-        "agents",
-        "avdlee",
-        "swiftui-agent-skill"
-      ],
-      "skills": [
-        {
-          "name": "swiftui-expert-skill",
-          "installUrl": "github:AvdLee/SwiftUI-Agent-Skill:skills/swiftui-expert-skill",
-          "description": "Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS, including state and `@Observable` data flow, view composition, resizable layouts, safe areas, display scale, performance, lists, environment, localization, animation, Liquid Glass, and API migration. Also use for iPhone Duo, foldable, or large-display layouts (`NavigationSplitView` on large displays, iPhone tab sidebar, two-column reflow, foldable grids, `ArrangementView`, `ReservedRegion`), hinge effects, vertical bars, `@State` initialization or synthesized-property diagnostics, `@ContentBuilder` ambiguity, `reorderable` drag/drop, custom `AsyncImage` `URLSession`, swipe actions outside List, item-bound `alert`/`confirmationDialog`, `ToolbarOverflowMenu`, `AnimatableValues`, Document APIs (`Document`/`DocumentReader`), and Instruments `.trace` capture or analysis.",
-          "version": "0.0.0"
-        },
-        {
-          "name": "update-swiftui-apis",
-          "installUrl": "github:AvdLee/SwiftUI-Agent-Skill:.agents/skills/update-swiftui-apis",
-          "description": "Scan Apple's SwiftUI documentation for deprecated APIs and update the SwiftUI Expert Skill with modern replacements. Use when asked to \"update latest APIs\", \"refresh deprecated SwiftUI APIs\", \"check for new SwiftUI deprecations\", \"scan for API changes\", or after a new iOS/Xcode release. Requires the Sosumi MCP to be available.",
-          "version": "0.0.0"
-        }
-      ],
-      "sourceRepo": {
-        "owner": "AvdLee",
-        "repo": "SwiftUI-Agent-Skill",
-        "repoUrl": "https://github.com/AvdLee/SwiftUI-Agent-Skill.git"
-      },
-      "inferred": true
-    },
-    {
-      "version": 1,
-      "name": "avdlee-swiftui-agent-skill-devops",
-      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
-      "author": "ASM (AvdLee/SwiftUI-Agent-Skill)",
-      "createdAt": "2026-10-11T05:04:21.469Z",
-      "tags": [
-        "repo-derived",
-        "inferred",
-        "devops",
-        "infra",
-        "automation",
+        "writing",
+        "content",
+        "docs",
         "avdlee",
         "swiftui-agent-skill"
       ],
@@ -443,7 +407,7 @@
       "name": "avdlee-swiftui-agent-skill-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
       "author": "ASM (AvdLee/SwiftUI-Agent-Skill)",
-      "createdAt": "2026-10-11T05:04:21.469Z",
+      "createdAt": "2026-10-19T08:20:20.655Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -479,7 +443,7 @@
       "name": "avdlee-swiftui-agent-skill-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
       "author": "ASM (AvdLee/SwiftUI-Agent-Skill)",
-      "createdAt": "2026-10-11T05:04:21.469Z",
+      "createdAt": "2026-10-19T08:20:20.655Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -515,7 +479,7 @@
       "name": "avdlee-swiftui-agent-skill-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
       "author": "ASM (AvdLee/SwiftUI-Agent-Skill)",
-      "createdAt": "2026-10-11T05:04:21.469Z",
+      "createdAt": "2026-10-19T08:20:20.655Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -548,16 +512,52 @@
     },
     {
       "version": 1,
-      "name": "avdlee-swiftui-agent-skill-writing",
-      "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
+      "name": "avdlee-swiftui-agent-skill-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
       "author": "ASM (AvdLee/SwiftUI-Agent-Skill)",
-      "createdAt": "2026-10-11T05:04:21.469Z",
+      "createdAt": "2026-10-19T08:20:20.655Z",
       "tags": [
         "repo-derived",
         "inferred",
-        "writing",
-        "content",
-        "docs",
+        "devops",
+        "infra",
+        "automation",
+        "avdlee",
+        "swiftui-agent-skill"
+      ],
+      "skills": [
+        {
+          "name": "swiftui-expert-skill",
+          "installUrl": "github:AvdLee/SwiftUI-Agent-Skill:skills/swiftui-expert-skill",
+          "description": "Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS, including state and `@Observable` data flow, view composition, resizable layouts, safe areas, display scale, performance, lists, environment, localization, animation, Liquid Glass, and API migration. Also use for iPhone Duo, foldable, or large-display layouts (`NavigationSplitView` on large displays, iPhone tab sidebar, two-column reflow, foldable grids, `ArrangementView`, `ReservedRegion`), hinge effects, vertical bars, `@State` initialization or synthesized-property diagnostics, `@ContentBuilder` ambiguity, `reorderable` drag/drop, custom `AsyncImage` `URLSession`, swipe actions outside List, item-bound `alert`/`confirmationDialog`, `ToolbarOverflowMenu`, `AnimatableValues`, Document APIs (`Document`/`DocumentReader`), and Instruments `.trace` capture or analysis.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "update-swiftui-apis",
+          "installUrl": "github:AvdLee/SwiftUI-Agent-Skill:.agents/skills/update-swiftui-apis",
+          "description": "Scan Apple's SwiftUI documentation for deprecated APIs and update the SwiftUI Expert Skill with modern replacements. Use when asked to \"update latest APIs\", \"refresh deprecated SwiftUI APIs\", \"check for new SwiftUI deprecations\", \"scan for API changes\", or after a new iOS/Xcode release. Requires the Sosumi MCP to be available.",
+          "version": "0.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "AvdLee",
+        "repo": "SwiftUI-Agent-Skill",
+        "repoUrl": "https://github.com/AvdLee/SwiftUI-Agent-Skill.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
+      "name": "avdlee-swiftui-agent-skill-data-ai",
+      "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from AvdLee/SwiftUI-Agent-Skill.",
+      "author": "ASM (AvdLee/SwiftUI-Agent-Skill)",
+      "createdAt": "2026-10-19T08:20:20.655Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "data",
+        "ai",
+        "agents",
         "avdlee",
         "swiftui-agent-skill"
       ],
