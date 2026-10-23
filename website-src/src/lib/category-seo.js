@@ -6,7 +6,7 @@
  * Keep the slug→label map in sync with `CATEGORY_META` there.
  */
 
-export const SITE_BASE = "https://luongnv.com/asm";
+export const SITE_BASE = "https://yuxiaoli.github.io/asm";
 
 export const CATEGORY_LABELS = {
   "ai-agents": "AI Agents",

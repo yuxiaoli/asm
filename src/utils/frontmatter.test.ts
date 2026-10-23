@@ -232,13 +232,13 @@ name: trailing-spaces
 name: my-skill
 metadata:
   version: 1.0.0
-  creator: Luong NGUYEN <luongnv89@gmail.com>
+  creator: Example Author <author@example.com>
 ---`;
     const result = parseFrontmatter(input);
     expect(result.name).toBe("my-skill");
     expect(result["metadata.version"]).toBe("1.0.0");
     expect(result["metadata.creator"]).toBe(
-      "Luong NGUYEN <luongnv89@gmail.com>",
+      "Example Author <author@example.com>",
     );
   });
 
@@ -249,7 +249,7 @@ description: A great skill
 license: MIT
 metadata:
   version: 1.0.0
-  creator: Luong NGUYEN <luongnv89@gmail.com>
+  creator: Example Author <author@example.com>
 ---
 # Body`;
     const result = parseFrontmatter(input);
@@ -258,7 +258,7 @@ metadata:
       description: "A great skill",
       license: "MIT",
       "metadata.version": "1.0.0",
-      "metadata.creator": "Luong NGUYEN <luongnv89@gmail.com>",
+      "metadata.creator": "Example Author <author@example.com>",
     });
   });
 
@@ -434,7 +434,7 @@ compatibility: Claude Code
 allowed-tools: Bash Read Grep Glob WebFetch
 metadata:
   version: 1.0.1
-  creator: Luong NGUYEN
+  creator: Example Author
 ---
 # Body`;
     const result = parseFrontmatter(input);
@@ -444,7 +444,7 @@ metadata:
     expect(result.compatibility).toBe("Claude Code");
     expect(result["allowed-tools"]).toBe("Bash Read Grep Glob WebFetch");
     expect(result["metadata.version"]).toBe("1.0.1");
-    expect(result["metadata.creator"]).toBe("Luong NGUYEN");
+    expect(result["metadata.creator"]).toBe("Example Author");
   });
 });
 

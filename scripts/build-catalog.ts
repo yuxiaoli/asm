@@ -608,7 +608,7 @@ for (const r of repos) {
   const value = starsByRepo.get(key);
   if (typeof value === "number") {
     r.stars = value;
-    if (r.owner === "luongnv89" && r.repo === "asm") asmStars = value;
+    if (r.owner === "yuxiaoli" && r.repo === "asm") asmStars = value;
   }
 }
 

@@ -15,7 +15,6 @@ import ProfilePage from "./pages/ProfilePage.jsx";
 import RepoPage from "./pages/RepoPage.jsx";
 import { CatalogProvider } from "./hooks/useCatalog.jsx";
 import { BundleCartProvider } from "./hooks/useBundleCart.jsx";
-import { usePageTracking } from "./hooks/usePageTracking.js";
 
 /**
  * Root application shell.
@@ -41,7 +40,6 @@ import { usePageTracking } from "./hooks/usePageTracking.js";
  * `BundleCartProvider` wraps everything so cart state is shared.
  */
 export default function App() {
-  usePageTracking();
   const [cartOpen, setCartOpen] = useState(false);
   // Stable references so the drawer's mount effect (which listens on
   // `onClose` in its dep array) doesn't re-fire on every App render and

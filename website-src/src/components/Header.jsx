@@ -11,7 +11,7 @@ import BundleCartButton from "./BundleCartButton.jsx";
  * Uses a local TTL cache (10 min) keyed by repo name so that page
  * navigations and re-renders don't hammer the GitHub API.
  */
-const REPO_API = "https://api.github.com/repos/luongnv89/asm";
+const REPO_API = "https://api.github.com/repos/yuxiaoli/asm";
 const STAR_CACHE_TTL_MS = 10 * 60 * 1000; // 10 minutes
 
 /** Simple in-process TTL cache for star counts. */
@@ -22,7 +22,7 @@ export function clearStarCache() {
   starCache.clear();
 }
 
-async function fetchLiveStars(signal, repoKey = "luongnv89/asm") {
+async function fetchLiveStars(signal, repoKey = "yuxiaoli/asm") {
   // Check cache first
   const cached = starCache.get(repoKey);
   if (cached && Date.now() - cached.ts < STAR_CACHE_TTL_MS) {
@@ -57,7 +57,7 @@ function applyTheme(next) {
  * pages don't have React equivalents yet. Version + star count come
  * from the loaded catalog.
  */
-const REPO_URL = "https://github.com/luongnv89/asm";
+const REPO_URL = "https://github.com/yuxiaoli/asm";
 
 export default function Header({ onOpenBundleBuilder }) {
   const { catalog } = useCatalog();

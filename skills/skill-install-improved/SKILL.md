@@ -7,7 +7,7 @@ allowed-tools: Bash Read Write Edit Grep Glob
 effort: high
 metadata:
   version: 1.0.0
-  author: luongnv89
+  author: yuxiaoli
 ---
 
 # Skill Install Improved

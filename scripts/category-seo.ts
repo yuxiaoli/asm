@@ -9,7 +9,7 @@
  * must stay in sync — curated descriptions live here alone.
  */
 
-export const SITE_BASE = "https://luongnv.com/asm";
+export const SITE_BASE = "https://yuxiaoli.github.io/asm";
 
 export interface CategoryMeta {
   label: string;

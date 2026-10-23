@@ -5,8 +5,8 @@ import { trackPageView } from "../lib/analytics.js";
 /**
  * Send virtual page views on HashRouter navigations (issue #645).
  *
- * The gtag snippet in index.html sets `send_page_view: false` so the initial
- * load is counted here once, same as every subsequent route change.
+ * Disabled by default: App does not install this hook or any tracking scripts.
+ * Configure an owned provider before enabling tracking.
  */
 export function usePageTracking() {
   const location = useLocation();

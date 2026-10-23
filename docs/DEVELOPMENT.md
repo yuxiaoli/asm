@@ -9,7 +9,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/luongnv89/asm.git
+git clone https://github.com/yuxiaoli/asm.git
 cd asm
 npm install
 ```

@@ -2,7 +2,7 @@
 
 ## Logo
 
-The asm logo is **The Nexus** — a hollow hexagonal hub at the center with six radiating paths connecting to outer nodes of different shapes. The central hexagon represents asm as the orchestrator, with a solid dot at its core. The six outer nodes use distinct geometric shapes — diamonds, squares, circles, and rounded squares — representing the diverse AI agents that asm unifies (Claude Code, Codex, Cursor, Windsurf, OpenClaw, and more). Small particle dots along the paths represent skills flowing through the network. The design conveys **connection, orchestration, and unity**, consistent with the neon green palette from the [luongnv.com](https://luongnv.com) brand identity.
+The asm logo is **The Nexus** — a hollow hexagonal hub at the center with six radiating paths connecting to outer nodes of different shapes. The central hexagon represents asm as the orchestrator, with a solid dot at its core. The six outer nodes use distinct geometric shapes — diamonds, squares, circles, and rounded squares — representing the diverse AI agents that asm unifies (Claude Code, Codex, Cursor, Windsurf, OpenClaw, and more). Small particle dots along the paths represent skills flowing through the network. The design conveys **connection, orchestration, and unity**, consistent with the neon green ASM palette.
 
 ### Logo Files
 
@@ -28,7 +28,7 @@ The asm logo is **The Nexus** — a hollow hexagonal hub at the center with six 
 
 ## Colors
 
-Derived from the [luongnv.com](https://luongnv.com) design system.
+The ASM palette uses neon green accents on dark and light surfaces.
 
 ### Dark Mode (primary)
 
@@ -93,4 +93,4 @@ These are for text elements only — never for backgrounds or primary UI.
 
 - Developer-focused, technical, sharp
 - Dark-first aesthetic with neon green energy
-- Consistent with the [luongnv.com](https://luongnv.com) personal brand
+- Consistent with the ASM project identity

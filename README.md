@@ -9,9 +9,9 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/agent-skill-manager"><img src="https://img.shields.io/npm/v/agent-skill-manager.svg" alt="npm version" /></a>
   <a href="https://www.npmjs.com/package/agent-skill-manager"><img src="https://img.shields.io/npm/dm/agent-skill-manager.svg" alt="npm downloads" /></a>
-  <a href="https://github.com/luongnv89/asm/stargazers"><img src="https://img.shields.io/github/stars/luongnv89/asm.svg?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/yuxiaoli/asm/stargazers"><img src="https://img.shields.io/github/stars/yuxiaoli/asm.svg?style=social" alt="GitHub stars" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License" /></a>
-  <a href="https://github.com/luongnv89/asm/actions"><img src="https://github.com/luongnv89/asm/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+  <a href="https://github.com/yuxiaoli/asm/actions"><img src="https://github.com/yuxiaoli/asm/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-%E2%89%A5%2022-339933.svg" alt="Node.js" /></a>
 </p>
 
@@ -19,7 +19,7 @@
 
 **agent-skill-manager** (`asm`) is a scriptable CLI built for AI agents and automation — install, search, audit, and organize skills across Claude Code, Codex, Cursor, and 18 more tools. Every command supports `--json` and `--yes` for non-interactive use. An optional TUI (`asm`) is available for local browsing.
 
-[**Get Started**](#getting-started) · [**Browse 6,000+ skills**](https://luongnv.com/asm/#/skills) · [**Full docs**](#documentation)
+[**Get Started**](#getting-started) · [**Browse 6,000+ skills**](https://yuxiaoli.github.io/asm/#/skills) · [**Full docs**](#documentation)
 
 ## Problems `asm` solves
 
@@ -39,13 +39,13 @@ and [GPT instructions](docs/GPT_ACTIONS_INSTRUCTIONS.md).
 
 ## At a glance
 
-|                     |                                                                                |
-| ------------------- | ------------------------------------------------------------------------------ |
-| **Catalog**         | 6,082 skills from 77 repos — [browse online](https://luongnv.com/asm/#/skills) |
-| **Providers**       | 21 providers (Agents, Claude Code, Pi, OpenCode, Codex, …)                     |
-| **Agent-ready CLI** | `--json`, `--yes`, `--machine` on list, search, install, audit, eval           |
-| **Security**        | Pre-install scan for shell exec, network access, credential exposure           |
-| **License**         | MIT — no accounts, no telemetry                                                |
+|                     |                                                                                       |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| **Catalog**         | 6,082 skills from 77 repos — [browse online](https://yuxiaoli.github.io/asm/#/skills) |
+| **Providers**       | 21 providers (Agents, Claude Code, Pi, OpenCode, Codex, …)                            |
+| **Agent-ready CLI** | `--json`, `--yes`, `--machine` on list, search, install, audit, eval                  |
+| **Security**        | Pre-install scan for shell exec, network access, credential exposure                  |
+| **License**         | MIT — no accounts, no telemetry                                                       |
 
 ## How it works
 
@@ -116,7 +116,7 @@ Search installed and catalog skills:
 asm search "code review" --json
 ```
 
-Alternative install: `curl -sSL https://raw.githubusercontent.com/luongnv89/asm/main/install.sh | bash`
+Alternative install: `curl -sSL https://raw.githubusercontent.com/yuxiaoli/asm/main/install.sh | bash`
 
 Node.js 22+ required. Optional TUI: run `asm` with no arguments.
 
@@ -140,7 +140,7 @@ Node.js 22+ required. Optional TUI: run `asm` with no arguments.
 | Tag an installed skill        | `asm tag add code-review testing`                |
 | Filter inventory by tags      | `asm list --tag cli,testing`                     |
 
-Full command reference, flags, and examples: [CLI Commands](#cli-commands). Catalog UI and bundles: [luongnv.com/asm](https://luongnv.com/asm/) (use **Tags** / `TagFilter`, AND match, `?tag=`).
+Full command reference, flags, and examples: [CLI Commands](#cli-commands). Catalog UI and bundles: [yuxiaoli.github.io/asm](https://yuxiaoli.github.io/asm/) (use **Tags** / `TagFilter`, AND match, `?tag=`).
 
 ## Attention budget
 
@@ -382,7 +382,7 @@ npm install -g agent-skill-manager
 asm list --json
 ```
 
-[**Browse catalog**](https://luongnv.com/asm/#/skills) · [**Documentation**](#documentation) · [**Contributing**](CONTRIBUTING.md) · MIT Licensed
+[**Browse catalog**](https://yuxiaoli.github.io/asm/#/skills) · [**Documentation**](#documentation) · [**Contributing**](CONTRIBUTING.md) · MIT Licensed
 
 ---
 
@@ -784,7 +784,7 @@ asm index ingest github:anthropics/skills
 asm index search "frontend design" --json
 ```
 
-**Bundles** — pre-defined sets for common workflows. Browse at [luongnv.com/asm/#/bundles](https://luongnv.com/asm/#/bundles):
+**Bundles** — pre-defined sets for common workflows. Browse at [yuxiaoli.github.io/asm/#/bundles](https://yuxiaoli.github.io/asm/#/bundles):
 
 ```bash
 asm bundle list --predefined
@@ -1112,7 +1112,7 @@ asm init my-skill -p claude
 <summary><strong>From source</strong></summary>
 
 ```bash
-git clone https://github.com/luongnv89/asm.git
+git clone https://github.com/yuxiaoli/asm.git
 cd asm
 npm install
 ```
@@ -1128,7 +1128,7 @@ npm start
 Inspect install script before running:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/luongnv89/asm/main/install.sh -o install.sh
+curl -sSL https://raw.githubusercontent.com/yuxiaoli/asm/main/install.sh -o install.sh
 less install.sh
 bash install.sh
 ```
@@ -1184,7 +1184,7 @@ asm/
 | [Security](SECURITY.md)                  | Vulnerability reporting     |
 | [Code of Conduct](CODE_OF_CONDUCT.md)    | Community guidelines        |
 
-**Landing page:** [luongnv.com/asm](https://luongnv.com/asm/) — catalog, bundles, author/repo stats, filtered search, and catalog `TagFilter` (AND, `?tag=`).
+**Landing page:** [yuxiaoli.github.io/asm](https://yuxiaoli.github.io/asm/) — catalog, bundles, author/repo stats, filtered search, and catalog `TagFilter` (AND, `?tag=`).
 
 </details>
 
@@ -1214,7 +1214,7 @@ asm/
 
 ## Roadmap
 
-[Project kanban](https://github.com/users/luongnv89/projects/6)
+[Project issues](https://github.com/yuxiaoli/asm/issues)
 
 ## Contributing
 

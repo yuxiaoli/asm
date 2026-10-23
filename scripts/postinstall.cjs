@@ -72,7 +72,7 @@ try {
     "  Remove the stale install so the new one resolves first on PATH.\n",
   );
   process.stderr.write(
-    "  See: https://github.com/luongnv89/agent-skill-manager#troubleshooting\n\n",
+    "  See: https://github.com/yuxiaoli/asm#troubleshooting\n\n",
   );
   process.exit(0);
 } catch {

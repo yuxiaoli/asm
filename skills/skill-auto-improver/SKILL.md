@@ -9,7 +9,7 @@ dependencies:
   - skill-creator
 metadata:
   version: 2.2.0
-  author: luongnv89
+  author: yuxiaoli
 ---
 
 # Skill Auto-Improver

@@ -12,7 +12,7 @@ Thanks for your interest in contributing! This guide will help you get started.
 ### Development Setup
 
 ```bash
-git clone https://github.com/luongnv89/asm.git
+git clone https://github.com/yuxiaoli/asm.git
 cd asm
 npm install
 npm start        # Launch the TUI
@@ -36,7 +36,7 @@ npm run typecheck    # Type-check without emitting
 
 ### Reporting Bugs
 
-Open a [bug report](https://github.com/luongnv89/asm/issues/new?template=bug_report.md) with:
+Open a [bug report](https://github.com/yuxiaoli/asm/issues/new?template=bug_report.md) with:
 
 - Steps to reproduce
 - Expected vs. actual behavior
@@ -44,7 +44,7 @@ Open a [bug report](https://github.com/luongnv89/asm/issues/new?template=bug_rep
 
 ### Suggesting Features
 
-Open a [feature request](https://github.com/luongnv89/asm/issues/new?template=feature_request.md) describing the problem and your proposed solution.
+Open a [feature request](https://github.com/yuxiaoli/asm/issues/new?template=feature_request.md) describing the problem and your proposed solution.
 
 ### Submitting Code
 
@@ -100,7 +100,7 @@ pre-commit install
 The hooks include formatting (Prettier), linting, type-checking, and a local security
 scan. The local security hook (`security-check`) is **advisory** — it requires `python3`
 and runs only at commit time. Contributors without `python3`, or those using
-`--no-verify`, bypass it silently. The [CI Security workflow](https://github.com/luongnv89/asm/actions/workflows/security.yml) is the **enforcing** gate; CI will fail the build if the security check does not pass.
+`--no-verify`, bypass it silently. The [CI Security workflow](https://github.com/yuxiaoli/asm/actions/workflows/security.yml) is the **enforcing** gate; CI will fail the build if the security check does not pass.
 
 ## Pull Request Process
 

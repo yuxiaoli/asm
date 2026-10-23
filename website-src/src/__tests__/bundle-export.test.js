@@ -162,9 +162,7 @@ describe("buildIssueUrl", () => {
       author: "alice",
       tags: "docs",
     });
-    expect(url).toMatch(
-      /^https:\/\/github\.com\/luongnv89\/asm\/issues\/new\?/,
-    );
+    expect(url).toMatch(/^https:\/\/github\.com\/yuxiaoli\/asm\/issues\/new\?/);
     const qs = new URLSearchParams(url.split("?")[1]);
     expect(qs.get("title")).toBe("[FEATURE] Bundle: my-pack");
     expect(qs.get("labels")).toBe("enhancement,feature");

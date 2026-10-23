@@ -9,7 +9,7 @@ import { useInViewReveal } from "../hooks/useInViewReveal.js";
 import { cn } from "../lib/cn.js";
 import { prefersReducedMotion } from "../lib/motion.js";
 
-const REPO_URL = "https://github.com/luongnv89/asm";
+const REPO_URL = "https://github.com/yuxiaoli/asm";
 const NPM_CMD = "npm install -g agent-skill-manager";
 const PROVIDER_COUNT = 21;
 
@@ -64,7 +64,7 @@ function WhatsNew() {
     {
       tag: "New",
       head: "A storefront redesign for the catalog",
-      body: "The catalog now sorts by popularity, gives every source repo a detail page, and tracks analytics — browsing thousands of skills feels like a real shop.",
+      body: "The catalog now sorts by popularity, and gives every source repo a detail page — browsing thousands of skills feels like a real shop.",
     },
     {
       tag: "New",
@@ -91,8 +91,7 @@ function WhatsNew() {
           <p className="lp-lede">
             v2.19 ships curated skill bundles with one-click download and
             interactive tool/scope pickers, a storefront rebuilt with popularity
-            sort, repo detail pages, and analytics, plus static, indexable
-            category pages.
+            sort and repo detail pages, plus static, indexable category pages.
           </p>
         </div>
         <Link
@@ -498,7 +497,7 @@ function Build() {
         </p>
         <div className="flex flex-wrap items-center gap-3">
           <a
-            href="https://github.com/luongnv89/asm#build-test-and-ship-your-own-skills"
+            href="https://github.com/yuxiaoli/asm#build-test-and-ship-your-own-skills"
             target="_blank"
             rel="noopener noreferrer"
             className="lp-cta-ghost"

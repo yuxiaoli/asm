@@ -5,7 +5,7 @@ license: MIT
 effort: max
 metadata:
   version: 1.17.0
-  author: "Luong NGUYEN <luongnv89@gmail.com>"
+  author: "Sean (https://vectorindex.cloud)"
 ---
 
 # Skill Creator

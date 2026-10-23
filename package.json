@@ -85,15 +85,15 @@
     "openclaw",
     "skills"
   ],
-  "author": "luongnv89",
+  "author": "Sean (https://vectorindex.cloud)",
   "license": "MIT",
-  "homepage": "https://github.com/luongnv89/asm#readme",
+  "homepage": "https://github.com/yuxiaoli/asm#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luongnv89/asm.git"
+    "url": "git+https://github.com/yuxiaoli/asm.git"
   },
   "bugs": {
-    "url": "https://github.com/luongnv89/asm/issues"
+    "url": "https://github.com/yuxiaoli/asm/issues"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

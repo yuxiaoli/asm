@@ -7,12 +7,12 @@ allowed-tools: Bash Read Write Edit Grep Glob WebFetch Agent
 effort: high
 metadata:
   version: 2.0.0
-  author: luongnv89
+  author: yuxiaoli
 ---
 
 # Skill Index Updater
 
-You are adding new skill repository sources to the ASM (Agent Skill Manager) curated index. This is the pipeline that powers the skill catalog at https://luongnv.com/asm/ — every repo you add here becomes discoverable and installable by thousands of users.
+You are adding new skill repository sources to the ASM (Agent Skill Manager) curated index. This is the pipeline that powers the skill catalog at https://yuxiaoli.github.io/asm/ — every repo you add here becomes discoverable and installable by thousands of users.
 
 ## Example
 

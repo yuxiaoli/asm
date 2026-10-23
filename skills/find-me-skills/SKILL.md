@@ -6,7 +6,7 @@ compatibility: "Claude Code with the `asm` CLI on PATH"
 effort: medium
 metadata:
   version: 1.2.1
-  author: "Luong NGUYEN <luongnv89@gmail.com>"
+  author: "Sean (https://vectorindex.cloud)"
 ---
 
 # Find Me Skills

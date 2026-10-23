@@ -13,7 +13,7 @@ Keep it under 72 chars. Lead with "Suggest" so the reader immediately sees this 
 ## Body
 
 ````markdown
-Hi! 👋 I came across **<skill-name>** while browsing skills and really appreciated <one specific thing you liked>. Wanted to share a few suggestions that surfaced when I ran the skill through [`asm eval`](https://github.com/luongnv89/agent-skill-manager) — totally happy to adjust or drop any of this if it doesn't fit your direction.
+Hi! 👋 I came across **<skill-name>** while browsing skills and really appreciated <one specific thing you liked>. Wanted to share a few suggestions that surfaced when I ran the skill through [`asm eval`](https://github.com/yuxiaoli/asm) — totally happy to adjust or drop any of this if it doesn't fit your direction.
 
 ## What I suggested
 
@@ -63,7 +63,7 @@ The full iteration log and before/after JSON snapshots are attached as commits o
 - These are suggestions, not prescriptions — happy to revise based on your preferences, or close this if the direction isn't right for the project.
 - Thanks for open-sourcing <skill-name>! It's a useful skill and hope this is helpful.
 
-_Opened via [skill-upstream-pr](https://github.com/luongnv89/asm/tree/main/skills/skill-upstream-pr). No obligation to merge._
+_Opened via [skill-upstream-pr](https://github.com/yuxiaoli/asm/tree/main/skills/skill-upstream-pr). No obligation to merge._
 
 ```
 

@@ -6,7 +6,7 @@
  * builder form, and let the CLI catch anything else at install time.
  */
 
-const REPO_OWNER = "luongnv89";
+const REPO_OWNER = "yuxiaoli";
 const REPO_NAME = "asm";
 
 /**
@@ -135,7 +135,8 @@ export function downloadBundleJson(bundle, doc = document) {
 export function buildIssueUrl(skills, meta, opts = {}) {
   const owner = opts.owner || REPO_OWNER;
   const repo = opts.repo || REPO_NAME;
-  const catalogBaseUrl = opts.catalogBaseUrl || "https://luongnv.com/asm/";
+  const catalogBaseUrl =
+    opts.catalogBaseUrl || "https://yuxiaoli.github.io/asm/";
   const maxBytes = opts.maxBodyBytes || 7000;
 
   const effective = withBundleDefaults(meta);
