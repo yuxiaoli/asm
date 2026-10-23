@@ -6,8 +6,8 @@ set -euo pipefail
 # The universal skill manager for AI coding agents.
 #
 # Usage:
-#   curl -sSL https://raw.githubusercontent.com/luongnv89/agent-skill-manager/main/install.sh | bash
-#   wget -qO- https://raw.githubusercontent.com/luongnv89/agent-skill-manager/main/install.sh | bash
+#   curl -sSL https://raw.githubusercontent.com/yuxiaoli/asm/main/install.sh | bash
+#   wget -qO- https://raw.githubusercontent.com/yuxiaoli/asm/main/install.sh | bash
 # ============================================================================
 
 TOOL_NAME="agent-skill-manager"

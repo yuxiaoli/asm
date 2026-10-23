@@ -23,7 +23,7 @@ export const STAR_FAILURE_RATE = 0.05;
 export const STAR_FAILURE_MIN = 2;
 export const STAR_BASELINE_PATH = "data/repo-stars.json";
 export const STAR_USER_AGENT =
-  "asm-build-catalog (+https://github.com/luongnv89/asm)";
+  "asm-build-catalog (+https://github.com/yuxiaoli/asm)";
 
 export interface StarFetchOptions {
   token?: string;

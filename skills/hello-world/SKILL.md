@@ -3,7 +3,7 @@ name: hello-world
 description: A minimal test skill that greets the user and demonstrates the ASM publish workflow.
 version: 1.0.0
 license: MIT
-creator: luongnv89
+creator: yuxiaoli
 tags: test, demo
 compatibility: Claude Code
 ---

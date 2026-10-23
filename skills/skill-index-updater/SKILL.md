@@ -12,7 +12,7 @@ metadata:
 
 # Skill Index Updater
 
-You are adding new skill repository sources to the ASM (Agent Skill Manager) curated index. This is the pipeline that powers the skill catalog at https://luongnv.com/asm/ — every repo you add here becomes discoverable and installable by thousands of users.
+You are adding new skill repository sources to the ASM (Agent Skill Manager) curated index. This is the pipeline that powers the skill catalog at https://yuxiaoli.github.io/asm/ — every repo you add here becomes discoverable and installable by thousands of users.
 
 ## Example
 

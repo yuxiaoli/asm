@@ -29,7 +29,7 @@ export default function DocsPage() {
           <pre>
             <code>
               curl -sSL
-              https://raw.githubusercontent.com/luongnv89/asm/main/install.sh |
+              https://raw.githubusercontent.com/yuxiaoli/asm/main/install.sh |
               bash
             </code>
           </pre>
@@ -1075,7 +1075,7 @@ asm eval-providers list`}</CodeBlock>
           <p>
             See the full guide:{" "}
             <a
-              href="https://github.com/luongnv89/asm/blob/main/docs/eval-providers.md"
+              href="https://github.com/yuxiaoli/asm/blob/main/docs/eval-providers.md"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -1594,7 +1594,7 @@ asm stats --tokens --json         # Attention budget as JSON
 asm stats -s global               # Global skills only
 asm stats --json                  # Output as JSON
 asm stats repo anthropics/skills  # Indexed repo stats
-asm stats author luongnv89        # Indexed author stats
+asm stats author anthropics        # Indexed author stats
 asm stats index                   # Index-wide stats`}</CodeBlock>
           <p>
             Resident cost is the frontmatter <code>description</code>, paid on

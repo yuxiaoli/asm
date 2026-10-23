@@ -10,7 +10,7 @@ import { cn } from "../lib/cn.js";
 import { encodeSkillId } from "../lib/utils.js";
 import { prefersReducedMotion } from "../lib/motion.js";
 
-const REPO_URL = "https://github.com/luongnv89/asm";
+const REPO_URL = "https://github.com/yuxiaoli/asm";
 const NPM_CMD = "npm install -g agent-skill-manager";
 const PROVIDER_COUNT = 21;
 
@@ -625,7 +625,7 @@ function Build() {
         </p>
         <div className="flex flex-wrap items-center gap-3">
           <a
-            href="https://github.com/luongnv89/asm#build-test-and-ship-your-own-skills"
+            href="https://github.com/yuxiaoli/asm#build-test-and-ship-your-own-skills"
             target="_blank"
             rel="noopener noreferrer"
             className="lp-cta-ghost"

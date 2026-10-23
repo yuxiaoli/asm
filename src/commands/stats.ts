@@ -47,7 +47,7 @@ ${ansi.bold("Examples:")}
   asm stats --json                  ${ansi.dim("Output raw data as JSON")}
   asm stats --machine               ${ansi.dim("Machine-readable v1 envelope output")}
   asm stats repo anthropics/skills  ${ansi.dim("Show indexed repo stats")}
-  asm stats author luongnv89        ${ansi.dim("Show indexed author stats")}
+  asm stats author anthropics        ${ansi.dim("Show indexed author stats")}
   asm stats index                   ${ansi.dim("Show index-wide stats")}`);
 }
 
@@ -144,7 +144,7 @@ ${ansi.bold("Options:")}
 
 ${ansi.bold("Examples:")}
   asm stats repo anthropics/skills
-  asm stats repo luongnv89/asm --json`);
+  asm stats repo anthropics/skills --json`);
 }
 
 export async function cmdStatsRepo(args: ParsedArgs) {
@@ -196,7 +196,7 @@ function printStatsAuthorHelp() {
 Show statistics for a specific author across all indexed repositories.
 
 ${ansi.bold("Arguments:")}
-  owner                Author/organization name (e.g. luongnv89)
+  owner                Author/organization name (e.g. anthropics)
 
 ${ansi.bold("Options:")}
   --json               Output as JSON
@@ -204,7 +204,7 @@ ${ansi.bold("Options:")}
 
 ${ansi.bold("Examples:")}
   asm stats author anthropics
-  asm stats author luongnv89 --json`);
+  asm stats author anthropics --json`);
 }
 
 export async function cmdStatsAuthor(args: ParsedArgs) {

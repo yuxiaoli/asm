@@ -1,9 +1,3 @@
-/** GA4 measurement ID — also wired in `website-src/index.html`. */
-export const GA_MEASUREMENT_ID = "G-33TXRCFMWM";
-
-/** GoatCounter site for luongnv89-hosted properties (issue #645). */
-export const GOATCOUNTER_SITE = "https://luongnv89.goatcounter.com";
-
 /** Path prefix so asm traffic is separable in the shared GoatCounter site. */
 export const GOATCOUNTER_PATH_PREFIX = "/asm";
 

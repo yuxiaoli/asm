@@ -285,7 +285,7 @@ describe("Bundle cart flow", () => {
     });
     expect(openSpy).toHaveBeenCalledOnce();
     const urlArg = openSpy.mock.calls[0][0];
-    expect(urlArg).toMatch(/github\.com\/luongnv89\/asm\/issues\/new/);
+    expect(urlArg).toMatch(/github\.com\/yuxiaoli\/asm\/issues\/new/);
     expect(urlArg).toContain("my-test-pack");
     openSpy.mockRestore();
   });

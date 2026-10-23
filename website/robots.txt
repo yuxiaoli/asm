@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://luongnv.com/asm/sitemap.xml
+Sitemap: https://yuxiaoli.github.io/asm/sitemap.xml
 
 # AI Training Crawlers — allowed
 User-agent: GPTBot

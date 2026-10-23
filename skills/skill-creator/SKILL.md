@@ -6,7 +6,7 @@ compatibility: "Python 3 for scripts/quick_validate.py; `asm` on PATH for the Ga
 effort: max
 metadata:
   version: 2.1.0
-  author: "Luong NGUYEN <luongnv89@gmail.com>"
+  author: "Sean (https://vectorindex.cloud)"
 ---
 
 # Skill Creator

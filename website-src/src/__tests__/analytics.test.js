@@ -17,7 +17,7 @@ describe("analytics (issue #645)", () => {
     it("maps HashRouter locations to GA4 page_view fields", () => {
       Object.defineProperty(window, "location", {
         value: {
-          origin: "https://luongnv.com",
+          origin: "https://yuxiaoli.github.io",
           pathname: "/asm/",
           search: "",
           hash: "#/skills",
@@ -29,7 +29,7 @@ describe("analytics (issue #645)", () => {
         buildPageViewParams({ pathname: "/skills", search: "?q=test" }),
       ).toEqual({
         page_path: "/skills?q=test",
-        page_location: "https://luongnv.com/asm/#/skills?q=test",
+        page_location: "https://yuxiaoli.github.io/asm/#/skills?q=test",
       });
     });
   });
@@ -53,7 +53,7 @@ describe("analytics (issue #645)", () => {
     it("calls gtag and goatcounter when both are available", () => {
       Object.defineProperty(window, "location", {
         value: {
-          origin: "https://luongnv.com",
+          origin: "https://yuxiaoli.github.io",
           pathname: "/asm/",
           search: "",
           hash: "#/docs",
@@ -69,7 +69,7 @@ describe("analytics (issue #645)", () => {
 
       expect(gtag).toHaveBeenCalledWith("event", "page_view", {
         page_path: "/docs",
-        page_location: "https://luongnv.com/asm/#/docs",
+        page_location: "https://yuxiaoli.github.io/asm/#/docs",
       });
       expect(count).toHaveBeenCalledWith({ path: "/asm/docs" });
     });
