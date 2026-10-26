@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "922d989473a9914210b41529a1ac5636aff4b8c1",
+  "sourceCommit": "8051f177a0076e7fd45bdf4ee687b070ba58fdc6",
   "repoUrl": "https://github.com/twostraws/SwiftData-Agent-Skill.git",
   "owner": "twostraws",
   "repo": "SwiftData-Agent-Skill",
-  "updatedAt": "2026-10-19T08:20:19.352Z",
+  "updatedAt": "2026-10-26T08:20:35.423Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:19.347Z",
+        "evaluatedAt": "2026-10-26T08:20:35.421Z",
         "evaluatedVersion": "1.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:19.347Z",
+          "evaluatedAt": "2026-10-26T08:20:35.421Z",
           "evaluatedVersion": "1.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:19.348Z",
+          "evaluatedAt": "2026-10-26T08:20:35.421Z",
           "evaluatedVersion": "1.0"
         }
       }

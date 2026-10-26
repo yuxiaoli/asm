@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/romainsimon/paperasse.git",
   "owner": "romainsimon",
   "repo": "paperasse",
-  "updatedAt": "2026-10-19T08:22:42.207Z",
+  "updatedAt": "2026-10-26T08:22:39.800Z",
   "skillCount": 6,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.936Z",
+        "evaluatedAt": "2026-10-26T08:22:39.590Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.938Z",
+          "evaluatedAt": "2026-10-26T08:22:39.591Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.938Z",
+          "evaluatedAt": "2026-10-26T08:22:39.591Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.934Z",
+        "evaluatedAt": "2026-10-26T08:22:39.587Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.937Z",
+          "evaluatedAt": "2026-10-26T08:22:39.590Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.937Z",
+          "evaluatedAt": "2026-10-26T08:22:39.590Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.934Z",
+        "evaluatedAt": "2026-10-26T08:22:39.591Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.937Z",
+          "evaluatedAt": "2026-10-26T08:22:39.592Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.937Z",
+          "evaluatedAt": "2026-10-26T08:22:39.592Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.938Z",
+        "evaluatedAt": "2026-10-26T08:22:39.591Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.938Z",
+          "evaluatedAt": "2026-10-26T08:22:39.591Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.938Z",
+          "evaluatedAt": "2026-10-26T08:22:39.591Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.938Z",
+        "evaluatedAt": "2026-10-26T08:22:39.591Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.938Z",
+          "evaluatedAt": "2026-10-26T08:22:39.591Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.938Z",
+          "evaluatedAt": "2026-10-26T08:22:39.591Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.937Z",
+        "evaluatedAt": "2026-10-26T08:22:39.592Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.938Z",
+          "evaluatedAt": "2026-10-26T08:22:39.592Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.938Z",
+          "evaluatedAt": "2026-10-26T08:22:39.592Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1087,7 +1087,7 @@
       "name": "romainsimon-paperasse-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-19T08:22:42.207Z",
+      "createdAt": "2026-10-26T08:22:39.800Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1147,7 +1147,7 @@
       "name": "romainsimon-paperasse-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-19T08:22:42.207Z",
+      "createdAt": "2026-10-26T08:22:39.800Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1207,7 +1207,7 @@
       "name": "romainsimon-paperasse-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-19T08:22:42.207Z",
+      "createdAt": "2026-10-26T08:22:39.800Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1243,7 +1243,7 @@
       "name": "romainsimon-paperasse-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-19T08:22:42.207Z",
+      "createdAt": "2026-10-26T08:22:39.800Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1297,7 +1297,7 @@
       "name": "romainsimon-paperasse-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-19T08:22:42.207Z",
+      "createdAt": "2026-10-26T08:22:39.800Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1345,7 +1345,7 @@
       "name": "romainsimon-paperasse-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-19T08:22:42.207Z",
+      "createdAt": "2026-10-26T08:22:39.800Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1405,7 +1405,7 @@
       "name": "romainsimon-paperasse-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from romainsimon/paperasse.",
       "author": "ASM (romainsimon/paperasse)",
-      "createdAt": "2026-10-19T08:22:42.207Z",
+      "createdAt": "2026-10-26T08:22:39.800Z",
       "tags": [
         "repo-derived",
         "inferred",

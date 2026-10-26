@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/ayghri/i-have-adhd.git",
   "owner": "ayghri",
   "repo": "i-have-adhd",
-  "updatedAt": "2026-10-19T08:23:01.937Z",
+  "updatedAt": "2026-10-26T08:22:57.883Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:01.935Z",
+        "evaluatedAt": "2026-10-26T08:22:57.881Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:01.935Z",
+          "evaluatedAt": "2026-10-26T08:22:57.882Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:01.935Z",
+          "evaluatedAt": "2026-10-26T08:22:57.882Z",
           "evaluatedVersion": "0.0.0"
         }
       }

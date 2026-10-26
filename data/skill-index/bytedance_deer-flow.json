@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "bf2cb0e1dfa16f9f6562c04d59dece90e5a524f1",
+  "sourceCommit": "370da43119d4e12a63ac2c8816cf5ae562a1d76c",
   "repoUrl": "https://github.com/bytedance/deer-flow.git",
   "owner": "bytedance",
   "repo": "deer-flow",
-  "updatedAt": "2026-10-19T08:20:59.762Z",
+  "updatedAt": "2026-10-26T08:21:11.973Z",
   "skillCount": 27,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:58.932Z",
+        "evaluatedAt": "2026-10-26T08:21:11.280Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.939Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.939Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:58.940Z",
+        "evaluatedAt": "2026-10-26T08:21:11.281Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:58.932Z",
+        "evaluatedAt": "2026-10-26T08:21:11.280Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.939Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,13 +538,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.939Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "eb44160e5a51bc0951696c65c13623bb7f686c140b6fd44e6e588b43c9911840",
+      "contentHash": "af7a992463826d824e72f481a7c0bddf12327463d2800d375d72e24fc7924ee8",
       "sourcePath": "skills/public/chart-visualization/SKILL.md",
       "name": "chart-visualization",
       "description": "This skill should be used when the user wants to visualize data. It intelligently selects the most suitable chart type from 26 available options, extracts parameters based on detailed specifications, and generates a chart image using a JavaScript script.",
@@ -560,9 +560,9 @@
       "installUrl": "github:bytedance/deer-flow:skills/public/chart-visualization",
       "relPath": "skills/public/chart-visualization",
       "verified": true,
-      "tokenCount": 759,
+      "tokenCount": 868,
       "evalSummary": {
-        "overallScore": 66,
+        "overallScore": 67,
         "grade": "C",
         "categories": [
           {
@@ -592,7 +592,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 5,
+            "score": 6,
             "max": 10
           },
           {
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:58.939Z",
+        "evaluatedAt": "2026-10-26T08:21:11.280Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -635,7 +635,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 66,
+          "overallScore": 67,
           "grade": "C",
           "categories": [
             {
@@ -665,7 +665,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 5,
+              "score": 6,
               "max": 10
             },
             {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:58.940Z",
+        "evaluatedAt": "2026-10-26T08:21:11.280Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:58.939Z",
+        "evaluatedAt": "2026-10-26T08:21:11.280Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:58.939Z",
+        "evaluatedAt": "2026-10-26T08:21:11.280Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,13 +1254,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.281Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "9ed71eb8af12b559619473ac875bbe08f9904c46a19ed03194531587111d7ebe",
+      "contentHash": "8b41f739a74929b37efaaf46ac33dd1e81944f693601d4ba5d0957fe1b8a522e",
       "sourcePath": "skills/public/data-analysis/SKILL.md",
       "name": "data-analysis",
       "description": "Use this skill when the user uploads Excel (.xlsx/.xls) or CSV files and wants to perform data analysis, generate statistics, create summaries, pivot tables, SQL queries, or any form of structured data exploration. Supports multi-sheet Excel workbooks, aggregation, filtering, joins, and exporting results to CSV/JSON/Markdown.",
@@ -1276,9 +1276,9 @@
       "installUrl": "github:bytedance/deer-flow:skills/public/data-analysis",
       "relPath": "skills/public/data-analysis",
       "verified": true,
-      "tokenCount": 2658,
+      "tokenCount": 2955,
       "evalSummary": {
-        "overallScore": 68,
+        "overallScore": 70,
         "grade": "C",
         "categories": [
           {
@@ -1308,7 +1308,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 7,
+            "score": 9,
             "max": 10
           },
           {
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:58.939Z",
+        "evaluatedAt": "2026-10-26T08:21:11.281Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1351,7 +1351,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 68,
+          "overallScore": 70,
           "grade": "C",
           "categories": [
             {
@@ -1381,7 +1381,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 7,
+              "score": 9,
               "max": 10
             },
             {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.282Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:58.940Z",
+          "evaluatedAt": "2026-10-26T08:21:11.282Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.012Z",
+        "evaluatedAt": "2026-10-26T08:21:11.342Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.012Z",
+          "evaluatedAt": "2026-10-26T08:21:11.343Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.012Z",
+          "evaluatedAt": "2026-10-26T08:21:11.343Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.010Z",
+        "evaluatedAt": "2026-10-26T08:21:11.342Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.012Z",
+          "evaluatedAt": "2026-10-26T08:21:11.343Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.012Z",
+          "evaluatedAt": "2026-10-26T08:21:11.343Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.012Z",
+        "evaluatedAt": "2026-10-26T08:21:11.341Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.013Z",
+          "evaluatedAt": "2026-10-26T08:21:11.343Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.013Z",
+          "evaluatedAt": "2026-10-26T08:21:11.343Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.042Z",
+        "evaluatedAt": "2026-10-26T08:21:11.394Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.045Z",
+          "evaluatedAt": "2026-10-26T08:21:11.402Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.045Z",
+          "evaluatedAt": "2026-10-26T08:21:11.402Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.055Z",
+        "evaluatedAt": "2026-10-26T08:21:11.405Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.059Z",
+          "evaluatedAt": "2026-10-26T08:21:11.407Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,13 +2328,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.059Z",
+          "evaluatedAt": "2026-10-26T08:21:11.407Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "7add6956b424fbe5d4fcf85ea977b7b663ad2d810b3157a69953401db9c7acdb",
+      "contentHash": "b6a19fa2cf70b60a4cc920d8ebee079b6126eaa483eb612abe346dcbb0b02683",
       "sourcePath": "skills/public/github-deep-research/SKILL.md",
       "name": "github-deep-research",
       "description": "Conduct multi-round deep research on any GitHub Repo. Use when users request comprehensive analysis, timeline reconstruction, competitive analysis, or in-depth investigation of GitHub. Produces structured markdown reports with executive summaries, chronological timelines, metrics analysis, and Mermaid diagrams. Triggers on Github repository URL or open source projects.",
@@ -2350,7 +2350,7 @@
       "installUrl": "github:bytedance/deer-flow:skills/public/github-deep-research",
       "relPath": "skills/public/github-deep-research",
       "verified": true,
-      "tokenCount": 1278,
+      "tokenCount": 1335,
       "evalSummary": {
         "overallScore": 65,
         "grade": "C",
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.068Z",
+        "evaluatedAt": "2026-10-26T08:21:11.405Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.070Z",
+          "evaluatedAt": "2026-10-26T08:21:11.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,7 +2507,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.070Z",
+          "evaluatedAt": "2026-10-26T08:21:11.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.069Z",
+        "evaluatedAt": "2026-10-26T08:21:11.405Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.071Z",
+          "evaluatedAt": "2026-10-26T08:21:11.405Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,13 +2686,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.071Z",
+          "evaluatedAt": "2026-10-26T08:21:11.405Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "b8b17571b82357dea768c5aa24437eada4a717a2d7c6fad082f6bb63cde6d884",
+      "contentHash": "f4b1234626af89af46b91364d5215d0cf0efc5353523e55e4b25b1e052057a5e",
       "sourcePath": "skills/public/music-generation/SKILL.md",
       "name": "music-generation",
       "description": "Use this skill when the user requests to generate, create, compose, or produce music or songs — background music, theme songs, jingles, or instrumental tracks. Generates a song from a style/mood prompt and optional lyrics via the MiniMax music API.",
@@ -2708,9 +2708,9 @@
       "installUrl": "github:bytedance/deer-flow:skills/public/music-generation",
       "relPath": "skills/public/music-generation",
       "verified": true,
-      "tokenCount": 727,
+      "tokenCount": 862,
       "evalSummary": {
-        "overallScore": 68,
+        "overallScore": 69,
         "grade": "C",
         "categories": [
           {
@@ -2740,7 +2740,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 6,
+            "score": 7,
             "max": 10
           },
           {
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.074Z",
+        "evaluatedAt": "2026-10-26T08:21:11.408Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2783,7 +2783,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 68,
+          "overallScore": 69,
           "grade": "C",
           "categories": [
             {
@@ -2813,7 +2813,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 6,
+              "score": 7,
               "max": 10
             },
             {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.074Z",
+          "evaluatedAt": "2026-10-26T08:21:11.408Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.074Z",
+          "evaluatedAt": "2026-10-26T08:21:11.408Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.074Z",
+        "evaluatedAt": "2026-10-26T08:21:11.408Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.074Z",
+          "evaluatedAt": "2026-10-26T08:21:11.408Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3044,13 +3044,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.074Z",
+          "evaluatedAt": "2026-10-26T08:21:11.408Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "8b5e640f8f24741a126d0a824c10a96a8635c3a9997d327200ec3e29c922059b",
+      "contentHash": "296f4e111832a3c98129925aae5b206759eea38dcfbe90a4cd4ee0b73d4487eb",
       "sourcePath": "skills/public/podcast-generation/SKILL.md",
       "name": "podcast-generation",
       "description": "Use this skill when the user requests to generate, create, or produce podcasts from text content. Converts written content into a two-host conversational podcast audio format with natural dialogue.",
@@ -3066,7 +3066,7 @@
       "installUrl": "github:bytedance/deer-flow:skills/public/podcast-generation",
       "relPath": "skills/public/podcast-generation",
       "verified": true,
-      "tokenCount": 2182,
+      "tokenCount": 2255,
       "evalSummary": {
         "overallScore": 73,
         "grade": "C",
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.104Z",
+        "evaluatedAt": "2026-10-26T08:21:11.408Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.105Z",
+          "evaluatedAt": "2026-10-26T08:21:11.408Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3223,13 +3223,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.105Z",
+          "evaluatedAt": "2026-10-26T08:21:11.408Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "1c3e00433b754365390c9ffca4fcc12061f42993cc612b68bf77cd778affc090",
+      "contentHash": "47b861dd0cd128c6ce1077f7d1531d33b7285c4dc02535e6c9fa069d69cae8ae",
       "sourcePath": "skills/public/ppt-generation/SKILL.md",
       "name": "ppt-generation",
       "description": "Use this skill when the user requests to generate, create, or make presentations (PPT/PPTX). Creates visually rich slides by generating images for each slide and composing them into a PowerPoint file.",
@@ -3245,7 +3245,7 @@
       "installUrl": "github:bytedance/deer-flow:skills/public/ppt-generation",
       "relPath": "skills/public/ppt-generation",
       "verified": true,
-      "tokenCount": 7130,
+      "tokenCount": 7204,
       "evalSummary": {
         "overallScore": 64,
         "grade": "D",
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.155Z",
+        "evaluatedAt": "2026-10-26T08:21:11.490Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.156Z",
+          "evaluatedAt": "2026-10-26T08:21:11.492Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3402,7 +3402,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.156Z",
+          "evaluatedAt": "2026-10-26T08:21:11.492Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.156Z",
+        "evaluatedAt": "2026-10-26T08:21:11.492Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.157Z",
+          "evaluatedAt": "2026-10-26T08:21:11.493Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3581,7 +3581,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.157Z",
+          "evaluatedAt": "2026-10-26T08:21:11.493Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3671,7 +3671,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.157Z",
+        "evaluatedAt": "2026-10-26T08:21:11.493Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3744,7 +3744,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.157Z",
+          "evaluatedAt": "2026-10-26T08:21:11.498Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3762,7 +3762,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.157Z",
+          "evaluatedAt": "2026-10-26T08:21:11.498Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3850,7 +3850,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.191Z",
+        "evaluatedAt": "2026-10-26T08:21:11.517Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3923,7 +3923,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.196Z",
+          "evaluatedAt": "2026-10-26T08:21:11.519Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3941,7 +3941,7 @@
               "max": 2
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.196Z",
+          "evaluatedAt": "2026-10-26T08:21:11.519Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4029,7 +4029,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.199Z",
+        "evaluatedAt": "2026-10-26T08:21:11.520Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4102,7 +4102,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.200Z",
+          "evaluatedAt": "2026-10-26T08:21:11.520Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4120,7 +4120,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.200Z",
+          "evaluatedAt": "2026-10-26T08:21:11.520Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4208,7 +4208,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.200Z",
+        "evaluatedAt": "2026-10-26T08:21:11.519Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4281,7 +4281,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.200Z",
+          "evaluatedAt": "2026-10-26T08:21:11.520Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4299,7 +4299,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.200Z",
+          "evaluatedAt": "2026-10-26T08:21:11.520Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4387,7 +4387,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.222Z",
+        "evaluatedAt": "2026-10-26T08:21:11.520Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4460,7 +4460,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.222Z",
+          "evaluatedAt": "2026-10-26T08:21:11.520Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4478,13 +4478,13 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.222Z",
+          "evaluatedAt": "2026-10-26T08:21:11.520Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
-      "contentHash": "cbd6a3ef76c4388312476768fd4a34f0a9bc27ffe594215784b770d4eac7c765",
+      "contentHash": "ca58db5c790c7b417f86e33f763615cacfb70818e87b228764caa0d598d0b7cc",
       "sourcePath": "skills/public/video-generation/SKILL.md",
       "name": "video-generation",
       "description": "Use this skill when the user requests to generate, create, or imagine videos. Supports structured prompts and reference image for guided generation.",
@@ -4500,9 +4500,9 @@
       "installUrl": "github:bytedance/deer-flow:skills/public/video-generation",
       "relPath": "skills/public/video-generation",
       "verified": true,
-      "tokenCount": 1471,
+      "tokenCount": 1652,
       "evalSummary": {
-        "overallScore": 69,
+        "overallScore": 71,
         "grade": "C",
         "categories": [
           {
@@ -4532,7 +4532,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 5,
+            "score": 7,
             "max": 10
           },
           {
@@ -4566,7 +4566,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.254Z",
+        "evaluatedAt": "2026-10-26T08:21:11.601Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4575,7 +4575,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 69,
+          "overallScore": 71,
           "grade": "C",
           "categories": [
             {
@@ -4605,7 +4605,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 5,
+              "score": 7,
               "max": 10
             },
             {
@@ -4639,7 +4639,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.259Z",
+          "evaluatedAt": "2026-10-26T08:21:11.601Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4657,7 +4657,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.259Z",
+          "evaluatedAt": "2026-10-26T08:21:11.601Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4745,7 +4745,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:59.294Z",
+        "evaluatedAt": "2026-10-26T08:21:11.605Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -4818,7 +4818,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.296Z",
+          "evaluatedAt": "2026-10-26T08:21:11.605Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -4836,7 +4836,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:59.296Z",
+          "evaluatedAt": "2026-10-26T08:21:11.605Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -4848,7 +4848,7 @@
       "name": "bytedance-deer-flow-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-19T08:20:59.762Z",
+      "createdAt": "2026-10-26T08:21:11.973Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4884,7 +4884,7 @@
       "name": "bytedance-deer-flow-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-19T08:20:59.762Z",
+      "createdAt": "2026-10-26T08:21:11.973Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4968,7 +4968,7 @@
       "name": "bytedance-deer-flow-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-19T08:20:59.762Z",
+      "createdAt": "2026-10-26T08:21:11.973Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5088,7 +5088,7 @@
       "name": "bytedance-deer-flow-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-19T08:20:59.762Z",
+      "createdAt": "2026-10-26T08:21:11.973Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5202,7 +5202,7 @@
       "name": "bytedance-deer-flow-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-19T08:20:59.762Z",
+      "createdAt": "2026-10-26T08:21:11.973Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5310,7 +5310,7 @@
       "name": "bytedance-deer-flow-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-19T08:20:59.762Z",
+      "createdAt": "2026-10-26T08:21:11.973Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5382,7 +5382,7 @@
       "name": "bytedance-deer-flow-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-19T08:20:59.762Z",
+      "createdAt": "2026-10-26T08:21:11.973Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -5526,7 +5526,7 @@
       "name": "bytedance-deer-flow-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from bytedance/deer-flow.",
       "author": "ASM (bytedance/deer-flow)",
-      "createdAt": "2026-10-19T08:20:59.762Z",
+      "createdAt": "2026-10-26T08:21:11.973Z",
       "tags": [
         "repo-derived",
         "inferred",

@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/MiniMax-AI/skills.git",
   "owner": "MiniMax-AI",
   "repo": "skills",
-  "updatedAt": "2026-10-19T08:20:14.965Z",
+  "updatedAt": "2026-10-26T08:20:30.886Z",
   "skillCount": 23,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.898Z",
+        "evaluatedAt": "2026-10-26T08:20:30.006Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.007Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.007Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.892Z",
+        "evaluatedAt": "2026-10-26T08:20:30.004Z",
         "evaluatedVersion": "1.1"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "1.1"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "1.1"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.892Z",
+        "evaluatedAt": "2026-10-26T08:20:30.004Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.898Z",
+        "evaluatedAt": "2026-10-26T08:20:30.004Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.898Z",
+        "evaluatedAt": "2026-10-26T08:20:30.004Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.898Z",
+        "evaluatedAt": "2026-10-26T08:20:30.004Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.006Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.898Z",
+        "evaluatedAt": "2026-10-26T08:20:30.007Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.007Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.007Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.898Z",
+        "evaluatedAt": "2026-10-26T08:20:30.006Z",
         "evaluatedVersion": "1.2"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.007Z",
           "evaluatedVersion": "1.2"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.898Z",
+          "evaluatedAt": "2026-10-26T08:20:30.007Z",
           "evaluatedVersion": "1.2"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.931Z",
+        "evaluatedAt": "2026-10-26T08:20:30.038Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.931Z",
+          "evaluatedAt": "2026-10-26T08:20:30.039Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.931Z",
+          "evaluatedAt": "2026-10-26T08:20:30.039Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.931Z",
+        "evaluatedAt": "2026-10-26T08:20:30.038Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.933Z",
+          "evaluatedAt": "2026-10-26T08:20:30.038Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1791,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.933Z",
+          "evaluatedAt": "2026-10-26T08:20:30.038Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.938Z",
+        "evaluatedAt": "2026-10-26T08:20:30.040Z",
         "evaluatedVersion": "1.1"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.938Z",
+          "evaluatedAt": "2026-10-26T08:20:30.044Z",
           "evaluatedVersion": "1.1"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.938Z",
+          "evaluatedAt": "2026-10-26T08:20:30.044Z",
           "evaluatedVersion": "1.1"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.957Z",
+        "evaluatedAt": "2026-10-26T08:20:30.062Z",
         "evaluatedVersion": "2.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.958Z",
+          "evaluatedAt": "2026-10-26T08:20:30.062Z",
           "evaluatedVersion": "2.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.958Z",
+          "evaluatedAt": "2026-10-26T08:20:30.062Z",
           "evaluatedVersion": "2.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.973Z",
+        "evaluatedAt": "2026-10-26T08:20:30.077Z",
         "evaluatedVersion": "1.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.982Z",
+          "evaluatedAt": "2026-10-26T08:20:30.077Z",
           "evaluatedVersion": "1.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2328,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.982Z",
+          "evaluatedAt": "2026-10-26T08:20:30.077Z",
           "evaluatedVersion": "1.0"
         }
       }
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:13.990Z",
+        "evaluatedAt": "2026-10-26T08:20:30.095Z",
         "evaluatedVersion": "1.0"
       },
       "evalSummaries": {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.992Z",
+          "evaluatedAt": "2026-10-26T08:20:30.098Z",
           "evaluatedVersion": "1.0"
         },
         "skill-best-practice": {
@@ -2507,7 +2507,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:13.992Z",
+          "evaluatedAt": "2026-10-26T08:20:30.098Z",
           "evaluatedVersion": "1.0"
         }
       }
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.221Z",
+        "evaluatedAt": "2026-10-26T08:20:30.249Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.222Z",
+          "evaluatedAt": "2026-10-26T08:20:30.259Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,7 +2686,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.222Z",
+          "evaluatedAt": "2026-10-26T08:20:30.259Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.221Z",
+        "evaluatedAt": "2026-10-26T08:20:30.260Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.221Z",
+          "evaluatedAt": "2026-10-26T08:20:30.265Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.221Z",
+          "evaluatedAt": "2026-10-26T08:20:30.266Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.223Z",
+        "evaluatedAt": "2026-10-26T08:20:30.269Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.224Z",
+          "evaluatedAt": "2026-10-26T08:20:30.269Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3044,7 +3044,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.224Z",
+          "evaluatedAt": "2026-10-26T08:20:30.269Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.259Z",
+        "evaluatedAt": "2026-10-26T08:20:30.311Z",
         "evaluatedVersion": "1.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.259Z",
+          "evaluatedAt": "2026-10-26T08:20:30.312Z",
           "evaluatedVersion": "1.0"
         },
         "skill-best-practice": {
@@ -3223,7 +3223,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.259Z",
+          "evaluatedAt": "2026-10-26T08:20:30.312Z",
           "evaluatedVersion": "1.0"
         }
       }
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.279Z",
+        "evaluatedAt": "2026-10-26T08:20:30.312Z",
         "evaluatedVersion": "1.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.280Z",
+          "evaluatedAt": "2026-10-26T08:20:30.322Z",
           "evaluatedVersion": "1.0"
         },
         "skill-best-practice": {
@@ -3402,7 +3402,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.280Z",
+          "evaluatedAt": "2026-10-26T08:20:30.324Z",
           "evaluatedVersion": "1.0"
         }
       }
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.289Z",
+        "evaluatedAt": "2026-10-26T08:20:30.322Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.291Z",
+          "evaluatedAt": "2026-10-26T08:20:30.325Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -3581,7 +3581,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.292Z",
+          "evaluatedAt": "2026-10-26T08:20:30.325Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -3669,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.291Z",
+        "evaluatedAt": "2026-10-26T08:20:30.328Z",
         "evaluatedVersion": "1.0"
       },
       "evalSummaries": {
@@ -3742,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.292Z",
+          "evaluatedAt": "2026-10-26T08:20:30.329Z",
           "evaluatedVersion": "1.0"
         },
         "skill-best-practice": {
@@ -3760,7 +3760,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.292Z",
+          "evaluatedAt": "2026-10-26T08:20:30.329Z",
           "evaluatedVersion": "1.0"
         }
       }
@@ -3848,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.422Z",
+        "evaluatedAt": "2026-10-26T08:20:30.483Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3921,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.436Z",
+          "evaluatedAt": "2026-10-26T08:20:30.491Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3939,7 +3939,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.436Z",
+          "evaluatedAt": "2026-10-26T08:20:30.491Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4027,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:14.436Z",
+        "evaluatedAt": "2026-10-26T08:20:30.491Z",
         "evaluatedVersion": "1.0"
       },
       "evalSummaries": {
@@ -4100,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.438Z",
+          "evaluatedAt": "2026-10-26T08:20:30.491Z",
           "evaluatedVersion": "1.0"
         },
         "skill-best-practice": {
@@ -4118,7 +4118,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:14.438Z",
+          "evaluatedAt": "2026-10-26T08:20:30.491Z",
           "evaluatedVersion": "1.0"
         }
       }
@@ -4130,7 +4130,7 @@
       "name": "minimax-ai-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4172,7 +4172,7 @@
       "name": "minimax-ai-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4274,7 +4274,7 @@
       "name": "minimax-ai-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4322,7 +4322,7 @@
       "name": "minimax-ai-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4424,7 +4424,7 @@
       "name": "minimax-ai-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4562,7 +4562,7 @@
       "name": "minimax-ai-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4598,7 +4598,7 @@
       "name": "minimax-ai-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4688,7 +4688,7 @@
       "name": "minimax-ai-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4850,7 +4850,7 @@
       "name": "minimax-ai-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from MiniMax-AI/skills.",
       "author": "ASM (MiniMax-AI/skills)",
-      "createdAt": "2026-10-19T08:20:14.965Z",
+      "createdAt": "2026-10-26T08:20:30.886Z",
       "tags": [
         "repo-derived",
         "inferred",

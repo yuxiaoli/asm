@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "febc57d00eacbdf27e29f69109d67ed4b098af2b",
+  "sourceCommit": "8abdcbe839d78038abed275cf77cd51457ec75fe",
   "repoUrl": "https://github.com/luongnv89/skills.git",
   "owner": "luongnv89",
   "repo": "skills",
-  "updatedAt": "2026-10-19T08:20:10.295Z",
-  "skillCount": 42,
+  "updatedAt": "2026-10-26T08:20:26.352Z",
+  "skillCount": 44,
   "skills": [
     {
       "contentHash": "f124efa58b0a3b9345ef6a485bab9c425cdbfca000ace79ce1bbc84a8ee93ea2",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.930Z",
+        "evaluatedAt": "2026-10-26T08:20:25.242Z",
         "evaluatedVersion": "2.2.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.931Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "2.2.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.931Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "2.2.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.927Z",
+        "evaluatedAt": "2026-10-26T08:20:25.245Z",
         "evaluatedVersion": "1.1.1"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.930Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.1.1"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.930Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.1.1"
         }
       }
@@ -451,7 +451,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.927Z",
+        "evaluatedAt": "2026-10-26T08:20:25.242Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -524,7 +524,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.930Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -542,17 +542,17 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.930Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
-      "contentHash": "7a6574cbc1ef89b527d004b444b7ebf442583645d443686e713bfc311fb5fb8b",
+      "contentHash": "b4f0db5bbbb44b25e0435c7e6656fd89a9f7b7eccd7be7030286bf2bfa859fe2",
       "sourcePath": "skills/appstore-review-checker/SKILL.md",
       "name": "appstore-review-checker",
       "description": "Audit iOS/macOS apps against App Store Review Guidelines before submission, with evidence-backed verdicts and fixes. Don't use for Google Play, general code review, or rejection appeals.",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "license": "MIT",
       "creator": "",
       "compatibility": "",
@@ -564,7 +564,7 @@
       "installUrl": "github:luongnv89/skills:skills/appstore-review-checker",
       "relPath": "skills/appstore-review-checker",
       "verified": true,
-      "tokenCount": 2924,
+      "tokenCount": 2968,
       "evalSummary": {
         "overallScore": 94,
         "grade": "A",
@@ -630,8 +630,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.931Z",
-        "evaluatedVersion": "1.4.0"
+        "evaluatedAt": "2026-10-26T08:20:25.242Z",
+        "evaluatedVersion": "1.5.0"
       },
       "evalSummaries": {
         "quality": {
@@ -703,8 +703,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.931Z",
-          "evaluatedVersion": "1.4.0"
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
+          "evaluatedVersion": "1.5.0"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -721,8 +721,8 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.931Z",
-          "evaluatedVersion": "1.4.0"
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
+          "evaluatedVersion": "1.5.0"
         }
       }
     },
@@ -809,7 +809,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.927Z",
+        "evaluatedAt": "2026-10-26T08:20:25.245Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -882,7 +882,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.930Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -900,7 +900,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.930Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.4.0"
         }
       }
@@ -988,7 +988,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.927Z",
+        "evaluatedAt": "2026-10-26T08:20:25.245Z",
         "evaluatedVersion": "1.1.1"
       },
       "evalSummaries": {
@@ -1061,7 +1061,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.930Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.1.1"
         },
         "skill-best-practice": {
@@ -1079,7 +1079,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.930Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.1.1"
         }
       }
@@ -1167,7 +1167,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.930Z",
+        "evaluatedAt": "2026-10-26T08:20:25.245Z",
         "evaluatedVersion": "1.5.0"
       },
       "evalSummaries": {
@@ -1240,7 +1240,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.931Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.5.0"
         },
         "skill-best-practice": {
@@ -1258,7 +1258,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.931Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.5.0"
         }
       }
@@ -1346,7 +1346,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.930Z",
+        "evaluatedAt": "2026-10-26T08:20:25.245Z",
         "evaluatedVersion": "1.0.2"
       },
       "evalSummaries": {
@@ -1419,7 +1419,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.931Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.0.2"
         },
         "skill-best-practice": {
@@ -1437,7 +1437,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.931Z",
+          "evaluatedAt": "2026-10-26T08:20:25.245Z",
           "evaluatedVersion": "1.0.2"
         }
       }
@@ -1525,7 +1525,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.962Z",
+        "evaluatedAt": "2026-10-26T08:20:25.281Z",
         "evaluatedVersion": "1.3.0"
       },
       "evalSummaries": {
@@ -1598,7 +1598,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.963Z",
+          "evaluatedAt": "2026-10-26T08:20:25.281Z",
           "evaluatedVersion": "1.3.0"
         },
         "skill-best-practice": {
@@ -1616,7 +1616,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.963Z",
+          "evaluatedAt": "2026-10-26T08:20:25.281Z",
           "evaluatedVersion": "1.3.0"
         }
       }
@@ -1704,7 +1704,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:08.983Z",
+        "evaluatedAt": "2026-10-26T08:20:25.296Z",
         "evaluatedVersion": "2.2.2"
       },
       "evalSummaries": {
@@ -1777,7 +1777,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.983Z",
+          "evaluatedAt": "2026-10-26T08:20:25.296Z",
           "evaluatedVersion": "2.2.2"
         },
         "skill-best-practice": {
@@ -1795,7 +1795,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:08.983Z",
+          "evaluatedAt": "2026-10-26T08:20:25.296Z",
           "evaluatedVersion": "2.2.2"
         }
       }
@@ -1886,7 +1886,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.015Z",
+        "evaluatedAt": "2026-10-26T08:20:25.325Z",
         "evaluatedVersion": "1.4.1"
       },
       "evalSummaries": {
@@ -1959,7 +1959,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.016Z",
+          "evaluatedAt": "2026-10-26T08:20:25.327Z",
           "evaluatedVersion": "1.4.1"
         },
         "skill-best-practice": {
@@ -1977,7 +1977,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.016Z",
+          "evaluatedAt": "2026-10-26T08:20:25.327Z",
           "evaluatedVersion": "1.4.1"
         }
       }
@@ -2072,7 +2072,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.018Z",
+        "evaluatedAt": "2026-10-26T08:20:25.327Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -2145,7 +2145,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.019Z",
+          "evaluatedAt": "2026-10-26T08:20:25.328Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -2163,7 +2163,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.019Z",
+          "evaluatedAt": "2026-10-26T08:20:25.328Z",
           "evaluatedVersion": "1.1.0"
         }
       }
@@ -2251,7 +2251,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.044Z",
+        "evaluatedAt": "2026-10-26T08:20:25.349Z",
         "evaluatedVersion": "0.10.0"
       },
       "evalSummaries": {
@@ -2324,7 +2324,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.045Z",
+          "evaluatedAt": "2026-10-26T08:20:25.349Z",
           "evaluatedVersion": "0.10.0"
         },
         "skill-best-practice": {
@@ -2342,7 +2342,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.045Z",
+          "evaluatedAt": "2026-10-26T08:20:25.349Z",
           "evaluatedVersion": "0.10.0"
         }
       }
@@ -2430,7 +2430,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.045Z",
+        "evaluatedAt": "2026-10-26T08:20:25.349Z",
         "evaluatedVersion": "2.3.0"
       },
       "evalSummaries": {
@@ -2503,7 +2503,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.046Z",
+          "evaluatedAt": "2026-10-26T08:20:25.349Z",
           "evaluatedVersion": "2.3.0"
         },
         "skill-best-practice": {
@@ -2521,7 +2521,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.046Z",
+          "evaluatedAt": "2026-10-26T08:20:25.349Z",
           "evaluatedVersion": "2.3.0"
         }
       }
@@ -2612,7 +2612,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.048Z",
+        "evaluatedAt": "2026-10-26T08:20:25.369Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -2685,7 +2685,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.048Z",
+          "evaluatedAt": "2026-10-26T08:20:25.369Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -2703,7 +2703,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.048Z",
+          "evaluatedAt": "2026-10-26T08:20:25.369Z",
           "evaluatedVersion": "1.4.0"
         }
       }
@@ -2791,7 +2791,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.064Z",
+        "evaluatedAt": "2026-10-26T08:20:25.371Z",
         "evaluatedVersion": "2.1.1"
       },
       "evalSummaries": {
@@ -2864,7 +2864,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.065Z",
+          "evaluatedAt": "2026-10-26T08:20:25.371Z",
           "evaluatedVersion": "2.1.1"
         },
         "skill-best-practice": {
@@ -2882,7 +2882,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.065Z",
+          "evaluatedAt": "2026-10-26T08:20:25.371Z",
           "evaluatedVersion": "2.1.1"
         }
       }
@@ -2972,7 +2972,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.116Z",
+        "evaluatedAt": "2026-10-26T08:20:25.417Z",
         "evaluatedVersion": "1.6.0"
       },
       "evalSummaries": {
@@ -3045,7 +3045,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.122Z",
+          "evaluatedAt": "2026-10-26T08:20:25.419Z",
           "evaluatedVersion": "1.6.0"
         },
         "skill-best-practice": {
@@ -3063,7 +3063,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.122Z",
+          "evaluatedAt": "2026-10-26T08:20:25.419Z",
           "evaluatedVersion": "1.6.0"
         }
       }
@@ -3151,7 +3151,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.135Z",
+        "evaluatedAt": "2026-10-26T08:20:25.421Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -3224,7 +3224,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.137Z",
+          "evaluatedAt": "2026-10-26T08:20:25.427Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -3242,7 +3242,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.137Z",
+          "evaluatedAt": "2026-10-26T08:20:25.427Z",
           "evaluatedVersion": "1.4.0"
         }
       }
@@ -3332,7 +3332,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.139Z",
+        "evaluatedAt": "2026-10-26T08:20:25.439Z",
         "evaluatedVersion": "1.0.2"
       },
       "evalSummaries": {
@@ -3405,7 +3405,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.140Z",
+          "evaluatedAt": "2026-10-26T08:20:25.439Z",
           "evaluatedVersion": "1.0.2"
         },
         "skill-best-practice": {
@@ -3423,7 +3423,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.140Z",
+          "evaluatedAt": "2026-10-26T08:20:25.439Z",
           "evaluatedVersion": "1.0.2"
         }
       }
@@ -3511,7 +3511,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.159Z",
+        "evaluatedAt": "2026-10-26T08:20:25.445Z",
         "evaluatedVersion": "3.2.0"
       },
       "evalSummaries": {
@@ -3584,7 +3584,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.160Z",
+          "evaluatedAt": "2026-10-26T08:20:25.445Z",
           "evaluatedVersion": "3.2.0"
         },
         "skill-best-practice": {
@@ -3602,7 +3602,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.160Z",
+          "evaluatedAt": "2026-10-26T08:20:25.445Z",
           "evaluatedVersion": "3.2.0"
         }
       }
@@ -3690,7 +3690,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.241Z",
+        "evaluatedAt": "2026-10-26T08:20:25.502Z",
         "evaluatedVersion": "1.6.0"
       },
       "evalSummaries": {
@@ -3763,7 +3763,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.251Z",
+          "evaluatedAt": "2026-10-26T08:20:25.502Z",
           "evaluatedVersion": "1.6.0"
         },
         "skill-best-practice": {
@@ -3781,7 +3781,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.251Z",
+          "evaluatedAt": "2026-10-26T08:20:25.502Z",
           "evaluatedVersion": "1.6.0"
         }
       }
@@ -3869,7 +3869,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.251Z",
+        "evaluatedAt": "2026-10-26T08:20:25.525Z",
         "evaluatedVersion": "2.3.0"
       },
       "evalSummaries": {
@@ -3942,7 +3942,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.251Z",
+          "evaluatedAt": "2026-10-26T08:20:25.531Z",
           "evaluatedVersion": "2.3.0"
         },
         "skill-best-practice": {
@@ -3960,7 +3960,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.251Z",
+          "evaluatedAt": "2026-10-26T08:20:25.531Z",
           "evaluatedVersion": "2.3.0"
         }
       }
@@ -4052,7 +4052,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.261Z",
+        "evaluatedAt": "2026-10-26T08:20:25.543Z",
         "evaluatedVersion": "1.6.0"
       },
       "evalSummaries": {
@@ -4125,7 +4125,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.261Z",
+          "evaluatedAt": "2026-10-26T08:20:25.543Z",
           "evaluatedVersion": "1.6.0"
         },
         "skill-best-practice": {
@@ -4143,7 +4143,7 @@
               "max": 16
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.261Z",
+          "evaluatedAt": "2026-10-26T08:20:25.543Z",
           "evaluatedVersion": "1.6.0"
         }
       }
@@ -4233,7 +4233,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.314Z",
+        "evaluatedAt": "2026-10-26T08:20:25.581Z",
         "evaluatedVersion": "1.7.0"
       },
       "evalSummaries": {
@@ -4306,7 +4306,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.314Z",
+          "evaluatedAt": "2026-10-26T08:20:25.581Z",
           "evaluatedVersion": "1.7.0"
         },
         "skill-best-practice": {
@@ -4324,7 +4324,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.314Z",
+          "evaluatedAt": "2026-10-26T08:20:25.581Z",
           "evaluatedVersion": "1.7.0"
         }
       }
@@ -4412,7 +4412,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.383Z",
+        "evaluatedAt": "2026-10-26T08:20:25.625Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -4485,7 +4485,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.384Z",
+          "evaluatedAt": "2026-10-26T08:20:25.628Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -4503,7 +4503,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.384Z",
+          "evaluatedAt": "2026-10-26T08:20:25.627Z",
           "evaluatedVersion": "1.4.0"
         }
       }
@@ -4591,7 +4591,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.431Z",
+        "evaluatedAt": "2026-10-26T08:20:25.668Z",
         "evaluatedVersion": "1.3.0"
       },
       "evalSummaries": {
@@ -4664,7 +4664,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.440Z",
+          "evaluatedAt": "2026-10-26T08:20:25.668Z",
           "evaluatedVersion": "1.3.0"
         },
         "skill-best-practice": {
@@ -4682,7 +4682,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.440Z",
+          "evaluatedAt": "2026-10-26T08:20:25.668Z",
           "evaluatedVersion": "1.3.0"
         }
       }
@@ -4770,7 +4770,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.460Z",
+        "evaluatedAt": "2026-10-26T08:20:25.683Z",
         "evaluatedVersion": "1.6.0"
       },
       "evalSummaries": {
@@ -4843,7 +4843,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.461Z",
+          "evaluatedAt": "2026-10-26T08:20:25.683Z",
           "evaluatedVersion": "1.6.0"
         },
         "skill-best-practice": {
@@ -4861,7 +4861,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.461Z",
+          "evaluatedAt": "2026-10-26T08:20:25.683Z",
           "evaluatedVersion": "1.6.0"
         }
       }
@@ -4949,7 +4949,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.517Z",
+        "evaluatedAt": "2026-10-26T08:20:25.732Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -5022,7 +5022,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.517Z",
+          "evaluatedAt": "2026-10-26T08:20:25.733Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -5040,7 +5040,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.517Z",
+          "evaluatedAt": "2026-10-26T08:20:25.733Z",
           "evaluatedVersion": "1.4.0"
         }
       }
@@ -5128,7 +5128,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.564Z",
+        "evaluatedAt": "2026-10-26T08:20:25.759Z",
         "evaluatedVersion": "1.5.0"
       },
       "evalSummaries": {
@@ -5201,7 +5201,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.565Z",
+          "evaluatedAt": "2026-10-26T08:20:25.759Z",
           "evaluatedVersion": "1.5.0"
         },
         "skill-best-practice": {
@@ -5219,8 +5219,191 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.565Z",
+          "evaluatedAt": "2026-10-26T08:20:25.759Z",
           "evaluatedVersion": "1.5.0"
+        }
+      }
+    },
+    {
+      "contentHash": "c9ba9316b3f705f419b8d6d1bbeedf997b06a0a92ece8038f0c43f0e18ae65b7",
+      "sourcePath": "skills/product-launch/SKILL.md",
+      "name": "product-launch",
+      "description": "Plan a product launch: pick best-fit sites from 50 (Product Hunt, HN, Reddit, directories) plus your own channels, then write posts, pitches and setup guides after approval. Never posts. Don't use for writing landing pages, ASO, ads, or release tags.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "creator": "",
+      "compatibility": "Needs web access to read the landing page and platform pages. Uses the Agent tool when present (falls back to inline). Optional: gh CLI for GitHub metadata, asm for sibling skills.",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [
+        "landing-page-generator",
+        "logo-designer",
+        "seo-ai-optimizer"
+      ],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:luongnv89/skills:skills/product-launch",
+      "relPath": "skills/product-launch",
+      "verified": true,
+      "tokenCount": 7183,
+      "evalSummary": {
+        "overallScore": 92,
+        "grade": "A",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-26T08:20:25.787Z",
+        "evaluatedVersion": "1.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 92,
+          "grade": "A",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-26T08:20:25.792Z",
+          "evaluatedVersion": "1.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 100,
+          "grade": "A",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 16,
+              "max": 16
+            }
+          ],
+          "evaluatedAt": "2026-10-26T08:20:25.792Z",
+          "evaluatedVersion": "1.0.0"
         }
       }
     },
@@ -5313,7 +5496,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.575Z",
+        "evaluatedAt": "2026-10-26T08:20:25.792Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -5386,7 +5569,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.576Z",
+          "evaluatedAt": "2026-10-26T08:20:25.792Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -5404,7 +5587,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.576Z",
+          "evaluatedAt": "2026-10-26T08:20:25.792Z",
           "evaluatedVersion": "1.1.0"
         }
       }
@@ -5492,7 +5675,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.593Z",
+        "evaluatedAt": "2026-10-26T08:20:25.800Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -5565,7 +5748,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.595Z",
+          "evaluatedAt": "2026-10-26T08:20:25.801Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -5583,7 +5766,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.595Z",
+          "evaluatedAt": "2026-10-26T08:20:25.801Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -5676,7 +5859,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.594Z",
+        "evaluatedAt": "2026-10-26T08:20:25.822Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -5749,7 +5932,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.596Z",
+          "evaluatedAt": "2026-10-26T08:20:25.822Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -5767,7 +5950,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.596Z",
+          "evaluatedAt": "2026-10-26T08:20:25.822Z",
           "evaluatedVersion": "1.1.0"
         }
       }
@@ -5855,7 +6038,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.609Z",
+        "evaluatedAt": "2026-10-26T08:20:25.822Z",
         "evaluatedVersion": "1.5.0"
       },
       "evalSummaries": {
@@ -5928,7 +6111,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.609Z",
+          "evaluatedAt": "2026-10-26T08:20:25.823Z",
           "evaluatedVersion": "1.5.0"
         },
         "skill-best-practice": {
@@ -5946,7 +6129,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.609Z",
+          "evaluatedAt": "2026-10-26T08:20:25.823Z",
           "evaluatedVersion": "1.5.0"
         }
       }
@@ -6034,7 +6217,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.634Z",
+        "evaluatedAt": "2026-10-26T08:20:25.878Z",
         "evaluatedVersion": "1.6.0"
       },
       "evalSummaries": {
@@ -6107,7 +6290,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.635Z",
+          "evaluatedAt": "2026-10-26T08:20:25.878Z",
           "evaluatedVersion": "1.6.0"
         },
         "skill-best-practice": {
@@ -6125,7 +6308,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.635Z",
+          "evaluatedAt": "2026-10-26T08:20:25.878Z",
           "evaluatedVersion": "1.6.0"
         }
       }
@@ -6213,7 +6396,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.677Z",
+        "evaluatedAt": "2026-10-26T08:20:25.900Z",
         "evaluatedVersion": "3.0.1"
       },
       "evalSummaries": {
@@ -6286,7 +6469,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.678Z",
+          "evaluatedAt": "2026-10-26T08:20:25.901Z",
           "evaluatedVersion": "3.0.1"
         },
         "skill-best-practice": {
@@ -6304,7 +6487,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.678Z",
+          "evaluatedAt": "2026-10-26T08:20:25.901Z",
           "evaluatedVersion": "3.0.1"
         }
       }
@@ -6392,7 +6575,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.677Z",
+        "evaluatedAt": "2026-10-26T08:20:25.901Z",
         "evaluatedVersion": "1.6.0"
       },
       "evalSummaries": {
@@ -6465,7 +6648,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.678Z",
+          "evaluatedAt": "2026-10-26T08:20:25.902Z",
           "evaluatedVersion": "1.6.0"
         },
         "skill-best-practice": {
@@ -6483,7 +6666,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.678Z",
+          "evaluatedAt": "2026-10-26T08:20:25.902Z",
           "evaluatedVersion": "1.6.0"
         }
       }
@@ -6571,7 +6754,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.715Z",
+        "evaluatedAt": "2026-10-26T08:20:25.933Z",
         "evaluatedVersion": "1.5.0"
       },
       "evalSummaries": {
@@ -6644,7 +6827,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.716Z",
+          "evaluatedAt": "2026-10-26T08:20:25.939Z",
           "evaluatedVersion": "1.5.0"
         },
         "skill-best-practice": {
@@ -6662,7 +6845,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.716Z",
+          "evaluatedAt": "2026-10-26T08:20:25.939Z",
           "evaluatedVersion": "1.5.0"
         }
       }
@@ -6750,7 +6933,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.732Z",
+        "evaluatedAt": "2026-10-26T08:20:25.933Z",
         "evaluatedVersion": "1.5.0"
       },
       "evalSummaries": {
@@ -6823,7 +7006,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.732Z",
+          "evaluatedAt": "2026-10-26T08:20:25.939Z",
           "evaluatedVersion": "1.5.0"
         },
         "skill-best-practice": {
@@ -6841,7 +7024,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.732Z",
+          "evaluatedAt": "2026-10-26T08:20:25.939Z",
           "evaluatedVersion": "1.5.0"
         }
       }
@@ -6929,7 +7112,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.771Z",
+        "evaluatedAt": "2026-10-26T08:20:25.967Z",
         "evaluatedVersion": "2.4.0"
       },
       "evalSummaries": {
@@ -7002,7 +7185,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.772Z",
+          "evaluatedAt": "2026-10-26T08:20:25.967Z",
           "evaluatedVersion": "2.4.0"
         },
         "skill-best-practice": {
@@ -7020,8 +7203,187 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.772Z",
+          "evaluatedAt": "2026-10-26T08:20:25.967Z",
           "evaluatedVersion": "2.4.0"
+        }
+      }
+    },
+    {
+      "contentHash": "0a7008746316f1218a33d1bc639d1b2234e4f379a047bff6fbfbb4e6cda04c83",
+      "sourcePath": "skills/user-test/SKILL.md",
+      "name": "user-test",
+      "description": "Test an app, API or CLI like a real user: launch it, try every feature or named ones, log bugs, perf and UX issues, auto-fix simple ones, report. Don't use for unit tests, E2E suite code, or design audits.",
+      "version": "1.0.1",
+      "license": "MIT",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:luongnv89/skills:skills/user-test",
+      "relPath": "skills/user-test",
+      "verified": true,
+      "tokenCount": 5546,
+      "evalSummary": {
+        "overallScore": 93,
+        "grade": "A",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-10-26T08:20:26.023Z",
+        "evaluatedVersion": "1.0.1"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 93,
+          "grade": "A",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-10-26T08:20:26.024Z",
+          "evaluatedVersion": "1.0.1"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 100,
+          "grade": "A",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 14,
+              "max": 14
+            }
+          ],
+          "evaluatedAt": "2026-10-26T08:20:26.024Z",
+          "evaluatedVersion": "1.0.1"
         }
       }
     },
@@ -7108,7 +7470,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.807Z",
+        "evaluatedAt": "2026-10-26T08:20:26.024Z",
         "evaluatedVersion": "1.2.0"
       },
       "evalSummaries": {
@@ -7181,7 +7543,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.811Z",
+          "evaluatedAt": "2026-10-26T08:20:26.024Z",
           "evaluatedVersion": "1.2.0"
         },
         "skill-best-practice": {
@@ -7199,7 +7561,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.811Z",
+          "evaluatedAt": "2026-10-26T08:20:26.024Z",
           "evaluatedVersion": "1.2.0"
         }
       }
@@ -7289,7 +7651,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.875Z",
+        "evaluatedAt": "2026-10-26T08:20:26.077Z",
         "evaluatedVersion": "1.7.0"
       },
       "evalSummaries": {
@@ -7362,7 +7724,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.884Z",
+          "evaluatedAt": "2026-10-26T08:20:26.078Z",
           "evaluatedVersion": "1.7.0"
         },
         "skill-best-practice": {
@@ -7380,7 +7742,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.884Z",
+          "evaluatedAt": "2026-10-26T08:20:26.078Z",
           "evaluatedVersion": "1.7.0"
         }
       }
@@ -7470,7 +7832,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:09.941Z",
+        "evaluatedAt": "2026-10-26T08:20:26.125Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -7543,7 +7905,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.942Z",
+          "evaluatedAt": "2026-10-26T08:20:26.126Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -7561,7 +7923,7 @@
               "max": 16
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:09.942Z",
+          "evaluatedAt": "2026-10-26T08:20:26.126Z",
           "evaluatedVersion": "1.4.0"
         }
       }
@@ -7573,7 +7935,7 @@
       "name": "luongnv89-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7627,6 +7989,12 @@
           "version": "1.4.0"
         },
         {
+          "name": "product-launch",
+          "installUrl": "github:luongnv89/skills:skills/product-launch",
+          "description": "Plan a product launch: pick best-fit sites from 50 (Product Hunt, HN, Reddit, directories) plus your own channels, then write posts, pitches and setup guides after approval. Never posts. Don't use for writing landing pages, ASO, ads, or release tags.",
+          "version": "1.0.0"
+        },
+        {
           "name": "search-optimizer",
           "installUrl": "github:luongnv89/skills:skills/search-optimizer",
           "description": "Optimize a site or app for SEO, AI-bot search and app-store search in one run: detect web vs store, run each audit once, merge one prioritized report; fixes only via member gates. Don't use for one fix (seo-ai-optimizer, aso-marketing).",
@@ -7669,7 +8037,7 @@
       "name": "luongnv89-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7723,6 +8091,12 @@
           "version": "1.4.0"
         },
         {
+          "name": "product-launch",
+          "installUrl": "github:luongnv89/skills:skills/product-launch",
+          "description": "Plan a product launch: pick best-fit sites from 50 (Product Hunt, HN, Reddit, directories) plus your own channels, then write posts, pitches and setup guides after approval. Never posts. Don't use for writing landing pages, ASO, ads, or release tags.",
+          "version": "1.0.0"
+        },
+        {
           "name": "seo-ai-optimizer",
           "installUrl": "github:luongnv89/skills:skills/seo-ai-optimizer",
           "description": "Audit and optimize websites for technical SEO, content SEO, and AI bot accessibility. Fixes meta tags, sitemaps, robots.txt, structured data, llms.txt, and GPTBot/ClaudeBot directives. Don't use for App Store ASO, paid search, or blog writing.",
@@ -7753,7 +8127,7 @@
       "name": "luongnv89-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7780,7 +8154,7 @@
           "name": "appstore-review-checker",
           "installUrl": "github:luongnv89/skills:skills/appstore-review-checker",
           "description": "Audit iOS/macOS apps against App Store Review Guidelines before submission, with evidence-backed verdicts and fixes. Don't use for Google Play, general code review, or rejection appeals.",
-          "version": "1.4.0"
+          "version": "1.5.0"
         },
         {
           "name": "auto-push",
@@ -7861,7 +8235,7 @@
       "name": "luongnv89-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7888,7 +8262,7 @@
           "name": "appstore-review-checker",
           "installUrl": "github:luongnv89/skills:skills/appstore-review-checker",
           "description": "Audit iOS/macOS apps against App Store Review Guidelines before submission, with evidence-backed verdicts and fixes. Don't use for Google Play, general code review, or rejection appeals.",
-          "version": "1.4.0"
+          "version": "1.5.0"
         },
         {
           "name": "auto-push",
@@ -8023,6 +8397,12 @@
           "version": "2.4.0"
         },
         {
+          "name": "user-test",
+          "installUrl": "github:luongnv89/skills:skills/user-test",
+          "description": "Test an app, API or CLI like a real user: launch it, try every feature or named ones, log bugs, perf and UX issues, auto-fix simple ones, report. Don't use for unit tests, E2E suite code, or design audits.",
+          "version": "1.0.1"
+        },
+        {
           "name": "ux-ax-review",
           "installUrl": "github:luongnv89/skills:skills/ux-ax-review",
           "description": "Review website/app UX for humans and AX for AI/search; produce an evidence-backed audit and improvement plan across usability, brand, access, speed, conversion and discoverability. Don't use for UI builds, SEO-only edits, or legal certification.",
@@ -8047,7 +8427,7 @@
       "name": "luongnv89-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8068,7 +8448,7 @@
           "name": "appstore-review-checker",
           "installUrl": "github:luongnv89/skills:skills/appstore-review-checker",
           "description": "Audit iOS/macOS apps against App Store Review Guidelines before submission, with evidence-backed verdicts and fixes. Don't use for Google Play, general code review, or rejection appeals.",
-          "version": "1.4.0"
+          "version": "1.5.0"
         },
         {
           "name": "brand-name-checker",
@@ -8155,6 +8535,12 @@
           "version": "1.5.0"
         },
         {
+          "name": "product-launch",
+          "installUrl": "github:luongnv89/skills:skills/product-launch",
+          "description": "Plan a product launch: pick best-fit sites from 50 (Product Hunt, HN, Reddit, directories) plus your own channels, then write posts, pitches and setup guides after approval. Never posts. Don't use for writing landing pages, ASO, ads, or release tags.",
+          "version": "1.0.0"
+        },
+        {
           "name": "rex-agent",
           "installUrl": "github:luongnv89/skills:skills/rex-agent",
           "description": "Manage AI agent fleets in a Rex terminal: tile root + workers in one tab, start/prompt/wait/read them, check what they do, steer fleet panes; `help` lists all. Don't use for Herdr, tmux, or one-off Rex tabs, splits or commands.",
@@ -8191,6 +8577,12 @@
           "version": "2.4.0"
         },
         {
+          "name": "user-test",
+          "installUrl": "github:luongnv89/skills:skills/user-test",
+          "description": "Test an app, API or CLI like a real user: launch it, try every feature or named ones, log bugs, perf and UX issues, auto-fix simple ones, report. Don't use for unit tests, E2E suite code, or design audits.",
+          "version": "1.0.1"
+        },
+        {
           "name": "ux-ax-review",
           "installUrl": "github:luongnv89/skills:skills/ux-ax-review",
           "description": "Review website/app UX for humans and AX for AI/search; produce an evidence-backed audit and improvement plan across usability, brand, access, speed, conversion and discoverability. Don't use for UI builds, SEO-only edits, or legal certification.",
@@ -8215,7 +8607,7 @@
       "name": "luongnv89-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8236,7 +8628,7 @@
           "name": "appstore-review-checker",
           "installUrl": "github:luongnv89/skills:skills/appstore-review-checker",
           "description": "Audit iOS/macOS apps against App Store Review Guidelines before submission, with evidence-backed verdicts and fixes. Don't use for Google Play, general code review, or rejection appeals.",
-          "version": "1.4.0"
+          "version": "1.5.0"
         },
         {
           "name": "aso-marketing",
@@ -8269,7 +8661,7 @@
       "name": "luongnv89-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8377,6 +8769,12 @@
           "version": "1.6.0"
         },
         {
+          "name": "product-launch",
+          "installUrl": "github:luongnv89/skills:skills/product-launch",
+          "description": "Plan a product launch: pick best-fit sites from 50 (Product Hunt, HN, Reddit, directories) plus your own channels, then write posts, pitches and setup guides after approval. Never posts. Don't use for writing landing pages, ASO, ads, or release tags.",
+          "version": "1.0.0"
+        },
+        {
           "name": "security-setup",
           "installUrl": "github:luongnv89/skills:skills/security-setup",
           "description": "Install local-first security hardening: pre-commit secret detection, offline dependency scans, static analysis, reports, and gated free CI. Use when hardening repos or adding security hooks. Don't use for incident response or cloud security reviews.",
@@ -8413,7 +8811,7 @@
       "name": "luongnv89-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8440,7 +8838,7 @@
           "name": "appstore-review-checker",
           "installUrl": "github:luongnv89/skills:skills/appstore-review-checker",
           "description": "Audit iOS/macOS apps against App Store Review Guidelines before submission, with evidence-backed verdicts and fixes. Don't use for Google Play, general code review, or rejection appeals.",
-          "version": "1.4.0"
+          "version": "1.5.0"
         },
         {
           "name": "aso-marketing",
@@ -8575,7 +8973,7 @@
       "name": "luongnv89-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from luongnv89/skills.",
       "author": "ASM (luongnv89/skills)",
-      "createdAt": "2026-10-19T08:20:10.295Z",
+      "createdAt": "2026-10-26T08:20:26.352Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -8645,6 +9043,12 @@
           "installUrl": "github:luongnv89/skills:skills/prd-generator",
           "description": "Generate Product Requirements Documents from `idea.md` and `validate.md` files. Use when asked to create or update a PRD. Don't use for TAD, sprint tasks, or raw idea validation.",
           "version": "1.5.0"
+        },
+        {
+          "name": "product-launch",
+          "installUrl": "github:luongnv89/skills:skills/product-launch",
+          "description": "Plan a product launch: pick best-fit sites from 50 (Product Hunt, HN, Reddit, directories) plus your own channels, then write posts, pitches and setup guides after approval. Never posts. Don't use for writing landing pages, ASO, ads, or release tags.",
+          "version": "1.0.0"
         },
         {
           "name": "product-planner",

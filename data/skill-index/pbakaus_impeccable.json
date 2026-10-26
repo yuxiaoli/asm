@@ -1,17 +1,17 @@
 {
-  "sourceCommit": "0665bd812ae0908fcab17b96fd4f840defb882d9",
+  "sourceCommit": "3671d50f0ac9a662ce0615e85a256110c9cd720b",
   "repoUrl": "https://github.com/pbakaus/impeccable.git",
   "owner": "pbakaus",
   "repo": "impeccable",
-  "updatedAt": "2026-10-19T08:23:03.735Z",
+  "updatedAt": "2026-10-26T08:22:59.817Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "8270bfd275adbfece4c2fb90acdf92b1b0781b37e981ac2bc34d4e0c51eb705b",
+      "contentHash": "337e318a22e166d4666285ece9b67d66da05e8e747261bbc5978b91fc773a86d",
       "sourcePath": ".claude/skills/impeccable/SKILL.md",
       "name": "impeccable",
       "description": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend interface: websites, landing pages, dashboards, product UI, components, forms, settings, onboarding, empty states, and native iOS or Android screens. Handles UX review, hierarchy, layout, typography, color, motion, UX copy, accessibility, responsive behavior, edge cases, and capturing or documenting design systems (DESIGN.md, tokens). Also for making bland UI bolder, loud UI quieter, or ambitious visual effects. Not for backend-only or non-UI tasks.",
-      "version": "4.6.0",
+      "version": "4.7.1",
       "license": "Apache 2.0",
       "creator": "",
       "compatibility": "",
@@ -23,7 +23,7 @@
       "installUrl": "github:pbakaus/impeccable:.claude/skills/impeccable",
       "relPath": ".claude/skills/impeccable",
       "verified": true,
-      "tokenCount": 3120,
+      "tokenCount": 3136,
       "evalSummary": {
         "overallScore": 74,
         "grade": "C",
@@ -89,8 +89,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:03.687Z",
-        "evaluatedVersion": "4.6.0"
+        "evaluatedAt": "2026-10-26T08:22:59.775Z",
+        "evaluatedVersion": "4.7.1"
       },
       "evalSummaries": {
         "quality": {
@@ -98,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 72,
+          "overallScore": 70,
           "grade": "C",
           "categories": [
             {
@@ -152,7 +152,7 @@
             {
               "id": "pii",
               "name": "PII detection",
-              "score": 8,
+              "score": 6,
               "max": 10
             },
             {
@@ -162,8 +162,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:03.687Z",
-          "evaluatedVersion": "4.6.0"
+          "evaluatedAt": "2026-10-26T08:22:59.775Z",
+          "evaluatedVersion": "4.7.1"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -180,8 +180,8 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:03.687Z",
-          "evaluatedVersion": "4.6.0"
+          "evaluatedAt": "2026-10-26T08:22:59.775Z",
+          "evaluatedVersion": "4.7.1"
         }
       }
     }

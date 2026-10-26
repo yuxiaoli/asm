@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "f7cbeb3aeeae72effbbc3704df8928e4664c8164",
+  "sourceCommit": "f3162c039ecd9c9d5d8bc404dd1373c7ca3152f7",
   "repoUrl": "https://github.com/google/mantis.git",
   "owner": "google",
   "repo": "mantis",
-  "updatedAt": "2026-10-19T08:23:32.640Z",
+  "updatedAt": "2026-10-26T08:23:28.865Z",
   "skillCount": 21,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.485Z",
+        "evaluatedAt": "2026-10-26T08:23:28.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.730Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.730Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.485Z",
+        "evaluatedAt": "2026-10-26T08:23:28.725Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.730Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.730Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.485Z",
+        "evaluatedAt": "2026-10-26T08:23:28.725Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.730Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.730Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.485Z",
+        "evaluatedAt": "2026-10-26T08:23:28.725Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.730Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.730Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.485Z",
+        "evaluatedAt": "2026-10-26T08:23:28.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.731Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.731Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.484Z",
+        "evaluatedAt": "2026-10-26T08:23:28.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.731Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.731Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.484Z",
+        "evaluatedAt": "2026-10-26T08:23:28.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.731Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.731Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.486Z",
+        "evaluatedAt": "2026-10-26T08:23:28.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.731Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,13 +1433,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.486Z",
+          "evaluatedAt": "2026-10-26T08:23:28.731Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "2ba207880de4f633eb7446a37ac322e32b3fec2fddc25aa3c928f63ac42ddda9",
+      "contentHash": "c1674f84ccd5dc0d1fabaa034949b180dd86446647842cc393d1ed9853bbf9ae",
       "sourcePath": "reference/skills/mantis-launch/SKILL.md",
       "name": "mantis-launch",
       "description": "Launches automated vulnerability review campaigns on target files or repositories. Use to initiate Mantis vulnerability review pipelines with automated preflight checks, environment auto-configuration, and runtime overrides (sandboxes, models, endpoints). Don't use for configuring settings without scanning or for manual single-stage reviews.",
@@ -1455,7 +1455,7 @@
       "installUrl": "github:google/mantis:reference/skills/mantis-launch",
       "relPath": "reference/skills/mantis-launch",
       "verified": true,
-      "tokenCount": 1186,
+      "tokenCount": 1267,
       "evalSummary": {
         "overallScore": 68,
         "grade": "C",
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.551Z",
+        "evaluatedAt": "2026-10-26T08:23:28.786Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.553Z",
+          "evaluatedAt": "2026-10-26T08:23:28.788Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.553Z",
+          "evaluatedAt": "2026-10-26T08:23:28.788Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.547Z",
+        "evaluatedAt": "2026-10-26T08:23:28.788Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.551Z",
+          "evaluatedAt": "2026-10-26T08:23:28.789Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.551Z",
+          "evaluatedAt": "2026-10-26T08:23:28.789Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.547Z",
+        "evaluatedAt": "2026-10-26T08:23:28.786Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.551Z",
+          "evaluatedAt": "2026-10-26T08:23:28.789Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.551Z",
+          "evaluatedAt": "2026-10-26T08:23:28.789Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.547Z",
+        "evaluatedAt": "2026-10-26T08:23:28.786Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.551Z",
+          "evaluatedAt": "2026-10-26T08:23:28.788Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.551Z",
+          "evaluatedAt": "2026-10-26T08:23:28.788Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.553Z",
+        "evaluatedAt": "2026-10-26T08:23:28.786Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.555Z",
+          "evaluatedAt": "2026-10-26T08:23:28.788Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.555Z",
+          "evaluatedAt": "2026-10-26T08:23:28.788Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.551Z",
+        "evaluatedAt": "2026-10-26T08:23:28.789Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.554Z",
+          "evaluatedAt": "2026-10-26T08:23:28.789Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,7 +2507,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.554Z",
+          "evaluatedAt": "2026-10-26T08:23:28.789Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.555Z",
+        "evaluatedAt": "2026-10-26T08:23:28.789Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.555Z",
+          "evaluatedAt": "2026-10-26T08:23:28.789Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,13 +2686,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.555Z",
+          "evaluatedAt": "2026-10-26T08:23:28.789Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "b5b704b9cbc8131c281d7f628b37a35d956284db1d3d89a845e4154b0b57ba05",
+      "contentHash": "995383801295f71366940e8ec914a7322d819db53bfff5f8bfbbd0cb39e4ae34",
       "sourcePath": "skills/mantis-reproduce/SKILL.md",
       "name": "mantis-reproduce",
       "description": "Generates and runs crash reproducers to verify security flaws. Use when viable findings exist and you need to write and execute a script or payload to verify the crash. Don't use for code auditing or patching.",
@@ -2708,7 +2708,7 @@
       "installUrl": "github:google/mantis:skills/mantis-reproduce",
       "relPath": "skills/mantis-reproduce",
       "verified": true,
-      "tokenCount": 13892,
+      "tokenCount": 14380,
       "evalSummary": {
         "overallScore": 77,
         "grade": "C",
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.578Z",
+        "evaluatedAt": "2026-10-26T08:23:28.810Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.581Z",
+          "evaluatedAt": "2026-10-26T08:23:28.813Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.581Z",
+          "evaluatedAt": "2026-10-26T08:23:28.813Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.620Z",
+        "evaluatedAt": "2026-10-26T08:23:28.847Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.624Z",
+          "evaluatedAt": "2026-10-26T08:23:28.851Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3044,7 +3044,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.624Z",
+          "evaluatedAt": "2026-10-26T08:23:28.851Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.624Z",
+        "evaluatedAt": "2026-10-26T08:23:28.846Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.626Z",
+          "evaluatedAt": "2026-10-26T08:23:28.847Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3223,7 +3223,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.626Z",
+          "evaluatedAt": "2026-10-26T08:23:28.847Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.626Z",
+        "evaluatedAt": "2026-10-26T08:23:28.852Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.627Z",
+          "evaluatedAt": "2026-10-26T08:23:28.853Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3402,7 +3402,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.627Z",
+          "evaluatedAt": "2026-10-26T08:23:28.853Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.625Z",
+        "evaluatedAt": "2026-10-26T08:23:28.852Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.627Z",
+          "evaluatedAt": "2026-10-26T08:23:28.853Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3581,7 +3581,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.627Z",
+          "evaluatedAt": "2026-10-26T08:23:28.853Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3669,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:32.627Z",
+        "evaluatedAt": "2026-10-26T08:23:28.852Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3742,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.627Z",
+          "evaluatedAt": "2026-10-26T08:23:28.852Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3760,7 +3760,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:32.627Z",
+          "evaluatedAt": "2026-10-26T08:23:28.852Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3772,7 +3772,7 @@
       "name": "google-mantis-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-19T08:23:32.640Z",
+      "createdAt": "2026-10-26T08:23:28.865Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3832,7 +3832,7 @@
       "name": "google-mantis-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-19T08:23:32.640Z",
+      "createdAt": "2026-10-26T08:23:28.865Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3922,7 +3922,7 @@
       "name": "google-mantis-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-19T08:23:32.640Z",
+      "createdAt": "2026-10-26T08:23:28.865Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4024,7 +4024,7 @@
       "name": "google-mantis-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-19T08:23:32.640Z",
+      "createdAt": "2026-10-26T08:23:28.865Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4162,7 +4162,7 @@
       "name": "google-mantis-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-19T08:23:32.640Z",
+      "createdAt": "2026-10-26T08:23:28.865Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4216,7 +4216,7 @@
       "name": "google-mantis-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-19T08:23:32.640Z",
+      "createdAt": "2026-10-26T08:23:28.865Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4282,7 +4282,7 @@
       "name": "google-mantis-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-19T08:23:32.640Z",
+      "createdAt": "2026-10-26T08:23:28.865Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4396,7 +4396,7 @@
       "name": "google-mantis-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from google/mantis.",
       "author": "ASM (google/mantis)",
-      "createdAt": "2026-10-19T08:23:32.640Z",
+      "createdAt": "2026-10-26T08:23:28.865Z",
       "tags": [
         "repo-derived",
         "inferred",

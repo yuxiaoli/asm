@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "a92811ce75ad4041cbb34858997c94714590f183",
+  "sourceCommit": "10d9bac8ce34e4b2f4ea55c81166bb2777edb2a9",
   "repoUrl": "https://github.com/luongnv89/asm.git",
   "owner": "luongnv89",
   "repo": "asm",
-  "updatedAt": "2026-10-19T08:19:09.109Z",
+  "updatedAt": "2026-10-26T08:19:29.061Z",
   "skillCount": 10,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.329Z",
+        "evaluatedAt": "2026-10-26T08:19:28.357Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.330Z",
+          "evaluatedAt": "2026-10-26T08:19:28.360Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.331Z",
+          "evaluatedAt": "2026-10-26T08:19:28.361Z",
           "evaluatedVersion": "1.4.0"
         }
       }
@@ -271,7 +271,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.313Z",
+        "evaluatedAt": "2026-10-26T08:19:28.343Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -344,7 +344,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.315Z",
+          "evaluatedAt": "2026-10-26T08:19:28.344Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -362,7 +362,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.316Z",
+          "evaluatedAt": "2026-10-26T08:19:28.345Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -450,7 +450,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.314Z",
+        "evaluatedAt": "2026-10-26T08:19:28.344Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -523,7 +523,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.317Z",
+          "evaluatedAt": "2026-10-26T08:19:28.345Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -541,7 +541,7 @@
               "max": 1
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.317Z",
+          "evaluatedAt": "2026-10-26T08:19:28.345Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -636,7 +636,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.361Z",
+        "evaluatedAt": "2026-10-26T08:19:28.384Z",
         "evaluatedVersion": "1.3.0"
       },
       "evalSummaries": {
@@ -709,7 +709,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.361Z",
+          "evaluatedAt": "2026-10-26T08:19:28.388Z",
           "evaluatedVersion": "1.3.0"
         },
         "skill-best-practice": {
@@ -727,7 +727,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.361Z",
+          "evaluatedAt": "2026-10-26T08:19:28.388Z",
           "evaluatedVersion": "1.3.0"
         }
       }
@@ -815,7 +815,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.726Z",
+        "evaluatedAt": "2026-10-26T08:19:28.718Z",
         "evaluatedVersion": "2.1.0"
       },
       "evalSummaries": {
@@ -888,7 +888,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.726Z",
+          "evaluatedAt": "2026-10-26T08:19:28.718Z",
           "evaluatedVersion": "2.1.0"
         },
         "skill-best-practice": {
@@ -906,7 +906,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.726Z",
+          "evaluatedAt": "2026-10-26T08:19:28.718Z",
           "evaluatedVersion": "2.1.0"
         }
       }
@@ -1003,7 +1003,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.347Z",
+        "evaluatedAt": "2026-10-26T08:19:28.378Z",
         "evaluatedVersion": "2.2.0"
       },
       "evalSummaries": {
@@ -1076,7 +1076,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.349Z",
+          "evaluatedAt": "2026-10-26T08:19:28.379Z",
           "evaluatedVersion": "2.2.0"
         },
         "skill-best-practice": {
@@ -1094,7 +1094,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.349Z",
+          "evaluatedAt": "2026-10-26T08:19:28.379Z",
           "evaluatedVersion": "2.2.0"
         }
       }
@@ -1191,7 +1191,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.347Z",
+        "evaluatedAt": "2026-10-26T08:19:28.379Z",
         "evaluatedVersion": "1.3.0"
       },
       "evalSummaries": {
@@ -1264,7 +1264,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.349Z",
+          "evaluatedAt": "2026-10-26T08:19:28.379Z",
           "evaluatedVersion": "1.3.0"
         },
         "skill-best-practice": {
@@ -1282,7 +1282,7 @@
               "max": 16
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.349Z",
+          "evaluatedAt": "2026-10-26T08:19:28.379Z",
           "evaluatedVersion": "1.3.0"
         }
       }
@@ -1377,7 +1377,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.451Z",
+        "evaluatedAt": "2026-10-26T08:19:28.460Z",
         "evaluatedVersion": "1.0.1"
       },
       "evalSummaries": {
@@ -1450,7 +1450,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.451Z",
+          "evaluatedAt": "2026-10-26T08:19:28.460Z",
           "evaluatedVersion": "1.0.1"
         },
         "skill-best-practice": {
@@ -1468,7 +1468,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.451Z",
+          "evaluatedAt": "2026-10-26T08:19:28.460Z",
           "evaluatedVersion": "1.0.1"
         }
       }
@@ -1563,7 +1563,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.374Z",
+        "evaluatedAt": "2026-10-26T08:19:28.400Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -1636,7 +1636,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.374Z",
+          "evaluatedAt": "2026-10-26T08:19:28.401Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -1654,7 +1654,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.374Z",
+          "evaluatedAt": "2026-10-26T08:19:28.401Z",
           "evaluatedVersion": "1.1.0"
         }
       }
@@ -1745,7 +1745,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.356Z",
+        "evaluatedAt": "2026-10-26T08:19:28.380Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1818,7 +1818,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.356Z",
+          "evaluatedAt": "2026-10-26T08:19:28.382Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1836,7 +1836,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.356Z",
+          "evaluatedAt": "2026-10-26T08:19:28.382Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1848,7 +1848,7 @@
       "name": "luongnv89-asm-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-19T08:19:09.109Z",
+      "createdAt": "2026-10-26T08:19:29.061Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1884,7 +1884,7 @@
       "name": "luongnv89-asm-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-19T08:19:09.109Z",
+      "createdAt": "2026-10-26T08:19:29.061Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1920,7 +1920,7 @@
       "name": "luongnv89-asm-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-19T08:19:09.109Z",
+      "createdAt": "2026-10-26T08:19:29.061Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1979,7 +1979,7 @@
       "name": "luongnv89-asm-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-19T08:19:09.109Z",
+      "createdAt": "2026-10-26T08:19:29.061Z",
       "tags": [
         "repo-derived",
         "inferred",
