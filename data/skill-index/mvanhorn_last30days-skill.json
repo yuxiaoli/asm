@@ -1,17 +1,17 @@
 {
-  "sourceCommit": "13a6cc5fd1f2d8a9b8420bbba6742599b2f4a077",
+  "sourceCommit": "6f9052cca8fcafad9055c438b7b3f9112f2ee20f",
   "repoUrl": "https://github.com/mvanhorn/last30days-skill.git",
   "owner": "mvanhorn",
   "repo": "last30days-skill",
-  "updatedAt": "2026-10-19T08:20:50.564Z",
+  "updatedAt": "2026-10-26T08:21:03.341Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "b0f888994616b81376163d0d9eb802516c4b280877d5750d5326c8ebc636ac0b",
+      "contentHash": "cbec73c5be9219eb32aea6dbbaa9c92fd39ea1588fb1856a94af0d6b3d5e45ae",
       "sourcePath": "skills/last30days/SKILL.md",
       "name": "last30days",
       "description": "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web. Includes a doctor health check to diagnose broken or missing sources.",
-      "version": "3.28.0",
+      "version": "3.30.0",
       "license": "MIT",
       "creator": "",
       "compatibility": "",
@@ -95,8 +95,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:45.810Z",
-        "evaluatedVersion": "3.28.0"
+        "evaluatedAt": "2026-10-26T08:20:59.240Z",
+        "evaluatedVersion": "3.30.0"
       },
       "evalSummaries": {
         "quality": {
@@ -168,8 +168,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:45.811Z",
-          "evaluatedVersion": "3.28.0"
+          "evaluatedAt": "2026-10-26T08:20:59.240Z",
+          "evaluatedVersion": "3.30.0"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -186,8 +186,8 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:45.811Z",
-          "evaluatedVersion": "3.28.0"
+          "evaluatedAt": "2026-10-26T08:20:59.240Z",
+          "evaluatedVersion": "3.30.0"
         }
       }
     }

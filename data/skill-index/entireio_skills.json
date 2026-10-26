@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/entireio/skills.git",
   "owner": "entireio",
   "repo": "skills",
-  "updatedAt": "2026-10-19T08:22:41.013Z",
+  "updatedAt": "2026-10-26T08:22:38.774Z",
   "skillCount": 12,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:40.977Z",
+        "evaluatedAt": "2026-10-26T08:22:38.742Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:40.975Z",
+        "evaluatedAt": "2026-10-26T08:22:38.740Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.742Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.742Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:40.975Z",
+        "evaluatedAt": "2026-10-26T08:22:38.740Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.742Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.742Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:40.975Z",
+        "evaluatedAt": "2026-10-26T08:22:38.743Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:40.975Z",
+        "evaluatedAt": "2026-10-26T08:22:38.743Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:40.975Z",
+        "evaluatedAt": "2026-10-26T08:22:38.742Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 2
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:40.977Z",
+        "evaluatedAt": "2026-10-26T08:22:38.742Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.743Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:40.977Z",
+        "evaluatedAt": "2026-10-26T08:22:38.743Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.744Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:40.977Z",
+          "evaluatedAt": "2026-10-26T08:22:38.744Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.005Z",
+        "evaluatedAt": "2026-10-26T08:22:38.769Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.006Z",
+          "evaluatedAt": "2026-10-26T08:22:38.769Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.006Z",
+          "evaluatedAt": "2026-10-26T08:22:38.769Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.005Z",
+        "evaluatedAt": "2026-10-26T08:22:38.769Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.005Z",
+          "evaluatedAt": "2026-10-26T08:22:38.770Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.005Z",
+          "evaluatedAt": "2026-10-26T08:22:38.770Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.005Z",
+        "evaluatedAt": "2026-10-26T08:22:38.769Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.005Z",
+          "evaluatedAt": "2026-10-26T08:22:38.769Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.005Z",
+          "evaluatedAt": "2026-10-26T08:22:38.769Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:41.007Z",
+        "evaluatedAt": "2026-10-26T08:22:38.770Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.007Z",
+          "evaluatedAt": "2026-10-26T08:22:38.770Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:41.007Z",
+          "evaluatedAt": "2026-10-26T08:22:38.770Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2161,7 +2161,7 @@
       "name": "entireio-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-19T08:22:41.013Z",
+      "createdAt": "2026-10-26T08:22:38.774Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2203,7 +2203,7 @@
       "name": "entireio-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-19T08:22:41.013Z",
+      "createdAt": "2026-10-26T08:22:38.774Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2239,7 +2239,7 @@
       "name": "entireio-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-19T08:22:41.013Z",
+      "createdAt": "2026-10-26T08:22:38.774Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2293,7 +2293,7 @@
       "name": "entireio-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-19T08:22:41.013Z",
+      "createdAt": "2026-10-26T08:22:38.774Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2353,7 +2353,7 @@
       "name": "entireio-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-19T08:22:41.013Z",
+      "createdAt": "2026-10-26T08:22:38.774Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2389,7 +2389,7 @@
       "name": "entireio-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-19T08:22:41.013Z",
+      "createdAt": "2026-10-26T08:22:38.774Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2431,7 +2431,7 @@
       "name": "entireio-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from entireio/skills.",
       "author": "ASM (entireio/skills)",
-      "createdAt": "2026-10-19T08:22:41.013Z",
+      "createdAt": "2026-10-26T08:22:38.774Z",
       "tags": [
         "repo-derived",
         "inferred",

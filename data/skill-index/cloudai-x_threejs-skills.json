@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/cloudai-x/threejs-skills.git",
   "owner": "cloudai-x",
   "repo": "threejs-skills",
-  "updatedAt": "2026-10-19T08:22:48.508Z",
+  "updatedAt": "2026-10-26T08:22:45.755Z",
   "skillCount": 13,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.433Z",
+        "evaluatedAt": "2026-10-26T08:22:45.693Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.433Z",
+        "evaluatedAt": "2026-10-26T08:22:45.690Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.432Z",
+        "evaluatedAt": "2026-10-26T08:22:45.690Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.432Z",
+        "evaluatedAt": "2026-10-26T08:22:45.690Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.432Z",
+        "evaluatedAt": "2026-10-26T08:22:45.689Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.432Z",
+        "evaluatedAt": "2026-10-26T08:22:45.689Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.436Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.437Z",
+        "evaluatedAt": "2026-10-26T08:22:45.693Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.694Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.694Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.437Z",
+        "evaluatedAt": "2026-10-26T08:22:45.693Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.693Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.437Z",
+          "evaluatedAt": "2026-10-26T08:22:45.694Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.490Z",
+        "evaluatedAt": "2026-10-26T08:22:45.742Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.492Z",
+          "evaluatedAt": "2026-10-26T08:22:45.742Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.493Z",
+          "evaluatedAt": "2026-10-26T08:22:45.742Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.492Z",
+        "evaluatedAt": "2026-10-26T08:22:45.739Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.493Z",
+          "evaluatedAt": "2026-10-26T08:22:45.742Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.493Z",
+          "evaluatedAt": "2026-10-26T08:22:45.742Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.490Z",
+        "evaluatedAt": "2026-10-26T08:22:45.739Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.492Z",
+          "evaluatedAt": "2026-10-26T08:22:45.742Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.492Z",
+          "evaluatedAt": "2026-10-26T08:22:45.742Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.493Z",
+        "evaluatedAt": "2026-10-26T08:22:45.742Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.493Z",
+          "evaluatedAt": "2026-10-26T08:22:45.743Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.493Z",
+          "evaluatedAt": "2026-10-26T08:22:45.743Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:48.490Z",
+        "evaluatedAt": "2026-10-26T08:22:45.742Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.492Z",
+          "evaluatedAt": "2026-10-26T08:22:45.742Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:48.492Z",
+          "evaluatedAt": "2026-10-26T08:22:45.742Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2340,7 +2340,7 @@
       "name": "cloudai-x-threejs-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from cloudai-x/threejs-skills.",
       "author": "ASM (cloudai-x/threejs-skills)",
-      "createdAt": "2026-10-19T08:22:48.508Z",
+      "createdAt": "2026-10-26T08:22:45.755Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2382,7 +2382,7 @@
       "name": "cloudai-x-threejs-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from cloudai-x/threejs-skills.",
       "author": "ASM (cloudai-x/threejs-skills)",
-      "createdAt": "2026-10-19T08:22:48.508Z",
+      "createdAt": "2026-10-26T08:22:45.755Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2430,7 +2430,7 @@
       "name": "cloudai-x-threejs-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from cloudai-x/threejs-skills.",
       "author": "ASM (cloudai-x/threejs-skills)",
-      "createdAt": "2026-10-19T08:22:48.508Z",
+      "createdAt": "2026-10-26T08:22:45.755Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2490,7 +2490,7 @@
       "name": "cloudai-x-threejs-skills-game",
       "description": "Game development, gameplay systems, game UI, 3D assets, and Three.js skills. Derived from cloudai-x/threejs-skills.",
       "author": "ASM (cloudai-x/threejs-skills)",
-      "createdAt": "2026-10-19T08:22:48.508Z",
+      "createdAt": "2026-10-26T08:22:45.755Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2592,7 +2592,7 @@
       "name": "cloudai-x-threejs-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from cloudai-x/threejs-skills.",
       "author": "ASM (cloudai-x/threejs-skills)",
-      "createdAt": "2026-10-19T08:22:48.508Z",
+      "createdAt": "2026-10-26T08:22:45.755Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2694,7 +2694,7 @@
       "name": "cloudai-x-threejs-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from cloudai-x/threejs-skills.",
       "author": "ASM (cloudai-x/threejs-skills)",
-      "createdAt": "2026-10-19T08:22:48.508Z",
+      "createdAt": "2026-10-26T08:22:45.755Z",
       "tags": [
         "repo-derived",
         "inferred",

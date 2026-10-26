@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "550fd66edff058bc73056c3416b76d69cfe865ba",
+  "sourceCommit": "10cfad6a7be7f734a92d3d628e5fa344685d4f01",
   "repoUrl": "https://github.com/cathrynlavery/diagram-design.git",
   "owner": "cathrynlavery",
   "repo": "diagram-design",
-  "updatedAt": "2026-10-19T08:23:10.243Z",
+  "updatedAt": "2026-10-26T08:23:08.056Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "b5155b43191ab360c5d1183e86bb9c10878bb11f9b0e097126c5a9be7a322b89",
+      "contentHash": "f11aeec988fc5c690f6cdd279ec1f790279622dc1e07356c467af2311542cb7e",
       "sourcePath": "skills/diagram-design/SKILL.md",
       "name": "diagram-design",
       "description": "Create branded architecture, architecture delta, IT current-state, flowchart, sequence, state machine, ER/data model, timeline, swimlane, quadrant, radar/spider, polar chart (polar/radial lollipop), loop/flywheel, nested, tree, org chart, layer stack, exploded axonometric, axonometric plan, Venn, pyramid/funnel, treemap and marimekko, heatmap, bar and dumbbell, waterfall, line (slopegraph, ridgeline, streamgraph, bump), Gantt and scatter charts (bubble, beeswarm), high-level, process, medallion, data flow, DP integration, DP security matrix, Sankey, fishbone, Wardley map, kanban, user journey, service blueprint, deployment, dependency graph, UML class, story map, or database schema diagrams as HTML/SVG/PNG, with .drawio, Mermaid, and .excalidraw import, plus lifecycle phase maps, block decomposition trees, and onboarding guidance.",
@@ -23,7 +23,7 @@
       "installUrl": "github:cathrynlavery/diagram-design:skills/diagram-design",
       "relPath": "skills/diagram-design",
       "verified": true,
-      "tokenCount": 8165,
+      "tokenCount": 8169,
       "evalSummary": {
         "overallScore": 76,
         "grade": "C",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:09.930Z",
+        "evaluatedAt": "2026-10-26T08:23:07.782Z",
         "evaluatedVersion": "2.6"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:09.930Z",
+          "evaluatedAt": "2026-10-26T08:23:07.782Z",
           "evaluatedVersion": "2.6"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:09.930Z",
+          "evaluatedAt": "2026-10-26T08:23:07.782Z",
           "evaluatedVersion": "2.6"
         }
       }

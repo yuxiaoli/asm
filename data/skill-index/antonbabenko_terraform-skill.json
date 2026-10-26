@@ -1,17 +1,17 @@
 {
-  "sourceCommit": "0a3a4a66e99001347d36a41e10260a825be3ab62",
+  "sourceCommit": "9c1e92d962a5407c227e5566416e962a2f057240",
   "repoUrl": "https://github.com/antonbabenko/terraform-skill.git",
   "owner": "antonbabenko",
   "repo": "terraform-skill",
-  "updatedAt": "2026-10-19T08:22:38.228Z",
+  "updatedAt": "2026-10-26T08:22:36.097Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "70c0038375d3738b4ecfca1016add39ef48a206cbed653c9a1cb336026a5e384",
+      "contentHash": "954a7999a4b756de3684eb3bca7985c1ada59a64b01d9381a9f7d484dfc371db",
       "sourcePath": "skills/terraform-skill/SKILL.md",
       "name": "terraform-skill",
       "description": "Use when writing, reviewing, or debugging Terraform/OpenTofu modules, tests, CI, scans, or state ops - diagnoses failure mode (identity churn, secrets, blast radius, CI drift, state corruption) with version-aware guards.",
-      "version": "1.17.1",
+      "version": "1.17.2",
       "license": "Apache-2.0",
       "creator": "",
       "compatibility": "",
@@ -89,8 +89,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:38.221Z",
-        "evaluatedVersion": "1.17.1"
+        "evaluatedAt": "2026-10-26T08:22:36.091Z",
+        "evaluatedVersion": "1.17.2"
       },
       "evalSummaries": {
         "quality": {
@@ -162,8 +162,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:38.221Z",
-          "evaluatedVersion": "1.17.1"
+          "evaluatedAt": "2026-10-26T08:22:36.091Z",
+          "evaluatedVersion": "1.17.2"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -180,8 +180,8 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:38.221Z",
-          "evaluatedVersion": "1.17.1"
+          "evaluatedAt": "2026-10-26T08:22:36.091Z",
+          "evaluatedVersion": "1.17.2"
         }
       }
     }

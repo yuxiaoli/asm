@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "56ea9cf174ed86786187daa9de0e6247cb0747e4",
+  "sourceCommit": "1f8857914da3c723d58dab1d609dd0d55a86bf51",
   "repoUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
   "owner": "nextlevelbuilder",
   "repo": "ui-ux-pro-max-skill",
-  "updatedAt": "2026-10-19T08:19:22.437Z",
+  "updatedAt": "2026-10-26T08:19:40.898Z",
   "skillCount": 7,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.536Z",
+        "evaluatedAt": "2026-10-26T08:19:40.180Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.533Z",
+        "evaluatedAt": "2026-10-26T08:19:40.177Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.533Z",
+        "evaluatedAt": "2026-10-26T08:19:40.177Z",
         "evaluatedVersion": "2.1.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "2.1.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "2.1.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.532Z",
+        "evaluatedAt": "2026-10-26T08:19:40.180Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-10-26T08:19:40.181Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-10-26T08:19:40.181Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.532Z",
+        "evaluatedAt": "2026-10-26T08:19:40.181Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-10-26T08:19:40.181Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-10-26T08:19:40.181Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.537Z",
+        "evaluatedAt": "2026-10-26T08:19:40.180Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.537Z",
+        "evaluatedAt": "2026-10-26T08:19:40.180Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-10-26T08:19:40.180Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1266,7 +1266,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-10-26T08:19:40.898Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1332,7 +1332,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-10-26T08:19:40.898Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1368,7 +1368,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-10-26T08:19:40.898Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1434,7 +1434,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-10-26T08:19:40.898Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1500,7 +1500,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-10-26T08:19:40.898Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1548,7 +1548,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-10-26T08:19:40.898Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1614,7 +1614,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-10-26T08:19:40.898Z",
       "tags": [
         "repo-derived",
         "inferred",

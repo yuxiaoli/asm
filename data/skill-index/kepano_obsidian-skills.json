@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/kepano/obsidian-skills.git",
   "owner": "kepano",
   "repo": "obsidian-skills",
-  "updatedAt": "2026-10-19T08:20:51.099Z",
+  "updatedAt": "2026-10-26T08:21:03.854Z",
   "skillCount": 6,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:51.091Z",
+        "evaluatedAt": "2026-10-26T08:21:03.847Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.092Z",
+          "evaluatedAt": "2026-10-26T08:21:03.848Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.092Z",
+          "evaluatedAt": "2026-10-26T08:21:03.848Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:51.088Z",
+        "evaluatedAt": "2026-10-26T08:21:03.847Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.092Z",
+          "evaluatedAt": "2026-10-26T08:21:03.847Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.092Z",
+          "evaluatedAt": "2026-10-26T08:21:03.847Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:51.088Z",
+        "evaluatedAt": "2026-10-26T08:21:03.847Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.091Z",
+          "evaluatedAt": "2026-10-26T08:21:03.847Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.091Z",
+          "evaluatedAt": "2026-10-26T08:21:03.847Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:51.092Z",
+        "evaluatedAt": "2026-10-26T08:21:03.847Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.093Z",
+          "evaluatedAt": "2026-10-26T08:21:03.847Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.093Z",
+          "evaluatedAt": "2026-10-26T08:21:03.847Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:51.092Z",
+        "evaluatedAt": "2026-10-26T08:21:03.848Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.092Z",
+          "evaluatedAt": "2026-10-26T08:21:03.848Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.092Z",
+          "evaluatedAt": "2026-10-26T08:21:03.848Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:51.093Z",
+        "evaluatedAt": "2026-10-26T08:21:03.848Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.093Z",
+          "evaluatedAt": "2026-10-26T08:21:03.848Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:51.093Z",
+          "evaluatedAt": "2026-10-26T08:21:03.848Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1087,7 +1087,7 @@
       "name": "kepano-obsidian-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from kepano/obsidian-skills.",
       "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-10-19T08:20:51.099Z",
+      "createdAt": "2026-10-26T08:21:03.854Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1129,7 +1129,7 @@
       "name": "kepano-obsidian-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from kepano/obsidian-skills.",
       "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-10-19T08:20:51.099Z",
+      "createdAt": "2026-10-26T08:21:03.854Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1171,7 +1171,7 @@
       "name": "kepano-obsidian-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from kepano/obsidian-skills.",
       "author": "ASM (kepano/obsidian-skills)",
-      "createdAt": "2026-10-19T08:20:51.099Z",
+      "createdAt": "2026-10-26T08:21:03.854Z",
       "tags": [
         "repo-derived",
         "inferred",

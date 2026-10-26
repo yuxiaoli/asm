@@ -1,18 +1,18 @@
 {
-  "sourceCommit": "654da74e084e5a1faf708779c23d6172766be9c1",
+  "sourceCommit": "81c6be8d87090670c45d08a8f97f9d29c5af0bec",
   "repoUrl": "https://github.com/tt-a1i/archify.git",
   "owner": "tt-a1i",
   "repo": "archify",
-  "updatedAt": "2026-10-19T08:23:14.196Z",
+  "updatedAt": "2026-10-26T08:23:11.845Z",
   "skillCount": 5,
   "skills": [
     {
-      "contentHash": "93434ad579983f4cff639c2b7230c311e0785cc48a25b66b1498e1802be7de91",
+      "contentHash": "1382cfb7108b05e500b82af93c04fd7b694430d3908039bd92d634f01c1e7181",
       "sourcePath": "archify/SKILL.md",
       "name": "archify",
       "description": "Create validated architecture, workflow, sequence, data-flow, lifecycle/state, ERD, class, tree, timeline, and waterfall diagrams as explorable standalone HTML with dark/light themes, motion and image/SVG/WebM export. Accept requirements or Mermaid; inspect repository evidence for code-backed diagrams. Use when visualizing systems, API calls, pipelines, schemas, histories, timings, or everyday steps, parts, relationships and states. Also turn an answer into a one-page explainer, with the conclusion first, structured panels, native diagrams and charts, when the user asks for a page, an explainer or an answer to share (做成一页, 用页面讲), or proactively when the user's rules opt in with an [archify explainer: ...] line. Not for dashboards.",
       "version": "3.2",
-      "license": "MIT",
+      "license": "Apache-2.0",
       "creator": "",
       "compatibility": "",
       "allowedTools": [],
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:13.811Z",
+        "evaluatedAt": "2026-10-26T08:23:11.518Z",
         "evaluatedVersion": "3.2"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.813Z",
+          "evaluatedAt": "2026-10-26T08:23:11.518Z",
           "evaluatedVersion": "3.2"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.813Z",
+          "evaluatedAt": "2026-10-26T08:23:11.518Z",
           "evaluatedVersion": "3.2"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:13.809Z",
+        "evaluatedAt": "2026-10-26T08:23:11.518Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.811Z",
+          "evaluatedAt": "2026-10-26T08:23:11.519Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.811Z",
+          "evaluatedAt": "2026-10-26T08:23:11.519Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:13.812Z",
+        "evaluatedAt": "2026-10-26T08:23:11.519Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.813Z",
+          "evaluatedAt": "2026-10-26T08:23:11.519Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.813Z",
+          "evaluatedAt": "2026-10-26T08:23:11.519Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:13.811Z",
+        "evaluatedAt": "2026-10-26T08:23:11.518Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.813Z",
+          "evaluatedAt": "2026-10-26T08:23:11.518Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.813Z",
+          "evaluatedAt": "2026-10-26T08:23:11.518Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:13.813Z",
+        "evaluatedAt": "2026-10-26T08:23:11.518Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.813Z",
+          "evaluatedAt": "2026-10-26T08:23:11.518Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:13.813Z",
+          "evaluatedAt": "2026-10-26T08:23:11.518Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -908,7 +908,7 @@
       "name": "tt-a1i-archify-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from tt-a1i/archify.",
       "author": "ASM (tt-a1i/archify)",
-      "createdAt": "2026-10-19T08:23:14.196Z",
+      "createdAt": "2026-10-26T08:23:11.845Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -950,7 +950,7 @@
       "name": "tt-a1i-archify-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from tt-a1i/archify.",
       "author": "ASM (tt-a1i/archify)",
-      "createdAt": "2026-10-19T08:23:14.196Z",
+      "createdAt": "2026-10-26T08:23:11.845Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -998,7 +998,7 @@
       "name": "tt-a1i-archify-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from tt-a1i/archify.",
       "author": "ASM (tt-a1i/archify)",
-      "createdAt": "2026-10-19T08:23:14.196Z",
+      "createdAt": "2026-10-26T08:23:11.845Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1040,7 +1040,7 @@
       "name": "tt-a1i-archify-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from tt-a1i/archify.",
       "author": "ASM (tt-a1i/archify)",
-      "createdAt": "2026-10-19T08:23:14.196Z",
+      "createdAt": "2026-10-26T08:23:11.845Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1082,7 +1082,7 @@
       "name": "tt-a1i-archify-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from tt-a1i/archify.",
       "author": "ASM (tt-a1i/archify)",
-      "createdAt": "2026-10-19T08:23:14.196Z",
+      "createdAt": "2026-10-26T08:23:11.845Z",
       "tags": [
         "repo-derived",
         "inferred",

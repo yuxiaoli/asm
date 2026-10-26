@@ -3,7 +3,7 @@
   "repoUrl": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill.git",
   "owner": "AvdLee",
   "repo": "Xcode-Build-Optimization-Agent-Skill",
-  "updatedAt": "2026-10-19T08:20:23.532Z",
+  "updatedAt": "2026-10-26T08:20:39.773Z",
   "skillCount": 6,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:23.373Z",
+        "evaluatedAt": "2026-10-26T08:20:39.626Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:23.373Z",
+        "evaluatedAt": "2026-10-26T08:20:39.624Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:23.373Z",
+        "evaluatedAt": "2026-10-26T08:20:39.626Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:23.373Z",
+        "evaluatedAt": "2026-10-26T08:20:39.626Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:23.374Z",
+        "evaluatedAt": "2026-10-26T08:20:39.626Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.626Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:23.374Z",
+        "evaluatedAt": "2026-10-26T08:20:39.626Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.627Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:23.374Z",
+          "evaluatedAt": "2026-10-26T08:20:39.627Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1087,7 +1087,7 @@
       "name": "avdlee-xcode-build-optimization-agent-skill-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from AvdLee/Xcode-Build-Optimization-Agent-Skill.",
       "author": "ASM (AvdLee/Xcode-Build-Optimization-Agent-Skill)",
-      "createdAt": "2026-10-19T08:20:23.532Z",
+      "createdAt": "2026-10-26T08:20:39.773Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1147,7 +1147,7 @@
       "name": "avdlee-xcode-build-optimization-agent-skill-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from AvdLee/Xcode-Build-Optimization-Agent-Skill.",
       "author": "ASM (AvdLee/Xcode-Build-Optimization-Agent-Skill)",
-      "createdAt": "2026-10-19T08:20:23.532Z",
+      "createdAt": "2026-10-26T08:20:39.773Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1207,7 +1207,7 @@
       "name": "avdlee-xcode-build-optimization-agent-skill-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from AvdLee/Xcode-Build-Optimization-Agent-Skill.",
       "author": "ASM (AvdLee/Xcode-Build-Optimization-Agent-Skill)",
-      "createdAt": "2026-10-19T08:20:23.532Z",
+      "createdAt": "2026-10-26T08:20:39.773Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1267,7 +1267,7 @@
       "name": "avdlee-xcode-build-optimization-agent-skill-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from AvdLee/Xcode-Build-Optimization-Agent-Skill.",
       "author": "ASM (AvdLee/Xcode-Build-Optimization-Agent-Skill)",
-      "createdAt": "2026-10-19T08:20:23.532Z",
+      "createdAt": "2026-10-26T08:20:39.773Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1327,7 +1327,7 @@
       "name": "avdlee-xcode-build-optimization-agent-skill-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from AvdLee/Xcode-Build-Optimization-Agent-Skill.",
       "author": "ASM (AvdLee/Xcode-Build-Optimization-Agent-Skill)",
-      "createdAt": "2026-10-19T08:20:23.532Z",
+      "createdAt": "2026-10-26T08:20:39.773Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1375,7 +1375,7 @@
       "name": "avdlee-xcode-build-optimization-agent-skill-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from AvdLee/Xcode-Build-Optimization-Agent-Skill.",
       "author": "ASM (AvdLee/Xcode-Build-Optimization-Agent-Skill)",
-      "createdAt": "2026-10-19T08:20:23.532Z",
+      "createdAt": "2026-10-26T08:20:39.773Z",
       "tags": [
         "repo-derived",
         "inferred",

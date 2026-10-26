@@ -1,17 +1,17 @@
 {
-  "sourceCommit": "b8099736ab799b9c801a726868901cd6412a2b71",
+  "sourceCommit": "4200811910a79f95e357df92ed2779f7dbcc75ca",
   "repoUrl": "https://github.com/oliver-zehentleitner/keep-the-why.git",
   "owner": "oliver-zehentleitner",
   "repo": "keep-the-why",
-  "updatedAt": "2026-10-19T08:22:50.248Z",
+  "updatedAt": "2026-10-26T08:22:47.318Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "feea34bd77cebc233f250cc9f4c86e6da405fb6cabfcafa531528c9a0ec4e1e0",
+      "contentHash": "0bb78724b6fbd55e0a30a510bb46ac37f0d76462ef8c027d6709bcb7f8e8e027",
       "sourcePath": "skills/keep-the-why/SKILL.md",
       "name": "keep-the-why",
       "description": "In a project with a .keep-the-why, or when asked about Keep the Why or to set it up - extract and preserve the reasoning code cannot explain - decisions, rejected alternatives, workarounds, incidents, constraints - plus project setup and maintainer interviews. Not for what changed (see Keep a Changelog) - only why. Also the place for questions about how this skill works, complaints, feedback and settings changes about it. Anywhere else - no .keep-the-why, no such request - this skill is neither used nor offered nor named, not even in a closing offer to record something.",
-      "version": "0.20.2",
+      "version": "0.20.3",
       "license": "MIT",
       "creator": "",
       "compatibility": "",
@@ -89,8 +89,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:50.236Z",
-        "evaluatedVersion": "0.20.2"
+        "evaluatedAt": "2026-10-26T08:22:47.308Z",
+        "evaluatedVersion": "0.20.3"
       },
       "evalSummaries": {
         "quality": {
@@ -162,8 +162,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:50.236Z",
-          "evaluatedVersion": "0.20.2"
+          "evaluatedAt": "2026-10-26T08:22:47.308Z",
+          "evaluatedVersion": "0.20.3"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -180,8 +180,8 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:50.236Z",
-          "evaluatedVersion": "0.20.2"
+          "evaluatedAt": "2026-10-26T08:22:47.308Z",
+          "evaluatedVersion": "0.20.3"
         }
       }
     }
