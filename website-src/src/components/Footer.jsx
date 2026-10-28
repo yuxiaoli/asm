@@ -29,6 +29,7 @@ export default function Footer() {
         <a className="text-[var(--brand)] hover:underline" href="rss.xml">
           RSS
         </a>
+        <span>Adapted by <a className="text-[var(--fg)] underline" href="https://www.linkedin.com/in/yuxiaoli/">Sean</a> with ❤️</span>
         {generatedAt && (
           <span className="ml-auto">Catalog generated {generatedAt}</span>
         )}
