@@ -15,7 +15,7 @@ export default function CopyButton({
   text,
   className = "",
   size = "default",
-  label = "copy",
+  label = "Copy",
   ariaLabel,
   variant = "outline",
 }) {
