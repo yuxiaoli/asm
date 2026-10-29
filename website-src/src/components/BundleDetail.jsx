@@ -88,7 +88,7 @@ export default function BundleDetail({ bundle }) {
                           <CopyButton
                             text={skillInstall}
                             size="sm"
-                            label="copy"
+                            label="Copy"
                             ariaLabel={`Copy install command for ${sk.name}`}
                           />
                         )}
