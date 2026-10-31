@@ -27,6 +27,7 @@ function harness(scope = "https://yuxiaoli.github.io/asm/") {
     fetch,
     self: {
       registration: { scope },
+      location: { origin: new URL(scope).origin },
       addEventListener: (name, fn) => {
         listeners[name] = fn;
       },
@@ -47,6 +48,7 @@ describe("GitHub Pages service worker", () => {
     const h = harness();
     h.caches.match.mockResolvedValue({ stale: true });
     const request = {
+      method: "GET",
       url: "https://yuxiaoli.github.io/asm/" + file,
       mode: "cors",
     };
@@ -84,6 +86,7 @@ describe("GitHub Pages service worker", () => {
       "asm-catalog:https://example.com/:v1",
       "asm-catalog:https://yuxiaoli.github.io/asm/:v1",
       "asm-catalog:https://yuxiaoli.github.io/asm/:v2",
+      "asm-catalog:https://yuxiaoli.github.io/asm/:v3",
     ]);
     let work;
     h.listeners.activate({
@@ -94,12 +97,14 @@ describe("GitHub Pages service worker", () => {
     await work;
     expect(h.caches.delete.mock.calls).toEqual([
       ["asm-catalog:https://yuxiaoli.github.io/asm/:v1"],
+      ["asm-catalog:https://yuxiaoli.github.io/asm/:v2"],
     ]);
   });
   it("fetches fresh HTML rather than pinning an old deployment", async () => {
     const h = harness();
     h.caches.match.mockResolvedValue({ stale: true });
     const request = {
+      method: "GET",
       url: "https://yuxiaoli.github.io/asm/",
       mode: "navigate",
     };
@@ -120,7 +125,11 @@ describe("GitHub Pages service worker", () => {
     h.caches.match.mockResolvedValue(cached);
     let result;
     h.listeners.fetch({
-      request: { url: "https://yuxiaoli.github.io/asm/", mode: "navigate" },
+      request: {
+        method: "GET",
+        url: "https://yuxiaoli.github.io/asm/",
+        mode: "navigate",
+      },
       respondWith: (p) => {
         result = p;
       },
@@ -133,8 +142,9 @@ describe("GitHub Pages service worker", () => {
       "utf8",
     );
     const block = source
-      .slice(source.indexOf("// Register service worker"))
-      .replaceAll("import.meta.env.BASE_URL", JSON.stringify("./"));
+      .slice(source.indexOf('if ("serviceWorker" in navigator)'))
+      .replaceAll("import.meta.env.BASE_URL", JSON.stringify("./"))
+      .replaceAll("import.meta.env.PROD", "true");
     let load;
     const register = vi
       .fn()
