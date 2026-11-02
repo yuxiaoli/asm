@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "49dd158d1076134a641b33efb035946536778336",
+  "sourceCommit": "4ae2317ddb22b046e26455e4f9c9b3aaaf62212d",
   "repoUrl": "https://github.com/mattpocock/skills.git",
   "owner": "mattpocock",
   "repo": "skills",
-  "updatedAt": "2026-10-19T08:20:27.122Z",
-  "skillCount": 38,
+  "updatedAt": "2026-11-02T10:23:19.921Z",
+  "skillCount": 39,
   "skills": [
     {
       "contentHash": "1371f5ce005de0992a44b137748bfb960a56948aa9871b405fe9d90b24332e3c",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.757Z",
+        "evaluatedAt": "2026-11-02T10:23:19.448Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,13 +180,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "6cc6e47ab5022f3e45e5be0fedbb0f6e645f4f0190d6b0c51c7cd60c2d7c1d98",
+      "contentHash": "f4c1d6533edece6b275155911cb627154a6b13e2bc19934f77330f3afdd07987",
       "sourcePath": "skills/in-progress/chief-of-staff/SKILL.md",
       "name": "chief-of-staff",
       "description": "Pursue a long-running goal in a single session by co-ordinating subagents.",
@@ -202,9 +202,9 @@
       "installUrl": "github:mattpocock/skills:skills/in-progress/chief-of-staff",
       "relPath": "skills/in-progress/chief-of-staff",
       "verified": true,
-      "tokenCount": 606,
+      "tokenCount": 1447,
       "evalSummary": {
-        "overallScore": 53,
+        "overallScore": 58,
         "grade": "D",
         "categories": [
           {
@@ -228,7 +228,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 7,
+            "score": 10,
             "max": 10
           },
           {
@@ -240,7 +240,7 @@
           {
             "id": "testability",
             "name": "Testability",
-            "score": 1,
+            "score": 3,
             "max": 10
           },
           {
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.757Z",
+        "evaluatedAt": "2026-11-02T10:23:19.447Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -277,7 +277,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 53,
+          "overallScore": 58,
           "grade": "D",
           "categories": [
             {
@@ -301,7 +301,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 7,
+              "score": 10,
               "max": 10
             },
             {
@@ -313,7 +313,7 @@
             {
               "id": "testability",
               "name": "Testability",
-              "score": 1,
+              "score": 3,
               "max": 10
             },
             {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.757Z",
+        "evaluatedAt": "2026-11-02T10:23:19.447Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,13 +538,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "09eb147f793e4647949edd32dbad278f0554dfb56e0d46b699cd4c2c55bf0357",
+      "contentHash": "9c921a8d88138a41401d8897ca1bb852088ab1b7b605cdd04edc13e3e8aab6dd",
       "sourcePath": "skills/engineering/code-review/SKILL.md",
       "name": "code-review",
       "description": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes: Standards (does the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/spec asked for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to \\\"review since X\\\".",
@@ -560,9 +560,9 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/code-review",
       "relPath": "skills/engineering/code-review",
       "verified": true,
-      "tokenCount": 2115,
+      "tokenCount": 2131,
       "evalSummary": {
-        "overallScore": 63,
+        "overallScore": 64,
         "grade": "D",
         "categories": [
           {
@@ -586,7 +586,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 9,
+            "score": 10,
             "max": 10
           },
           {
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.757Z",
+        "evaluatedAt": "2026-11-02T10:23:19.447Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -635,7 +635,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 63,
+          "overallScore": 64,
           "grade": "D",
           "categories": [
             {
@@ -659,7 +659,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 9,
+              "score": 10,
               "max": 10
             },
             {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.757Z",
+        "evaluatedAt": "2026-11-02T10:23:19.447Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.757Z",
+        "evaluatedAt": "2026-11-02T10:23:19.447Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.758Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.758Z",
+        "evaluatedAt": "2026-11-02T10:23:19.448Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.759Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.759Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.758Z",
+        "evaluatedAt": "2026-11-02T10:23:19.448Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.759Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.759Z",
+          "evaluatedAt": "2026-11-02T10:23:19.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.801Z",
+        "evaluatedAt": "2026-11-02T10:23:19.508Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.801Z",
+          "evaluatedAt": "2026-11-02T10:23:19.509Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.801Z",
+          "evaluatedAt": "2026-11-02T10:23:19.509Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.808Z",
+        "evaluatedAt": "2026-11-02T10:23:19.508Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.808Z",
+          "evaluatedAt": "2026-11-02T10:23:19.509Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,13 +1791,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.808Z",
+          "evaluatedAt": "2026-11-02T10:23:19.509Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "befdff1e27a1dfe2a294d5871169ac1afe16d983911daa4f32627514a48c1e15",
+      "contentHash": "a146842ed93ca43d833550fa9adf02e58cb63c83fea9d4b4522995b82242d4e2",
       "sourcePath": "skills/productivity/grilling/SKILL.md",
       "name": "grilling",
       "description": "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases.",
@@ -1813,9 +1813,9 @@
       "installUrl": "github:mattpocock/skills:skills/productivity/grilling",
       "relPath": "skills/productivity/grilling",
       "verified": true,
-      "tokenCount": 638,
+      "tokenCount": 648,
       "evalSummary": {
-        "overallScore": 56,
+        "overallScore": 57,
         "grade": "D",
         "categories": [
           {
@@ -1839,7 +1839,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 6,
+            "score": 7,
             "max": 10
           },
           {
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.801Z",
+        "evaluatedAt": "2026-11-02T10:23:19.516Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1888,7 +1888,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 56,
+          "overallScore": 57,
           "grade": "D",
           "categories": [
             {
@@ -1912,7 +1912,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 6,
+              "score": 7,
               "max": 10
             },
             {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.801Z",
+          "evaluatedAt": "2026-11-02T10:23:19.522Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.801Z",
+          "evaluatedAt": "2026-11-02T10:23:19.522Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.818Z",
+        "evaluatedAt": "2026-11-02T10:23:19.536Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.819Z",
+          "evaluatedAt": "2026-11-02T10:23:19.543Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.819Z",
+          "evaluatedAt": "2026-11-02T10:23:19.543Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.827Z",
+        "evaluatedAt": "2026-11-02T10:23:19.543Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.828Z",
+          "evaluatedAt": "2026-11-02T10:23:19.544Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,13 +2328,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.828Z",
+          "evaluatedAt": "2026-11-02T10:23:19.544Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "7a22dd2e60b8fcece478ced9d2533582adf3520d695acd3ab715341535c9e56d",
+      "contentHash": "1993a473cec40ac85d081c112cdffdc63ec3267c2e412055ad09e013a2f623d1",
       "sourcePath": "skills/engineering/implement-spec/SKILL.md",
       "name": "implement-spec",
       "description": "Implement the result of /to-spec and /to-tickets in code.",
@@ -2350,9 +2350,9 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/implement-spec",
       "relPath": "skills/engineering/implement-spec",
       "verified": true,
-      "tokenCount": 855,
+      "tokenCount": 874,
       "evalSummary": {
-        "overallScore": 58,
+        "overallScore": 59,
         "grade": "D",
         "categories": [
           {
@@ -2376,7 +2376,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 6,
+            "score": 7,
             "max": 10
           },
           {
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.827Z",
+        "evaluatedAt": "2026-11-02T10:23:19.545Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2425,7 +2425,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 58,
+          "overallScore": 59,
           "grade": "D",
           "categories": [
             {
@@ -2449,7 +2449,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 6,
+              "score": 7,
               "max": 10
             },
             {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.828Z",
+          "evaluatedAt": "2026-11-02T10:23:19.546Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,13 +2507,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.828Z",
+          "evaluatedAt": "2026-11-02T10:23:19.546Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "552240a5ab5cec6b67c15dd1ad6e9f6962b1bca6ce870059a8c2713760c20392",
+      "contentHash": "35b03a3db61e0f5aa333ea59b54963e45a3d2ace6649b2ef4f9576603e2582a6",
       "sourcePath": "skills/engineering/improve-codebase-architecture/SKILL.md",
       "name": "improve-codebase-architecture",
       "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.",
@@ -2529,9 +2529,9 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/improve-codebase-architecture",
       "relPath": "skills/engineering/improve-codebase-architecture",
       "verified": true,
-      "tokenCount": 1753,
+      "tokenCount": 1763,
       "evalSummary": {
-        "overallScore": 68,
+        "overallScore": 69,
         "grade": "C",
         "categories": [
           {
@@ -2555,7 +2555,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 9,
+            "score": 10,
             "max": 10
           },
           {
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.829Z",
+        "evaluatedAt": "2026-11-02T10:23:19.546Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2604,7 +2604,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 68,
+          "overallScore": 69,
           "grade": "C",
           "categories": [
             {
@@ -2628,7 +2628,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 9,
+              "score": 10,
               "max": 10
             },
             {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.830Z",
+          "evaluatedAt": "2026-11-02T10:23:19.546Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,7 +2686,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.830Z",
+          "evaluatedAt": "2026-11-02T10:23:19.546Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.830Z",
+        "evaluatedAt": "2026-11-02T10:23:19.547Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.831Z",
+          "evaluatedAt": "2026-11-02T10:23:19.547Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.831Z",
+          "evaluatedAt": "2026-11-02T10:23:19.547Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.847Z",
+        "evaluatedAt": "2026-11-02T10:23:19.570Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.847Z",
+          "evaluatedAt": "2026-11-02T10:23:19.571Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3044,7 +3044,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.847Z",
+          "evaluatedAt": "2026-11-02T10:23:19.571Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.852Z",
+        "evaluatedAt": "2026-11-02T10:23:19.572Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.852Z",
+          "evaluatedAt": "2026-11-02T10:23:19.572Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3223,7 +3223,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.852Z",
+          "evaluatedAt": "2026-11-02T10:23:19.572Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.860Z",
+        "evaluatedAt": "2026-11-02T10:23:19.585Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.860Z",
+          "evaluatedAt": "2026-11-02T10:23:19.586Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3402,13 +3402,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.860Z",
+          "evaluatedAt": "2026-11-02T10:23:19.586Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4",
+      "contentHash": "1f629e18ab899412683bc6a1c4efb4339999e27c2fdac328f26ee10a8c031d33",
       "sourcePath": "skills/engineering/research/SKILL.md",
       "name": "research",
       "description": "Investigate a question against high-trust primary sources and capture the findings as a Markdown file in the repo. Use when the user wants a topic researched, docs or API facts gathered, or reading legwork delegated to a background agent.",
@@ -3424,9 +3424,9 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/research",
       "relPath": "skills/engineering/research",
       "verified": true,
-      "tokenCount": 253,
+      "tokenCount": 267,
       "evalSummary": {
-        "overallScore": 50,
+        "overallScore": 51,
         "grade": "D",
         "categories": [
           {
@@ -3450,7 +3450,7 @@
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 4,
+            "score": 5,
             "max": 10
           },
           {
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.861Z",
+        "evaluatedAt": "2026-11-02T10:23:19.594Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3499,7 +3499,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 50,
+          "overallScore": 51,
           "grade": "D",
           "categories": [
             {
@@ -3523,7 +3523,7 @@
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 4,
+              "score": 5,
               "max": 10
             },
             {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.862Z",
+          "evaluatedAt": "2026-11-02T10:23:19.595Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3581,7 +3581,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.862Z",
+          "evaluatedAt": "2026-11-02T10:23:19.595Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3669,7 +3669,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.862Z",
+        "evaluatedAt": "2026-11-02T10:23:19.602Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3742,7 +3742,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.862Z",
+          "evaluatedAt": "2026-11-02T10:23:19.602Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3760,7 +3760,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.862Z",
+          "evaluatedAt": "2026-11-02T10:23:19.602Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3848,7 +3848,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.868Z",
+        "evaluatedAt": "2026-11-02T10:23:19.602Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3921,7 +3921,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.869Z",
+          "evaluatedAt": "2026-11-02T10:23:19.603Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3939,13 +3939,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.869Z",
+          "evaluatedAt": "2026-11-02T10:23:19.603Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "f148858ffb7f63c03c06fca06e6fdb1d91a35c6b293244b8fdfacd5f4cc028c4",
+      "contentHash": "b01e05bfe8c323171275c6ceec78b12f1bd4c62dfd26c2cfe8be806d3883f1ed",
       "sourcePath": "skills/engineering/setup-matt-pocock-skills/SKILL.md",
       "name": "setup-matt-pocock-skills",
       "description": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the other engineering skills.",
@@ -3961,7 +3961,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/setup-matt-pocock-skills",
       "relPath": "skills/engineering/setup-matt-pocock-skills",
       "verified": true,
-      "tokenCount": 1988,
+      "tokenCount": 2179,
       "evalSummary": {
         "overallScore": 67,
         "grade": "C",
@@ -4027,7 +4027,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.870Z",
+        "evaluatedAt": "2026-11-02T10:23:19.610Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4100,7 +4100,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.874Z",
+          "evaluatedAt": "2026-11-02T10:23:19.610Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4118,7 +4118,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.874Z",
+          "evaluatedAt": "2026-11-02T10:23:19.610Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4206,7 +4206,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.877Z",
+        "evaluatedAt": "2026-11-02T10:23:19.612Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4279,7 +4279,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.877Z",
+          "evaluatedAt": "2026-11-02T10:23:19.613Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4297,7 +4297,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.877Z",
+          "evaluatedAt": "2026-11-02T10:23:19.613Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4385,7 +4385,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.884Z",
+        "evaluatedAt": "2026-11-02T10:23:19.629Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4458,7 +4458,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.891Z",
+          "evaluatedAt": "2026-11-02T10:23:19.635Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4476,7 +4476,186 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.891Z",
+          "evaluatedAt": "2026-11-02T10:23:19.635Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "645ab761b6cca61a480072b1b510eb05fe0fe5cde2ce0495b6fc234311692253",
+      "sourcePath": "skills/in-progress/software-factory/SKILL.md",
+      "name": "software-factory",
+      "description": "Shared language for designing a software factory: the tasks it runs and the services it plugs into.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": false,
+      "userInvocable": true,
+      "installUrl": "github:mattpocock/skills:skills/in-progress/software-factory",
+      "relPath": "skills/in-progress/software-factory",
+      "verified": true,
+      "tokenCount": 2132,
+      "evalSummary": {
+        "overallScore": 64,
+        "grade": "D",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 6,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 4,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-11-02T10:23:19.648Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 64,
+          "grade": "D",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 6,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 4,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-11-02T10:23:19.648Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 0,
+          "grade": "F",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 1,
+              "max": 2
+            }
+          ],
+          "evaluatedAt": "2026-11-02T10:23:19.648Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4564,7 +4743,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.901Z",
+        "evaluatedAt": "2026-11-02T10:23:19.651Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4637,7 +4816,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.902Z",
+          "evaluatedAt": "2026-11-02T10:23:19.651Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4655,7 +4834,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.902Z",
+          "evaluatedAt": "2026-11-02T10:23:19.651Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4743,7 +4922,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.901Z",
+        "evaluatedAt": "2026-11-02T10:23:19.651Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4816,7 +4995,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.902Z",
+          "evaluatedAt": "2026-11-02T10:23:19.658Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -4834,7 +5013,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.902Z",
+          "evaluatedAt": "2026-11-02T10:23:19.658Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -4922,7 +5101,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.902Z",
+        "evaluatedAt": "2026-11-02T10:23:19.659Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -4995,7 +5174,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.903Z",
+          "evaluatedAt": "2026-11-02T10:23:19.659Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5013,7 +5192,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.903Z",
+          "evaluatedAt": "2026-11-02T10:23:19.659Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5101,7 +5280,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.902Z",
+        "evaluatedAt": "2026-11-02T10:23:19.667Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5174,7 +5353,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.903Z",
+          "evaluatedAt": "2026-11-02T10:23:19.668Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5192,7 +5371,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.903Z",
+          "evaluatedAt": "2026-11-02T10:23:19.668Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5280,7 +5459,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.915Z",
+        "evaluatedAt": "2026-11-02T10:23:19.670Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5353,7 +5532,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.916Z",
+          "evaluatedAt": "2026-11-02T10:23:19.671Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5371,7 +5550,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.916Z",
+          "evaluatedAt": "2026-11-02T10:23:19.671Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5459,7 +5638,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.916Z",
+        "evaluatedAt": "2026-11-02T10:23:19.696Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5532,7 +5711,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.916Z",
+          "evaluatedAt": "2026-11-02T10:23:19.697Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5550,7 +5729,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.916Z",
+          "evaluatedAt": "2026-11-02T10:23:19.697Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5638,7 +5817,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.932Z",
+        "evaluatedAt": "2026-11-02T10:23:19.703Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5711,7 +5890,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.939Z",
+          "evaluatedAt": "2026-11-02T10:23:19.704Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5729,13 +5908,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.939Z",
+          "evaluatedAt": "2026-11-02T10:23:19.704Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "9be7b478c389605a24517d27752f278933588da97a1b5921b165f455edf4c5b7",
+      "contentHash": "0c9fa96791aebf3b7d654cf35c6aadde97d81f57c17b07d13b27c14d9c46561f",
       "sourcePath": "skills/engineering/wayfinder/SKILL.md",
       "name": "wayfinder",
       "description": "Plan a huge chunk of work (more than one agent session can hold) as a shared map of decision tickets on your issue tracker, and resolve them one at a time until the way to the destination is clear.",
@@ -5751,7 +5930,7 @@
       "installUrl": "github:mattpocock/skills:skills/engineering/wayfinder",
       "relPath": "skills/engineering/wayfinder",
       "verified": true,
-      "tokenCount": 4075,
+      "tokenCount": 4085,
       "evalSummary": {
         "overallScore": 65,
         "grade": "C",
@@ -5817,7 +5996,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.939Z",
+        "evaluatedAt": "2026-11-02T10:23:19.704Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -5890,7 +6069,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.939Z",
+          "evaluatedAt": "2026-11-02T10:23:19.716Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -5908,7 +6087,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.939Z",
+          "evaluatedAt": "2026-11-02T10:23:19.716Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -5996,7 +6175,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.940Z",
+        "evaluatedAt": "2026-11-02T10:23:19.717Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6069,7 +6248,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.941Z",
+          "evaluatedAt": "2026-11-02T10:23:19.719Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6087,7 +6266,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.941Z",
+          "evaluatedAt": "2026-11-02T10:23:19.719Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6175,7 +6354,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.941Z",
+        "evaluatedAt": "2026-11-02T10:23:19.720Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6248,7 +6427,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.946Z",
+          "evaluatedAt": "2026-11-02T10:23:19.721Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6266,7 +6445,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.946Z",
+          "evaluatedAt": "2026-11-02T10:23:19.721Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6354,7 +6533,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.954Z",
+        "evaluatedAt": "2026-11-02T10:23:19.727Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6427,7 +6606,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.955Z",
+          "evaluatedAt": "2026-11-02T10:23:19.728Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6445,7 +6624,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.955Z",
+          "evaluatedAt": "2026-11-02T10:23:19.728Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6533,7 +6712,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.954Z",
+        "evaluatedAt": "2026-11-02T10:23:19.732Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6606,7 +6785,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.955Z",
+          "evaluatedAt": "2026-11-02T10:23:19.732Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6624,7 +6803,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.955Z",
+          "evaluatedAt": "2026-11-02T10:23:19.732Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6712,7 +6891,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:26.972Z",
+        "evaluatedAt": "2026-11-02T10:23:19.748Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -6785,7 +6964,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.973Z",
+          "evaluatedAt": "2026-11-02T10:23:19.749Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -6803,7 +6982,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:26.973Z",
+          "evaluatedAt": "2026-11-02T10:23:19.749Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -6815,7 +6994,7 @@
       "name": "mattpocock-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-10-19T08:20:27.122Z",
+      "createdAt": "2026-11-02T10:23:19.921Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6899,7 +7078,7 @@
       "name": "mattpocock-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-10-19T08:20:27.122Z",
+      "createdAt": "2026-11-02T10:23:19.921Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -6941,7 +7120,7 @@
       "name": "mattpocock-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-10-19T08:20:27.122Z",
+      "createdAt": "2026-11-02T10:23:19.921Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7061,7 +7240,7 @@
       "name": "mattpocock-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-10-19T08:20:27.122Z",
+      "createdAt": "2026-11-02T10:23:19.921Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7127,6 +7306,12 @@
           "version": "0.0.0"
         },
         {
+          "name": "software-factory",
+          "installUrl": "github:mattpocock/skills:skills/in-progress/software-factory",
+          "description": "Shared language for designing a software factory: the tasks it runs and the services it plugs into.",
+          "version": "0.0.0"
+        },
+        {
           "name": "tdd",
           "installUrl": "github:mattpocock/skills:skills/engineering/tdd",
           "description": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests.",
@@ -7145,7 +7330,7 @@
       "name": "mattpocock-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-10-19T08:20:27.122Z",
+      "createdAt": "2026-11-02T10:23:19.921Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7211,7 +7396,7 @@
       "name": "mattpocock-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-10-19T08:20:27.122Z",
+      "createdAt": "2026-11-02T10:23:19.921Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -7349,7 +7534,7 @@
       "name": "mattpocock-skills-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from mattpocock/skills.",
       "author": "ASM (mattpocock/skills)",
-      "createdAt": "2026-10-19T08:20:27.122Z",
+      "createdAt": "2026-11-02T10:23:19.921Z",
       "tags": [
         "repo-derived",
         "inferred",

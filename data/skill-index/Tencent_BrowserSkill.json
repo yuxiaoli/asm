@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "d9a78aed47874459ae1e44523a597e42dd9acf99",
+  "sourceCommit": "b8f2d4f0fa35c8c7c866229e1cf3b3329ae39de5",
   "repoUrl": "https://github.com/Tencent/BrowserSkill.git",
   "owner": "Tencent",
   "repo": "BrowserSkill",
-  "updatedAt": "2026-10-19T08:23:29.974Z",
+  "updatedAt": "2026-11-02T10:26:08.485Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "a338f79a6eef3cd7f05e3d565c589b942b424da564c62af99e5c3aac8f072d66",
+      "contentHash": "5e0fe672afd2650f3331a3747f6c622dc3fa19c77c3d57ba14cda4a9f951add0",
       "sourcePath": "crates/bsk-cli/skill/SKILL.md",
       "name": "browser-skill",
       "description": "Automate the user's logged-in Chromium browser: read pages, fill forms, scrape data, operate tabs, test a UI, or debug a website. Requires the bsk CLI and browser extension.",
@@ -23,9 +23,9 @@
       "installUrl": "github:Tencent/BrowserSkill:crates/bsk-cli/skill",
       "relPath": "crates/bsk-cli/skill",
       "verified": true,
-      "tokenCount": 1983,
+      "tokenCount": 1898,
       "evalSummary": {
-        "overallScore": 69,
+        "overallScore": 67,
         "grade": "C",
         "categories": [
           {
@@ -61,7 +61,7 @@
           {
             "id": "testability",
             "name": "Testability",
-            "score": 3,
+            "score": 1,
             "max": 10
           },
           {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:23:29.969Z",
+        "evaluatedAt": "2026-11-02T10:26:08.479Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -98,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 69,
+          "overallScore": 67,
           "grade": "C",
           "categories": [
             {
@@ -134,7 +134,7 @@
             {
               "id": "testability",
               "name": "Testability",
-              "score": 3,
+              "score": 1,
               "max": 10
             },
             {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:29.969Z",
+          "evaluatedAt": "2026-11-02T10:26:08.479Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:23:29.969Z",
+          "evaluatedAt": "2026-11-02T10:26:08.479Z",
           "evaluatedVersion": "0.0.0"
         }
       }

@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "6807b9c33d8f76255e3f685cd25e69c29c57cd42",
+  "sourceCommit": "03b7214ff35b479deacc4b4a7cd6029c3d3d1ae4",
   "repoUrl": "https://github.com/zarazhangrui/follow-builders.git",
   "owner": "zarazhangrui",
   "repo": "follow-builders",
-  "updatedAt": "2026-10-19T08:22:44.364Z",
+  "updatedAt": "2026-11-02T10:25:27.980Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:44.354Z",
+        "evaluatedAt": "2026-11-02T10:25:27.970Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:44.354Z",
+          "evaluatedAt": "2026-11-02T10:25:27.970Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:44.354Z",
+          "evaluatedAt": "2026-11-02T10:25:27.970Z",
           "evaluatedVersion": "0.0.0"
         }
       }
