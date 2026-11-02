@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "2d228630ba1446365f614a108cb8252f1feda202",
+  "sourceCommit": "f1090bec277140d02ed202440185ad9d02ac1490",
   "repoUrl": "https://github.com/emilkowalski/skills.git",
   "owner": "emilkowalski",
   "repo": "skills",
-  "updatedAt": "2026-10-19T08:22:46.332Z",
-  "skillCount": 15,
+  "updatedAt": "2026-11-02T10:25:29.504Z",
+  "skillCount": 16,
   "skills": [
     {
-      "contentHash": "b8ede161270458e6ae2e45e8a1985373515d4c63de5568ddb0f9012d7634356c",
+      "contentHash": "39138996033e0dbe53e73217514116eaeca774bae84a0687c80d445a4e0cc3a6",
       "sourcePath": "skills/animate/SKILL.md",
       "name": "animate",
       "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. Writes the implementation. Use when asked to animate something, add motion, make a component feel alive, or build a transition. For critiquing existing motion use review-animations; for auditing a whole codebase use improve-animations.",
@@ -23,7 +23,7 @@
       "installUrl": "github:emilkowalski/skills:skills/animate",
       "relPath": "skills/animate",
       "verified": true,
-      "tokenCount": 3621,
+      "tokenCount": 3631,
       "evalSummary": {
         "overallScore": 71,
         "grade": "C",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.261Z",
+        "evaluatedAt": "2026-11-02T10:25:29.400Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedAt": "2026-11-02T10:25:29.396Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,16 +359,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "ceb9dd3fe912615830f725a0120ccf8d012d15a6218001a5cd6c15d38e39a957",
+      "contentHash": "6c60f45ab416ff3f7d7765a5427beead77fab0d82487fe610d2a298397558d0a",
       "sourcePath": "skills/animation-performance/SKILL.md",
       "name": "animation-performance",
-      "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+      "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -381,9 +381,9 @@
       "installUrl": "github:emilkowalski/skills:skills/animation-performance",
       "relPath": "skills/animation-performance",
       "verified": true,
-      "tokenCount": 4283,
+      "tokenCount": 4365,
       "evalSummary": {
-        "overallScore": 65,
+        "overallScore": 68,
         "grade": "C",
         "categories": [
           {
@@ -413,7 +413,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 5,
+            "score": 8,
             "max": 10
           },
           {
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedAt": "2026-11-02T10:25:29.396Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -456,7 +456,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 65,
+          "overallScore": 68,
           "grade": "C",
           "categories": [
             {
@@ -486,7 +486,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 5,
+              "score": 8,
               "max": 10
             },
             {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedAt": "2026-11-02T10:25:29.396Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedAt": "2026-11-02T10:25:29.395Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.258Z",
+        "evaluatedAt": "2026-11-02T10:25:29.400Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.258Z",
+        "evaluatedAt": "2026-11-02T10:25:29.400Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,13 +1254,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "ffbe68e6007fb42cb8149f089b400a1ca007d59ba23e8948e2be4476f3175939",
+      "contentHash": "965cc3108047a1f68e504977ae7816c66115b202a32e7509c0b8305314839c54",
       "sourcePath": "skills/emil-design-eng/SKILL.md",
       "name": "emil-design-eng",
       "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
@@ -1276,7 +1276,7 @@
       "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
       "relPath": "skills/emil-design-eng",
       "verified": true,
-      "tokenCount": 8111,
+      "tokenCount": 8223,
       "evalSummary": {
         "overallScore": 66,
         "grade": "C",
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.261Z",
+        "evaluatedAt": "2026-11-02T10:25:29.400Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.262Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.262Z",
+          "evaluatedAt": "2026-11-02T10:25:29.400Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.297Z",
+        "evaluatedAt": "2026-11-02T10:25:29.448Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.300Z",
+          "evaluatedAt": "2026-11-02T10:25:29.450Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.300Z",
+          "evaluatedAt": "2026-11-02T10:25:29.450Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.300Z",
+        "evaluatedAt": "2026-11-02T10:25:29.447Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.308Z",
+          "evaluatedAt": "2026-11-02T10:25:29.448Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +1791,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.308Z",
+          "evaluatedAt": "2026-11-02T10:25:29.448Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.308Z",
+        "evaluatedAt": "2026-11-02T10:25:29.451Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.312Z",
+          "evaluatedAt": "2026-11-02T10:25:29.467Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +1970,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.312Z",
+          "evaluatedAt": "2026-11-02T10:25:29.467Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.312Z",
+        "evaluatedAt": "2026-11-02T10:25:29.467Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.313Z",
+          "evaluatedAt": "2026-11-02T10:25:29.483Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.313Z",
+          "evaluatedAt": "2026-11-02T10:25:29.483Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.314Z",
+        "evaluatedAt": "2026-11-02T10:25:29.490Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.317Z",
+          "evaluatedAt": "2026-11-02T10:25:29.491Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,13 +2328,192 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.317Z",
+          "evaluatedAt": "2026-11-02T10:25:29.491Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "6ff590d29e436766135aa3d137be1fac2a867165c7257fc315b189361f1873af",
+      "contentHash": "dea95b7a7ef81cba312c7f70a3c5c67d7e06a287cb16b16d2f90f2b1fb0afff9",
+      "sourcePath": "skills/remove-animations/SKILL.md",
+      "name": "remove-animations",
+      "description": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and decoration with no purpose — then clean up what they leave behind. Edits code, but only to subtract; it never adds or retunes motion. Use when the user says the app \"feels slow\", \"has too much animation\", \"feels over-animated\", wants to \"tone down the motion\", or asks what animations to remove. For finding places that should animate, use find-animation-opportunities; for fixing animations that should stay, use improve-animations or review-animations.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:emilkowalski/skills:skills/remove-animations",
+      "relPath": "skills/remove-animations",
+      "verified": true,
+      "tokenCount": 3556,
+      "evalSummary": {
+        "overallScore": 72,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 6,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-11-02T10:25:29.491Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 72,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 6,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-11-02T10:25:29.493Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-11-02T10:25:29.493Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "5f9fb98b69cace7107af8b393a4196fd42fa42d98bce0e5afc1f866ff3b8a41c",
       "sourcePath": "skills/review-animations/SKILL.md",
       "name": "review-animations",
       "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.",
@@ -2350,7 +2529,7 @@
       "installUrl": "github:emilkowalski/skills:skills/review-animations",
       "relPath": "skills/review-animations",
       "verified": true,
-      "tokenCount": 2257,
+      "tokenCount": 2283,
       "evalSummary": {
         "overallScore": 64,
         "grade": "D",
@@ -2416,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.317Z",
+        "evaluatedAt": "2026-11-02T10:25:29.491Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.320Z",
+          "evaluatedAt": "2026-11-02T10:25:29.493Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,7 +2686,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.320Z",
+          "evaluatedAt": "2026-11-02T10:25:29.493Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2595,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.321Z",
+        "evaluatedAt": "2026-11-02T10:25:29.491Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.322Z",
+          "evaluatedAt": "2026-11-02T10:25:29.492Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.322Z",
+          "evaluatedAt": "2026-11-02T10:25:29.492Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2698,7 +2877,7 @@
       "name": "emilkowalski-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-02T10:25:29.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2740,7 +2919,7 @@
       "name": "emilkowalski-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-02T10:25:29.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2788,7 +2967,7 @@
       "name": "emilkowalski-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-02T10:25:29.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2808,7 +2987,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2842,6 +3021,12 @@
           "version": "0.0.0"
         },
         {
+          "name": "remove-animations",
+          "installUrl": "github:emilkowalski/skills:skills/remove-animations",
+          "description": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and decoration with no purpose — then clean up what they leave behind. Edits code, but only to subtract; it never adds or retunes motion. Use when the user says the app \"feels slow\", \"has too much animation\", \"feels over-animated\", wants to \"tone down the motion\", or asks what animations to remove. For finding places that should animate, use find-animation-opportunities; for fixing animations that should stay, use improve-animations or review-animations.",
+          "version": "0.0.0"
+        },
+        {
           "name": "review-animations",
           "installUrl": "github:emilkowalski/skills:skills/review-animations",
           "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.",
@@ -2866,7 +3051,7 @@
       "name": "emilkowalski-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-02T10:25:29.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2892,7 +3077,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2944,6 +3129,12 @@
           "version": "0.0.0"
         },
         {
+          "name": "remove-animations",
+          "installUrl": "github:emilkowalski/skills:skills/remove-animations",
+          "description": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and decoration with no purpose — then clean up what they leave behind. Edits code, but only to subtract; it never adds or retunes motion. Use when the user says the app \"feels slow\", \"has too much animation\", \"feels over-animated\", wants to \"tone down the motion\", or asks what animations to remove. For finding places that should animate, use find-animation-opportunities; for fixing animations that should stay, use improve-animations or review-animations.",
+          "version": "0.0.0"
+        },
+        {
           "name": "review-animations",
           "installUrl": "github:emilkowalski/skills:skills/review-animations",
           "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.",
@@ -2968,7 +3159,7 @@
       "name": "emilkowalski-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-02T10:25:29.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2994,7 +3185,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -3076,7 +3267,7 @@
       "name": "emilkowalski-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-02T10:25:29.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3118,7 +3309,7 @@
       "name": "emilkowalski-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-02T10:25:29.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3144,7 +3335,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -3178,7 +3369,7 @@
       "name": "emilkowalski-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-02T10:25:29.504Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3192,7 +3383,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -3229,6 +3420,12 @@
           "name": "improve-animations",
           "installUrl": "github:emilkowalski/skills:skills/improve-animations",
           "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained implementation plans for other agents (or cheaper models) to execute. Read-only on source code — it plans improvements, it does not apply them. Use when the user asks to \"improve the animations\", \"audit the motion\", \"make this app feel better\", or wants a roadmap of animation fixes rather than a review of a single diff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "remove-animations",
+          "installUrl": "github:emilkowalski/skills:skills/remove-animations",
+          "description": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and decoration with no purpose — then clean up what they leave behind. Edits code, but only to subtract; it never adds or retunes motion. Use when the user says the app \"feels slow\", \"has too much animation\", \"feels over-animated\", wants to \"tone down the motion\", or asks what animations to remove. For finding places that should animate, use find-animation-opportunities; for fixing animations that should stay, use improve-animations or review-animations.",
           "version": "0.0.0"
         },
         {

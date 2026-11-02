@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "34665f9942dcf975bce51a9ca262ef12e15c18dc",
+  "sourceCommit": "a149e44e91cdae0c197e4e9c82e44216d272db09",
   "repoUrl": "https://github.com/santifer/career-ops.git",
   "owner": "santifer",
   "repo": "career-ops",
-  "updatedAt": "2026-10-19T08:20:43.700Z",
+  "updatedAt": "2026-11-02T10:23:36.144Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "52c3752c9798706f8ece97372779693979233c4a973602def1659160f7dac6ce",
+      "contentHash": "15615c94d206a6cbfa9fac2067aa0138d1db8fba6e3fee0c4e472e662a81eff4",
       "sourcePath": ".agents/skills/career-ops/SKILL.md",
       "name": "career-ops",
       "description": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or JD, asks to scan portals, generate a CV/PDF, track applications, prepare for interviews, draft outreach/emails, or run any career-ops mode.",
@@ -23,7 +23,7 @@
       "installUrl": "github:santifer/career-ops:.claude/skills/career-ops",
       "relPath": ".claude/skills/career-ops",
       "verified": true,
-      "tokenCount": 5192,
+      "tokenCount": 6222,
       "evalSummary": {
         "overallScore": 79,
         "grade": "C",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:43.696Z",
+        "evaluatedAt": "2026-11-02T10:23:36.141Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:43.696Z",
+          "evaluatedAt": "2026-11-02T10:23:36.141Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:43.697Z",
+          "evaluatedAt": "2026-11-02T10:23:36.141Z",
           "evaluatedVersion": "0.0.0"
         }
       }

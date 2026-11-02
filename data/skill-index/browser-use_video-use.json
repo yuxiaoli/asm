@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "43cfc566833548093455c9d4a46bd69913b7e552",
   "repoUrl": "https://github.com/browser-use/video-use.git",
   "owner": "browser-use",
   "repo": "video-use",
-  "updatedAt": "2026-10-18T22:14:30.237Z",
+  "updatedAt": "2026-11-02T10:26:12.649Z",
   "skillCount": 2,
   "skills": [
     {
+      "contentHash": "478ff04a7e3ecf9157b14fc2c24b4ae3fef7460debf27c4ecbe361bf26b0ac29",
+      "sourcePath": "skills/manim-video/SKILL.md",
       "name": "manim-video",
       "description": "Production pipeline for mathematical and technical animations using Manim Community Edition. Creates 3Blue1Brown-style explainer videos, algorithm visualizations, equation derivations, architecture diagrams, and data stories. Use when users request: animated explanations, math animations, concept visualizations, algorithm walkthroughs, technical explainers, 3Blue1Brown style videos, or any programmatic animation with geometric/mathematical content.",
       "version": "1.0.0",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:14:29.088Z",
+        "evaluatedAt": "2026-11-02T10:26:12.073Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -95,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 68,
+          "overallScore": 69,
           "grade": "C",
           "categories": [
             {
@@ -155,11 +158,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 9,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:14:29.088Z",
+          "evaluatedAt": "2026-11-02T10:26:12.073Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -177,12 +180,14 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:14:29.088Z",
+          "evaluatedAt": "2026-11-02T10:26:12.073Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
+      "contentHash": "d3bbeb19bc0e81e197d74806fba15e0a5f5694a0cdf33f0a2348bffe8472a27b",
+      "sourcePath": "SKILL.md",
       "name": "video-use",
       "description": "Edit any video by conversation. Transcribe, cut, color grade, generate overlay animations, burn subtitles — for talking heads, montages, tutorials, travel, interviews. No presets, no menus. Ask questions, confirm the plan, execute, iterate, persist. Production-correctness rules are hard; everything else is artistic freedom.",
       "version": "0.0.0",
@@ -263,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:14:29.088Z",
+        "evaluatedAt": "2026-11-02T10:26:12.075Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -272,7 +277,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 76,
+          "overallScore": 77,
           "grade": "C",
           "categories": [
             {
@@ -332,11 +337,11 @@
             {
               "id": "script-lint",
               "name": "Script linting",
-              "score": 9,
+              "score": 10,
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:14:29.089Z",
+          "evaluatedAt": "2026-11-02T10:26:12.075Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -354,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:14:29.089Z",
+          "evaluatedAt": "2026-11-02T10:26:12.075Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -366,7 +371,7 @@
       "name": "browser-use-video-use-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from browser-use/video-use.",
       "author": "ASM (browser-use/video-use)",
-      "createdAt": "2026-10-18T22:14:30.237Z",
+      "createdAt": "2026-11-02T10:26:12.649Z",
       "tags": [
         "repo-derived",
         "inferred",
