@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "56ea9cf174ed86786187daa9de0e6247cb0747e4",
+  "sourceCommit": "4f2dbb67e64969a9a30ab00742f2d55d66ddec2b",
   "repoUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
   "owner": "nextlevelbuilder",
   "repo": "ui-ux-pro-max-skill",
-  "updatedAt": "2026-10-19T08:19:22.437Z",
+  "updatedAt": "2026-11-09T10:42:36.034Z",
   "skillCount": 7,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.536Z",
+        "evaluatedAt": "2026-11-09T10:42:34.877Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.533Z",
+        "evaluatedAt": "2026-11-09T10:42:34.875Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.533Z",
+        "evaluatedAt": "2026-11-09T10:42:34.874Z",
         "evaluatedVersion": "2.1.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "2.1.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "2.1.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.532Z",
+        "evaluatedAt": "2026-11-09T10:42:34.875Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.532Z",
+        "evaluatedAt": "2026-11-09T10:42:34.875Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.536Z",
+          "evaluatedAt": "2026-11-09T10:42:34.877Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.537Z",
+        "evaluatedAt": "2026-11-09T10:42:34.877Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-11-09T10:42:34.878Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1075,16 +1075,16 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-11-09T10:42:34.878Z",
           "evaluatedVersion": "1.0.0"
         }
       }
     },
     {
-      "contentHash": "ea087c341bfb5b23195c7302027268ede86da802554c18a5c4896a6017b439f9",
+      "contentHash": "14f43337edfbf7822e091428e4ae0c6f92f86e3353deda6a30f6613121e2cf2d",
       "sourcePath": ".claude/skills/ui-ux-pro-max/SKILL.md",
       "name": "ui-ux-pro-max",
-      "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+      "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 80 searchable styles (51 active), 192 product palettes and reasoning profiles, 74 font pairings, 120 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -1097,7 +1097,7 @@
       "installUrl": "github:nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-ux-pro-max",
       "relPath": ".claude/skills/ui-ux-pro-max",
       "verified": true,
-      "tokenCount": 4088,
+      "tokenCount": 4280,
       "evalSummary": {
         "overallScore": 68,
         "grade": "C",
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:21.537Z",
+        "evaluatedAt": "2026-11-09T10:42:34.877Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-11-09T10:42:34.878Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,7 +1254,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:21.537Z",
+          "evaluatedAt": "2026-11-09T10:42:34.878Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1266,7 +1266,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-11-09T10:42:36.034Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1316,7 +1316,7 @@
         {
           "name": "ui-ux-pro-max",
           "installUrl": "github:nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-ux-pro-max",
-          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 80 searchable styles (51 active), 192 product palettes and reasoning profiles, 74 font pairings, 120 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
           "version": "0.0.0"
         }
       ],
@@ -1332,7 +1332,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-11-09T10:42:36.034Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1368,7 +1368,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-11-09T10:42:36.034Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1418,7 +1418,7 @@
         {
           "name": "ui-ux-pro-max",
           "installUrl": "github:nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-ux-pro-max",
-          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 80 searchable styles (51 active), 192 product palettes and reasoning profiles, 74 font pairings, 120 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
           "version": "0.0.0"
         }
       ],
@@ -1434,7 +1434,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-11-09T10:42:36.034Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1484,7 +1484,7 @@
         {
           "name": "ui-ux-pro-max",
           "installUrl": "github:nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-ux-pro-max",
-          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 80 searchable styles (51 active), 192 product palettes and reasoning profiles, 74 font pairings, 120 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
           "version": "0.0.0"
         }
       ],
@@ -1500,7 +1500,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-11-09T10:42:36.034Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1532,7 +1532,7 @@
         {
           "name": "ui-ux-pro-max",
           "installUrl": "github:nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-ux-pro-max",
-          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 80 searchable styles (51 active), 192 product palettes and reasoning profiles, 74 font pairings, 120 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
           "version": "0.0.0"
         }
       ],
@@ -1548,7 +1548,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-11-09T10:42:36.034Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1598,7 +1598,7 @@
         {
           "name": "ui-ux-pro-max",
           "installUrl": "github:nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-ux-pro-max",
-          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 80 searchable styles (51 active), 192 product palettes and reasoning profiles, 74 font pairings, 120 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
           "version": "0.0.0"
         }
       ],
@@ -1614,7 +1614,7 @@
       "name": "nextlevelbuilder-ui-ux-pro-max-skill-product-business",
       "description": "Product, strategy, PRD, planning, finance, resume, and business workflow skills. Derived from nextlevelbuilder/ui-ux-pro-max-skill.",
       "author": "ASM (nextlevelbuilder/ui-ux-pro-max-skill)",
-      "createdAt": "2026-10-19T08:19:22.437Z",
+      "createdAt": "2026-11-09T10:42:36.034Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1634,7 +1634,7 @@
         {
           "name": "ui-ux-pro-max",
           "installUrl": "github:nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-ux-pro-max",
-          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+          "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 80 searchable styles (51 active), 192 product palettes and reasoning profiles, 74 font pairings, 120 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
           "version": "0.0.0"
         }
       ],

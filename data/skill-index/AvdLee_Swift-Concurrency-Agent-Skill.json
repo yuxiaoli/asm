@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "d5770817d2622e1585b1f7eaebc791a9cb0959c8",
+  "sourceCommit": "3b1580d8398e0b5408b3bf0bada0e941a1cfc642",
   "repoUrl": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill.git",
   "owner": "AvdLee",
   "repo": "Swift-Concurrency-Agent-Skill",
-  "updatedAt": "2026-10-19T08:20:21.445Z",
+  "updatedAt": "2026-11-09T10:43:42.302Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:21.436Z",
+        "evaluatedAt": "2026-11-09T10:43:42.291Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:21.436Z",
+          "evaluatedAt": "2026-11-09T10:43:42.291Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:21.436Z",
+          "evaluatedAt": "2026-11-09T10:43:42.291Z",
           "evaluatedVersion": "0.0.0"
         }
       }

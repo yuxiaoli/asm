@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "a92811ce75ad4041cbb34858997c94714590f183",
+  "sourceCommit": "b883414c3a758e287970e292ba76f2b1986d433e",
   "repoUrl": "https://github.com/luongnv89/asm.git",
   "owner": "luongnv89",
   "repo": "asm",
-  "updatedAt": "2026-10-19T08:19:09.109Z",
-  "skillCount": 10,
+  "updatedAt": "2026-11-09T10:42:23.456Z",
+  "skillCount": 11,
   "skills": [
     {
       "contentHash": "e70e42c62d46d6a268521b2f4193315be27293c9dc14172118a4af69bccec958",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.329Z",
+        "evaluatedAt": "2026-11-09T10:42:22.419Z",
         "evaluatedVersion": "1.4.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.330Z",
+          "evaluatedAt": "2026-11-09T10:42:22.419Z",
           "evaluatedVersion": "1.4.0"
         },
         "skill-best-practice": {
@@ -180,14 +180,14 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.331Z",
+          "evaluatedAt": "2026-11-09T10:42:22.419Z",
           "evaluatedVersion": "1.4.0"
         }
       }
     },
     {
       "contentHash": "f8a9f835fee30d789921a9fe0bb982ad530536c69ae3caa51e1d652a70c3934c",
-      "sourcePath": "skills/hello-world/SKILL.md",
+      "sourcePath": "tests/fixtures/skills/hello-world/SKILL.md",
       "name": "hello-world",
       "description": "A minimal test skill that greets the user and demonstrates the ASM publish workflow.",
       "version": "1.0.0",
@@ -202,8 +202,8 @@
       "dependencies": [],
       "modelInvocable": true,
       "userInvocable": true,
-      "installUrl": "github:luongnv89/asm:skills/hello-world",
-      "relPath": "skills/hello-world",
+      "installUrl": "github:luongnv89/asm:tests/fixtures/skills/hello-world",
+      "relPath": "tests/fixtures/skills/hello-world",
       "verified": true,
       "tokenCount": 120,
       "evalSummary": {
@@ -271,7 +271,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.313Z",
+        "evaluatedAt": "2026-11-09T10:42:22.379Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -344,7 +344,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.315Z",
+          "evaluatedAt": "2026-11-09T10:42:22.384Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -362,7 +362,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.316Z",
+          "evaluatedAt": "2026-11-09T10:42:22.384Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -450,7 +450,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.314Z",
+        "evaluatedAt": "2026-11-09T10:42:22.391Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -523,7 +523,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.317Z",
+          "evaluatedAt": "2026-11-09T10:42:22.393Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -541,7 +541,7 @@
               "max": 1
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.317Z",
+          "evaluatedAt": "2026-11-09T10:42:22.393Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -636,7 +636,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.361Z",
+        "evaluatedAt": "2026-11-09T10:42:22.436Z",
         "evaluatedVersion": "1.3.0"
       },
       "evalSummaries": {
@@ -709,7 +709,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.361Z",
+          "evaluatedAt": "2026-11-09T10:42:22.439Z",
           "evaluatedVersion": "1.3.0"
         },
         "skill-best-practice": {
@@ -727,17 +727,203 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.361Z",
+          "evaluatedAt": "2026-11-09T10:42:22.439Z",
           "evaluatedVersion": "1.3.0"
         }
       }
     },
     {
-      "contentHash": "f63c7daef723e282cb63c5befcc6460e360571c8c054aa2462ea805f9f8b78e7",
+      "contentHash": "99daf29ee53334a3d4e9347f9378bcddc12cb53bde8f45e5569fcf4fa4edf483",
+      "sourcePath": "skills/skill-changelog/SKILL.md",
+      "name": "skill-changelog",
+      "description": "Write or backfill a skill's own CHANGELOG.md from its git history when metadata.version is bumped. Use after any skill version bump or on /skill-changelog. Don't use for project release notes, commit messages, or upstream update summaries.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "creator": "",
+      "compatibility": "git and Python 3 on PATH",
+      "allowedTools": [
+        "Bash",
+        "Read",
+        "Write",
+        "Edit",
+        "Grep",
+        "Glob"
+      ],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:luongnv89/asm:skills/skill-changelog",
+      "relPath": "skills/skill-changelog",
+      "verified": true,
+      "tokenCount": 5940,
+      "evalSummary": {
+        "overallScore": 92,
+        "grade": "A",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-11-09T10:42:22.378Z",
+        "evaluatedVersion": "1.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 92,
+          "grade": "A",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-11-09T10:42:22.383Z",
+          "evaluatedVersion": "1.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 100,
+          "grade": "A",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 15,
+              "max": 15
+            }
+          ],
+          "evaluatedAt": "2026-11-09T10:42:22.384Z",
+          "evaluatedVersion": "1.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "5c88c12917e60dda2fcfbae2119511b52c4deef82bfab80a285309f4f2a142ca",
       "sourcePath": "skills/skill-creator/SKILL.md",
       "name": "skill-creator",
       "description": "Create a skill or bring an existing one up to the same standard (validate + asm eval fix loop); run evals, tune triggering. Use when authoring, fixing, or retrofitting a skill. Don't use for invoking skills, writing prose, or Python scaffolds.",
-      "version": "2.1.0",
+      "version": "2.2.0",
       "license": "MIT",
       "creator": "",
       "compatibility": "Python 3 for scripts/quick_validate.py; `asm` on PATH for the Gate 2 score check",
@@ -749,7 +935,7 @@
       "installUrl": "github:luongnv89/asm:skills/skill-creator",
       "relPath": "skills/skill-creator",
       "verified": true,
-      "tokenCount": 6663,
+      "tokenCount": 6801,
       "evalSummary": {
         "overallScore": 94,
         "grade": "A",
@@ -815,8 +1001,8 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.726Z",
-        "evaluatedVersion": "2.1.0"
+        "evaluatedAt": "2026-11-09T10:42:22.946Z",
+        "evaluatedVersion": "2.2.0"
       },
       "evalSummaries": {
         "quality": {
@@ -888,8 +1074,8 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.726Z",
-          "evaluatedVersion": "2.1.0"
+          "evaluatedAt": "2026-11-09T10:42:22.946Z",
+          "evaluatedVersion": "2.2.0"
         },
         "skill-best-practice": {
           "providerId": "skill-best-practice",
@@ -906,8 +1092,8 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.726Z",
-          "evaluatedVersion": "2.1.0"
+          "evaluatedAt": "2026-11-09T10:42:22.946Z",
+          "evaluatedVersion": "2.2.0"
         }
       }
     },
@@ -1003,7 +1189,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.347Z",
+        "evaluatedAt": "2026-11-09T10:42:22.440Z",
         "evaluatedVersion": "2.2.0"
       },
       "evalSummaries": {
@@ -1076,7 +1262,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.349Z",
+          "evaluatedAt": "2026-11-09T10:42:22.442Z",
           "evaluatedVersion": "2.2.0"
         },
         "skill-best-practice": {
@@ -1094,7 +1280,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.349Z",
+          "evaluatedAt": "2026-11-09T10:42:22.442Z",
           "evaluatedVersion": "2.2.0"
         }
       }
@@ -1191,7 +1377,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.347Z",
+        "evaluatedAt": "2026-11-09T10:42:22.431Z",
         "evaluatedVersion": "1.3.0"
       },
       "evalSummaries": {
@@ -1264,7 +1450,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.349Z",
+          "evaluatedAt": "2026-11-09T10:42:22.431Z",
           "evaluatedVersion": "1.3.0"
         },
         "skill-best-practice": {
@@ -1282,7 +1468,7 @@
               "max": 16
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.349Z",
+          "evaluatedAt": "2026-11-09T10:42:22.431Z",
           "evaluatedVersion": "1.3.0"
         }
       }
@@ -1377,7 +1563,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.451Z",
+        "evaluatedAt": "2026-11-09T10:42:22.587Z",
         "evaluatedVersion": "1.0.1"
       },
       "evalSummaries": {
@@ -1450,7 +1636,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.451Z",
+          "evaluatedAt": "2026-11-09T10:42:22.587Z",
           "evaluatedVersion": "1.0.1"
         },
         "skill-best-practice": {
@@ -1468,7 +1654,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.451Z",
+          "evaluatedAt": "2026-11-09T10:42:22.587Z",
           "evaluatedVersion": "1.0.1"
         }
       }
@@ -1563,7 +1749,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.374Z",
+        "evaluatedAt": "2026-11-09T10:42:22.442Z",
         "evaluatedVersion": "1.1.0"
       },
       "evalSummaries": {
@@ -1636,7 +1822,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.374Z",
+          "evaluatedAt": "2026-11-09T10:42:22.443Z",
           "evaluatedVersion": "1.1.0"
         },
         "skill-best-practice": {
@@ -1654,7 +1840,7 @@
               "max": 15
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.374Z",
+          "evaluatedAt": "2026-11-09T10:42:22.443Z",
           "evaluatedVersion": "1.1.0"
         }
       }
@@ -1745,7 +1931,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:08.356Z",
+        "evaluatedAt": "2026-11-09T10:42:22.470Z",
         "evaluatedVersion": "1.0.0"
       },
       "evalSummaries": {
@@ -1818,7 +2004,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.356Z",
+          "evaluatedAt": "2026-11-09T10:42:22.470Z",
           "evaluatedVersion": "1.0.0"
         },
         "skill-best-practice": {
@@ -1836,7 +2022,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:08.356Z",
+          "evaluatedAt": "2026-11-09T10:42:22.470Z",
           "evaluatedVersion": "1.0.0"
         }
       }
@@ -1848,7 +2034,7 @@
       "name": "luongnv89-asm-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-19T08:19:09.109Z",
+      "createdAt": "2026-11-09T10:42:23.456Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1860,10 +2046,16 @@
       ],
       "skills": [
         {
+          "name": "skill-changelog",
+          "installUrl": "github:luongnv89/asm:skills/skill-changelog",
+          "description": "Write or backfill a skill's own CHANGELOG.md from its git history when metadata.version is bumped. Use after any skill version bump or on /skill-changelog. Don't use for project release notes, commit messages, or upstream update summaries.",
+          "version": "1.0.0"
+        },
+        {
           "name": "skill-creator",
           "installUrl": "github:luongnv89/asm:skills/skill-creator",
           "description": "Create a skill or bring an existing one up to the same standard (validate + asm eval fix loop); run evals, tune triggering. Use when authoring, fixing, or retrofitting a skill. Don't use for invoking skills, writing prose, or Python scaffolds.",
-          "version": "2.1.0"
+          "version": "2.2.0"
         },
         {
           "name": "skill-install-improved",
@@ -1884,7 +2076,7 @@
       "name": "luongnv89-asm-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-19T08:19:09.109Z",
+      "createdAt": "2026-11-09T10:42:23.456Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1895,6 +2087,12 @@
         "asm"
       ],
       "skills": [
+        {
+          "name": "skill-changelog",
+          "installUrl": "github:luongnv89/asm:skills/skill-changelog",
+          "description": "Write or backfill a skill's own CHANGELOG.md from its git history when metadata.version is bumped. Use after any skill version bump or on /skill-changelog. Don't use for project release notes, commit messages, or upstream update summaries.",
+          "version": "1.0.0"
+        },
         {
           "name": "skill-shortener",
           "installUrl": "github:luongnv89/asm:skills/skill-shortener",
@@ -1920,7 +2118,7 @@
       "name": "luongnv89-asm-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-19T08:19:09.109Z",
+      "createdAt": "2026-11-09T10:42:23.456Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1933,7 +2131,7 @@
       "skills": [
         {
           "name": "hello-world",
-          "installUrl": "github:luongnv89/asm:skills/hello-world",
+          "installUrl": "github:luongnv89/asm:tests/fixtures/skills/hello-world",
           "description": "A minimal test skill that greets the user and demonstrates the ASM publish workflow.",
           "version": "1.0.0"
         },
@@ -1946,7 +2144,7 @@
           "name": "skill-creator",
           "installUrl": "github:luongnv89/asm:skills/skill-creator",
           "description": "Create a skill or bring an existing one up to the same standard (validate + asm eval fix loop); run evals, tune triggering. Use when authoring, fixing, or retrofitting a skill. Don't use for invoking skills, writing prose, or Python scaffolds.",
-          "version": "2.1.0"
+          "version": "2.2.0"
         },
         {
           "name": "skill-index-updater",
@@ -1976,10 +2174,46 @@
     },
     {
       "version": 1,
+      "name": "luongnv89-asm-devops",
+      "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from luongnv89/asm.",
+      "author": "ASM (luongnv89/asm)",
+      "createdAt": "2026-11-09T10:42:23.456Z",
+      "tags": [
+        "repo-derived",
+        "inferred",
+        "devops",
+        "infra",
+        "automation",
+        "luongnv89",
+        "asm"
+      ],
+      "skills": [
+        {
+          "name": "hello-world",
+          "installUrl": "github:luongnv89/asm:tests/fixtures/skills/hello-world",
+          "description": "A minimal test skill that greets the user and demonstrates the ASM publish workflow.",
+          "version": "1.0.0"
+        },
+        {
+          "name": "skill-changelog",
+          "installUrl": "github:luongnv89/asm:skills/skill-changelog",
+          "description": "Write or backfill a skill's own CHANGELOG.md from its git history when metadata.version is bumped. Use after any skill version bump or on /skill-changelog. Don't use for project release notes, commit messages, or upstream update summaries.",
+          "version": "1.0.0"
+        }
+      ],
+      "sourceRepo": {
+        "owner": "luongnv89",
+        "repo": "asm",
+        "repoUrl": "https://github.com/luongnv89/asm.git"
+      },
+      "inferred": true
+    },
+    {
+      "version": 1,
       "name": "luongnv89-asm-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from luongnv89/asm.",
       "author": "ASM (luongnv89/asm)",
-      "createdAt": "2026-10-19T08:19:09.109Z",
+      "createdAt": "2026-11-09T10:42:23.456Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -1995,6 +2229,12 @@
           "installUrl": "github:luongnv89/asm:skills/find-me-skills",
           "description": "Find Agent Skills for a goal the user cannot name yet, then export an installable bundle. Use when they ask which skills fit a project. Don't use for installing named skills, authoring skills, or catalog maintenance.",
           "version": "1.4.0"
+        },
+        {
+          "name": "skill-changelog",
+          "installUrl": "github:luongnv89/asm:skills/skill-changelog",
+          "description": "Write or backfill a skill's own CHANGELOG.md from its git history when metadata.version is bumped. Use after any skill version bump or on /skill-changelog. Don't use for project release notes, commit messages, or upstream update summaries.",
+          "version": "1.0.0"
         },
         {
           "name": "skill-install-improved",
