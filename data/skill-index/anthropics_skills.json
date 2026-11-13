@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+  "sourceCommit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
   "repoUrl": "https://github.com/anthropics/skills.git",
   "owner": "anthropics",
   "repo": "skills",
-  "updatedAt": "2026-10-19T08:19:11.676Z",
+  "updatedAt": "2026-11-09T10:42:25.931Z",
   "skillCount": 20,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.229Z",
+        "evaluatedAt": "2026-11-09T10:42:24.098Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.231Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.228Z",
+        "evaluatedAt": "2026-11-09T10:42:24.096Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,7 +359,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.228Z",
+        "evaluatedAt": "2026-11-09T10:42:24.096Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.228Z",
+        "evaluatedAt": "2026-11-09T10:42:24.096Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.228Z",
+        "evaluatedAt": "2026-11-09T10:42:24.096Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.228Z",
+        "evaluatedAt": "2026-11-09T10:42:24.095Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.230Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.231Z",
+        "evaluatedAt": "2026-11-09T10:42:24.098Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.231Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,18 +1254,18 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.231Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "8017469ea95fb7d28225c62daf8e2f3492a7b516fc64c18c28977cbf8980b7fe",
+      "contentHash": "9e8202e2524a9ed87da67a5b3eaa76e8e6038f4171f8251ad6aaefd34e82a3df",
       "sourcePath": "skills/docx/SKILL.md",
       "name": "docx",
       "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files) or Word templates (.dotx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', '.dotx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx or .dotx files, inserting or replacing images in documents, performing find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a 'report', 'memo', 'letter', 'template', or similar deliverable as a Word or .docx file, use this skill. Do NOT use for PDFs, spreadsheets, Google Docs, or general coding tasks unrelated to document generation.",
       "version": "0.0.0",
-      "license": "Proprietary. LICENSE.txt has complete terms",
+      "license": "Complete terms in LICENSE.txt",
       "creator": "",
       "compatibility": "",
       "allowedTools": [],
@@ -1276,7 +1276,7 @@
       "installUrl": "github:anthropics/skills:skills/docx",
       "relPath": "skills/docx",
       "verified": true,
-      "tokenCount": 1894,
+      "tokenCount": 1892,
       "evalSummary": {
         "overallScore": 68,
         "grade": "C",
@@ -1342,7 +1342,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.231Z",
+        "evaluatedAt": "2026-11-09T10:42:24.098Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1415,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.231Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1433,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.231Z",
+          "evaluatedAt": "2026-11-09T10:42:24.098Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.269Z",
+        "evaluatedAt": "2026-11-09T10:42:24.136Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.270Z",
+          "evaluatedAt": "2026-11-09T10:42:24.137Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.270Z",
+          "evaluatedAt": "2026-11-09T10:42:24.137Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.272Z",
+        "evaluatedAt": "2026-11-09T10:42:24.139Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.272Z",
+          "evaluatedAt": "2026-11-09T10:42:24.140Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,13 +1791,13 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.272Z",
+          "evaluatedAt": "2026-11-09T10:42:24.140Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "0f4592dcb53cf2b5d6b7febee6b4152018b565551a1c29e3c612f57b218ab295",
+      "contentHash": "b483b56d6673134497e45489c317f26ae0f1429c194db0297e43073e17e6748c",
       "sourcePath": "skills/mcp-builder/SKILL.md",
       "name": "mcp-builder",
       "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
@@ -1813,7 +1813,7 @@
       "installUrl": "github:anthropics/skills:skills/mcp-builder",
       "relPath": "skills/mcp-builder",
       "verified": true,
-      "tokenCount": 2173,
+      "tokenCount": 2648,
       "evalSummary": {
         "overallScore": 76,
         "grade": "C",
@@ -1879,7 +1879,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.271Z",
+        "evaluatedAt": "2026-11-09T10:42:24.140Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +1952,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.272Z",
+          "evaluatedAt": "2026-11-09T10:42:24.140Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,18 +1970,18 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.272Z",
+          "evaluatedAt": "2026-11-09T10:42:24.140Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "9f78b8359fbd4943ad260a7a1e436e5a96503406d6c34e99f69223d647d85b9c",
+      "contentHash": "d1c7caf5f35eb7d37877dd7fc33a095037be2b34fb5d2f7f4d43bde3165bb4ee",
       "sourcePath": "skills/pdf/SKILL.md",
       "name": "pdf",
       "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
       "version": "0.0.0",
-      "license": "Proprietary. LICENSE.txt has complete terms",
+      "license": "Complete terms in LICENSE.txt",
       "creator": "",
       "compatibility": "",
       "allowedTools": [],
@@ -1992,7 +1992,7 @@
       "installUrl": "github:anthropics/skills:skills/pdf",
       "relPath": "skills/pdf",
       "verified": true,
-      "tokenCount": 2015,
+      "tokenCount": 2013,
       "evalSummary": {
         "overallScore": 61,
         "grade": "D",
@@ -2058,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.272Z",
+        "evaluatedAt": "2026-11-09T10:42:24.140Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.272Z",
+          "evaluatedAt": "2026-11-09T10:42:24.141Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,18 +2149,18 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.272Z",
+          "evaluatedAt": "2026-11-09T10:42:24.141Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "a7ff03e2c85b636f55232a6b1555f5dd90216b7a1a359ab289d8364e6acbc6a0",
+      "contentHash": "b60bd282c6e01297f0eefe71594d1756dbf60a584f524c04a803ec6950b7fba2",
       "sourcePath": "skills/pptx/SKILL.md",
       "name": "pptx",
       "description": "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx or .potx file (even if the extracted content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining or splitting slide files; working with templates (.potx), layouts, speaker notes, or comments. Trigger whenever the user mentions \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" or references a .pptx or .potx filename, regardless of what they plan to do with the content afterward. If a .pptx or .potx file needs to be opened, created, or touched, use this skill.",
       "version": "0.0.0",
-      "license": "Proprietary. LICENSE.txt has complete terms",
+      "license": "Complete terms in LICENSE.txt",
       "creator": "",
       "compatibility": "",
       "allowedTools": [],
@@ -2171,7 +2171,7 @@
       "installUrl": "github:anthropics/skills:skills/pptx",
       "relPath": "skills/pptx",
       "verified": true,
-      "tokenCount": 6147,
+      "tokenCount": 6145,
       "evalSummary": {
         "overallScore": 66,
         "grade": "C",
@@ -2237,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.295Z",
+        "evaluatedAt": "2026-11-09T10:42:24.153Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.298Z",
+          "evaluatedAt": "2026-11-09T10:42:24.156Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.298Z",
+          "evaluatedAt": "2026-11-09T10:42:24.156Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2416,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:11.270Z",
+        "evaluatedAt": "2026-11-09T10:42:25.355Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:11.270Z",
+          "evaluatedAt": "2026-11-09T10:42:25.355Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,7 +2507,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:11.271Z",
+          "evaluatedAt": "2026-11-09T10:42:25.355Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2595,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.373Z",
+        "evaluatedAt": "2026-11-09T10:42:24.213Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.374Z",
+          "evaluatedAt": "2026-11-09T10:42:24.213Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,7 +2686,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.374Z",
+          "evaluatedAt": "2026-11-09T10:42:24.213Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2774,7 +2774,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.467Z",
+        "evaluatedAt": "2026-11-09T10:42:24.375Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2847,7 +2847,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.468Z",
+          "evaluatedAt": "2026-11-09T10:42:24.375Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2865,7 +2865,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.468Z",
+          "evaluatedAt": "2026-11-09T10:42:24.375Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2953,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.493Z",
+        "evaluatedAt": "2026-11-09T10:42:24.398Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3026,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.493Z",
+          "evaluatedAt": "2026-11-09T10:42:24.404Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3044,7 +3044,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.493Z",
+          "evaluatedAt": "2026-11-09T10:42:24.404Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3132,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.616Z",
+        "evaluatedAt": "2026-11-09T10:42:24.414Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3205,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.620Z",
+          "evaluatedAt": "2026-11-09T10:42:24.414Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3223,7 +3223,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.620Z",
+          "evaluatedAt": "2026-11-09T10:42:24.414Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3311,7 +3311,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.636Z",
+        "evaluatedAt": "2026-11-09T10:42:24.498Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3384,7 +3384,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.636Z",
+          "evaluatedAt": "2026-11-09T10:42:24.499Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3402,18 +3402,18 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.637Z",
+          "evaluatedAt": "2026-11-09T10:42:24.499Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "6712b39718fe815054abca9c3ee72f989613e6f771c8a5c58f30a65a6c905622",
+      "contentHash": "caa1e1c29cf974c8d874bf3d0a70838445e7342b570f856ddb3e4a21ef7c7e8b",
       "sourcePath": "skills/xlsx/SKILL.md",
       "name": "xlsx",
       "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .xltx, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like \\\"the xlsx in my downloads\\\") — and wants something done to it or produced from it. Also trigger for cleaning or restructuring messy tabular data files (malformed rows, misplaced headers, junk data) into proper spreadsheets. The deliverable must be a spreadsheet file. Do NOT trigger when the primary deliverable is a Word document, HTML report, standalone Python script, database pipeline, or Google Sheets API integration, even if tabular data is involved.",
       "version": "0.0.0",
-      "license": "Proprietary. LICENSE.txt has complete terms",
+      "license": "Complete terms in LICENSE.txt",
       "creator": "",
       "compatibility": "",
       "allowedTools": [],
@@ -3424,7 +3424,7 @@
       "installUrl": "github:anthropics/skills:skills/xlsx",
       "relPath": "skills/xlsx",
       "verified": true,
-      "tokenCount": 2551,
+      "tokenCount": 2549,
       "evalSummary": {
         "overallScore": 70,
         "grade": "C",
@@ -3490,7 +3490,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:19:10.706Z",
+        "evaluatedAt": "2026-11-09T10:42:24.698Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -3563,7 +3563,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.707Z",
+          "evaluatedAt": "2026-11-09T10:42:24.698Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -3581,7 +3581,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:19:10.710Z",
+          "evaluatedAt": "2026-11-09T10:42:24.698Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -3593,7 +3593,7 @@
       "name": "anthropics-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from anthropics/skills.",
       "author": "ASM (anthropics/skills)",
-      "createdAt": "2026-10-19T08:19:11.676Z",
+      "createdAt": "2026-11-09T10:42:25.931Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3641,7 +3641,7 @@
       "name": "anthropics-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from anthropics/skills.",
       "author": "ASM (anthropics/skills)",
-      "createdAt": "2026-10-19T08:19:11.676Z",
+      "createdAt": "2026-11-09T10:42:25.931Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3725,7 +3725,7 @@
       "name": "anthropics-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from anthropics/skills.",
       "author": "ASM (anthropics/skills)",
-      "createdAt": "2026-10-19T08:19:11.676Z",
+      "createdAt": "2026-11-09T10:42:25.931Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3785,7 +3785,7 @@
       "name": "anthropics-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from anthropics/skills.",
       "author": "ASM (anthropics/skills)",
-      "createdAt": "2026-10-19T08:19:11.676Z",
+      "createdAt": "2026-11-09T10:42:25.931Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3869,7 +3869,7 @@
       "name": "anthropics-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from anthropics/skills.",
       "author": "ASM (anthropics/skills)",
-      "createdAt": "2026-10-19T08:19:11.676Z",
+      "createdAt": "2026-11-09T10:42:25.931Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3959,7 +3959,7 @@
       "name": "anthropics-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from anthropics/skills.",
       "author": "ASM (anthropics/skills)",
-      "createdAt": "2026-10-19T08:19:11.676Z",
+      "createdAt": "2026-11-09T10:42:25.931Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -4025,7 +4025,7 @@
       "name": "anthropics-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from anthropics/skills.",
       "author": "ASM (anthropics/skills)",
-      "createdAt": "2026-10-19T08:19:11.676Z",
+      "createdAt": "2026-11-09T10:42:25.931Z",
       "tags": [
         "repo-derived",
         "inferred",

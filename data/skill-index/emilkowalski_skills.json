@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "2d228630ba1446365f614a108cb8252f1feda202",
+  "sourceCommit": "5206a950b715e0cabe7043ea0b2304332b91494e",
   "repoUrl": "https://github.com/emilkowalski/skills.git",
   "owner": "emilkowalski",
   "repo": "skills",
-  "updatedAt": "2026-10-19T08:22:46.332Z",
-  "skillCount": 15,
+  "updatedAt": "2026-11-09T10:46:03.829Z",
+  "skillCount": 18,
   "skills": [
     {
-      "contentHash": "b8ede161270458e6ae2e45e8a1985373515d4c63de5568ddb0f9012d7634356c",
+      "contentHash": "39138996033e0dbe53e73217514116eaeca774bae84a0687c80d445a4e0cc3a6",
       "sourcePath": "skills/animate/SKILL.md",
       "name": "animate",
       "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what purpose, which tool, which properties, which curve and duration, how it interrupts, how it exits. Writes the implementation. Use when asked to animate something, add motion, make a component feel alive, or build a transition. For critiquing existing motion use review-animations; for auditing a whole codebase use improve-animations.",
@@ -23,7 +23,7 @@
       "installUrl": "github:emilkowalski/skills:skills/animate",
       "relPath": "skills/animate",
       "verified": true,
-      "tokenCount": 3621,
+      "tokenCount": 3631,
       "evalSummary": {
         "overallScore": 71,
         "grade": "C",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.261Z",
+        "evaluatedAt": "2026-11-09T10:46:03.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -268,7 +268,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedAt": "2026-11-09T10:46:03.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -341,7 +341,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -359,16 +359,16 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "ceb9dd3fe912615830f725a0120ccf8d012d15a6218001a5cd6c15d38e39a957",
+      "contentHash": "6c60f45ab416ff3f7d7765a5427beead77fab0d82487fe610d2a298397558d0a",
       "sourcePath": "skills/animation-performance/SKILL.md",
       "name": "animation-performance",
-      "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+      "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
       "version": "0.0.0",
       "license": "",
       "creator": "",
@@ -381,9 +381,9 @@
       "installUrl": "github:emilkowalski/skills:skills/animation-performance",
       "relPath": "skills/animation-performance",
       "verified": true,
-      "tokenCount": 4283,
+      "tokenCount": 4365,
       "evalSummary": {
-        "overallScore": 65,
+        "overallScore": 68,
         "grade": "C",
         "categories": [
           {
@@ -413,7 +413,7 @@
           {
             "id": "safety",
             "name": "Safety & guardrails",
-            "score": 5,
+            "score": 8,
             "max": 10
           },
           {
@@ -447,7 +447,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedAt": "2026-11-09T10:46:03.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -456,7 +456,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 65,
+          "overallScore": 68,
           "grade": "C",
           "categories": [
             {
@@ -486,7 +486,7 @@
             {
               "id": "safety",
               "name": "Safety & guardrails",
-              "score": 5,
+              "score": 8,
               "max": 10
             },
             {
@@ -520,7 +520,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -538,7 +538,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -626,7 +626,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedAt": "2026-11-09T10:46:03.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -699,7 +699,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -717,7 +717,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -805,7 +805,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.259Z",
+        "evaluatedAt": "2026-11-09T10:46:03.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -878,7 +878,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -896,7 +896,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -984,7 +984,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.258Z",
+        "evaluatedAt": "2026-11-09T10:46:03.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1057,7 +1057,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1075,7 +1075,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1163,7 +1163,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.258Z",
+        "evaluatedAt": "2026-11-09T10:46:03.730Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1236,7 +1236,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1254,13 +1254,192 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.261Z",
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "ffbe68e6007fb42cb8149f089b400a1ca007d59ba23e8948e2be4476f3175939",
+      "contentHash": "815c7d889230bafc72c03bb0769087aeede310130e8795c7949b3e3a1684e464",
+      "sourcePath": "skills/choreograph/SKILL.md",
+      "name": "choreograph",
+      "description": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a group reads as one intentional motion instead of a pile of separate animations. Use when building or fixing a staggered list, a hero entrance, a view swap inside a container, a multi-step flow, an element leaving while its siblings close the gap, a morph between rich states, or any interaction with several moving parts (icon + background + lines, panel + content, items flying into a target). Triggers on — stagger, staggerChildren, delayChildren, animation-delay, sequence, sequencing, orchestration, choreography, cascade, wave, timeline, \"one after another\", \"at the same time\", crossfade, popLayout, mode=\"wait\", AnimatePresence mode, hero entrance, list entrance, multi-step, step transition, morph, useAnimate, Promise.all animations, \"feels mechanical\", \"feels robotic\", \"too much going on\", \"feels slow to open\".",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:emilkowalski/skills:skills/choreograph",
+      "relPath": "skills/choreograph",
+      "verified": true,
+      "tokenCount": 5272,
+      "evalSummary": {
+        "overallScore": 61,
+        "grade": "D",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 4,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 3,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-11-09T10:46:03.732Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 61,
+          "grade": "D",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 4,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 3,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-11-09T10:46:03.732Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "965cc3108047a1f68e504977ae7816c66115b202a32e7509c0b8305314839c54",
       "sourcePath": "skills/emil-design-eng/SKILL.md",
       "name": "emil-design-eng",
       "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
@@ -1276,7 +1455,7 @@
       "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
       "relPath": "skills/emil-design-eng",
       "verified": true,
-      "tokenCount": 8111,
+      "tokenCount": 8223,
       "evalSummary": {
         "overallScore": 66,
         "grade": "C",
@@ -1342,7 +1521,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.261Z",
+        "evaluatedAt": "2026-11-09T10:46:03.765Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1415,7 +1594,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.262Z",
+          "evaluatedAt": "2026-11-09T10:46:03.767Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1433,7 +1612,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.262Z",
+          "evaluatedAt": "2026-11-09T10:46:03.767Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1521,7 +1700,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.297Z",
+        "evaluatedAt": "2026-11-09T10:46:03.767Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1594,7 +1773,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.300Z",
+          "evaluatedAt": "2026-11-09T10:46:03.775Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1612,7 +1791,186 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.300Z",
+          "evaluatedAt": "2026-11-09T10:46:03.775Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "3301a3528632e7b6e980e79f2708f2faa60340e833ce5816b5b081e8cfe83e7f",
+      "sourcePath": "skills/gestures/SKILL.md",
+      "name": "gestures",
+      "description": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible. Use when building or fixing anything the user drags, swipes, flings, holds, or dismisses with a gesture — drawers, sheets, swipe-to-dismiss toasts and cards, drag-to-reorder, pull-to-refresh, hold-to-confirm — or when a gesture feels laggy, disconnected from the finger, jumps on release, or can't be caught mid-animation. Triggers on — gesture, drag, draggable, swipe, swipe to dismiss, fling, momentum, velocity, drawer, sheet, bottom sheet, snap points, Vaul, dragConstraints, dragElastic, dragMomentum, onDragEnd, whileDrag, useMotionValue, rubber-band, overscroll, pull to refresh, hold to delete, press and hold, touch-action, dismiss threshold, \"doesn't follow my finger\", \"jumps when I let go\", \"can't grab it mid-animation\".",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:emilkowalski/skills:skills/gestures",
+      "relPath": "skills/gestures",
+      "verified": true,
+      "tokenCount": 2676,
+      "evalSummary": {
+        "overallScore": 68,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 6,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 9,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 1,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-11-09T10:46:03.775Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 68,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 6,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 9,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 1,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-11-09T10:46:03.783Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-11-09T10:46:03.783Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1700,7 +2058,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.300Z",
+        "evaluatedAt": "2026-11-09T10:46:03.792Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1773,7 +2131,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.308Z",
+          "evaluatedAt": "2026-11-09T10:46:03.794Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1791,7 +2149,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.308Z",
+          "evaluatedAt": "2026-11-09T10:46:03.794Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -1879,7 +2237,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.308Z",
+        "evaluatedAt": "2026-11-09T10:46:03.793Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -1952,7 +2310,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.312Z",
+          "evaluatedAt": "2026-11-09T10:46:03.795Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -1970,7 +2328,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.312Z",
+          "evaluatedAt": "2026-11-09T10:46:03.795Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2058,7 +2416,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.312Z",
+        "evaluatedAt": "2026-11-09T10:46:03.792Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2131,7 +2489,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.313Z",
+          "evaluatedAt": "2026-11-09T10:46:03.794Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2149,7 +2507,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.313Z",
+          "evaluatedAt": "2026-11-09T10:46:03.794Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2237,7 +2595,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.314Z",
+        "evaluatedAt": "2026-11-09T10:46:03.795Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2310,7 +2668,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.317Z",
+          "evaluatedAt": "2026-11-09T10:46:03.798Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2328,13 +2686,192 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.317Z",
+          "evaluatedAt": "2026-11-09T10:46:03.798Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     },
     {
-      "contentHash": "6ff590d29e436766135aa3d137be1fac2a867165c7257fc315b189361f1873af",
+      "contentHash": "dea95b7a7ef81cba312c7f70a3c5c67d7e06a287cb16b16d2f90f2b1fb0afff9",
+      "sourcePath": "skills/remove-animations/SKILL.md",
+      "name": "remove-animations",
+      "description": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and decoration with no purpose — then clean up what they leave behind. Edits code, but only to subtract; it never adds or retunes motion. Use when the user says the app \"feels slow\", \"has too much animation\", \"feels over-animated\", wants to \"tone down the motion\", or asks what animations to remove. For finding places that should animate, use find-animation-opportunities; for fixing animations that should stay, use improve-animations or review-animations.",
+      "version": "0.0.0",
+      "license": "",
+      "creator": "",
+      "compatibility": "",
+      "allowedTools": [],
+      "tags": [],
+      "dependencies": [],
+      "modelInvocable": true,
+      "userInvocable": true,
+      "installUrl": "github:emilkowalski/skills:skills/remove-animations",
+      "relPath": "skills/remove-animations",
+      "verified": true,
+      "tokenCount": 3556,
+      "evalSummary": {
+        "overallScore": 72,
+        "grade": "C",
+        "categories": [
+          {
+            "id": "structure",
+            "name": "Structure & completeness",
+            "score": 7,
+            "max": 10
+          },
+          {
+            "id": "description",
+            "name": "Description quality",
+            "score": 6,
+            "max": 10
+          },
+          {
+            "id": "prompt-engineering",
+            "name": "Prompt engineering",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "context-efficiency",
+            "name": "Context efficiency",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "safety",
+            "name": "Safety & guardrails",
+            "score": 8,
+            "max": 10
+          },
+          {
+            "id": "testability",
+            "name": "Testability",
+            "score": 5,
+            "max": 10
+          },
+          {
+            "id": "license",
+            "name": "License verification",
+            "score": 0,
+            "max": 10
+          },
+          {
+            "id": "naming",
+            "name": "Naming & conventions",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "pii",
+            "name": "PII detection",
+            "score": 10,
+            "max": 10
+          },
+          {
+            "id": "script-lint",
+            "name": "Script linting",
+            "score": 10,
+            "max": 10
+          }
+        ],
+        "evaluatedAt": "2026-11-09T10:46:03.797Z",
+        "evaluatedVersion": "0.0.0"
+      },
+      "evalSummaries": {
+        "quality": {
+          "providerId": "quality",
+          "providerVersion": "1.0.0",
+          "schemaVersion": 1,
+          "passed": true,
+          "overallScore": 72,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "structure",
+              "name": "Structure & completeness",
+              "score": 7,
+              "max": 10
+            },
+            {
+              "id": "description",
+              "name": "Description quality",
+              "score": 6,
+              "max": 10
+            },
+            {
+              "id": "prompt-engineering",
+              "name": "Prompt engineering",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "context-efficiency",
+              "name": "Context efficiency",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "safety",
+              "name": "Safety & guardrails",
+              "score": 8,
+              "max": 10
+            },
+            {
+              "id": "testability",
+              "name": "Testability",
+              "score": 5,
+              "max": 10
+            },
+            {
+              "id": "license",
+              "name": "License verification",
+              "score": 0,
+              "max": 10
+            },
+            {
+              "id": "naming",
+              "name": "Naming & conventions",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "pii",
+              "name": "PII detection",
+              "score": 10,
+              "max": 10
+            },
+            {
+              "id": "script-lint",
+              "name": "Script linting",
+              "score": 10,
+              "max": 10
+            }
+          ],
+          "evaluatedAt": "2026-11-09T10:46:03.799Z",
+          "evaluatedVersion": "0.0.0"
+        },
+        "skill-best-practice": {
+          "providerId": "skill-best-practice",
+          "providerVersion": "1.2.0",
+          "schemaVersion": 1,
+          "passed": false,
+          "overallScore": 69,
+          "grade": "C",
+          "categories": [
+            {
+              "id": "validation",
+              "name": "Deterministic validation",
+              "score": 9,
+              "max": 13
+            }
+          ],
+          "evaluatedAt": "2026-11-09T10:46:03.799Z",
+          "evaluatedVersion": "0.0.0"
+        }
+      }
+    },
+    {
+      "contentHash": "5f9fb98b69cace7107af8b393a4196fd42fa42d98bce0e5afc1f866ff3b8a41c",
       "sourcePath": "skills/review-animations/SKILL.md",
       "name": "review-animations",
       "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.",
@@ -2350,7 +2887,7 @@
       "installUrl": "github:emilkowalski/skills:skills/review-animations",
       "relPath": "skills/review-animations",
       "verified": true,
-      "tokenCount": 2257,
+      "tokenCount": 2283,
       "evalSummary": {
         "overallScore": 64,
         "grade": "D",
@@ -2416,7 +2953,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.317Z",
+        "evaluatedAt": "2026-11-09T10:46:03.820Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2489,7 +3026,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.320Z",
+          "evaluatedAt": "2026-11-09T10:46:03.823Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2507,7 +3044,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.320Z",
+          "evaluatedAt": "2026-11-09T10:46:03.823Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2595,7 +3132,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:46.321Z",
+        "evaluatedAt": "2026-11-09T10:46:03.823Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -2668,7 +3205,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.322Z",
+          "evaluatedAt": "2026-11-09T10:46:03.823Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -2686,7 +3223,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:46.322Z",
+          "evaluatedAt": "2026-11-09T10:46:03.823Z",
           "evaluatedVersion": "0.0.0"
         }
       }
@@ -2698,7 +3235,7 @@
       "name": "emilkowalski-skills-marketing",
       "description": "Marketing, growth, SEO, ASO, affiliate, sales, and conversion skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-09T10:46:03.829Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2713,6 +3250,18 @@
           "name": "animation-vocabulary",
           "installUrl": "github:emilkowalski/skills:skills/animation-vocabulary",
           "description": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a popover opens\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding). Use when the user asks \"what's it called when…\", or describes a motion effect without knowing its name and wants the right word to prompt an AI or designer with. For naming an effect, not designing or building one.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "choreograph",
+          "installUrl": "github:emilkowalski/skills:skills/choreograph",
+          "description": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a group reads as one intentional motion instead of a pile of separate animations. Use when building or fixing a staggered list, a hero entrance, a view swap inside a container, a multi-step flow, an element leaving while its siblings close the gap, a morph between rich states, or any interaction with several moving parts (icon + background + lines, panel + content, items flying into a target). Triggers on — stagger, staggerChildren, delayChildren, animation-delay, sequence, sequencing, orchestration, choreography, cascade, wave, timeline, \"one after another\", \"at the same time\", crossfade, popLayout, mode=\"wait\", AnimatePresence mode, hero entrance, list entrance, multi-step, step transition, morph, useAnimate, Promise.all animations, \"feels mechanical\", \"feels robotic\", \"too much going on\", \"feels slow to open\".",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gestures",
+          "installUrl": "github:emilkowalski/skills:skills/gestures",
+          "description": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible. Use when building or fixing anything the user drags, swipes, flings, holds, or dismisses with a gesture — drawers, sheets, swipe-to-dismiss toasts and cards, drag-to-reorder, pull-to-refresh, hold-to-confirm — or when a gesture feels laggy, disconnected from the finger, jumps on release, or can't be caught mid-animation. Triggers on — gesture, drag, draggable, swipe, swipe to dismiss, fling, momentum, velocity, drawer, sheet, bottom sheet, snap points, Vaul, dragConstraints, dragElastic, dragMomentum, onDragEnd, whileDrag, useMotionValue, rubber-band, overscroll, pull to refresh, hold to delete, press and hold, touch-action, dismiss threshold, \"doesn't follow my finger\", \"jumps when I let go\", \"can't grab it mid-animation\".",
           "version": "0.0.0"
         },
         {
@@ -2740,7 +3289,7 @@
       "name": "emilkowalski-skills-writing",
       "description": "Writing, editing, documentation, publishing, and content-production skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-09T10:46:03.829Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2761,6 +3310,12 @@
           "name": "animate-expo",
           "installUrl": "github:emilkowalski/skills:skills/animate-expo",
           "description": "Build animations in React Native and Expo, making the decisions in the order that determines whether they feel right — should it animate, which thread it runs on, which properties, spring or timing, how the gesture hands off, how it degrades. Writes the implementation with Reanimated, Gesture Handler, Expo Router and expo-haptics. Use when animating anything in an Expo app, adding gestures, sheets, screen transitions, press feedback or haptics, or fixing motion that stutters on device. For web animation use `animate`.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "choreograph",
+          "installUrl": "github:emilkowalski/skills:skills/choreograph",
+          "description": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a group reads as one intentional motion instead of a pile of separate animations. Use when building or fixing a staggered list, a hero entrance, a view swap inside a container, a multi-step flow, an element leaving while its siblings close the gap, a morph between rich states, or any interaction with several moving parts (icon + background + lines, panel + content, items flying into a target). Triggers on — stagger, staggerChildren, delayChildren, animation-delay, sequence, sequencing, orchestration, choreography, cascade, wave, timeline, \"one after another\", \"at the same time\", crossfade, popLayout, mode=\"wait\", AnimatePresence mode, hero entrance, list entrance, multi-step, step transition, morph, useAnimate, Promise.all animations, \"feels mechanical\", \"feels robotic\", \"too much going on\", \"feels slow to open\".",
           "version": "0.0.0"
         },
         {
@@ -2788,7 +3343,7 @@
       "name": "emilkowalski-skills-research",
       "description": "Research, academic, literature-review, citation, paper, and analysis skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-09T10:46:03.829Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2808,7 +3363,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2839,6 +3394,12 @@
           "name": "mobile-native",
           "installUrl": "github:emilkowalski/skills:skills/mobile-native",
           "description": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels installed. Covers sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, pull-to-refresh hijacking scroll, content under the notch, long-press selecting button text, carousels that scroll the wrong way, mismatched status bars, and the rule that you test on real hardware. Use when a web app is being built for or reviewed on mobile, when something \"works in Chrome but feels wrong on my phone\", when building a PWA, a bottom sheet, a carousel, a full-screen layout, or any touch interaction. For motion itself use animate; for React Native use animate-expo.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "remove-animations",
+          "installUrl": "github:emilkowalski/skills:skills/remove-animations",
+          "description": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and decoration with no purpose — then clean up what they leave behind. Edits code, but only to subtract; it never adds or retunes motion. Use when the user says the app \"feels slow\", \"has too much animation\", \"feels over-animated\", wants to \"tone down the motion\", or asks what animations to remove. For finding places that should animate, use find-animation-opportunities; for fixing animations that should stay, use improve-animations or review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2866,7 +3427,7 @@
       "name": "emilkowalski-skills-engineering",
       "description": "Coding, debugging, testing, architecture, review, and software engineering skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-09T10:46:03.829Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2892,7 +3453,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2914,6 +3475,12 @@
           "version": "0.0.0"
         },
         {
+          "name": "choreograph",
+          "installUrl": "github:emilkowalski/skills:skills/choreograph",
+          "description": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a group reads as one intentional motion instead of a pile of separate animations. Use when building or fixing a staggered list, a hero entrance, a view swap inside a container, a multi-step flow, an element leaving while its siblings close the gap, a morph between rich states, or any interaction with several moving parts (icon + background + lines, panel + content, items flying into a target). Triggers on — stagger, staggerChildren, delayChildren, animation-delay, sequence, sequencing, orchestration, choreography, cascade, wave, timeline, \"one after another\", \"at the same time\", crossfade, popLayout, mode=\"wait\", AnimatePresence mode, hero entrance, list entrance, multi-step, step transition, morph, useAnimate, Promise.all animations, \"feels mechanical\", \"feels robotic\", \"too much going on\", \"feels slow to open\".",
+          "version": "0.0.0"
+        },
+        {
           "name": "emil-design-eng",
           "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
           "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
@@ -2923,6 +3490,12 @@
           "name": "find-animation-opportunities",
           "installUrl": "github:emilkowalski/skills:skills/find-animation-opportunities",
           "description": "Search a codebase or UI for places that don't animate but should, and reject everything that shouldn't. Read-only; it proposes motion with exact values, it does not implement it. Use when the user asks \"what could be animated here?\" or wants to \"make this feel more alive\". For fixing existing animations, use improve-animations or review-animations instead.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gestures",
+          "installUrl": "github:emilkowalski/skills:skills/gestures",
+          "description": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible. Use when building or fixing anything the user drags, swipes, flings, holds, or dismisses with a gesture — drawers, sheets, swipe-to-dismiss toasts and cards, drag-to-reorder, pull-to-refresh, hold-to-confirm — or when a gesture feels laggy, disconnected from the finger, jumps on release, or can't be caught mid-animation. Triggers on — gesture, drag, draggable, swipe, swipe to dismiss, fling, momentum, velocity, drawer, sheet, bottom sheet, snap points, Vaul, dragConstraints, dragElastic, dragMomentum, onDragEnd, whileDrag, useMotionValue, rubber-band, overscroll, pull to refresh, hold to delete, press and hold, touch-action, dismiss threshold, \"doesn't follow my finger\", \"jumps when I let go\", \"can't grab it mid-animation\".",
           "version": "0.0.0"
         },
         {
@@ -2941,6 +3514,12 @@
           "name": "prototype",
           "installUrl": "github:emilkowalski/skills:skills/prototype",
           "description": "Build multiple genuinely different versions of a UI piece you describe, rendered behind a visual picker so you can flip through them live and promote the one that feels right. Only runs when explicitly invoked; it does not trigger on its own.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "remove-animations",
+          "installUrl": "github:emilkowalski/skills:skills/remove-animations",
+          "description": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and decoration with no purpose — then clean up what they leave behind. Edits code, but only to subtract; it never adds or retunes motion. Use when the user says the app \"feels slow\", \"has too much animation\", \"feels over-animated\", wants to \"tone down the motion\", or asks what animations to remove. For finding places that should animate, use find-animation-opportunities; for fixing animations that should stay, use improve-animations or review-animations.",
           "version": "0.0.0"
         },
         {
@@ -2968,7 +3547,7 @@
       "name": "emilkowalski-skills-frontend-design",
       "description": "Frontend, UI, UX, visual design, component, theme, and landing-page skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-09T10:46:03.829Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -2994,7 +3573,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -3022,6 +3601,12 @@
           "version": "0.0.0"
         },
         {
+          "name": "choreograph",
+          "installUrl": "github:emilkowalski/skills:skills/choreograph",
+          "description": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a group reads as one intentional motion instead of a pile of separate animations. Use when building or fixing a staggered list, a hero entrance, a view swap inside a container, a multi-step flow, an element leaving while its siblings close the gap, a morph between rich states, or any interaction with several moving parts (icon + background + lines, panel + content, items flying into a target). Triggers on — stagger, staggerChildren, delayChildren, animation-delay, sequence, sequencing, orchestration, choreography, cascade, wave, timeline, \"one after another\", \"at the same time\", crossfade, popLayout, mode=\"wait\", AnimatePresence mode, hero entrance, list entrance, multi-step, step transition, morph, useAnimate, Promise.all animations, \"feels mechanical\", \"feels robotic\", \"too much going on\", \"feels slow to open\".",
+          "version": "0.0.0"
+        },
+        {
           "name": "emil-design-eng",
           "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
           "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
@@ -3031,6 +3616,12 @@
           "name": "find-animation-opportunities",
           "installUrl": "github:emilkowalski/skills:skills/find-animation-opportunities",
           "description": "Search a codebase or UI for places that don't animate but should, and reject everything that shouldn't. Read-only; it proposes motion with exact values, it does not implement it. Use when the user asks \"what could be animated here?\" or wants to \"make this feel more alive\". For fixing existing animations, use improve-animations or review-animations instead.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gestures",
+          "installUrl": "github:emilkowalski/skills:skills/gestures",
+          "description": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible. Use when building or fixing anything the user drags, swipes, flings, holds, or dismisses with a gesture — drawers, sheets, swipe-to-dismiss toasts and cards, drag-to-reorder, pull-to-refresh, hold-to-confirm — or when a gesture feels laggy, disconnected from the finger, jumps on release, or can't be caught mid-animation. Triggers on — gesture, drag, draggable, swipe, swipe to dismiss, fling, momentum, velocity, drawer, sheet, bottom sheet, snap points, Vaul, dragConstraints, dragElastic, dragMomentum, onDragEnd, whileDrag, useMotionValue, rubber-band, overscroll, pull to refresh, hold to delete, press and hold, touch-action, dismiss threshold, \"doesn't follow my finger\", \"jumps when I let go\", \"can't grab it mid-animation\".",
           "version": "0.0.0"
         },
         {
@@ -3076,7 +3667,7 @@
       "name": "emilkowalski-skills-mobile",
       "description": "iOS, Swift, SwiftUI, Xcode, macOS, and App Store skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-09T10:46:03.829Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3118,7 +3709,7 @@
       "name": "emilkowalski-skills-devops",
       "description": "Deployment, CI/CD, infrastructure, cloud, Docker, Kubernetes, and automation skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-09T10:46:03.829Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3144,13 +3735,25 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "choreograph",
+          "installUrl": "github:emilkowalski/skills:skills/choreograph",
+          "description": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a group reads as one intentional motion instead of a pile of separate animations. Use when building or fixing a staggered list, a hero entrance, a view swap inside a container, a multi-step flow, an element leaving while its siblings close the gap, a morph between rich states, or any interaction with several moving parts (icon + background + lines, panel + content, items flying into a target). Triggers on — stagger, staggerChildren, delayChildren, animation-delay, sequence, sequencing, orchestration, choreography, cascade, wave, timeline, \"one after another\", \"at the same time\", crossfade, popLayout, mode=\"wait\", AnimatePresence mode, hero entrance, list entrance, multi-step, step transition, morph, useAnimate, Promise.all animations, \"feels mechanical\", \"feels robotic\", \"too much going on\", \"feels slow to open\".",
           "version": "0.0.0"
         },
         {
           "name": "emil-design-eng",
           "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
           "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "gestures",
+          "installUrl": "github:emilkowalski/skills:skills/gestures",
+          "description": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible. Use when building or fixing anything the user drags, swipes, flings, holds, or dismisses with a gesture — drawers, sheets, swipe-to-dismiss toasts and cards, drag-to-reorder, pull-to-refresh, hold-to-confirm — or when a gesture feels laggy, disconnected from the finger, jumps on release, or can't be caught mid-animation. Triggers on — gesture, drag, draggable, swipe, swipe to dismiss, fling, momentum, velocity, drawer, sheet, bottom sheet, snap points, Vaul, dragConstraints, dragElastic, dragMomentum, onDragEnd, whileDrag, useMotionValue, rubber-band, overscroll, pull to refresh, hold to delete, press and hold, touch-action, dismiss threshold, \"doesn't follow my finger\", \"jumps when I let go\", \"can't grab it mid-animation\".",
           "version": "0.0.0"
         },
         {
@@ -3178,7 +3781,7 @@
       "name": "emilkowalski-skills-data-ai",
       "description": "Data, analytics, AI, model, prompt, agent, and automation skills. Derived from emilkowalski/skills.",
       "author": "ASM (emilkowalski/skills)",
-      "createdAt": "2026-10-19T08:22:46.332Z",
+      "createdAt": "2026-11-09T10:46:03.829Z",
       "tags": [
         "repo-derived",
         "inferred",
@@ -3192,7 +3795,7 @@
         {
           "name": "animation-performance",
           "installUrl": "github:emilkowalski/skills:skills/animation-performance",
-          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Framer Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
+          "description": "Keep web animations inside the frame budget — animate composite-only properties, keep motion off the main thread when the page is busy, and find the cause when an animation drops frames. Covers the layout/paint/composite pipeline, cheaper property swaps, CSS vs WAAPI vs requestAnimationFrame, Motion's hardware-accelerated path, React re-rendering per frame, inherited CSS variable recalculation, blur cost, and when `will-change` actually helps. Use when an animation is janky, choppy, stutters, or drops frames; when choosing which property to animate; when deciding between CSS and JS animation on performance grounds; or when reaching for `will-change` or GPU layers. For choosing easing, duration, or whether to animate at all use animate; for reviewing motion as a whole use review-animations.",
           "version": "0.0.0"
         },
         {
@@ -3220,15 +3823,33 @@
           "version": "0.0.0"
         },
         {
+          "name": "choreograph",
+          "installUrl": "github:emilkowalski/skills:skills/choreograph",
+          "description": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a group reads as one intentional motion instead of a pile of separate animations. Use when building or fixing a staggered list, a hero entrance, a view swap inside a container, a multi-step flow, an element leaving while its siblings close the gap, a morph between rich states, or any interaction with several moving parts (icon + background + lines, panel + content, items flying into a target). Triggers on — stagger, staggerChildren, delayChildren, animation-delay, sequence, sequencing, orchestration, choreography, cascade, wave, timeline, \"one after another\", \"at the same time\", crossfade, popLayout, mode=\"wait\", AnimatePresence mode, hero entrance, list entrance, multi-step, step transition, morph, useAnimate, Promise.all animations, \"feels mechanical\", \"feels robotic\", \"too much going on\", \"feels slow to open\".",
+          "version": "0.0.0"
+        },
+        {
           "name": "emil-design-eng",
           "installUrl": "github:emilkowalski/skills:skills/emil-design-eng",
           "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
           "version": "0.0.0"
         },
         {
+          "name": "gestures",
+          "installUrl": "github:emilkowalski/skills:skills/gestures",
+          "description": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible. Use when building or fixing anything the user drags, swipes, flings, holds, or dismisses with a gesture — drawers, sheets, swipe-to-dismiss toasts and cards, drag-to-reorder, pull-to-refresh, hold-to-confirm — or when a gesture feels laggy, disconnected from the finger, jumps on release, or can't be caught mid-animation. Triggers on — gesture, drag, draggable, swipe, swipe to dismiss, fling, momentum, velocity, drawer, sheet, bottom sheet, snap points, Vaul, dragConstraints, dragElastic, dragMomentum, onDragEnd, whileDrag, useMotionValue, rubber-band, overscroll, pull to refresh, hold to delete, press and hold, touch-action, dismiss threshold, \"doesn't follow my finger\", \"jumps when I let go\", \"can't grab it mid-animation\".",
+          "version": "0.0.0"
+        },
+        {
           "name": "improve-animations",
           "installUrl": "github:emilkowalski/skills:skills/improve-animations",
           "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained implementation plans for other agents (or cheaper models) to execute. Read-only on source code — it plans improvements, it does not apply them. Use when the user asks to \"improve the animations\", \"audit the motion\", \"make this app feel better\", or wants a roadmap of animation fixes rather than a review of a single diff.",
+          "version": "0.0.0"
+        },
+        {
+          "name": "remove-animations",
+          "installUrl": "github:emilkowalski/skills:skills/remove-animations",
+          "description": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and decoration with no purpose — then clean up what they leave behind. Edits code, but only to subtract; it never adds or retunes motion. Use when the user says the app \"feels slow\", \"has too much animation\", \"feels over-animated\", wants to \"tone down the motion\", or asks what animations to remove. For finding places that should animate, use find-animation-opportunities; for fixing animations that should stay, use improve-animations or review-animations.",
           "version": "0.0.0"
         },
         {

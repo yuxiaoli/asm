@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "5386f227360bddb06c8beaff920a1a34c9f01932",
+  "sourceCommit": "e889033b68f418952cc65ba897fe2b1ec63d1564",
   "repoUrl": "https://github.com/ParthJadhav/app-store-screenshots.git",
   "owner": "ParthJadhav",
   "repo": "app-store-screenshots",
-  "updatedAt": "2026-10-19T08:22:47.781Z",
+  "updatedAt": "2026-11-09T10:46:04.796Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "ae6e31d7423aafbb1002e02ffb53f44d564b7ad85e4013eaa8ff4c7b0ef0af31",
+      "contentHash": "5450ba82d7dfb7495f0c403575d433779ae6d3cede1fc4ff9f206b8a6810f8e9",
       "sourcePath": "skills/app-store-screenshots/SKILL.md",
       "name": "app-store-screenshots",
       "description": "Use when building App Store or Google Play screenshot pages, generating exportable marketing screenshots for iOS, macOS, and/or Android apps, or scaffolding a screenshot editor with Next.js. Triggers on app store, mac app store, play store, screenshots, marketing assets, html-to-image, phone mockup, mac mockup, android screenshots, feature graphic.",
@@ -23,7 +23,7 @@
       "installUrl": "github:ParthJadhav/app-store-screenshots:skills/app-store-screenshots",
       "relPath": "skills/app-store-screenshots",
       "verified": true,
-      "tokenCount": 19203,
+      "tokenCount": 19361,
       "evalSummary": {
         "overallScore": 67,
         "grade": "C",
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:22:47.716Z",
+        "evaluatedAt": "2026-11-09T10:46:04.725Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:47.716Z",
+          "evaluatedAt": "2026-11-09T10:46:04.725Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:22:47.716Z",
+          "evaluatedAt": "2026-11-09T10:46:04.725Z",
           "evaluatedVersion": "0.0.0"
         }
       }

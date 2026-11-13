@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "ce32af1693b9e78a7d22ff48001c97a304d32063",
+  "sourceCommit": "f2920b63995263f57b3e198674e89a602efba6d2",
   "repoUrl": "https://github.com/twostraws/SwiftUI-Agent-Skill.git",
   "owner": "twostraws",
   "repo": "SwiftUI-Agent-Skill",
-  "updatedAt": "2026-10-19T08:20:17.816Z",
+  "updatedAt": "2026-11-09T10:43:39.066Z",
   "skillCount": 1,
   "skills": [
     {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:17.808Z",
+        "evaluatedAt": "2026-11-09T10:43:39.061Z",
         "evaluatedVersion": "2.0.0"
       },
       "evalSummaries": {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:17.808Z",
+          "evaluatedAt": "2026-11-09T10:43:39.061Z",
           "evaluatedVersion": "2.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 14
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:17.808Z",
+          "evaluatedAt": "2026-11-09T10:43:39.061Z",
           "evaluatedVersion": "2.0.0"
         }
       }

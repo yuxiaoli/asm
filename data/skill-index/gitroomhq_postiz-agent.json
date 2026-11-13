@@ -1,11 +1,14 @@
 {
+  "sourceCommit": "01ab1fe17efa30d12de7758b961e8776d34dba4e",
   "repoUrl": "https://github.com/gitroomhq/postiz-agent.git",
   "owner": "gitroomhq",
   "repo": "postiz-agent",
-  "updatedAt": "2026-10-18T22:14:31.928Z",
+  "updatedAt": "2026-11-09T10:46:51.759Z",
   "skillCount": 1,
   "skills": [
     {
+      "contentHash": "0abf7c51daa517611f6b2061a07cf44fe7cde433016846522d9a7ad1d9c95924",
+      "sourcePath": "skills/postiz/SKILL.md",
       "name": "postiz",
       "description": "Postiz is a tool to schedule social media and chat posts to 28+ channels X, LinkedIn, LinkedIn Page, Reddit, Instagram, Facebook Page, Threads, YouTube, Google My Business, TikTok, Pinterest, Dribbble, Discord, Slack, Kick, Twitch, Mastodon, Bluesky, Lemmy, Farcaster, Telegram, Nostr, VK, Medium, Dev.to, Hashnode, WordPress, ListMonk",
       "version": "0.0.0",
@@ -20,7 +23,7 @@
       "installUrl": "github:gitroomhq/postiz-agent:skills/postiz",
       "relPath": "skills/postiz",
       "verified": true,
-      "tokenCount": 8881,
+      "tokenCount": 9233,
       "evalSummary": {
         "overallScore": 67,
         "grade": "C",
@@ -86,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-18T22:14:31.920Z",
+        "evaluatedAt": "2026-11-09T10:46:51.755Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -159,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-18T22:14:31.920Z",
+          "evaluatedAt": "2026-11-09T10:46:51.755Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -177,11 +180,10 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-18T22:14:31.920Z",
+          "evaluatedAt": "2026-11-09T10:46:51.755Z",
           "evaluatedVersion": "0.0.0"
         }
       }
     }
-  ],
-  "bundles": []
+  ]
 }

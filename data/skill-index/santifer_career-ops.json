@@ -1,13 +1,13 @@
 {
-  "sourceCommit": "34665f9942dcf975bce51a9ca262ef12e15c18dc",
+  "sourceCommit": "072335f5f6a99a942c3dbebdcac43060fe60ca6b",
   "repoUrl": "https://github.com/santifer/career-ops.git",
   "owner": "santifer",
   "repo": "career-ops",
-  "updatedAt": "2026-10-19T08:20:43.700Z",
+  "updatedAt": "2026-11-09T10:44:07.617Z",
   "skillCount": 1,
   "skills": [
     {
-      "contentHash": "52c3752c9798706f8ece97372779693979233c4a973602def1659160f7dac6ce",
+      "contentHash": "73e8a4e373df094ecd48496f007154aaec80740890d5de123a2ac45bed7b7c03",
       "sourcePath": ".agents/skills/career-ops/SKILL.md",
       "name": "career-ops",
       "description": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or JD, asks to scan portals, generate a CV/PDF, track applications, prepare for interviews, draft outreach/emails, or run any career-ops mode.",
@@ -23,9 +23,9 @@
       "installUrl": "github:santifer/career-ops:.claude/skills/career-ops",
       "relPath": ".claude/skills/career-ops",
       "verified": true,
-      "tokenCount": 5192,
+      "tokenCount": 7983,
       "evalSummary": {
-        "overallScore": 79,
+        "overallScore": 76,
         "grade": "C",
         "categories": [
           {
@@ -43,13 +43,13 @@
           {
             "id": "prompt-engineering",
             "name": "Prompt engineering",
-            "score": 10,
+            "score": 9,
             "max": 10
           },
           {
             "id": "context-efficiency",
             "name": "Context efficiency",
-            "score": 8,
+            "score": 6,
             "max": 10
           },
           {
@@ -89,7 +89,7 @@
             "max": 10
           }
         ],
-        "evaluatedAt": "2026-10-19T08:20:43.696Z",
+        "evaluatedAt": "2026-11-09T10:44:07.613Z",
         "evaluatedVersion": "0.0.0"
       },
       "evalSummaries": {
@@ -98,7 +98,7 @@
           "providerVersion": "1.0.0",
           "schemaVersion": 1,
           "passed": true,
-          "overallScore": 79,
+          "overallScore": 76,
           "grade": "C",
           "categories": [
             {
@@ -116,13 +116,13 @@
             {
               "id": "prompt-engineering",
               "name": "Prompt engineering",
-              "score": 10,
+              "score": 9,
               "max": 10
             },
             {
               "id": "context-efficiency",
               "name": "Context efficiency",
-              "score": 8,
+              "score": 6,
               "max": 10
             },
             {
@@ -162,7 +162,7 @@
               "max": 10
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:43.696Z",
+          "evaluatedAt": "2026-11-09T10:44:07.613Z",
           "evaluatedVersion": "0.0.0"
         },
         "skill-best-practice": {
@@ -180,7 +180,7 @@
               "max": 13
             }
           ],
-          "evaluatedAt": "2026-10-19T08:20:43.697Z",
+          "evaluatedAt": "2026-11-09T10:44:07.613Z",
           "evaluatedVersion": "0.0.0"
         }
       }
